@@ -1,0 +1,585 @@
+certain types of rock
+soil
+clay
+solid rock
+carbon dioxide pooling disposition
+respiratory electron transport chain
+amplitude of temperature of air
+Toxin
+eukaryotic metabolites
+animal metabolites
+fungal metabolites
+prokaryotic metabolites
+flat
+the cooling of solids
+the cooling of fluids
+Inorganic macronutrients that are dissolved in ocean water
+concentration of carbon atoms in seawater
+protic solvent
+megathrust earthquake
+foreshock
+mainshock
+aftershock
+blind thrust earthquake
+Multiplet earthquake
+interplate earthquake
+intraplate earthquake
+carbon-bearing gas emission processes
+carbon dioxide emission processes
+methane gas emission processes
+lumber production process
+lumber production
+food propellants
+hollow
+nilas formation process
+young ice formation process
+first year ice formation process
+second year ice formation
+multiyear ice formation process
+Methane metabolic process
+alpine
+subalpine
+montane
+nival
+anaerobic respiration where ammonium acts as the electron donor
+aerobic respiration that utilizes ammonia as the electron donor
+tripartite
+Ditrysia
+Heteroneura
+Purine ribonucleoside 5'-triphosphate
+Daphnia metabolite
+feeding behavior
+Water infiltration into soil
+dissolved carbon atom within environmental materials
+volcanic seismic vibration
+impact-driven seismic vibration
+explosion-driven seismic vibration
+mass-wasting-driven seismic vibration
+collapse-driven seismic vibration
+earthquake-driven seismic vibration
+Bacterial metabolites
+weathering of plastic
+photosynthetic photon flux
+pieces of animal
+fluid flow rate
+Oscillatoria
+Phormidium
+an impact between astronomical bodies
+biomarker
+electron donor
+Bronsted acids
+Lewis bases
+oceanic temperate
+continental temperate
+Obtectomera
+concentration of carbon-13 atoms in sea water
+concentration of carbon-14 atoms in sea water
+piece of cow
+Radioactivity
+curled
+undulate
+elongated
+linear
+filamentous
+curved
+flattened
+sloped
+sloped downward
+lobate
+sculpted surface
+ornamentation
+oblong
+fan-shaped
+superelliptic
+convex
+concave 3-D shapes
+V-shaped
+concave
+branched structures
+columnar
+drooping
+straight
+slender
+falciform
+fringed
+fimbriated
+tholiform
+broad
+funnel-shaped
+radiating
+plume-shaped
+Daphnia magna metabolite
+dissolved carbon atom in soil
+aerobic sensitivity to oxygen
+anaerobic sensitivity
+Soil bulk density
+increased rate of occurrence
+spherical
+increased frequency
+Cow material
+CHEBI_15422
+Sporadic occurrences
+continuous occurrences
+discontinuous occurrences
+arched shape
+meteorite impact
+crustacean metabolite
+Aerobic respiration
+domed
+transpiration
+Stellar radiation energy
+Generation of precursor metabolites and energy
+biosynthetic process
+photosynthesis
+small molecule metabolic process
+hydrocarbon metabolic process
+energy derivation by oxidation of reduced inorganic compounds
+energy derivation by oxidation of organic compounds
+electron transport chain
+hydrocarbon biosynthetic process
+ammonia oxidation
+alkane metabolic process
+adenosine phosphate
+guanosine 5'-phosphate
+composition of soil
+composition of water
+being calcified
+granular
+CHEBI_15996
+Geothermal energy
+circular shape
+Fudge
+alkane biosynthetic process
+dissolved nitrogen atoms present in soil
+dissolved nitrogen atoms present in water
+being detached from
+refinement process
+Haber-Bosch process
+hydrogen production process
+Animal material
+aerobic respiration using nitrite
+aerobic respiration using ammonia
+aerobic respiration using carbon monoxide
+aerobic respiration using ferrous ions
+aerobic respiration using hydrogen
+aerobic respiration using sulfur or sulfate
+aerobic respiration using arsenite
+aerobic electron transport chain
+Propane-1,2-diol
+sound wave energy
+wind wave energy
+humidity of soil
+increased humidity
+decreased humidity
+mammalian metabolite
+biodegradation of plastic
+obtuse shape
+human metabolite
+Beef
+piece of beef
+glacial abrasion
+glacial plucking
+glacial ice thrusting
+increased accumulation
+decreased accumulation
+irradiation by ionizing radiation
+irradiation by non-ionizing radiation
+photosynthetically active radiation
+freezing of water into ice
+adfreezing
+dissolved carbon atoms in soil
+dissolved carbon atoms in water
+sea surface temperature
+Mutagens
+Guanosine phosphate
+upper montane
+lower montane
+Adenosine 5'-phosphate
+coastal flooding
+storm surges
+riverine flooding
+flash flooding
+areal flooding
+urban flooding
+amphiprotic solvent
+micronutrients
+macronutrients
+frequency
+dissolved carbon atom
+Dinophyceae
+piece(s) of cow
+protophilic solvent
+Frazil ice formation
+slush formation
+shuga formation
+Ingestion
+oceanic transient tracer
+Hydraulic fracturing
+Atmospheric wind direction
+down
+left
+right
+front
+back
+unidirectional
+bi-directional
+circling direction
+north
+south
+east
+west
+Oscillatoriaceae
+Oscillatoriales
+submarine groundwater discharge process
+excitatory amino acid antagonist
+excitatory amino acids
+muskmelon (Cucumis melo) fruit food product
+cantaloupe fruit food product
+citrullus lanatus fruit food product
+periglacial process
+cryoturbation of soil
+frost jacking
+frost sorting
+frost wedging
+frost heaving
+concentration of nitrite in sea water
+Methanogenesis
+elliptic shape
+soil erosion
+bedrock dissolution
+glacial erosion processes
+erosion through nivation
+raising agent
+food packaging gas
+food propellant
+atmosphere-ocean momentum transfer process
+the concentration of nitrate in groundwater
+the concentration of nitrate in sea water
+atmospheric weather
+space weather
+ice-bearing permafrost thawing process
+concentration of silicic acid in sea water
+spheroid
+cylindrical shape
+conical shape
+eating behavior
+glucosamines
+agronomic process
+animal husbandry
+Mediterranean climate
+humid subtropical
+arid subtropical
+highland subtropical
+road traffic noise
+aircraft noise
+decreased frequency
+temperature of air
+temperature of soil
+temperature of water
+Amphiesmenoptera
+glacial surface layer velocity
+angular velocity
+increased velocity
+decreased velocity
+normal velocity
+increased fluid flow
+decreased fluid flow
+aerosolised particle formation events
+Mollusca
+Caelifera
+crickets
+katydids
+Pinidae
+biodiversity conservation process
+Fluorescence of water
+macroburst
+Haplorrhini
+thickness of snow
+thickness of topsoil
+increased thickness
+decreased thickness
+irregular thickness
+decreased circumference
+Laguncularia racemosa
+Conifers II
+Soil albedo
+forest fires
+brush fires
+bush fires
+grass fires
+pasture fires
+Archosauria
+color
+patchy pattern
+aggregated pattern
+trabecular pattern
+defence against flooding
+conservation-focused active ecosystem management
+active agri-ecosystem management
+planned revegetation
+pollution degradation
+pollution control
+Eudicotyledons
+Dipnotetrapodomorpha
+the process of forming a liquid aerosol from gaseous material within an atmospheric context
+respiratory-chain inhibitor
+Pteriomorphia
+Locusta migratoria
+volume of hydrological precipitation
+volume of runoff
+volume of evaporation
+volume of evapotranspiration
+volume of rain
+ionizing stellar radiation
+X-ray radiation
+gamma-ray radiation
+Sarcopterygii
+Elaeis guineensis
+perimeter
+inhalation anaesthetic
+visible spectrum stellar radiation
+lamiids
+WMO blizzard
+winter blizzard
+Mytilus
+land conversion process
+influenced by
+dispositional property
+young
+chronological age
+Avicennia
+Volume
+Autobranchia
+clams
+mussels
+oysters
+scallops
+increased area
+decreased area
+normal area
+butter product analog
+mass gaseous flow
+mass liquid flow
+mass plasma flow
+atmospheric wind
+planetary wind
+tsunami
+lava flow
+tidal flow
+stellar wind
+Cyclonic circulation
+Snow water equivalent
+depth of water ice
+top depths of soil layers
+bottom depths of soil layers
+depth of snow
+depth of water
+decreased depth
+increased depth
+normal depth
+hydrocarbon bioremediation
+metal bioremediation
+treatment of persistent organic pollutants
+color patterns
+irregular spatial patterns
+regular spatial patterns
+unilateral patterns
+distributed patterns
+vertical arrangements
+stratification
+colorless
+increased distribution
+decreased distribution
+stratified
+warm core cyclone
+quality of full-spectrum electromagnetic radiation
+microburst
+radio wave stellar radiation
+permafrost methane explosion
+crustacean farming processes
+finfish farming processes
+mollusc farming processes
+diurnal marine tidal flow process
+semi-diurnal marine tidal flow process
+Solar radiation
+microwave
+radio wave
+infrared
+visible spectrum
+ultraviolet
+X-ray stellar radiation
+gamma-ray stellar radiation
+Anthropisation
+Echinozoa
+pathway inhibitor
+increased length
+decreased length
+Schistocerca gregaria
+seaweed farming
+freshwater macrophyte farming
+afforestation
+reforestation
+Theropoda
+intercloud lightning
+intracloud lightning
+Microwave stellar radiation
+thunderstorm
+Salicornia subgen. Amerocornia
+Arthropoda
+increased perimeter
+dry macrobursts
+wet macrobursts
+thickness
+thickness of ice caps
+thickness of a particular layer of soil
+Hominoidea
+direct transformation of gaseous materials into solid particles
+formation of solid aerosols from liquid materials present in the atmosphere
+glaciation of water droplets within clouds
+Opacity
+Dry soil albedo
+moist soil albedo
+color of the soil
+blue
+white
+brown
+downburst
+wet microbursts
+dry microbursts
+infrared stellar radiation
+outgoing longwave radiation
+mid-infrared radiation
+near-infrared radiation
+far-infrared radiation
+Laguncularia
+circumference
+decreased perimeter
+acidic
+alkaline
+Arecaceae
+Acridomorpha
+Land fire
+conflagration
+industrial fire
+planned burn
+wildfire
+Theria
+length
+Cupressales
+optical quality
+Liliopsida
+visible spectrum radiation emitted by a manufactured product
+EC 3.5.1.4 (amidase) inhibitor
+Schistocerca
+quarrying
+opencast mining
+Dicondylia
+forestry
+terrestrial mining
+agriculture
+land fire
+Mammalia
+opaque
+transparent
+translucent
+marine tidal flow process
+Bora
+depth
+particle radiation
+electromagnetic radiation
+acoustic radiation
+particle beam radiation
+stellar radiation
+radiation emitted by manufactured products
+shortwave radiation
+ionizing radiation
+Photosynthetically active radiation
+infrasound
+ultrasound radiation
+insolation
+Atmospheric aerosol formation
+pyrolysis
+fires
+explosion processes
+misaligned towards
+misaligned away from
+Sauria
+radiation reflective quality
+Pinopsida
+width
+Orthoptera
+grasshoppers and crickets
+Polyneoptera
+earwigs
+Avicennia germinans
+electron-transport chain inhibitor
+Hexapoda
+Archelosauria
+foehn wind
+drainage wind
+glacier wind
+Homo sapiens
+P450 inhibitors
+combustion processes
+flush
+continuous with
+normal position
+Benthic deep-sea mining
+sea bed mining
+katabatic wind
+downslope katabatic wind
+cooling-driven katabatic wind
+fall wind
+downdraft
+squall wind
+jet-effect wind
+slope flow
+anabatic wind
+straight-line wind
+wind gust
+monsoon wind
+mountain-gap wind
+antiseptic drug
+atmospheric aerosolised particle formation event
+Drainage wind
+EC 1.14.14.* inhibitor
+Gamma-ray stellar radiation
+Pentapetalae
+antiinfective agent
+analgesic
+Cardiovascular drug
+Anaesthetic
+general anaesthetic
+Luminous flux
+Atmospheric wind speed
+speed of a water current
+speed at which water infiltrates the soil
+speed at which soil drains water
+increased speed
+decreased speed
+sound speed
+normal speed
+Biotransformation of coal
+microbial enhanced oil recovery
+microbial solubization of coal
+biotransformation of biomass into mixed alcohols
+Saurischia
+Modiolinae
+width of a river
+width of a road
+width of a habitat
+increased width
+decreased width
+normal width
+asterids
+blizzard
+lake-effect snow storm
+Gunneridae
+extra-tropical cyclone
+EC 1.* (oxidoreductase) inhibitors
+Oxidoreductases
+Arecales
+commelinids
+Petrosaviidae
+Gnathostomata
+decreased volume

@@ -1,0 +1,51 @@
+pre-modifier
+post-modifier
+indifferent
+preposition phrases
+verb phrases
+noun phrases
+adjective phrases
+infinitive clause
+prepositional interrogative clause
+possessive infinitive clause
+interrogative clause
+subjunctive clause
+sentential clause
+prepositional gerund clause
+interrogative infinitive clause
+declarative clause
+gerund clause
+yes
+no
+commonly used
+infrequently used
+rarely used
+prefix
+suffix
+infix
+transfix
+simulfix
+zero morph
+masculine
+feminine
+neuter
+common gender
+other gender
+first person
+second person
+third person
+imperfective aspect
+perfective aspect
+inchoative
+cessative
+unaccomplished aspect
+affixes
+prefixes
+infixes
+suffixes
+syllables
+words
+radicals
+bases
+morphological elements
+optional elements

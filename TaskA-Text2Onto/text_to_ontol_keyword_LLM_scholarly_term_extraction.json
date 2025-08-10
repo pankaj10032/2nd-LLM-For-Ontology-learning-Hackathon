@@ -1,0 +1,171 @@
+{
+  "pre-modifier": [
+    "35_0"
+  ],
+  "post-modifier": [
+    "35_0"
+  ],
+  "indifferent": [
+    "35_0"
+  ],
+  "preposition phrases": [
+    "33_0"
+  ],
+  "verb phrases": [
+    "33_0"
+  ],
+  "noun phrases": [
+    "33_0"
+  ],
+  "adjective phrases": [
+    "33_0"
+  ],
+  "infinitive clause": [
+    "22_0"
+  ],
+  "prepositional interrogative clause": [
+    "22_0"
+  ],
+  "possessive infinitive clause": [
+    "22_0"
+  ],
+  "interrogative clause": [
+    "22_0"
+  ],
+  "subjunctive clause": [
+    "22_0"
+  ],
+  "sentential clause": [
+    "22_0"
+  ],
+  "prepositional gerund clause": [
+    "22_0"
+  ],
+  "interrogative infinitive clause": [
+    "22_0"
+  ],
+  "declarative clause": [
+    "22_0"
+  ],
+  "gerund clause": [
+    "22_0"
+  ],
+  "yes": [
+    "9_0"
+  ],
+  "no": [
+    "35_0",
+    "33_0",
+    "22_0",
+    "9_0",
+    "25_0",
+    "32_0",
+    "20_0",
+    "17_0"
+  ],
+  "commonly used": [
+    "19_0"
+  ],
+  "infrequently used": [
+    "19_0"
+  ],
+  "rarely used": [
+    "19_0"
+  ],
+  "prefix": [
+    "25_0",
+    "17_0"
+  ],
+  "suffix": [
+    "25_0",
+    "17_0"
+  ],
+  "infix": [
+    "25_0",
+    "17_0"
+  ],
+  "transfix": [
+    "25_0"
+  ],
+  "simulfix": [
+    "25_0"
+  ],
+  "zero morph": [
+    "25_0"
+  ],
+  "masculine": [
+    "32_0"
+  ],
+  "feminine": [
+    "32_0"
+  ],
+  "neuter": [
+    "32_0"
+  ],
+  "common gender": [
+    "32_0"
+  ],
+  "other gender": [
+    "32_0"
+  ],
+  "first person": [
+    "28_0"
+  ],
+  "second person": [
+    "28_0"
+  ],
+  "third person": [
+    "28_0"
+  ],
+  "imperfective aspect": [
+    "20_0"
+  ],
+  "perfective aspect": [
+    "20_0"
+  ],
+  "inchoative": [
+    "20_0"
+  ],
+  "cessative": [
+    "20_0"
+  ],
+  "unaccomplished aspect": [
+    "20_0"
+  ],
+  "affixes": [
+    "25_0",
+    "17_0"
+  ],
+  "prefixes": [
+    "25_0",
+    "17_0"
+  ],
+  "infixes": [
+    "25_0",
+    "17_0"
+  ],
+  "suffixes": [
+    "25_0",
+    "17_0"
+  ],
+  "syllables": [
+    "17_0"
+  ],
+  "words": [
+    "35_0",
+    "9_0",
+    "17_0"
+  ],
+  "radicals": [
+    "17_0"
+  ],
+  "bases": [
+    "17_0"
+  ],
+  "morphological elements": [
+    "17_0"
+  ],
+  "optional elements": [
+    "17_0"
+  ]
+}

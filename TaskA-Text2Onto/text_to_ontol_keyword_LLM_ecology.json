@@ -1,0 +1,1805 @@
+{
+  "certain types of rock": [
+    "permeable materials"
+  ],
+  "soil": [
+    "permeable materials"
+  ],
+  "clay": [
+    "impermeable materials"
+  ],
+  "solid rock": [
+    "impermeable materials"
+  ],
+  "carbon dioxide pooling disposition": [
+    "carbon pooling disposition"
+  ],
+  "respiratory electron transport chain": [
+    "electron transport chain"
+  ],
+  "amplitude of temperature of air": [
+    "amplitude"
+  ],
+  "Toxin": [
+    "metabolite"
+  ],
+  "eukaryotic metabolites": [
+    "metabolite"
+  ],
+  "animal metabolites": [
+    "eukaryotic metabolites"
+  ],
+  "fungal metabolites": [
+    "eukaryotic metabolites"
+  ],
+  "prokaryotic metabolites": [
+    "metabolite"
+  ],
+  "flat": [
+    "landform"
+  ],
+  "the cooling of solids": [
+    "material cooling process"
+  ],
+  "the cooling of fluids": [
+    "material cooling process"
+  ],
+  "Inorganic macronutrients that are dissolved in ocean water": [
+    "macronutrient"
+  ],
+  "concentration of carbon atoms in seawater": [
+    "carbon atom concentrations found in water",
+    "carbon atom concentrations found in water"
+  ],
+  "protic solvent": [
+    "polar solvent",
+    "polar solvent"
+  ],
+  "megathrust earthquake": [
+    "tectonic earthquake"
+  ],
+  "foreshock": [
+    "tectonic earthquake"
+  ],
+  "mainshock": [
+    "tectonic earthquake"
+  ],
+  "aftershock": [
+    "tectonic earthquake"
+  ],
+  "blind thrust earthquake": [
+    "tectonic earthquake"
+  ],
+  "Multiplet earthquake": [
+    "tectonic earthquake"
+  ],
+  "interplate earthquake": [
+    "tectonic earthquake"
+  ],
+  "intraplate earthquake": [
+    "tectonic earthquake"
+  ],
+  "carbon-bearing gas emission processes": [
+    "hydrocarbon gas emission processes"
+  ],
+  "carbon dioxide emission processes": [
+    "carbon-bearing gas emission processes"
+  ],
+  "methane gas emission processes": [
+    "hydrocarbon gas emission processes"
+  ],
+  "lumber production process": [
+    "planetary manufacturing processes"
+  ],
+  "lumber production": [
+    "planetary manufacturing process"
+  ],
+  "food propellants": [
+    "propellant"
+  ],
+  "hollow": [
+    "type of structure"
+  ],
+  "nilas formation process": [
+    "sea ice formation processes"
+  ],
+  "young ice formation process": [
+    "sea ice formation processes"
+  ],
+  "first year ice formation process": [
+    "sea ice formation processes"
+  ],
+  "second year ice formation": [
+    "sea ice formation processes"
+  ],
+  "multiyear ice formation process": [
+    "sea ice formation processes"
+  ],
+  "Methane metabolic process": [
+    "alkane metabolic process"
+  ],
+  "alpine": [
+    "altitudinal conditions"
+  ],
+  "subalpine": [
+    "altitudinal conditions"
+  ],
+  "montane": [
+    "altitudinal conditions"
+  ],
+  "nival": [
+    "altitudinal conditions"
+  ],
+  "anaerobic respiration where ammonium acts as the electron donor": [
+    "ammonia oxidation"
+  ],
+  "aerobic respiration that utilizes ammonia as the electron donor": [
+    "ammonia oxidation"
+  ],
+  "tripartite": [
+    "branched system"
+  ],
+  "Ditrysia": [
+    "Heteroneura",
+    "Lepidoptera order"
+  ],
+  "Heteroneura": [
+    "Lepidoptera"
+  ],
+  "Purine ribonucleoside 5'-triphosphate": [
+    "ribonucleoside 5'-triphosphate",
+    "ribonucleoside 5'-triphosphate",
+    "ribonucleoside 5'-triphosphate"
+  ],
+  "Daphnia metabolite": [
+    "crustacean metabolite"
+  ],
+  "feeding behavior": [
+    "behavior"
+  ],
+  "Water infiltration into soil": [
+    "water infiltration process"
+  ],
+  "dissolved carbon atom within environmental materials": [
+    "dissolved substance"
+  ],
+  "volcanic seismic vibration": [
+    "seismic vibration processes"
+  ],
+  "impact-driven seismic vibration": [
+    "seismic vibration processes"
+  ],
+  "explosion-driven seismic vibration": [
+    "seismic vibration processes"
+  ],
+  "mass-wasting-driven seismic vibration": [
+    "seismic vibration processes"
+  ],
+  "collapse-driven seismic vibration": [
+    "seismic vibration processes"
+  ],
+  "earthquake-driven seismic vibration": [
+    "seismic vibration processes"
+  ],
+  "Bacterial metabolites": [
+    "prokaryotic metabolites"
+  ],
+  "weathering of plastic": [
+    "weathering process"
+  ],
+  "photosynthetic photon flux": [
+    "flux"
+  ],
+  "pieces of animal": [
+    "animal material"
+  ],
+  "fluid flow rate": [
+    "flow rate"
+  ],
+  "Oscillatoria": [
+    "Oscillatoriaceae"
+  ],
+  "Phormidium": [
+    "Oscillatoriaceae"
+  ],
+  "an impact between astronomical bodies": [
+    "impact event",
+    "impact event"
+  ],
+  "biomarker": [
+    "indicator"
+  ],
+  "electron donor": [
+    "donor"
+  ],
+  "Bronsted acids": [
+    "donor"
+  ],
+  "Lewis bases": [
+    "donor"
+  ],
+  "oceanic temperate": [
+    "temperate"
+  ],
+  "continental temperate": [
+    "temperate"
+  ],
+  "Obtectomera": [
+    "Ditrysia"
+  ],
+  "concentration of carbon-13 atoms in sea water": [
+    "concentration of carbon atoms in sea water"
+  ],
+  "concentration of carbon-14 atoms in sea water": [
+    "concentration of carbon atoms in sea water"
+  ],
+  "piece of cow": [
+    "piece of animal",
+    "piece of animal"
+  ],
+  "Radioactivity": [
+    "activity"
+  ],
+  "curled": [
+    "shape"
+  ],
+  "undulate": [
+    "shape"
+  ],
+  "elongated": [
+    "shape"
+  ],
+  "linear": [
+    "shape"
+  ],
+  "filamentous": [
+    "shape"
+  ],
+  "curved": [
+    "curvature"
+  ],
+  "flattened": [
+    "curvature"
+  ],
+  "sloped": [
+    "direction or orientation"
+  ],
+  "sloped downward": [
+    "sloped"
+  ],
+  "lobate": [
+    "surface feature shape"
+  ],
+  "sculpted surface": [
+    "surface feature shape"
+  ],
+  "ornamentation": [
+    "surface feature shape"
+  ],
+  "oblong": [
+    "2-D shapes"
+  ],
+  "fan-shaped": [
+    "2-D shapes"
+  ],
+  "superelliptic": [
+    "2-D shapes"
+  ],
+  "convex": [
+    "3-D shapes"
+  ],
+  "concave 3-D shapes": [
+    "3-D shapes"
+  ],
+  "V-shaped": [
+    "angular"
+  ],
+  "concave": [
+    "concavity"
+  ],
+  "branched structures": [
+    "branchiness"
+  ],
+  "columnar": [
+    "shape"
+  ],
+  "drooping": [
+    "shape"
+  ],
+  "straight": [
+    "shape"
+  ],
+  "slender": [
+    "shape"
+  ],
+  "falciform": [
+    "shape"
+  ],
+  "fringed": [
+    "Edge shapes"
+  ],
+  "fimbriated": [
+    "shape"
+  ],
+  "tholiform": [
+    "shape"
+  ],
+  "broad": [
+    "shape"
+  ],
+  "funnel-shaped": [
+    "shape"
+  ],
+  "radiating": [
+    "shape"
+  ],
+  "plume-shaped": [
+    "shape"
+  ],
+  "Daphnia magna metabolite": [
+    "Daphnia metabolite"
+  ],
+  "dissolved carbon atom in soil": [
+    "solubility of carbon atoms within the soil matrix"
+  ],
+  "aerobic sensitivity to oxygen": [
+    "sensitivity to oxygen"
+  ],
+  "anaerobic sensitivity": [
+    "sensitivity to oxygen"
+  ],
+  "Soil bulk density": [
+    "mass density of soil"
+  ],
+  "increased rate of occurrence": [
+    "rate of occurrence",
+    "rate of occurrence",
+    "increased rate",
+    "increased rate"
+  ],
+  "spherical": [
+    "spheroid"
+  ],
+  "increased frequency": [
+    "increased rate of occurrence",
+    "frequency"
+  ],
+  "Cow material": [
+    "animal material"
+  ],
+  "CHEBI_15422": [
+    "adenosine 5'-phosphate"
+  ],
+  "Sporadic occurrences": [
+    "occurrences"
+  ],
+  "continuous occurrences": [
+    "occurrences"
+  ],
+  "discontinuous occurrences": [
+    "occurrences"
+  ],
+  "arched shape": [
+    "concave shape"
+  ],
+  "meteorite impact": [
+    "impact that occurs between astronomical bodies"
+  ],
+  "crustacean metabolite": [
+    "animal metabolite"
+  ],
+  "Aerobic respiration": [
+    "cellular respiration"
+  ],
+  "domed": [
+    "curved"
+  ],
+  "transpiration": [
+    "water cooling mechanism"
+  ],
+  "Stellar radiation energy": [
+    "radiant energy"
+  ],
+  "Generation of precursor metabolites and energy": [
+    "metabolic process"
+  ],
+  "biosynthetic process": [
+    "metabolic process"
+  ],
+  "photosynthesis": [
+    "metabolic process"
+  ],
+  "small molecule metabolic process": [
+    "metabolic process"
+  ],
+  "hydrocarbon metabolic process": [
+    "metabolic process"
+  ],
+  "energy derivation by oxidation of reduced inorganic compounds": [
+    "generation of precursor metabolites and energy"
+  ],
+  "energy derivation by oxidation of organic compounds": [
+    "generation of precursor metabolites and energy"
+  ],
+  "electron transport chain": [
+    "generation of precursor metabolites and energy"
+  ],
+  "hydrocarbon biosynthetic process": [
+    "biosynthetic process",
+    "hydrocarbon metabolic process"
+  ],
+  "ammonia oxidation": [
+    "small molecule metabolic process"
+  ],
+  "alkane metabolic process": [
+    "hydrocarbon metabolic process"
+  ],
+  "adenosine phosphate": [
+    "adenyl ribonucleotide"
+  ],
+  "guanosine 5'-phosphate": [
+    "guanosine phosphate"
+  ],
+  "composition of soil": [
+    "composition"
+  ],
+  "composition of water": [
+    "composition"
+  ],
+  "being calcified": [
+    "composition"
+  ],
+  "granular": [
+    "composition"
+  ],
+  "CHEBI_15996": [
+    "guanosine 5'-phosphate"
+  ],
+  "Geothermal energy": [
+    "thermal energy"
+  ],
+  "circular shape": [
+    "elliptic shape"
+  ],
+  "Fudge": [
+    "soft candy"
+  ],
+  "alkane biosynthetic process": [
+    "hydrocarbon biosynthetic process",
+    "alkane metabolic process",
+    "hydrocarbon biosynthetic process",
+    "alkane metabolic process"
+  ],
+  "dissolved nitrogen atoms present in soil": [
+    "types of dissolved nitrogen atoms in environmental materials"
+  ],
+  "dissolved nitrogen atoms present in water": [
+    "types of dissolved nitrogen atoms in environmental materials"
+  ],
+  "being detached from": [
+    "attachment quality"
+  ],
+  "refinement process": [
+    "chemical engineering process"
+  ],
+  "Haber-Bosch process": [
+    "chemical engineering process"
+  ],
+  "hydrogen production process": [
+    "chemical engineering process"
+  ],
+  "Animal material": [
+    "organism material"
+  ],
+  "aerobic respiration using nitrite": [
+    "Aerobic Respiration"
+  ],
+  "aerobic respiration using ammonia": [
+    "Aerobic Respiration"
+  ],
+  "aerobic respiration using carbon monoxide": [
+    "Aerobic Respiration"
+  ],
+  "aerobic respiration using ferrous ions": [
+    "Aerobic Respiration"
+  ],
+  "aerobic respiration using hydrogen": [
+    "Aerobic Respiration"
+  ],
+  "aerobic respiration using sulfur or sulfate": [
+    "Aerobic Respiration"
+  ],
+  "aerobic respiration using arsenite": [
+    "Aerobic Respiration"
+  ],
+  "aerobic electron transport chain": [
+    "Aerobic Respiration",
+    "respiratory electron transport chain"
+  ],
+  "Propane-1,2-diol": [
+    "propane-1,2-diols"
+  ],
+  "sound wave energy": [
+    "Mechanical wave energy"
+  ],
+  "wind wave energy": [
+    "Mechanical wave energy"
+  ],
+  "humidity of soil": [
+    "humidity"
+  ],
+  "increased humidity": [
+    "humidity"
+  ],
+  "decreased humidity": [
+    "humidity"
+  ],
+  "mammalian metabolite": [
+    "animal metabolite"
+  ],
+  "biodegradation of plastic": [
+    "biodegradation"
+  ],
+  "obtuse shape": [
+    "circular or rounded form"
+  ],
+  "human metabolite": [
+    "mammalian metabolite"
+  ],
+  "Beef": [
+    "meat"
+  ],
+  "piece of beef": [
+    "piece of cow"
+  ],
+  "glacial abrasion": [
+    "glacial erosion processes"
+  ],
+  "glacial plucking": [
+    "glacial erosion processes"
+  ],
+  "glacial ice thrusting": [
+    "glacial erosion processes"
+  ],
+  "increased accumulation": [
+    "accumulation"
+  ],
+  "decreased accumulation": [
+    "accumulation"
+  ],
+  "irradiation by ionizing radiation": [
+    "Irradiation"
+  ],
+  "irradiation by non-ionizing radiation": [
+    "Irradiation"
+  ],
+  "photosynthetically active radiation": [
+    "non-ionizing radiation"
+  ],
+  "freezing of water into ice": [
+    "freezing process"
+  ],
+  "adfreezing": [
+    "freezing"
+  ],
+  "dissolved carbon atoms in soil": [
+    "dissolved carbon atoms in environmental materials"
+  ],
+  "dissolved carbon atoms in water": [
+    "dissolved carbon atoms in environmental materials"
+  ],
+  "sea surface temperature": [
+    "water temperature"
+  ],
+  "Mutagens": [
+    "genotoxin"
+  ],
+  "Guanosine phosphate": [
+    "guanyl ribonucleotide"
+  ],
+  "upper montane": [
+    "montane region"
+  ],
+  "lower montane": [
+    "montane region"
+  ],
+  "Adenosine 5'-phosphate": [
+    "adenosine phosphate"
+  ],
+  "coastal flooding": [
+    "flooding"
+  ],
+  "storm surges": [
+    "coastal flooding"
+  ],
+  "riverine flooding": [
+    "flooding"
+  ],
+  "flash flooding": [
+    "flooding"
+  ],
+  "areal flooding": [
+    "flooding"
+  ],
+  "urban flooding": [
+    "flooding"
+  ],
+  "amphiprotic solvent": [
+    "protophilic solvent"
+  ],
+  "micronutrients": [
+    "nutrients"
+  ],
+  "macronutrients": [
+    "nutrients"
+  ],
+  "frequency": [
+    "rate of occurrence"
+  ],
+  "dissolved carbon atom": [
+    "dissolved substance"
+  ],
+  "Dinophyceae": [
+    "Alveolata"
+  ],
+  "piece(s) of cow": [
+    "cow material",
+    "cow material"
+  ],
+  "protophilic solvent": [
+    "polar solvent",
+    "Bronsted base",
+    "polar solvent",
+    "Bronsted base"
+  ],
+  "Frazil ice formation": [
+    "new ice formation processes"
+  ],
+  "slush formation": [
+    "new ice formation processes"
+  ],
+  "shuga formation": [
+    "new ice formation processes"
+  ],
+  "Ingestion": [
+    "eating behavior"
+  ],
+  "oceanic transient tracer": [
+    "transient tracer"
+  ],
+  "Hydraulic fracturing": [
+    "well stimulation"
+  ],
+  "Atmospheric wind direction": [
+    "direction"
+  ],
+  "down": [
+    "relative terms"
+  ],
+  "left": [
+    "relative terms"
+  ],
+  "right": [
+    "relative terms"
+  ],
+  "front": [
+    "relative terms"
+  ],
+  "back": [
+    "relative terms"
+  ],
+  "unidirectional": [
+    "direction"
+  ],
+  "bi-directional": [
+    "direction"
+  ],
+  "circling direction": [
+    "direction"
+  ],
+  "north": [
+    "cardinal directions",
+    "cardinal direction"
+  ],
+  "south": [
+    "cardinal directions",
+    "cardinal direction"
+  ],
+  "east": [
+    "cardinal directions",
+    "cardinal direction"
+  ],
+  "west": [
+    "cardinal directions",
+    "cardinal direction"
+  ],
+  "Oscillatoriaceae": [
+    "family"
+  ],
+  "Oscillatoriales": [
+    "order"
+  ],
+  "submarine groundwater discharge process": [
+    "groundwater discharge process"
+  ],
+  "excitatory amino acid antagonist": [
+    "antagonist"
+  ],
+  "excitatory amino acids": [
+    "neurotransmitter"
+  ],
+  "muskmelon (Cucumis melo) fruit food product": [
+    "melon fruit food product"
+  ],
+  "cantaloupe fruit food product": [
+    "muskmelon (Cucumis melo) fruit food product"
+  ],
+  "citrullus lanatus fruit food product": [
+    "melon fruit food product"
+  ],
+  "periglacial process": [
+    "frost action process"
+  ],
+  "cryoturbation of soil": [
+    "frost action process"
+  ],
+  "frost jacking": [
+    "cryoturbation of soil"
+  ],
+  "frost sorting": [
+    "cryoturbation of soil"
+  ],
+  "frost wedging": [
+    "cryoturbation of soil"
+  ],
+  "frost heaving": [
+    "cryoturbation of soil"
+  ],
+  "concentration of nitrite in sea water": [
+    "concentration of nitrite found in liquid water"
+  ],
+  "Methanogenesis": [
+    "alkane biosynthetic process"
+  ],
+  "elliptic shape": [
+    "superelliptic shape"
+  ],
+  "soil erosion": [
+    "planetary erosion"
+  ],
+  "bedrock dissolution": [
+    "planetary erosion"
+  ],
+  "glacial erosion processes": [
+    "planetary erosion"
+  ],
+  "erosion through nivation": [
+    "planetary erosion"
+  ],
+  "raising agent": [
+    "food additive"
+  ],
+  "food packaging gas": [
+    "food additive"
+  ],
+  "food propellant": [
+    "food additive"
+  ],
+  "atmosphere-ocean momentum transfer process": [
+    "momentum transfer process"
+  ],
+  "the concentration of nitrate in groundwater": [
+    "concentration of nitrate in liquid water"
+  ],
+  "the concentration of nitrate in sea water": [
+    "concentration of nitrate in liquid water"
+  ],
+  "atmospheric weather": [
+    "weather"
+  ],
+  "space weather": [
+    "weather"
+  ],
+  "ice-bearing permafrost thawing process": [
+    "permafrost thawing process"
+  ],
+  "concentration of silicic acid in sea water": [
+    "concentration of silicic acid found in liquid water"
+  ],
+  "spheroid": [
+    "convex 3-D shape"
+  ],
+  "cylindrical shape": [
+    "convex 3-D shape"
+  ],
+  "conical shape": [
+    "convex 3-D shape"
+  ],
+  "eating behavior": [
+    "feeding behavior"
+  ],
+  "glucosamines": [
+    "hexosamine"
+  ],
+  "agronomic process": [
+    "agricultural process"
+  ],
+  "animal husbandry": [
+    "agricultural process"
+  ],
+  "Mediterranean climate": [
+    "subtropical"
+  ],
+  "humid subtropical": [
+    "subtropical"
+  ],
+  "arid subtropical": [
+    "subtropical"
+  ],
+  "highland subtropical": [
+    "subtropical"
+  ],
+  "road traffic noise": [
+    "noise"
+  ],
+  "aircraft noise": [
+    "noise"
+  ],
+  "decreased frequency": [
+    "frequency"
+  ],
+  "temperature of air": [
+    "temperature of environmental material"
+  ],
+  "temperature of soil": [
+    "temperature of environmental material"
+  ],
+  "temperature of water": [
+    "temperature of environmental material"
+  ],
+  "Amphiesmenoptera": [
+    "Endopterygota"
+  ],
+  "glacial surface layer velocity": [
+    "velocity"
+  ],
+  "angular velocity": [
+    "velocity"
+  ],
+  "increased velocity": [
+    "velocity"
+  ],
+  "decreased velocity": [
+    "velocity"
+  ],
+  "normal velocity": [
+    "velocity"
+  ],
+  "increased fluid flow": [
+    "fluid flow rates"
+  ],
+  "decreased fluid flow": [
+    "fluid flow rates"
+  ],
+  "aerosolised particle formation events": [
+    "aerosolised particle formation processes",
+    "aerosolised particle formation processes"
+  ],
+  "Mollusca": [
+    "Lophotrochozoa"
+  ],
+  "Caelifera": [
+    "Orthoptera"
+  ],
+  "crickets": [
+    "Orthoptera"
+  ],
+  "katydids": [
+    "Orthoptera"
+  ],
+  "Pinidae": [
+    "Pinopsida"
+  ],
+  "biodiversity conservation process": [
+    "conservation-focused active ecosystem management process"
+  ],
+  "Fluorescence of water": [
+    "fluorescence"
+  ],
+  "macroburst": [
+    "downburst"
+  ],
+  "Haplorrhini": [
+    "primates"
+  ],
+  "thickness of snow": [
+    "thickness"
+  ],
+  "thickness of topsoil": [
+    "thickness"
+  ],
+  "increased thickness": [
+    "thickness"
+  ],
+  "decreased thickness": [
+    "thickness",
+    "decreased size"
+  ],
+  "irregular thickness": [
+    "thickness"
+  ],
+  "decreased circumference": [
+    "circumference"
+  ],
+  "Laguncularia racemosa": [
+    "Laguncularia"
+  ],
+  "Conifers II": [
+    "Pinidae"
+  ],
+  "Soil albedo": [
+    "albedo",
+    "albedo"
+  ],
+  "forest fires": [
+    "types of land fires"
+  ],
+  "brush fires": [
+    "types of land fires"
+  ],
+  "bush fires": [
+    "types of land fires"
+  ],
+  "grass fires": [
+    "types of land fires"
+  ],
+  "pasture fires": [
+    "grass fires"
+  ],
+  "Archosauria": [
+    "Archelosauria"
+  ],
+  "color": [
+    "optical quality",
+    "optical quality"
+  ],
+  "patchy pattern": [
+    "irregular spatial patterns"
+  ],
+  "aggregated pattern": [
+    "irregular spatial patterns"
+  ],
+  "trabecular pattern": [
+    "irregular spatial patterns"
+  ],
+  "defence against flooding": [
+    "anthropogenic modulatory intervention"
+  ],
+  "conservation-focused active ecosystem management": [
+    "Active ecosystem management processes"
+  ],
+  "active agri-ecosystem management": [
+    "Active ecosystem management processes"
+  ],
+  "planned revegetation": [
+    "Active ecosystem management processes"
+  ],
+  "pollution degradation": [
+    "anthropogenic modulation of pollution"
+  ],
+  "pollution control": [
+    "anthropogenic modulation of pollution"
+  ],
+  "Eudicotyledons": [
+    "Mesangiospermae"
+  ],
+  "Dipnotetrapodomorpha": [
+    "Sarcopterygii"
+  ],
+  "the process of forming a liquid aerosol from gaseous material within an atmospheric context": [
+    "formation of liquid aerosols that occurs in the atmosphere"
+  ],
+  "respiratory-chain inhibitor": [
+    "electron-transport chain inhibitor"
+  ],
+  "Pteriomorphia": [
+    "Autobranchia"
+  ],
+  "Locusta migratoria": [
+    "Locusta"
+  ],
+  "volume of hydrological precipitation": [
+    "type of volume"
+  ],
+  "volume of runoff": [
+    "type of volume"
+  ],
+  "volume of evaporation": [
+    "type of volume"
+  ],
+  "volume of evapotranspiration": [
+    "type of volume"
+  ],
+  "volume of rain": [
+    "type of volume"
+  ],
+  "ionizing stellar radiation": [
+    "types of ionizing radiation",
+    "stellar radiation"
+  ],
+  "X-ray radiation": [
+    "types of ionizing radiation"
+  ],
+  "gamma-ray radiation": [
+    "types of ionizing radiation"
+  ],
+  "Sarcopterygii": [
+    "Euteleostomi"
+  ],
+  "Elaeis guineensis": [
+    "Elaeis genus"
+  ],
+  "perimeter": [
+    "one-dimensional extent"
+  ],
+  "inhalation anaesthetic": [
+    "general anaesthetic"
+  ],
+  "visible spectrum stellar radiation": [
+    "visible spectrum radiation"
+  ],
+  "lamiids": [
+    "asterids"
+  ],
+  "WMO blizzard": [
+    "type of blizzard"
+  ],
+  "winter blizzard": [
+    "type of blizzard"
+  ],
+  "Mytilus": [
+    "subfamily Mytilinae"
+  ],
+  "land conversion process": [
+    "land consumption process",
+    "land consumption process",
+    "land consumption process"
+  ],
+  "influenced by": [
+    "quality"
+  ],
+  "dispositional property": [
+    "quality"
+  ],
+  "young": [
+    "Age-related qualities"
+  ],
+  "chronological age": [
+    "quality"
+  ],
+  "Avicennia": [
+    "Avicennioideae"
+  ],
+  "Volume": [
+    "3-D extent"
+  ],
+  "Autobranchia": [
+    "Bivalvia"
+  ],
+  "clams": [
+    "Bivalvia"
+  ],
+  "mussels": [
+    "Bivalvia"
+  ],
+  "oysters": [
+    "Bivalvia"
+  ],
+  "scallops": [
+    "Bivalvia"
+  ],
+  "increased area": [
+    "area"
+  ],
+  "decreased area": [
+    "area",
+    "decreased size"
+  ],
+  "normal area": [
+    "area"
+  ],
+  "butter product analog": [
+    "milk or milk product analog"
+  ],
+  "mass gaseous flow": [
+    "mass fluid flow"
+  ],
+  "mass liquid flow": [
+    "mass fluid flow"
+  ],
+  "mass plasma flow": [
+    "mass fluid flow"
+  ],
+  "atmospheric wind": [
+    "mass gaseous flow"
+  ],
+  "planetary wind": [
+    "mass gaseous flow"
+  ],
+  "tsunami": [
+    "mass liquid flow"
+  ],
+  "lava flow": [
+    "mass liquid flow"
+  ],
+  "tidal flow": [
+    "mass liquid flow"
+  ],
+  "stellar wind": [
+    "mass plasma flow"
+  ],
+  "Cyclonic circulation": [
+    "mass fluid flow"
+  ],
+  "Snow water equivalent": [
+    "depth"
+  ],
+  "depth of water ice": [
+    "depth"
+  ],
+  "top depths of soil layers": [
+    "depth"
+  ],
+  "bottom depths of soil layers": [
+    "depth"
+  ],
+  "depth of snow": [
+    "depth"
+  ],
+  "depth of water": [
+    "depth"
+  ],
+  "decreased depth": [
+    "depth",
+    "decreased size"
+  ],
+  "increased depth": [
+    "depth"
+  ],
+  "normal depth": [
+    "depth"
+  ],
+  "hydrocarbon bioremediation": [
+    "Bioremediation"
+  ],
+  "metal bioremediation": [
+    "Bioremediation"
+  ],
+  "treatment of persistent organic pollutants": [
+    "Bioremediation"
+  ],
+  "color patterns": [
+    "Spatial pattern"
+  ],
+  "irregular spatial patterns": [
+    "Spatial pattern"
+  ],
+  "regular spatial patterns": [
+    "Spatial pattern"
+  ],
+  "unilateral patterns": [
+    "Spatial pattern"
+  ],
+  "distributed patterns": [
+    "Spatial pattern"
+  ],
+  "vertical arrangements": [
+    "Spatial pattern"
+  ],
+  "stratification": [
+    "Spatial pattern"
+  ],
+  "colorless": [
+    "color pattern"
+  ],
+  "increased distribution": [
+    "distributed patterns"
+  ],
+  "decreased distribution": [
+    "distributed patterns"
+  ],
+  "stratified": [
+    "stratification"
+  ],
+  "warm core cyclone": [
+    "cyclones"
+  ],
+  "quality of full-spectrum electromagnetic radiation": [
+    "quality related to the interaction of substances with electromagnetic radiation"
+  ],
+  "microburst": [
+    "downburst"
+  ],
+  "radio wave stellar radiation": [
+    "radio wave radiation"
+  ],
+  "permafrost methane explosion": [
+    "explosion process"
+  ],
+  "crustacean farming processes": [
+    "animal aquaculture processes"
+  ],
+  "finfish farming processes": [
+    "animal aquaculture processes"
+  ],
+  "mollusc farming processes": [
+    "animal aquaculture processes"
+  ],
+  "diurnal marine tidal flow process": [
+    "marine tidal flow processes"
+  ],
+  "semi-diurnal marine tidal flow process": [
+    "marine tidal flow processes"
+  ],
+  "Solar radiation": [
+    "stellar radiation"
+  ],
+  "microwave": [
+    "stellar radiation",
+    "Electromagnetic radiation"
+  ],
+  "radio wave": [
+    "stellar radiation",
+    "Electromagnetic radiation"
+  ],
+  "infrared": [
+    "stellar radiation",
+    "Electromagnetic radiation"
+  ],
+  "visible spectrum": [
+    "stellar radiation",
+    "Electromagnetic radiation"
+  ],
+  "ultraviolet": [
+    "stellar radiation",
+    "Electromagnetic radiation"
+  ],
+  "X-ray stellar radiation": [
+    "Ionizing stellar radiation",
+    "X-ray radiation"
+  ],
+  "gamma-ray stellar radiation": [
+    "Ionizing stellar radiation"
+  ],
+  "Anthropisation": [
+    "anthropogenic ecosystem conversion process",
+    "anthropogenic ecosystem conversion process",
+    "anthropogenic ecosystem conversion process"
+  ],
+  "Echinozoa": [
+    "Eleutherozoa"
+  ],
+  "pathway inhibitor": [
+    "enzyme inhibitor"
+  ],
+  "increased length": [
+    "length"
+  ],
+  "decreased length": [
+    "length",
+    "decreased size"
+  ],
+  "Schistocerca gregaria": [
+    "Schistocerca"
+  ],
+  "seaweed farming": [
+    "plant aquaculture processes"
+  ],
+  "freshwater macrophyte farming": [
+    "plant aquaculture processes"
+  ],
+  "afforestation": [
+    "planned revegetation"
+  ],
+  "reforestation": [
+    "planned revegetation"
+  ],
+  "Theropoda": [
+    "Saurischia"
+  ],
+  "intercloud lightning": [
+    "lightning flashes"
+  ],
+  "intracloud lightning": [
+    "lightning flashes"
+  ],
+  "Microwave stellar radiation": [
+    "microwave radiation"
+  ],
+  "thunderstorm": [
+    "convective storm"
+  ],
+  "Salicornia subgen. Amerocornia": [
+    "Salicornia"
+  ],
+  "Arthropoda": [
+    "Panarthropoda"
+  ],
+  "increased perimeter": [
+    "increased length",
+    "perimeter"
+  ],
+  "dry macrobursts": [
+    "macrobursts"
+  ],
+  "wet macrobursts": [
+    "macrobursts"
+  ],
+  "thickness": [
+    "one-dimensional extent"
+  ],
+  "thickness of ice caps": [
+    "one-dimensional extent"
+  ],
+  "thickness of a particular layer of soil": [
+    "one-dimensional extent"
+  ],
+  "Hominoidea": [
+    "Catarrhini"
+  ],
+  "direct transformation of gaseous materials into solid particles": [
+    "solid aerosol formation in the atmosphere"
+  ],
+  "formation of solid aerosols from liquid materials present in the atmosphere": [
+    "solid aerosol formation"
+  ],
+  "glaciation of water droplets within clouds": [
+    "formation of solid aerosols from liquid materials present in the atmosphere"
+  ],
+  "Opacity": [
+    "optical quality"
+  ],
+  "Dry soil albedo": [
+    "soil albedo"
+  ],
+  "moist soil albedo": [
+    "soil albedo"
+  ],
+  "color of the soil": [
+    "color"
+  ],
+  "blue": [
+    "color"
+  ],
+  "white": [
+    "color"
+  ],
+  "brown": [
+    "color"
+  ],
+  "downburst": [
+    "downdraft",
+    "downdraft"
+  ],
+  "wet microbursts": [
+    "microbursts"
+  ],
+  "dry microbursts": [
+    "microbursts"
+  ],
+  "infrared stellar radiation": [
+    "infrared radiation"
+  ],
+  "outgoing longwave radiation": [
+    "infrared radiation"
+  ],
+  "mid-infrared radiation": [
+    "infrared radiation"
+  ],
+  "near-infrared radiation": [
+    "infrared radiation"
+  ],
+  "far-infrared radiation": [
+    "infrared radiation"
+  ],
+  "Laguncularia": [
+    "plant"
+  ],
+  "circumference": [
+    "perimeter"
+  ],
+  "decreased perimeter": [
+    "perimeter",
+    "decreased length"
+  ],
+  "acidic": [
+    "medium acidity"
+  ],
+  "alkaline": [
+    "medium acidity"
+  ],
+  "Arecaceae": [
+    "Arecales"
+  ],
+  "Acridomorpha": [
+    "Acrididea"
+  ],
+  "Land fire": [
+    "Wildfire"
+  ],
+  "conflagration": [
+    "Fire"
+  ],
+  "industrial fire": [
+    "Fire"
+  ],
+  "planned burn": [
+    "Fire"
+  ],
+  "wildfire": [
+    "conflagration"
+  ],
+  "Theria": [
+    "Mammalia"
+  ],
+  "length": [
+    "one-dimensional (1-D) extent"
+  ],
+  "Cupressales": [
+    "Conifers II"
+  ],
+  "optical quality": [
+    "quality related to the interaction of a substance with electromagnetic radiation"
+  ],
+  "Liliopsida": [
+    "Mesangiospermae"
+  ],
+  "visible spectrum radiation emitted by a manufactured product": [
+    "radiation emitted by manufactured products"
+  ],
+  "EC 3.5.1.4 (amidase) inhibitor": [
+    "EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor"
+  ],
+  "Schistocerca": [
+    "subfamily Cyrtacanthacridinae"
+  ],
+  "quarrying": [
+    "Terrestrial mining"
+  ],
+  "opencast mining": [
+    "Terrestrial mining"
+  ],
+  "Dicondylia": [
+    "insect"
+  ],
+  "forestry": [
+    "land use processes"
+  ],
+  "terrestrial mining": [
+    "land use processes"
+  ],
+  "agriculture": [
+    "land use processes"
+  ],
+  "land fire": [
+    "wildfire"
+  ],
+  "Mammalia": [
+    "Amniota"
+  ],
+  "opaque": [
+    "opacity"
+  ],
+  "transparent": [
+    "opacity"
+  ],
+  "translucent": [
+    "opacity"
+  ],
+  "marine tidal flow process": [
+    "tidal flow process",
+    "tidal flow process"
+  ],
+  "Bora": [
+    "fall wind"
+  ],
+  "depth": [
+    "one-dimensional extent"
+  ],
+  "particle radiation": [
+    "Radiation"
+  ],
+  "electromagnetic radiation": [
+    "Radiation"
+  ],
+  "acoustic radiation": [
+    "Radiation"
+  ],
+  "particle beam radiation": [
+    "Particle radiation"
+  ],
+  "stellar radiation": [
+    "Electromagnetic radiation"
+  ],
+  "radiation emitted by manufactured products": [
+    "Electromagnetic radiation"
+  ],
+  "shortwave radiation": [
+    "Electromagnetic radiation"
+  ],
+  "ionizing radiation": [
+    "Electromagnetic radiation"
+  ],
+  "Photosynthetically active radiation": [
+    "Electromagnetic radiation"
+  ],
+  "infrasound": [
+    "Acoustic radiation"
+  ],
+  "ultrasound radiation": [
+    "Acoustic radiation"
+  ],
+  "insolation": [
+    "Radiation"
+  ],
+  "Atmospheric aerosol formation": [
+    "aerosol formation process"
+  ],
+  "pyrolysis": [
+    "aerosol formation process",
+    "thermolysis"
+  ],
+  "fires": [
+    "Combustion processes"
+  ],
+  "explosion processes": [
+    "Combustion processes"
+  ],
+  "misaligned towards": [
+    "misaligned with"
+  ],
+  "misaligned away from": [
+    "misaligned with"
+  ],
+  "Sauria": [
+    "Sauropsida"
+  ],
+  "radiation reflective quality": [
+    "full-spectrum electromagnetic (EM) radiation quality"
+  ],
+  "Pinopsida": [
+    "Acrogymnospermae"
+  ],
+  "width": [
+    "one-dimensional extent"
+  ],
+  "Orthoptera": [
+    "Polyneoptera"
+  ],
+  "grasshoppers and crickets": [
+    "Orthoptera"
+  ],
+  "Polyneoptera": [
+    "insects"
+  ],
+  "earwigs": [
+    "Polyneoptera"
+  ],
+  "Avicennia germinans": [
+    "Avicennia"
+  ],
+  "electron-transport chain inhibitor": [
+    "pathway inhibitor"
+  ],
+  "Hexapoda": [
+    "Pancrustacea"
+  ],
+  "Archelosauria": [
+    "Sauria"
+  ],
+  "foehn wind": [
+    "downslope katabatic wind"
+  ],
+  "drainage wind": [
+    "downslope katabatic wind"
+  ],
+  "glacier wind": [
+    "drainage wind"
+  ],
+  "Homo sapiens": [
+    "Homo"
+  ],
+  "P450 inhibitors": [
+    "EC 1.14.14.1 inhibitor"
+  ],
+  "combustion processes": [
+    "thermolysis"
+  ],
+  "flush": [
+    "position"
+  ],
+  "continuous with": [
+    "position"
+  ],
+  "normal position": [
+    "position"
+  ],
+  "Benthic deep-sea mining": [
+    "marine mining"
+  ],
+  "sea bed mining": [
+    "marine mining"
+  ],
+  "katabatic wind": [
+    "atmospheric winds"
+  ],
+  "downslope katabatic wind": [
+    "katabatic wind"
+  ],
+  "cooling-driven katabatic wind": [
+    "katabatic wind"
+  ],
+  "fall wind": [
+    "katabatic wind"
+  ],
+  "downdraft": [
+    "katabatic wind"
+  ],
+  "squall wind": [
+    "atmospheric winds"
+  ],
+  "jet-effect wind": [
+    "atmospheric winds"
+  ],
+  "slope flow": [
+    "atmospheric winds"
+  ],
+  "anabatic wind": [
+    "slope flow"
+  ],
+  "straight-line wind": [
+    "atmospheric winds"
+  ],
+  "wind gust": [
+    "atmospheric winds"
+  ],
+  "monsoon wind": [
+    "atmospheric winds"
+  ],
+  "mountain-gap wind": [
+    "jet-effect wind"
+  ],
+  "antiseptic drug": [
+    "antiinfective agent"
+  ],
+  "atmospheric aerosolised particle formation event": [
+    "aerosolised particle formation event"
+  ],
+  "Drainage wind": [
+    "cooling-driven katabatic wind"
+  ],
+  "EC 1.14.14.* inhibitor": [
+    "EC 1.14.* inhibitors"
+  ],
+  "Gamma-ray stellar radiation": [
+    "gamma-ray radiation"
+  ],
+  "Pentapetalae": [
+    "Gunneridae"
+  ],
+  "antiinfective agent": [
+    "drug"
+  ],
+  "analgesic": [
+    "drug"
+  ],
+  "Cardiovascular drug": [
+    "drug"
+  ],
+  "Anaesthetic": [
+    "drug"
+  ],
+  "general anaesthetic": [
+    "Anaesthetic"
+  ],
+  "Luminous flux": [
+    "optical quality"
+  ],
+  "Atmospheric wind speed": [
+    "speed"
+  ],
+  "speed of a water current": [
+    "speed"
+  ],
+  "speed at which water infiltrates the soil": [
+    "speed"
+  ],
+  "speed at which soil drains water": [
+    "speed"
+  ],
+  "increased speed": [
+    "speed"
+  ],
+  "decreased speed": [
+    "speed"
+  ],
+  "sound speed": [
+    "speed"
+  ],
+  "normal speed": [
+    "speed"
+  ],
+  "Biotransformation of coal": [
+    "biotransformation process"
+  ],
+  "microbial enhanced oil recovery": [
+    "biotransformation process"
+  ],
+  "microbial solubization of coal": [
+    "biotransformation process"
+  ],
+  "biotransformation of biomass into mixed alcohols": [
+    "biotransformation process"
+  ],
+  "Saurischia": [
+    "Dinosauria"
+  ],
+  "Modiolinae": [
+    "Mytilidae"
+  ],
+  "width of a river": [
+    "width"
+  ],
+  "width of a road": [
+    "width"
+  ],
+  "width of a habitat": [
+    "width"
+  ],
+  "increased width": [
+    "width"
+  ],
+  "decreased width": [
+    "width",
+    "decreased size"
+  ],
+  "normal width": [
+    "width"
+  ],
+  "asterids": [
+    "Pentapetalae"
+  ],
+  "blizzard": [
+    "snowstorm"
+  ],
+  "lake-effect snow storm": [
+    "snowstorm"
+  ],
+  "Gunneridae": [
+    "eudicotyledons"
+  ],
+  "extra-tropical cyclone": [
+    "warm core cyclone"
+  ],
+  "EC 1.* (oxidoreductase) inhibitors": [
+    "enzyme inhibitors"
+  ],
+  "Oxidoreductases": [
+    "enzymes"
+  ],
+  "Arecales": [
+    "commelinids"
+  ],
+  "commelinids": [
+    "monocotyledons"
+  ],
+  "Petrosaviidae": [
+    "Liliopsida"
+  ],
+  "Gnathostomata": [
+    "Vertebrata"
+  ],
+  "decreased volume": [
+    "decreased size"
+  ]
+}

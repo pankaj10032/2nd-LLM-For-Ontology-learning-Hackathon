@@ -1,0 +1,2293 @@
+{
+  "certain types of rock": [
+    "314_0"
+  ],
+  "soil": [
+    "314_0",
+    "707_0",
+    "2010_0",
+    "263_0",
+    "1028_0",
+    "194_0",
+    "2005_0",
+    "1207_0",
+    "951_0",
+    "486_0",
+    "2002_0",
+    "487_0",
+    "432_0",
+    "769_0",
+    "849_0",
+    "952_0",
+    "2227_0",
+    "2014_0",
+    "2008_0",
+    "883_0",
+    "448_0",
+    "515_0",
+    "746_0",
+    "431_0",
+    "2017_0",
+    "1035_0",
+    "1959_0",
+    "1183_0",
+    "1120_0",
+    "847_0",
+    "1996_0",
+    "1924_0",
+    "313_0",
+    "2353_0",
+    "616_0",
+    "66_0",
+    "1921_0",
+    "2355_0",
+    "1922_0",
+    "1995_0",
+    "122_0",
+    "1923_0"
+  ],
+  "clay": [
+    "314_0",
+    "486_0"
+  ],
+  "solid rock": [
+    "314_0"
+  ],
+  "carbon dioxide pooling disposition": [],
+  "respiratory electron transport chain": [
+    "2189_0",
+    "584_0"
+  ],
+  "amplitude of temperature of air": [
+    "93_0"
+  ],
+  "Toxin": [
+    "1298_0"
+  ],
+  "eukaryotic metabolites": [
+    "1298_0"
+  ],
+  "animal metabolites": [
+    "1298_0"
+  ],
+  "fungal metabolites": [
+    "1298_0",
+    "1069_0"
+  ],
+  "prokaryotic metabolites": [
+    "1298_0",
+    "1096_0"
+  ],
+  "flat": [
+    "2357_0",
+    "270_0",
+    "639_0"
+  ],
+  "the cooling of solids": [
+    "976_0"
+  ],
+  "the cooling of fluids": [
+    "976_0",
+    "714_0"
+  ],
+  "Inorganic macronutrients that are dissolved in ocean water": [
+    "343_0"
+  ],
+  "concentration of carbon atoms in seawater": [
+    "2021_0",
+    "2022_0"
+  ],
+  "protic solvent": [
+    "1778_0",
+    "7_0",
+    "914_0",
+    "915_0",
+    "1777_0"
+  ],
+  "megathrust earthquake": [
+    "72_0"
+  ],
+  "foreshock": [
+    "72_0"
+  ],
+  "mainshock": [
+    "72_0"
+  ],
+  "aftershock": [
+    "72_0"
+  ],
+  "blind thrust earthquake": [
+    "72_0"
+  ],
+  "Multiplet earthquake": [
+    "72_0"
+  ],
+  "interplate earthquake": [
+    "72_0"
+  ],
+  "intraplate earthquake": [
+    "72_0"
+  ],
+  "carbon-bearing gas emission processes": [
+    "283_0"
+  ],
+  "carbon dioxide emission processes": [],
+  "methane gas emission processes": [
+    "283_0"
+  ],
+  "lumber production process": [
+    "1143_0"
+  ],
+  "lumber production": [
+    "1143_0"
+  ],
+  "food propellants": [
+    "207_0"
+  ],
+  "hollow": [
+    "2370_0",
+    "483_0"
+  ],
+  "nilas formation process": [
+    "731_0"
+  ],
+  "young ice formation process": [
+    "731_0"
+  ],
+  "first year ice formation process": [
+    "731_0"
+  ],
+  "second year ice formation": [
+    "731_0"
+  ],
+  "multiyear ice formation process": [
+    "731_0"
+  ],
+  "Methane metabolic process": [
+    "2184_0"
+  ],
+  "alpine": [
+    "759_0"
+  ],
+  "subalpine": [
+    "759_0"
+  ],
+  "montane": [
+    "759_0",
+    "619_0"
+  ],
+  "nival": [
+    "759_0"
+  ],
+  "anaerobic respiration where ammonium acts as the electron donor": [
+    "568_0"
+  ],
+  "aerobic respiration that utilizes ammonia as the electron donor": [],
+  "tripartite": [
+    "1285_0",
+    "471_0"
+  ],
+  "Ditrysia": [
+    "2263_0",
+    "685_0"
+  ],
+  "Heteroneura": [
+    "2263_0"
+  ],
+  "Purine ribonucleoside 5'-triphosphate": [
+    "1752_0",
+    "1750_0",
+    "1751_0"
+  ],
+  "Daphnia metabolite": [
+    "1799_0",
+    "1114_0"
+  ],
+  "feeding behavior": [
+    "2181_0",
+    "2190_0"
+  ],
+  "Water infiltration into soil": [
+    "707_0"
+  ],
+  "dissolved carbon atom within environmental materials": [
+    "2010_0",
+    "2008_0"
+  ],
+  "volcanic seismic vibration": [
+    "470_0"
+  ],
+  "impact-driven seismic vibration": [
+    "470_0"
+  ],
+  "explosion-driven seismic vibration": [
+    "470_0"
+  ],
+  "mass-wasting-driven seismic vibration": [
+    "470_0"
+  ],
+  "collapse-driven seismic vibration": [
+    "470_0"
+  ],
+  "earthquake-driven seismic vibration": [
+    "470_0"
+  ],
+  "Bacterial metabolites": [
+    "1096_0"
+  ],
+  "weathering of plastic": [
+    "263_0"
+  ],
+  "photosynthetic photon flux": [
+    "1049_0"
+  ],
+  "pieces of animal": [
+    "2137_0"
+  ],
+  "fluid flow rate": [
+    "2371_0",
+    "405_0"
+  ],
+  "Oscillatoria": [
+    "642_0",
+    "2227_0",
+    "2228_0"
+  ],
+  "Phormidium": [
+    "642_0"
+  ],
+  "an impact between astronomical bodies": [
+    "1925_0",
+    "1926_0"
+  ],
+  "biomarker": [
+    "84_0"
+  ],
+  "electron donor": [
+    "568_0",
+    "7_0",
+    "1037_0",
+    "46_0",
+    "45_0"
+  ],
+  "Bronsted acids": [
+    "7_0"
+  ],
+  "Lewis bases": [
+    "7_0"
+  ],
+  "oceanic temperate": [
+    "436_0"
+  ],
+  "continental temperate": [
+    "436_0"
+  ],
+  "Obtectomera": [
+    "685_0"
+  ],
+  "concentration of carbon-13 atoms in sea water": [
+    "588_0"
+  ],
+  "concentration of carbon-14 atoms in sea water": [
+    "588_0"
+  ],
+  "piece of cow": [
+    "2139_0",
+    "2140_0",
+    "2143_0"
+  ],
+  "Radioactivity": [
+    "593_0"
+  ],
+  "curled": [
+    "270_0"
+  ],
+  "undulate": [
+    "270_0"
+  ],
+  "elongated": [
+    "270_0"
+  ],
+  "linear": [
+    "270_0",
+    "1796_0",
+    "1225_0"
+  ],
+  "filamentous": [
+    "642_0",
+    "270_0"
+  ],
+  "curved": [
+    "270_0",
+    "918_0"
+  ],
+  "flattened": [
+    "2357_0",
+    "270_0"
+  ],
+  "sloped": [
+    "270_0"
+  ],
+  "sloped downward": [
+    "270_0"
+  ],
+  "lobate": [
+    "270_0"
+  ],
+  "sculpted surface": [
+    "270_0"
+  ],
+  "ornamentation": [
+    "270_0",
+    "364_0"
+  ],
+  "oblong": [
+    "270_0"
+  ],
+  "fan-shaped": [
+    "270_0"
+  ],
+  "superelliptic": [
+    "270_0",
+    "2360_0"
+  ],
+  "convex": [
+    "270_0",
+    "868_0"
+  ],
+  "concave 3-D shapes": [
+    "270_0",
+    "471_0"
+  ],
+  "V-shaped": [
+    "270_0"
+  ],
+  "concave": [
+    "270_0",
+    "192_0",
+    "471_0"
+  ],
+  "branched structures": [
+    "270_0"
+  ],
+  "columnar": [
+    "270_0"
+  ],
+  "drooping": [
+    "270_0"
+  ],
+  "straight": [
+    "270_0",
+    "2352_0",
+    "2355_0",
+    "79_0"
+  ],
+  "slender": [
+    "270_0"
+  ],
+  "falciform": [
+    "270_0"
+  ],
+  "fringed": [
+    "270_0"
+  ],
+  "fimbriated": [
+    "270_0"
+  ],
+  "tholiform": [
+    "270_0"
+  ],
+  "broad": [
+    "993_0",
+    "657_0",
+    "1298_0",
+    "976_0",
+    "2021_0",
+    "2009_0",
+    "283_0",
+    "1143_0",
+    "207_0",
+    "731_0",
+    "2184_0",
+    "2018_0",
+    "470_0",
+    "1096_0",
+    "263_0",
+    "2137_0",
+    "642_0",
+    "84_0",
+    "7_0",
+    "436_0",
+    "588_0",
+    "2139_0",
+    "270_0",
+    "2016_0",
+    "2005_0",
+    "2331_0",
+    "2138_0",
+    "2333_0",
+    "1037_0",
+    "2002_0",
+    "697_0",
+    "1790_0",
+    "2182_0",
+    "918_0",
+    "71_0",
+    "1451_0",
+    "487_0",
+    "920_0",
+    "816_0",
+    "2188_0",
+    "2003_0",
+    "517_0",
+    "2178_0",
+    "2335_0",
+    "2140_0",
+    "2334_0",
+    "2183_0",
+    "2332_0",
+    "619_0",
+    "2015_0",
+    "2014_0",
+    "509_0",
+    "1216_0",
+    "2186_0",
+    "2022_0",
+    "2141_0",
+    "2006_0",
+    "714_0",
+    "2142_0",
+    "546_0",
+    "482_0",
+    "2011_0",
+    "2019_0",
+    "448_0",
+    "598_0",
+    "555_0",
+    "515_0",
+    "842_0",
+    "687_0",
+    "2241_0",
+    "828_0",
+    "584_0",
+    "1119_0",
+    "1125_0",
+    "2187_0",
+    "2017_0",
+    "2336_0",
+    "298_0",
+    "525_0",
+    "696_0",
+    "2185_0",
+    "1183_0",
+    "861_0",
+    "2235_0",
+    "1120_0",
+    "2290_0",
+    "2251_0",
+    "1960_0",
+    "2262_0",
+    "2243_0",
+    "1798_0",
+    "890_0",
+    "2292_0",
+    "900_0",
+    "2257_0",
+    "2247_0",
+    "2310_0",
+    "2307_0",
+    "2299_0",
+    "1924_0",
+    "1947_0",
+    "2319_0",
+    "1930_0",
+    "2203_0",
+    "164_0",
+    "141_0",
+    "2237_0",
+    "1901_0",
+    "1920_0",
+    "2306_0",
+    "2233_0",
+    "1128_0",
+    "1900_0",
+    "576_0",
+    "2288_0",
+    "1948_0",
+    "650_0",
+    "2234_0",
+    "2295_0",
+    "378_0",
+    "2245_0",
+    "543_0",
+    "616_0",
+    "66_0",
+    "1796_0",
+    "282_0",
+    "1918_0",
+    "662_0",
+    "2303_0",
+    "821_0",
+    "1921_0",
+    "1225_0",
+    "670_0",
+    "1949_0",
+    "1932_0",
+    "297_0",
+    "1922_0",
+    "843_0",
+    "2250_0",
+    "2365_0",
+    "875_0",
+    "2286_0",
+    "1931_0",
+    "2212_0",
+    "1899_0",
+    "2297_0",
+    "1795_0",
+    "2294_0",
+    "1157_0",
+    "2213_0",
+    "2221_0",
+    "1919_0",
+    "346_0",
+    "79_0",
+    "1005_0",
+    "902_0",
+    "2215_0",
+    "326_0",
+    "1797_0",
+    "1102_0",
+    "122_0",
+    "2274_0",
+    "2200_0",
+    "1923_0",
+    "910_0",
+    "2271_0",
+    "2320_0",
+    "2202_0",
+    "2267_0",
+    "1218_0",
+    "2308_0",
+    "2248_0",
+    "1201_0",
+    "2230_0",
+    "228_0"
+  ],
+  "funnel-shaped": [
+    "270_0"
+  ],
+  "radiating": [
+    "270_0"
+  ],
+  "plume-shaped": [
+    "270_0"
+  ],
+  "Daphnia magna metabolite": [
+    "1114_0"
+  ],
+  "dissolved carbon atom in soil": [
+    "1207_0"
+  ],
+  "aerobic sensitivity to oxygen": [],
+  "anaerobic sensitivity": [
+    "753_0"
+  ],
+  "Soil bulk density": [
+    "951_0",
+    "952_0"
+  ],
+  "increased rate of occurrence": [
+    "2331_0",
+    "768_0",
+    "2333_0",
+    "2335_0",
+    "2336_0"
+  ],
+  "spherical": [
+    "504_0"
+  ],
+  "increased frequency": [
+    "696_0"
+  ],
+  "Cow material": [
+    "2138_0"
+  ],
+  "CHEBI_15422": [
+    "659_0",
+    "722_0"
+  ],
+  "Sporadic occurrences": [
+    "368_0"
+  ],
+  "continuous occurrences": [
+    "368_0"
+  ],
+  "discontinuous occurrences": [],
+  "arched shape": [
+    "192_0"
+  ],
+  "meteorite impact": [
+    "967_0"
+  ],
+  "crustacean metabolite": [
+    "1799_0",
+    "1790_0"
+  ],
+  "Aerobic respiration": [
+    "2182_0",
+    "46_0",
+    "45_0"
+  ],
+  "domed": [
+    "918_0"
+  ],
+  "transpiration": [
+    "658_0",
+    "116_0"
+  ],
+  "Stellar radiation energy": [
+    "71_0"
+  ],
+  "Generation of precursor metabolites and energy": [
+    "59_0"
+  ],
+  "biosynthetic process": [
+    "59_0",
+    "2188_0",
+    "2186_0",
+    "1039_0",
+    "2187_0",
+    "2185_0"
+  ],
+  "photosynthesis": [
+    "1049_0",
+    "774_0",
+    "194_0",
+    "59_0",
+    "624_0",
+    "2235_0"
+  ],
+  "small molecule metabolic process": [
+    "59_0"
+  ],
+  "hydrocarbon metabolic process": [
+    "59_0"
+  ],
+  "energy derivation by oxidation of reduced inorganic compounds": [
+    "59_0"
+  ],
+  "energy derivation by oxidation of organic compounds": [
+    "59_0"
+  ],
+  "electron transport chain": [
+    "2189_0",
+    "59_0",
+    "46_0",
+    "584_0",
+    "1762_0"
+  ],
+  "hydrocarbon biosynthetic process": [
+    "59_0",
+    "2188_0",
+    "2187_0"
+  ],
+  "ammonia oxidation": [
+    "568_0",
+    "59_0"
+  ],
+  "alkane metabolic process": [
+    "2184_0",
+    "59_0",
+    "2186_0",
+    "2185_0"
+  ],
+  "adenosine phosphate": [
+    "1451_0",
+    "1756_0"
+  ],
+  "guanosine 5'-phosphate": [
+    "1757_0",
+    "660_0"
+  ],
+  "composition of soil": [
+    "487_0"
+  ],
+  "composition of water": [
+    "487_0"
+  ],
+  "being calcified": [
+    "487_0"
+  ],
+  "granular": [
+    "487_0"
+  ],
+  "CHEBI_15996": [
+    "659_0",
+    "660_0"
+  ],
+  "Geothermal energy": [
+    "1220_0"
+  ],
+  "circular shape": [
+    "2358_0"
+  ],
+  "Fudge": [
+    "816_0"
+  ],
+  "alkane biosynthetic process": [
+    "2188_0",
+    "2186_0",
+    "1039_0",
+    "2187_0",
+    "2185_0"
+  ],
+  "dissolved nitrogen atoms present in soil": [
+    "432_0"
+  ],
+  "dissolved nitrogen atoms present in water": [],
+  "being detached from": [
+    "1175_0"
+  ],
+  "refinement process": [
+    "553_0"
+  ],
+  "Haber-Bosch process": [
+    "553_0"
+  ],
+  "hydrogen production process": [
+    "553_0"
+  ],
+  "Animal material": [
+    "2178_0"
+  ],
+  "aerobic respiration using nitrite": [
+    "46_0"
+  ],
+  "aerobic respiration using ammonia": [],
+  "aerobic respiration using carbon monoxide": [],
+  "aerobic respiration using ferrous ions": [],
+  "aerobic respiration using hydrogen": [],
+  "aerobic respiration using sulfur or sulfate": [],
+  "aerobic respiration using arsenite": [],
+  "aerobic electron transport chain": [
+    "46_0",
+    "584_0"
+  ],
+  "Propane-1,2-diol": [
+    "838_0"
+  ],
+  "sound wave energy": [
+    "246_0"
+  ],
+  "wind wave energy": [
+    "246_0"
+  ],
+  "humidity of soil": [
+    "769_0"
+  ],
+  "increased humidity": [
+    "769_0"
+  ],
+  "decreased humidity": [
+    "769_0"
+  ],
+  "mammalian metabolite": [
+    "1789_0",
+    "881_0"
+  ],
+  "biodegradation of plastic": [
+    "433_0"
+  ],
+  "obtuse shape": [
+    "1112_0"
+  ],
+  "human metabolite": [
+    "881_0"
+  ],
+  "Beef": [
+    "2143_0"
+  ],
+  "piece of beef": [
+    "2143_0"
+  ],
+  "glacial abrasion": [
+    "663_0"
+  ],
+  "glacial plucking": [
+    "663_0"
+  ],
+  "glacial ice thrusting": [
+    "663_0"
+  ],
+  "increased accumulation": [],
+  "decreased accumulation": [
+    "958_0"
+  ],
+  "irradiation by ionizing radiation": [
+    "624_0"
+  ],
+  "irradiation by non-ionizing radiation": [
+    "624_0"
+  ],
+  "photosynthetically active radiation": [
+    "624_0"
+  ],
+  "freezing of water into ice": [
+    "737_0"
+  ],
+  "adfreezing": [
+    "737_0"
+  ],
+  "dissolved carbon atoms in soil": [],
+  "dissolved carbon atoms in water": [
+    "850_0"
+  ],
+  "sea surface temperature": [
+    "472_0"
+  ],
+  "Mutagens": [
+    "612_0"
+  ],
+  "Guanosine phosphate": [
+    "1508_0"
+  ],
+  "upper montane": [
+    "619_0"
+  ],
+  "lower montane": [
+    "619_0"
+  ],
+  "Adenosine 5'-phosphate": [
+    "722_0",
+    "1756_0"
+  ],
+  "coastal flooding": [
+    "509_0"
+  ],
+  "storm surges": [
+    "509_0"
+  ],
+  "riverine flooding": [
+    "509_0"
+  ],
+  "flash flooding": [
+    "509_0"
+  ],
+  "areal flooding": [
+    "509_0"
+  ],
+  "urban flooding": [
+    "509_0"
+  ],
+  "amphiprotic solvent": [
+    "914_0",
+    "915_0"
+  ],
+  "micronutrients": [
+    "1216_0"
+  ],
+  "macronutrients": [
+    "343_0",
+    "1216_0"
+  ],
+  "frequency": [
+    "2331_0",
+    "768_0",
+    "368_0",
+    "2333_0",
+    "697_0",
+    "2334_0",
+    "2332_0",
+    "2330_0",
+    "2337_0",
+    "696_0",
+    "2338_0"
+  ],
+  "dissolved carbon atom": [
+    "2004_0",
+    "2010_0",
+    "850_0",
+    "1207_0",
+    "2007_0",
+    "849_0",
+    "2008_0"
+  ],
+  "Dinophyceae": [
+    "2240_0",
+    "2241_0"
+  ],
+  "piece(s) of cow": [
+    "2141_0",
+    "2142_0"
+  ],
+  "protophilic solvent": [
+    "915_0",
+    "1780_0",
+    "1781_0",
+    "1779_0",
+    "1782_0"
+  ],
+  "Frazil ice formation": [
+    "397_0"
+  ],
+  "slush formation": [
+    "397_0"
+  ],
+  "shuga formation": [
+    "397_0"
+  ],
+  "Ingestion": [
+    "711_0"
+  ],
+  "oceanic transient tracer": [
+    "863_0"
+  ],
+  "Hydraulic fracturing": [
+    "546_0"
+  ],
+  "Atmospheric wind direction": [
+    "138_0"
+  ],
+  "down": [
+    "263_0",
+    "270_0",
+    "433_0",
+    "138_0",
+    "746_0",
+    "1972_0",
+    "603_0",
+    "1971_0",
+    "378_0",
+    "1969_0",
+    "1970_0",
+    "2355_0",
+    "35_0",
+    "1185_0",
+    "79_0",
+    "1230_0",
+    "1791_0"
+  ],
+  "left": [
+    "138_0"
+  ],
+  "right": [
+    "138_0",
+    "1030_0"
+  ],
+  "front": [
+    "138_0",
+    "763_0"
+  ],
+  "back": [
+    "138_0",
+    "2307_0"
+  ],
+  "unidirectional": [
+    "138_0"
+  ],
+  "bi-directional": [
+    "138_0"
+  ],
+  "circling direction": [
+    "138_0"
+  ],
+  "north": [
+    "138_0",
+    "5_0"
+  ],
+  "south": [
+    "138_0",
+    "5_0"
+  ],
+  "east": [
+    "138_0",
+    "5_0"
+  ],
+  "west": [
+    "138_0",
+    "5_0"
+  ],
+  "Oscillatoriaceae": [
+    "642_0",
+    "2228_0"
+  ],
+  "Oscillatoriales": [
+    "2227_0",
+    "2228_0"
+  ],
+  "submarine groundwater discharge process": [
+    "598_0"
+  ],
+  "excitatory amino acid antagonist": [
+    "950_0"
+  ],
+  "excitatory amino acids": [
+    "950_0"
+  ],
+  "muskmelon (Cucumis melo) fruit food product": [
+    "555_0"
+  ],
+  "cantaloupe fruit food product": [
+    "555_0"
+  ],
+  "citrullus lanatus fruit food product": [
+    "555_0"
+  ],
+  "periglacial process": [
+    "515_0"
+  ],
+  "cryoturbation of soil": [
+    "515_0"
+  ],
+  "frost jacking": [
+    "515_0"
+  ],
+  "frost sorting": [
+    "515_0"
+  ],
+  "frost wedging": [
+    "515_0"
+  ],
+  "frost heaving": [
+    "515_0"
+  ],
+  "concentration of nitrite in sea water": [
+    "157_0"
+  ],
+  "Methanogenesis": [
+    "1037_0",
+    "1038_0",
+    "45_0",
+    "1039_0"
+  ],
+  "elliptic shape": [
+    "2358_0",
+    "2360_0"
+  ],
+  "soil erosion": [
+    "746_0"
+  ],
+  "bedrock dissolution": [
+    "746_0"
+  ],
+  "glacial erosion processes": [
+    "663_0",
+    "746_0"
+  ],
+  "erosion through nivation": [
+    "746_0"
+  ],
+  "raising agent": [
+    "206_0"
+  ],
+  "food packaging gas": [
+    "206_0"
+  ],
+  "food propellant": [
+    "207_0",
+    "206_0"
+  ],
+  "atmosphere-ocean momentum transfer process": [
+    "687_0"
+  ],
+  "the concentration of nitrate in groundwater": [
+    "423_0"
+  ],
+  "the concentration of nitrate in sea water": [
+    "423_0"
+  ],
+  "atmospheric weather": [
+    "828_0"
+  ],
+  "space weather": [
+    "828_0"
+  ],
+  "ice-bearing permafrost thawing process": [
+    "1119_0"
+  ],
+  "concentration of silicic acid in sea water": [
+    "13_0"
+  ],
+  "spheroid": [
+    "504_0",
+    "868_0"
+  ],
+  "cylindrical shape": [
+    "482_0",
+    "868_0"
+  ],
+  "conical shape": [
+    "868_0"
+  ],
+  "eating behavior": [
+    "711_0",
+    "2190_0"
+  ],
+  "glucosamines": [
+    "889_0"
+  ],
+  "agronomic process": [
+    "1035_0"
+  ],
+  "animal husbandry": [
+    "1035_0"
+  ],
+  "Mediterranean climate": [
+    "525_0"
+  ],
+  "humid subtropical": [
+    "525_0"
+  ],
+  "arid subtropical": [
+    "525_0"
+  ],
+  "highland subtropical": [
+    "525_0"
+  ],
+  "road traffic noise": [
+    "562_0"
+  ],
+  "aircraft noise": [
+    "562_0"
+  ],
+  "decreased frequency": [
+    "697_0",
+    "696_0"
+  ],
+  "temperature of air": [
+    "93_0",
+    "1053_0",
+    "1183_0"
+  ],
+  "temperature of soil": [
+    "1183_0"
+  ],
+  "temperature of water": [
+    "1183_0"
+  ],
+  "Amphiesmenoptera": [
+    "2302_0",
+    "2313_0"
+  ],
+  "glacial surface layer velocity": [
+    "861_0"
+  ],
+  "angular velocity": [
+    "861_0"
+  ],
+  "increased velocity": [
+    "861_0"
+  ],
+  "decreased velocity": [
+    "861_0"
+  ],
+  "normal velocity": [
+    "861_0"
+  ],
+  "increased fluid flow": [
+    "405_0"
+  ],
+  "decreased fluid flow": [
+    "405_0"
+  ],
+  "aerosolised particle formation events": [
+    "119_0"
+  ],
+  "Mollusca": [
+    "2290_0",
+    "2291_0"
+  ],
+  "Caelifera": [
+    "2298_0",
+    "2230_0"
+  ],
+  "crickets": [
+    "2298_0",
+    "2297_0"
+  ],
+  "katydids": [
+    "2298_0"
+  ],
+  "Pinidae": [
+    "2251_0",
+    "2239_0"
+  ],
+  "biodiversity conservation process": [
+    "1960_0",
+    "662_0"
+  ],
+  "Fluorescence of water": [
+    "1158_0"
+  ],
+  "macroburst": [
+    "1972_0",
+    "378_0"
+  ],
+  "Haplorrhini": [
+    "2264_0",
+    "2244_0"
+  ],
+  "thickness of snow": [
+    "847_0",
+    "313_0"
+  ],
+  "thickness of topsoil": [
+    "847_0"
+  ],
+  "increased thickness": [
+    "847_0"
+  ],
+  "decreased thickness": [
+    "847_0",
+    "228_0"
+  ],
+  "irregular thickness": [
+    "847_0"
+  ],
+  "decreased circumference": [
+    "325_0"
+  ],
+  "Laguncularia racemosa": [
+    "1041_0"
+  ],
+  "Conifers II": [
+    "2239_0",
+    "2218_0"
+  ],
+  "Soil albedo": [
+    "1996_0",
+    "616_0",
+    "1995_0"
+  ],
+  "forest fires": [
+    "501_0"
+  ],
+  "brush fires": [
+    "501_0"
+  ],
+  "bush fires": [
+    "501_0"
+  ],
+  "grass fires": [
+    "501_0"
+  ],
+  "pasture fires": [
+    "501_0"
+  ],
+  "Archosauria": [
+    "2311_0",
+    "2273_0"
+  ],
+  "color": [
+    "773_0",
+    "2325_0",
+    "172_0",
+    "66_0",
+    "2326_0"
+  ],
+  "patchy pattern": [
+    "80_0"
+  ],
+  "aggregated pattern": [
+    "80_0"
+  ],
+  "trabecular pattern": [
+    "80_0"
+  ],
+  "defence against flooding": [
+    "575_0"
+  ],
+  "conservation-focused active ecosystem management": [
+    "1960_0",
+    "575_0"
+  ],
+  "active agri-ecosystem management": [
+    "575_0",
+    "670_0"
+  ],
+  "planned revegetation": [
+    "575_0",
+    "415_0"
+  ],
+  "pollution degradation": [
+    "575_0",
+    "1981_0"
+  ],
+  "pollution control": [
+    "575_0",
+    "1924_0",
+    "1921_0",
+    "1922_0",
+    "1185_0",
+    "1923_0"
+  ],
+  "Eudicotyledons": [
+    "2280_0"
+  ],
+  "Dipnotetrapodomorpha": [
+    "2211_0",
+    "2247_0"
+  ],
+  "the process of forming a liquid aerosol from gaseous material within an atmospheric context": [],
+  "respiratory-chain inhibitor": [
+    "1763_0",
+    "1174_0"
+  ],
+  "Pteriomorphia": [
+    "2292_0",
+    "2293_0"
+  ],
+  "Locusta migratoria": [
+    "900_0"
+  ],
+  "volume of hydrological precipitation": [
+    "116_0"
+  ],
+  "volume of runoff": [
+    "116_0"
+  ],
+  "volume of evaporation": [
+    "116_0"
+  ],
+  "volume of evapotranspiration": [
+    "116_0"
+  ],
+  "volume of rain": [
+    "116_0"
+  ],
+  "ionizing stellar radiation": [
+    "1249_0",
+    "141_0"
+  ],
+  "X-ray radiation": [
+    "1249_0",
+    "1218_0"
+  ],
+  "gamma-ray radiation": [
+    "1249_0",
+    "941_0"
+  ],
+  "Sarcopterygii": [
+    "2211_0",
+    "2310_0"
+  ],
+  "Elaeis guineensis": [
+    "980_0"
+  ],
+  "perimeter": [
+    "2356_0",
+    "865_0",
+    "864_0",
+    "326_0",
+    "228_0"
+  ],
+  "inhalation anaesthetic": [
+    "480_0"
+  ],
+  "visible spectrum stellar radiation": [
+    "142_0"
+  ],
+  "lamiids": [
+    "2318_0",
+    "2271_0"
+  ],
+  "WMO blizzard": [
+    "651_0"
+  ],
+  "winter blizzard": [
+    "651_0"
+  ],
+  "Mytilus": [
+    "752_0"
+  ],
+  "land conversion process": [
+    "1947_0",
+    "1948_0",
+    "1949_0",
+    "1005_0"
+  ],
+  "influenced by": [
+    "331_0"
+  ],
+  "dispositional property": [
+    "331_0"
+  ],
+  "young": [
+    "731_0",
+    "331_0",
+    "2320_0"
+  ],
+  "chronological age": [
+    "331_0"
+  ],
+  "Avicennia": [
+    "2270_0",
+    "1190_0"
+  ],
+  "Volume": [
+    "952_0",
+    "116_0",
+    "2359_0"
+  ],
+  "Autobranchia": [
+    "2292_0",
+    "2238_0"
+  ],
+  "clams": [
+    "2291_0",
+    "2238_0"
+  ],
+  "mussels": [
+    "2291_0",
+    "2293_0",
+    "752_0",
+    "430_0",
+    "2238_0",
+    "945_0",
+    "2201_0",
+    "2199_0",
+    "2294_0",
+    "2200_0"
+  ],
+  "oysters": [
+    "2291_0",
+    "2238_0"
+  ],
+  "scallops": [
+    "2291_0",
+    "2238_0"
+  ],
+  "increased area": [
+    "259_0"
+  ],
+  "decreased area": [
+    "259_0",
+    "228_0"
+  ],
+  "normal area": [
+    "259_0"
+  ],
+  "butter product analog": [
+    "761_0",
+    "2161_0"
+  ],
+  "mass gaseous flow": [
+    "357_0"
+  ],
+  "mass liquid flow": [
+    "357_0"
+  ],
+  "mass plasma flow": [
+    "357_0"
+  ],
+  "atmospheric wind": [
+    "357_0",
+    "119_0",
+    "79_0"
+  ],
+  "planetary wind": [
+    "357_0"
+  ],
+  "tsunami": [
+    "357_0",
+    "875_0"
+  ],
+  "lava flow": [
+    "357_0"
+  ],
+  "tidal flow": [
+    "357_0",
+    "164_0",
+    "1932_0",
+    "1931_0"
+  ],
+  "stellar wind": [
+    "357_0"
+  ],
+  "Cyclonic circulation": [
+    "357_0"
+  ],
+  "Snow water equivalent": [
+    "313_0"
+  ],
+  "depth of water ice": [
+    "313_0"
+  ],
+  "top depths of soil layers": [],
+  "bottom depths of soil layers": [
+    "313_0"
+  ],
+  "depth of snow": [
+    "313_0"
+  ],
+  "depth of water": [
+    "313_0"
+  ],
+  "decreased depth": [
+    "313_0",
+    "228_0"
+  ],
+  "increased depth": [
+    "313_0"
+  ],
+  "normal depth": [
+    "313_0"
+  ],
+  "hydrocarbon bioremediation": [
+    "603_0"
+  ],
+  "metal bioremediation": [
+    "603_0"
+  ],
+  "treatment of persistent organic pollutants": [
+    "603_0"
+  ],
+  "color patterns": [
+    "172_0"
+  ],
+  "irregular spatial patterns": [
+    "80_0",
+    "172_0"
+  ],
+  "regular spatial patterns": [
+    "80_0",
+    "172_0"
+  ],
+  "unilateral patterns": [
+    "172_0"
+  ],
+  "distributed patterns": [
+    "172_0"
+  ],
+  "vertical arrangements": [
+    "172_0"
+  ],
+  "stratification": [
+    "172_0"
+  ],
+  "colorless": [
+    "172_0"
+  ],
+  "increased distribution": [
+    "172_0"
+  ],
+  "decreased distribution": [
+    "172_0"
+  ],
+  "stratified": [
+    "172_0"
+  ],
+  "warm core cyclone": [
+    "1930_0",
+    "594_0"
+  ],
+  "quality of full-spectrum electromagnetic radiation": [
+    "2363_0"
+  ],
+  "microburst": [
+    "1971_0",
+    "282_0"
+  ],
+  "radio wave stellar radiation": [
+    "369_0"
+  ],
+  "permafrost methane explosion": [
+    "1030_0"
+  ],
+  "crustacean farming processes": [
+    "848_0"
+  ],
+  "finfish farming processes": [
+    "848_0"
+  ],
+  "mollusc farming processes": [
+    "848_0"
+  ],
+  "diurnal marine tidal flow process": [
+    "164_0"
+  ],
+  "semi-diurnal marine tidal flow process": [
+    "164_0"
+  ],
+  "Solar radiation": [
+    "141_0"
+  ],
+  "microwave": [
+    "141_0",
+    "370_0",
+    "297_0"
+  ],
+  "radio wave": [
+    "369_0",
+    "141_0",
+    "297_0"
+  ],
+  "infrared": [
+    "141_0",
+    "177_0",
+    "297_0"
+  ],
+  "visible spectrum": [
+    "142_0",
+    "141_0",
+    "545_0",
+    "297_0"
+  ],
+  "ultraviolet": [
+    "141_0",
+    "297_0",
+    "1147_0"
+  ],
+  "X-ray stellar radiation": [
+    "1218_0"
+  ],
+  "gamma-ray stellar radiation": [
+    "141_0",
+    "941_0"
+  ],
+  "Anthropisation": [
+    "1901_0",
+    "1920_0",
+    "1900_0",
+    "1918_0",
+    "1899_0",
+    "1919_0"
+  ],
+  "Echinozoa": [
+    "2306_0",
+    "910_0"
+  ],
+  "pathway inhibitor": [
+    "1793_0",
+    "1762_0"
+  ],
+  "increased length": [
+    "1260_0",
+    "865_0"
+  ],
+  "decreased length": [
+    "1260_0",
+    "228_0"
+  ],
+  "Schistocerca gregaria": [
+    "991_0"
+  ],
+  "seaweed farming": [
+    "745_0"
+  ],
+  "freshwater macrophyte farming": [
+    "745_0"
+  ],
+  "afforestation": [
+    "415_0"
+  ],
+  "reforestation": [
+    "415_0"
+  ],
+  "Theropoda": [
+    "2275_0",
+    "2276_0"
+  ],
+  "intercloud lightning": [
+    "576_0"
+  ],
+  "intracloud lightning": [
+    "576_0"
+  ],
+  "Microwave stellar radiation": [
+    "370_0"
+  ],
+  "thunderstorm": [
+    "576_0",
+    "621_0",
+    "378_0",
+    "1969_0",
+    "1970_0",
+    "1157_0"
+  ],
+  "Salicornia subgen. Amerocornia": [
+    "2234_0"
+  ],
+  "Arthropoda": [
+    "2295_0",
+    "2232_0"
+  ],
+  "increased perimeter": [
+    "865_0",
+    "864_0"
+  ],
+  "dry macrobursts": [
+    "378_0"
+  ],
+  "wet macrobursts": [
+    "378_0"
+  ],
+  "thickness": [
+    "862_0",
+    "2361_0",
+    "847_0",
+    "313_0",
+    "2353_0",
+    "228_0"
+  ],
+  "thickness of ice caps": [
+    "2353_0"
+  ],
+  "thickness of a particular layer of soil": [
+    "2353_0"
+  ],
+  "Hominoidea": [
+    "2323_0",
+    "2245_0"
+  ],
+  "direct transformation of gaseous materials into solid particles": [
+    "543_0"
+  ],
+  "formation of solid aerosols from liquid materials present in the atmosphere": [
+    "543_0"
+  ],
+  "glaciation of water droplets within clouds": [
+    "543_0"
+  ],
+  "Opacity": [
+    "2327_0",
+    "441_0"
+  ],
+  "Dry soil albedo": [
+    "616_0"
+  ],
+  "moist soil albedo": [
+    "616_0"
+  ],
+  "color of the soil": [
+    "66_0"
+  ],
+  "blue": [
+    "66_0"
+  ],
+  "white": [
+    "66_0"
+  ],
+  "brown": [
+    "2235_0",
+    "66_0"
+  ],
+  "downburst": [
+    "1972_0",
+    "1971_0",
+    "1969_0",
+    "1970_0"
+  ],
+  "wet microbursts": [
+    "282_0"
+  ],
+  "dry microbursts": [
+    "282_0"
+  ],
+  "infrared stellar radiation": [],
+  "outgoing longwave radiation": [
+    "177_0"
+  ],
+  "mid-infrared radiation": [
+    "177_0"
+  ],
+  "near-infrared radiation": [
+    "177_0"
+  ],
+  "far-infrared radiation": [
+    "177_0"
+  ],
+  "Laguncularia": [
+    "1041_0",
+    "2229_0"
+  ],
+  "circumference": [
+    "325_0",
+    "864_0",
+    "326_0"
+  ],
+  "decreased perimeter": [
+    "864_0",
+    "228_0"
+  ],
+  "acidic": [
+    "359_0"
+  ],
+  "alkaline": [
+    "359_0"
+  ],
+  "Arecaceae": [
+    "2220_0",
+    "2282_0"
+  ],
+  "Acridomorpha": [
+    "2319_0",
+    "2303_0"
+  ],
+  "Land fire": [
+    "501_0",
+    "1928_0",
+    "1929_0"
+  ],
+  "conflagration": [
+    "821_0"
+  ],
+  "industrial fire": [
+    "821_0"
+  ],
+  "planned burn": [
+    "821_0"
+  ],
+  "wildfire": [
+    "1928_0",
+    "821_0",
+    "1929_0"
+  ],
+  "Theria": [
+    "2249_0",
+    "2320_0"
+  ],
+  "length": [
+    "2356_0",
+    "141_0",
+    "1260_0",
+    "865_0",
+    "2352_0",
+    "2365_0",
+    "228_0"
+  ],
+  "Cupressales": [
+    "2256_0",
+    "2218_0"
+  ],
+  "optical quality": [
+    "2325_0",
+    "2327_0",
+    "2364_0",
+    "2326_0",
+    "2328_0"
+  ],
+  "Liliopsida": [
+    "2279_0",
+    "2216_0"
+  ],
+  "visible spectrum radiation emitted by a manufactured product": [],
+  "EC 3.5.1.4 (amidase) inhibitor": [
+    "1225_0"
+  ],
+  "Schistocerca": [
+    "991_0",
+    "2301_0"
+  ],
+  "quarrying": [
+    "613_0"
+  ],
+  "opencast mining": [
+    "613_0"
+  ],
+  "Dicondylia": [
+    "1128_0",
+    "2312_0"
+  ],
+  "forestry": [
+    "683_0"
+  ],
+  "terrestrial mining": [
+    "613_0",
+    "683_0"
+  ],
+  "agriculture": [
+    "1216_0",
+    "2141_0",
+    "2142_0",
+    "1035_0",
+    "991_0",
+    "683_0"
+  ],
+  "land fire": [
+    "501_0",
+    "1928_0",
+    "1929_0"
+  ],
+  "Mammalia": [
+    "2243_0",
+    "2249_0",
+    "2268_0"
+  ],
+  "opaque": [
+    "441_0"
+  ],
+  "transparent": [
+    "441_0"
+  ],
+  "translucent": [
+    "441_0"
+  ],
+  "marine tidal flow process": [
+    "164_0",
+    "1932_0",
+    "1931_0"
+  ],
+  "Bora": [
+    "110_0"
+  ],
+  "depth": [
+    "313_0",
+    "2355_0",
+    "121_0",
+    "228_0"
+  ],
+  "particle radiation": [
+    "297_0"
+  ],
+  "electromagnetic radiation": [
+    "1158_0",
+    "142_0",
+    "2363_0",
+    "369_0",
+    "141_0",
+    "2364_0",
+    "297_0",
+    "2365_0",
+    "941_0"
+  ],
+  "acoustic radiation": [
+    "297_0"
+  ],
+  "particle beam radiation": [
+    "297_0"
+  ],
+  "stellar radiation": [
+    "71_0",
+    "1249_0",
+    "142_0",
+    "369_0",
+    "141_0",
+    "370_0",
+    "177_0",
+    "297_0",
+    "1147_0",
+    "941_0",
+    "1218_0"
+  ],
+  "radiation emitted by manufactured products": [
+    "545_0",
+    "297_0"
+  ],
+  "shortwave radiation": [
+    "297_0"
+  ],
+  "ionizing radiation": [
+    "624_0",
+    "1249_0",
+    "297_0"
+  ],
+  "Photosynthetically active radiation": [
+    "297_0"
+  ],
+  "infrasound": [
+    "297_0"
+  ],
+  "ultrasound radiation": [
+    "297_0"
+  ],
+  "insolation": [
+    "297_0"
+  ],
+  "Atmospheric aerosol formation": [
+    "580_0"
+  ],
+  "pyrolysis": [
+    "580_0",
+    "581_0"
+  ],
+  "fires": [
+    "501_0",
+    "1928_0",
+    "821_0",
+    "1929_0",
+    "580_0"
+  ],
+  "explosion processes": [
+    "580_0"
+  ],
+  "misaligned towards": [
+    "843_0"
+  ],
+  "misaligned away from": [
+    "843_0"
+  ],
+  "Sauria": [
+    "2250_0",
+    "2209_0"
+  ],
+  "radiation reflective quality": [
+    "2366_0",
+    "2365_0"
+  ],
+  "Pinopsida": [
+    "2251_0",
+    "2286_0"
+  ],
+  "width": [
+    "2354_0",
+    "435_0",
+    "228_0"
+  ],
+  "Orthoptera": [
+    "2298_0",
+    "2297_0"
+  ],
+  "grasshoppers and crickets": [
+    "2297_0"
+  ],
+  "Polyneoptera": [
+    "2297_0"
+  ],
+  "earwigs": [
+    "2297_0"
+  ],
+  "Avicennia germinans": [
+    "1190_0"
+  ],
+  "electron-transport chain inhibitor": [
+    "1763_0",
+    "1762_0"
+  ],
+  "Hexapoda": [
+    "2284_0",
+    "2296_0"
+  ],
+  "Archelosauria": [
+    "2311_0",
+    "2209_0"
+  ],
+  "foehn wind": [
+    "35_0"
+  ],
+  "drainage wind": [
+    "35_0",
+    "1230_0"
+  ],
+  "glacier wind": [
+    "35_0"
+  ],
+  "Homo sapiens": [
+    "440_0"
+  ],
+  "P450 inhibitors": [
+    "1185_0"
+  ],
+  "combustion processes": [
+    "580_0",
+    "581_0"
+  ],
+  "flush": [
+    "121_1"
+  ],
+  "continuous with": [
+    "121_1"
+  ],
+  "normal position": [
+    "121_1"
+  ],
+  "Benthic deep-sea mining": [
+    "346_0"
+  ],
+  "sea bed mining": [
+    "346_0"
+  ],
+  "katabatic wind": [
+    "35_0",
+    "79_0",
+    "1230_0"
+  ],
+  "downslope katabatic wind": [
+    "35_0",
+    "79_0"
+  ],
+  "cooling-driven katabatic wind": [
+    "79_0",
+    "1230_0"
+  ],
+  "fall wind": [
+    "110_0",
+    "79_0"
+  ],
+  "downdraft": [
+    "378_0",
+    "1969_0",
+    "1970_0",
+    "79_0"
+  ],
+  "squall wind": [
+    "79_0"
+  ],
+  "jet-effect wind": [
+    "79_0"
+  ],
+  "slope flow": [
+    "79_0"
+  ],
+  "anabatic wind": [
+    "79_0"
+  ],
+  "straight-line wind": [
+    "79_0"
+  ],
+  "wind gust": [
+    "79_0"
+  ],
+  "monsoon wind": [
+    "79_0"
+  ],
+  "mountain-gap wind": [
+    "79_0"
+  ],
+  "antiseptic drug": [
+    "833_0"
+  ],
+  "atmospheric aerosolised particle formation event": [
+    "119_0",
+    "1086_0"
+  ],
+  "Drainage wind": [
+    "1230_0"
+  ],
+  "EC 1.14.14.* inhibitor": [
+    "1797_0"
+  ],
+  "Gamma-ray stellar radiation": [
+    "941_0"
+  ],
+  "Pentapetalae": [
+    "2257_0",
+    "2259_0",
+    "2217_0",
+    "2258_0"
+  ],
+  "antiinfective agent": [
+    "833_0",
+    "1102_0"
+  ],
+  "analgesic": [
+    "1102_0"
+  ],
+  "Cardiovascular drug": [
+    "1102_0"
+  ],
+  "Anaesthetic": [
+    "480_0",
+    "1102_0"
+  ],
+  "general anaesthetic": [
+    "480_0",
+    "1102_0"
+  ],
+  "Luminous flux": [
+    "2328_0"
+  ],
+  "Atmospheric wind speed": [
+    "122_0"
+  ],
+  "speed of a water current": [
+    "122_0"
+  ],
+  "speed at which water infiltrates the soil": [
+    "122_0"
+  ],
+  "speed at which soil drains water": [
+    "122_0"
+  ],
+  "increased speed": [],
+  "decreased speed": [
+    "122_0"
+  ],
+  "sound speed": [
+    "122_0"
+  ],
+  "normal speed": [
+    "122_0"
+  ],
+  "Biotransformation of coal": [
+    "212_0"
+  ],
+  "microbial enhanced oil recovery": [
+    "212_0"
+  ],
+  "microbial solubization of coal": [
+    "212_0"
+  ],
+  "biotransformation of biomass into mixed alcohols": [
+    "212_0"
+  ],
+  "Saurischia": [
+    "2275_0",
+    "2274_0"
+  ],
+  "Modiolinae": [
+    "945_0",
+    "2200_0"
+  ],
+  "width of a river": [
+    "435_0"
+  ],
+  "width of a road": [],
+  "width of a habitat": [],
+  "increased width": [
+    "435_0"
+  ],
+  "decreased width": [
+    "435_0",
+    "228_0"
+  ],
+  "normal width": [
+    "435_0"
+  ],
+  "asterids": [
+    "2318_0",
+    "2258_0"
+  ],
+  "blizzard": [
+    "651_0",
+    "119_0",
+    "1118_0"
+  ],
+  "lake-effect snow storm": [
+    "1118_0"
+  ],
+  "Gunneridae": [
+    "2217_0",
+    "2316_0"
+  ],
+  "extra-tropical cyclone": [
+    "594_0"
+  ],
+  "EC 1.* (oxidoreductase) inhibitors": [
+    "1791_0"
+  ],
+  "Oxidoreductases": [
+    "1798_0",
+    "1791_0"
+  ],
+  "Arecales": [
+    "2282_0",
+    "2267_0"
+  ],
+  "commelinids": [
+    "2267_0"
+  ],
+  "Petrosaviidae": [
+    "2216_0",
+    "2283_0"
+  ],
+  "Gnathostomata": [
+    "2202_0",
+    "2308_0"
+  ],
+  "decreased volume": [
+    "116_0",
+    "228_0"
+  ]
+}

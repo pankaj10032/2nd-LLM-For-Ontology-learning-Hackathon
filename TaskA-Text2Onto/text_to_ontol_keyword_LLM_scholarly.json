@@ -1,0 +1,155 @@
+{
+  "pre-modifier": [
+    "modification"
+  ],
+  "post-modifier": [
+    "modification type"
+  ],
+  "indifferent": [
+    "modification type"
+  ],
+  "preposition phrases": [
+    "MultiWordExpressions"
+  ],
+  "verb phrases": [
+    "MultiWordExpressions"
+  ],
+  "noun phrases": [
+    "MultiWordExpressions"
+  ],
+  "adjective phrases": [
+    "MultiWordExpressions"
+  ],
+  "infinitive clause": [
+    "clausal argument"
+  ],
+  "prepositional interrogative clause": [
+    "clausal argument"
+  ],
+  "possessive infinitive clause": [
+    "clausal argument"
+  ],
+  "interrogative clause": [
+    "clausal argument"
+  ],
+  "subjunctive clause": [
+    "clausal argument"
+  ],
+  "sentential clause": [
+    "clausal argument"
+  ],
+  "prepositional gerund clause": [
+    "clausal argument"
+  ],
+  "interrogative infinitive clause": [
+    "clausal argument"
+  ],
+  "declarative clause": [
+    "clausal argument"
+  ],
+  "gerund clause": [
+    "clausal argument"
+  ],
+  "yes": [
+    "negatives"
+  ],
+  "no": [
+    "negatives"
+  ],
+  "commonly used": [
+    "frequency"
+  ],
+  "infrequently used": [
+    "frequency"
+  ],
+  "rarely used": [
+    "frequency"
+  ],
+  "prefix": [
+    "affix"
+  ],
+  "suffix": [
+    "affix"
+  ],
+  "infix": [
+    "affix"
+  ],
+  "transfix": [
+    "affix"
+  ],
+  "simulfix": [
+    "affix"
+  ],
+  "zero morph": [
+    "affix"
+  ],
+  "masculine": [
+    "types of genders"
+  ],
+  "feminine": [
+    "types of genders"
+  ],
+  "neuter": [
+    "types of genders"
+  ],
+  "common gender": [
+    "types of genders"
+  ],
+  "other gender": [
+    "types of genders"
+  ],
+  "first person": [
+    "person"
+  ],
+  "second person": [
+    "person"
+  ],
+  "third person": [
+    "person"
+  ],
+  "imperfective aspect": [
+    "aspect"
+  ],
+  "perfective aspect": [
+    "aspect"
+  ],
+  "inchoative": [
+    "aspect"
+  ],
+  "cessative": [
+    "aspect"
+  ],
+  "unaccomplished aspect": [
+    "aspect"
+  ],
+  "affixes": [
+    "term elements"
+  ],
+  "prefixes": [
+    "term elements"
+  ],
+  "infixes": [
+    "term elements"
+  ],
+  "suffixes": [
+    "term elements"
+  ],
+  "syllables": [
+    "term elements"
+  ],
+  "words": [
+    "term elements"
+  ],
+  "radicals": [
+    "term elements"
+  ],
+  "bases": [
+    "term elements"
+  ],
+  "morphological elements": [
+    "term elements"
+  ],
+  "optional elements": [
+    "term elements"
+  ]
+}

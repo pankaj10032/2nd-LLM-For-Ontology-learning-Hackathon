@@ -1,0 +1,624 @@
+[
+  {
+    "id": "TT_d539e3e1",
+    "term": "eBioscience",
+    "types": [
+      "manufacturer",
+      "material supplier"
+    ]
+  },
+  {
+    "id": "TT_65da10e1",
+    "term": "pT3 (lung)",
+    "types": [
+      "pathologic primary tumor stage for lung according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_163f5980",
+    "term": "pT2a (ovary)",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_9b926ad9",
+    "term": "pT1b (kidney)",
+    "types": [
+      "pathologic primary tumor stage for kidney according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_ad01c533",
+    "term": "pM1b (lung)",
+    "types": [
+      "pathologic distant metastases stage for lung according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_0bc56139",
+    "term": "pT1c (ovary)",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_cdedd71b",
+    "term": "cM1 (kidney)",
+    "types": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": "TT_cdbdc786",
+    "term": "pN1 (kidney)",
+    "types": [
+      "pathologic lymph node stage for kidney according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_c47ba797",
+    "term": "pT3a (kidney)",
+    "types": [
+      "pathologic primary tumor stage for kidney according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_80f3d792",
+    "term": "pT1 (kidney)",
+    "types": [
+      "pathologic primary tumor stage for kidney according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_efce7b98",
+    "term": "pN2b (colon)",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_43c5fb24",
+    "term": "pT2 (ovary)",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_83dd02db",
+    "term": "pT2b (lung)",
+    "types": [
+      "pathologic primary tumor stage for lung according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_18e34e9c",
+    "term": "cM1a (colon)",
+    "types": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": "TT_4df6ebf6",
+    "term": "cM1 (colon)",
+    "types": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": "TT_8fc89d82",
+    "term": "pT1 (lung)",
+    "types": [
+      "pathologic primary tumor stage for lung according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_ebe87765",
+    "term": "pN1c (colon)",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_3b85bb65",
+    "term": "cM1 (ovary)",
+    "types": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": "TT_afb73856",
+    "term": "pM1 (colon)",
+    "types": [
+      "pathologic distant metastases stage for colon according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_d7b3544b",
+    "term": "pN1b (colon)",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_1be9b5b1",
+    "term": "pN1 (lung)",
+    "types": [
+      "pathologic lymph node stage for lung according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_77002ba2",
+    "term": "pT3 (ovary)",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_4dc447c1",
+    "term": "pN2 (colon)",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_f3dcf0ad",
+    "term": "pM1b (colon)",
+    "types": [
+      "pathologic distant metastases stage for colon according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_9848d593",
+    "term": "80-90: symptomatic but fully ambulatory",
+    "types": [
+      "Karnofsky score vaue specification"
+    ]
+  },
+  {
+    "id": "TT_a3dc97d0",
+    "term": "3: symptomatic in bed more than 50% of the day but not bed ridden",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ]
+  },
+  {
+    "id": "TT_5cfcfb4b",
+    "term": "2: symptomatic but in bed less than 50% of the day",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ]
+  },
+  {
+    "id": "TT_91c750a8",
+    "term": "4: bed ridden",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ]
+  },
+  {
+    "id": "TT_05e33e44",
+    "term": "Antigenix",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_1ea4dbdc",
+    "term": "metadata complete",
+    "types": [
+      "curation status specification"
+    ]
+  },
+  {
+    "id": "TT_084634b3",
+    "term": "metadata incomplete",
+    "types": [
+      "curation status specification"
+    ]
+  },
+  {
+    "id": "TT_fafe3ddf",
+    "term": "0: asymptomatic",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ]
+  },
+  {
+    "id": "TT_a9116815",
+    "term": "100: asymptomatic",
+    "types": [
+      "Karnofsky score vaue specification"
+    ]
+  },
+  {
+    "id": "TT_0f6a960e",
+    "term": "Cytopeia",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_ea06d5c3",
+    "term": "Edingburgh handedness inventory",
+    "types": [
+      "categorical label"
+    ]
+  },
+  {
+    "id": "TT_47e2f629",
+    "term": "BioGents",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_c69005f8",
+    "term": "year",
+    "types": [
+      "time unit"
+    ]
+  },
+  {
+    "id": "TT_81deaaf0",
+    "term": "Stage IIA (AJCC 7th)",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_3831734a",
+    "term": "Stage 4 (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_60e75ce9",
+    "term": "Stage IIIC (AJCC 7th)",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_da557411",
+    "term": "Stage IA (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_ba88c0c2",
+    "term": "Stage IB (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_ccb5234f",
+    "term": "Stage 1A (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_e5315cd9",
+    "term": "Stage 2C (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_93c33c2e",
+    "term": "Stage IIIB (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_121bebb2",
+    "term": "Stage 0 (AJCC 7th)",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_e67be5a3",
+    "term": "Stage IIB (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_ed5377fb",
+    "term": "Stage Unknown (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_cd20bf04",
+    "term": "Stage 1B (FIGO)",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification",
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ]
+  },
+  {
+    "id": "TT_cd693ff4",
+    "term": "Occult Carcinoma (AJCC 7th)",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_d0334c13",
+    "term": "Stage IIC (AJCC 7th)",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_65393c3a",
+    "term": "tar",
+    "types": [
+      "data format specification"
+    ]
+  },
+  {
+    "id": "TT_90fdf1cb",
+    "term": "Advanced Instruments Inc. (AI Companies)",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_2fd89cce",
+    "term": "nanomole",
+    "types": [
+      "substance unit"
+    ]
+  },
+  {
+    "id": "TT_b9588c69",
+    "term": "Bruker Corporation",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_9ccf6d5f",
+    "term": "G3: Poorly differentiated",
+    "types": [
+      "histologic grade according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_2afe465c",
+    "term": "Luminex",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_433908f2",
+    "term": "Sysmex Corporation, Kobe, Japan",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_a1509e48",
+    "term": "organizational term",
+    "types": [
+      "organizational term"
+    ]
+  },
+  {
+    "id": "TT_2011db40",
+    "term": "failed exploratory term",
+    "types": [
+      "curation status specification"
+    ]
+  },
+  {
+    "id": "TT_850875ef",
+    "term": "count per molar second",
+    "types": [
+      "rate unit"
+    ]
+  },
+  {
+    "id": "TT_b3dc9f32",
+    "term": "microliters per minute",
+    "types": [
+      "rate unit"
+    ]
+  },
+  {
+    "id": "TT_fcd2848f",
+    "term": "nanoliter",
+    "types": [
+      "volume unit"
+    ]
+  },
+  {
+    "id": "TT_b05448bd",
+    "term": "milliliter",
+    "types": [
+      "volume unit"
+    ]
+  },
+  {
+    "id": "TT_0039c388",
+    "term": "volume percentage",
+    "types": [
+      "concentration unit"
+    ]
+  },
+  {
+    "id": "TT_31d42069",
+    "term": "Gating-ML",
+    "types": [
+      "data format specification"
+    ]
+  },
+  {
+    "id": "TT_acb30e3a",
+    "term": "microliter",
+    "types": [
+      "volume unit"
+    ]
+  },
+  {
+    "id": "TT_ced2dffc",
+    "term": "U.S. Food and Drug Administration",
+    "types": [
+      "organization"
+    ]
+  },
+  {
+    "id": "TT_3f3c582e",
+    "term": "terms merged",
+    "types": [
+      "obsolescence reason specification"
+    ]
+  },
+  {
+    "id": "TT_74c463fc",
+    "term": "pending final vetting",
+    "types": [
+      "curation status specification"
+    ]
+  },
+  {
+    "id": "TT_b1d25f4b",
+    "term": "GenePattern module PeakMatch",
+    "types": [
+      "GenePattern software"
+    ]
+  },
+  {
+    "id": "TT_e2231f84",
+    "term": "GenePattern HierarchicalClusteringViewer data visualization",
+    "types": [
+      "clustered data visualization",
+      "hierarchical clustering",
+      "GenePattern software"
+    ]
+  },
+  {
+    "id": "TT_ea731405",
+    "term": "GenePattern peak matching",
+    "types": [
+      "GenePattern software"
+    ]
+  },
+  {
+    "id": "TT_cb7b354a",
+    "term": "GenePattern SVM",
+    "types": [
+      "GenePattern software"
+    ]
+  },
+  {
+    "id": "TT_bb059332",
+    "term": "GenePattern module PCA",
+    "types": [
+      "principal components analysis dimensionality reduction",
+      "GenePattern software"
+    ]
+  },
+  {
+    "id": "TT_049df733",
+    "term": "GenePattern module HierarchicalClustering",
+    "types": [
+      "hierarchical clustering",
+      "GenePattern software"
+    ]
+  },
+  {
+    "id": "TT_f404121d",
+    "term": "Illumina",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_d45eb816",
+    "term": "Partec",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_2fa33051",
+    "term": "right handed",
+    "types": [
+      "categorical label"
+    ]
+  },
+  {
+    "id": "TT_2cb446e6",
+    "term": "ACS",
+    "types": [
+      "organization"
+    ]
+  },
+  {
+    "id": "TT_eec8e57b",
+    "term": "hour",
+    "types": [
+      "time unit"
+    ]
+  },
+  {
+    "id": "TT_d6dcaedc",
+    "term": "AES Chemunex",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_fcf479b0",
+    "term": "degree Fahrenheit",
+    "types": [
+      "temperature unit"
+    ]
+  },
+  {
+    "id": "TT_ed4e48b5",
+    "term": "G3 (WHO)",
+    "types": [
+      "histologic grade for ovarian tumor according to the World Health Organization"
+    ]
+  },
+  {
+    "id": "TT_f8bc4ca1",
+    "term": "Dako Cytomation",
+    "types": [
+      "manufacturer"
+    ]
+  },
+  {
+    "id": "TT_95daf138",
+    "term": "G4: Undifferentiated",
+    "types": [
+      "histologic grade according to AJCC 7th edition"
+    ]
+  },
+  {
+    "id": "TT_a878ad94",
+    "term": "G2 (Fuhrman)",
+    "types": [
+      "histologic grade according to the Fuhrman Nuclear Grading System"
+    ]
+  }
+]

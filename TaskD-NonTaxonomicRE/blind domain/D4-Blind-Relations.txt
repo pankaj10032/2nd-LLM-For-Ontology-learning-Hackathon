@@ -1,0 +1,5 @@
+consider
+disconnected_from
+disjointWith
+equivalentClass
+seeAlso

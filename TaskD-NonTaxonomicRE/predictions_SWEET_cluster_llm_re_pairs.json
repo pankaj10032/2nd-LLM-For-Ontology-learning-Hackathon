@@ -1,0 +1,1457 @@
+[
+  {
+    "head": "abyssal trench",
+    "relation": "equivalentClass",
+    "tail": "deep sea trench"
+  },
+  {
+    "head": "deep sea trench",
+    "relation": "equivalentClass",
+    "tail": "abyssal trench"
+  },
+  {
+    "head": "acoustic wave",
+    "relation": "equivalentClass",
+    "tail": "sound wave"
+  },
+  {
+    "head": "sound wave",
+    "relation": "equivalentClass",
+    "tail": "acoustic wave"
+  },
+  {
+    "head": "aeolian",
+    "relation": "equivalentClass",
+    "tail": "eolian"
+  },
+  {
+    "head": "eolian",
+    "relation": "equivalentClass",
+    "tail": "aeolian"
+  },
+  {
+    "head": "air sea exchange",
+    "relation": "equivalentClass",
+    "tail": "atmosphere ocean exchange"
+  },
+  {
+    "head": "atmosphere ocean exchange",
+    "relation": "equivalentClass",
+    "tail": "air sea exchange"
+  },
+  {
+    "head": "airborne toxic control measure",
+    "relation": "equivalentClass",
+    "tail": "atcm"
+  },
+  {
+    "head": "atcm",
+    "relation": "equivalentClass",
+    "tail": "airborne toxic control measure"
+  },
+  {
+    "head": "archive",
+    "relation": "disjointWith",
+    "tail": "archiving"
+  },
+  {
+    "head": "archiving",
+    "relation": "disjointWith",
+    "tail": "archive"
+  },
+  {
+    "head": "attenuation coefficient",
+    "relation": "equivalentClass",
+    "tail": "extinction coefficient"
+  },
+  {
+    "head": "extinction coefficient",
+    "relation": "equivalentClass",
+    "tail": "attenuation coefficient"
+  },
+  {
+    "head": "autotroph",
+    "relation": "disjointWith",
+    "tail": "heterotroph"
+  },
+  {
+    "head": "heterotroph",
+    "relation": "disjointWith",
+    "tail": "autotroph"
+  },
+  {
+    "head": "average",
+    "relation": "equivalentClass",
+    "tail": "mean"
+  },
+  {
+    "head": "mean",
+    "relation": "equivalentClass",
+    "tail": "average"
+  },
+  {
+    "head": "bag",
+    "relation": "equivalentClass",
+    "tail": "multiset"
+  },
+  {
+    "head": "multiset",
+    "relation": "equivalentClass",
+    "tail": "bag"
+  },
+  {
+    "head": "bdoc",
+    "relation": "equivalentClass",
+    "tail": "biodegradable dissolved organic carbon"
+  },
+  {
+    "head": "biodegradable dissolved organic carbon",
+    "relation": "equivalentClass",
+    "tail": "bdoc"
+  },
+  {
+    "head": "dissolved organic carbon",
+    "relation": "equivalentClass",
+    "tail": "doc"
+  },
+  {
+    "head": "doc",
+    "relation": "equivalentClass",
+    "tail": "dissolved organic carbon"
+  },
+  {
+    "head": "bed load",
+    "relation": "disjointWith",
+    "tail": "suspended load"
+  },
+  {
+    "head": "bed load",
+    "relation": "disjointWith",
+    "tail": "wash load"
+  },
+  {
+    "head": "suspended load",
+    "relation": "disjointWith",
+    "tail": "bed load"
+  },
+  {
+    "head": "wash load",
+    "relation": "disjointWith",
+    "tail": "bed load"
+  },
+  {
+    "head": "brightness",
+    "relation": "disjointWith",
+    "tail": "specific intensity"
+  },
+  {
+    "head": "specific intensity",
+    "relation": "disjointWith",
+    "tail": "brightness"
+  },
+  {
+    "head": "budget",
+    "relation": "disjointWith",
+    "tail": "budget equation"
+  },
+  {
+    "head": "budget equation",
+    "relation": "disjointWith",
+    "tail": "budget"
+  },
+  {
+    "head": "c horizon",
+    "relation": "disjointWith",
+    "tail": "parent rock"
+  },
+  {
+    "head": "c horizon",
+    "relation": "disjointWith",
+    "tail": "surface soil"
+  },
+  {
+    "head": "c horizon",
+    "relation": "disjointWith",
+    "tail": "topsoil"
+  },
+  {
+    "head": "horizon",
+    "relation": "disjointWith",
+    "tail": "parent rock"
+  },
+  {
+    "head": "parent rock",
+    "relation": "disjointWith",
+    "tail": "c horizon"
+  },
+  {
+    "head": "parent rock",
+    "relation": "disjointWith",
+    "tail": "horizon"
+  },
+  {
+    "head": "parent rock",
+    "relation": "disjointWith",
+    "tail": "surface soil"
+  },
+  {
+    "head": "parent rock",
+    "relation": "disjointWith",
+    "tail": "topsoil"
+  },
+  {
+    "head": "substrata",
+    "relation": "disjointWith",
+    "tail": "surface soil"
+  },
+  {
+    "head": "substrata",
+    "relation": "disjointWith",
+    "tail": "topsoil"
+  },
+  {
+    "head": "substrata",
+    "relation": "equivalentClass",
+    "tail": "substratum"
+  },
+  {
+    "head": "substratum",
+    "relation": "disjointWith",
+    "tail": "surface soil"
+  },
+  {
+    "head": "substratum",
+    "relation": "disjointWith",
+    "tail": "topsoil"
+  },
+  {
+    "head": "substratum",
+    "relation": "equivalentClass",
+    "tail": "substrata"
+  },
+  {
+    "head": "surface soil",
+    "relation": "disjointWith",
+    "tail": "c horizon"
+  },
+  {
+    "head": "surface soil",
+    "relation": "disjointWith",
+    "tail": "parent rock"
+  },
+  {
+    "head": "surface soil",
+    "relation": "disjointWith",
+    "tail": "substrata"
+  },
+  {
+    "head": "surface soil",
+    "relation": "disjointWith",
+    "tail": "substratum"
+  },
+  {
+    "head": "surface soil",
+    "relation": "equivalentClass",
+    "tail": "topsoil"
+  },
+  {
+    "head": "topsoil",
+    "relation": "disjointWith",
+    "tail": "c horizon"
+  },
+  {
+    "head": "topsoil",
+    "relation": "disjointWith",
+    "tail": "parent rock"
+  },
+  {
+    "head": "topsoil",
+    "relation": "disjointWith",
+    "tail": "substrata"
+  },
+  {
+    "head": "topsoil",
+    "relation": "disjointWith",
+    "tail": "substratum"
+  },
+  {
+    "head": "topsoil",
+    "relation": "equivalentClass",
+    "tail": "surface soil"
+  },
+  {
+    "head": "calving",
+    "relation": "equivalentClass",
+    "tail": "ice calving"
+  },
+  {
+    "head": "ice calving",
+    "relation": "equivalentClass",
+    "tail": "calving"
+  },
+  {
+    "head": "capillary",
+    "relation": "disjointWith",
+    "tail": "capillary action"
+  },
+  {
+    "head": "capillary action",
+    "relation": "disjointWith",
+    "tail": "capillary"
+  },
+  {
+    "head": "carbon neutral",
+    "relation": "equivalentClass",
+    "tail": "carbon neutrality"
+  },
+  {
+    "head": "carbon neutrality",
+    "relation": "equivalentClass",
+    "tail": "carbon neutral"
+  },
+  {
+    "head": "clumping",
+    "relation": "disjointWith",
+    "tail": "clump"
+  },
+  {
+    "head": "clumping",
+    "relation": "disjointWith",
+    "tail": "cluster"
+  },
+  {
+    "head": "clumping",
+    "relation": "disjointWith",
+    "tail": "swarm"
+  },
+  {
+    "head": "clump",
+    "relation": "disjointWith",
+    "tail": "clumping"
+  },
+  {
+    "head": "clump",
+    "relation": "equivalentClass",
+    "tail": "cluster"
+  },
+  {
+    "head": "cluster",
+    "relation": "disjointWith",
+    "tail": "clumping"
+  },
+  {
+    "head": "cluster",
+    "relation": "equivalentClass",
+    "tail": "clump"
+  },
+  {
+    "head": "swarm",
+    "relation": "disjointWith",
+    "tail": "clumping"
+  },
+  {
+    "head": "coastal",
+    "relation": "equivalentClass",
+    "tail": "coastal region"
+  },
+  {
+    "head": "coastal region",
+    "relation": "equivalentClass",
+    "tail": "coastal"
+  },
+  {
+    "head": "coastal region",
+    "relation": "equivalentClass",
+    "tail": "littoral zone"
+  },
+  {
+    "head": "littoral zone",
+    "relation": "equivalentClass",
+    "tail": "coastal region"
+  },
+  {
+    "head": "coefficient of thermal expansion",
+    "relation": "equivalentClass",
+    "tail": "thermal expansion coefficient"
+  },
+  {
+    "head": "thermal expansion coefficient",
+    "relation": "equivalentClass",
+    "tail": "coefficient of thermal expansion"
+  },
+  {
+    "head": "compression",
+    "relation": "disjointWith",
+    "tail": "decompression"
+  },
+  {
+    "head": "compression",
+    "relation": "disjointWith",
+    "tail": "rareification"
+  },
+  {
+    "head": "decompression",
+    "relation": "disjointWith",
+    "tail": "compression"
+  },
+  {
+    "head": "rareification",
+    "relation": "disjointWith",
+    "tail": "compression"
+  },
+  {
+    "head": "conic",
+    "relation": "equivalentClass",
+    "tail": "conic section"
+  },
+  {
+    "head": "conic section",
+    "relation": "equivalentClass",
+    "tail": "conic"
+  },
+  {
+    "head": "continuous",
+    "relation": "disjointWith",
+    "tail": "discontinuous"
+  },
+  {
+    "head": "continuous",
+    "relation": "disjointWith",
+    "tail": "discrete"
+  },
+  {
+    "head": "continuous",
+    "relation": "disjointWith",
+    "tail": "discrete function"
+  },
+  {
+    "head": "discontinuous",
+    "relation": "disjointWith",
+    "tail": "continuous"
+  },
+  {
+    "head": "discrete",
+    "relation": "disjointWith",
+    "tail": "continuous"
+  },
+  {
+    "head": "discrete function",
+    "relation": "disjointWith",
+    "tail": "continuous"
+  },
+  {
+    "head": "convergent boundary",
+    "relation": "disjointWith",
+    "tail": "divergent boundary"
+  },
+  {
+    "head": "convergent boundary",
+    "relation": "disjointWith",
+    "tail": "divergent plate boundary"
+  },
+  {
+    "head": "convergent boundary",
+    "relation": "disjointWith",
+    "tail": "plate convergence"
+  },
+  {
+    "head": "convergent boundary",
+    "relation": "disjointWith",
+    "tail": "plate divergence"
+  },
+  {
+    "head": "convergent boundary",
+    "relation": "disjointWith",
+    "tail": "transform boundary"
+  },
+  {
+    "head": "convergent boundary",
+    "relation": "disjointWith",
+    "tail": "transform plate boundary"
+  },
+  {
+    "head": "convergent boundary",
+    "relation": "equivalentClass",
+    "tail": "convergent margin"
+  },
+  {
+    "head": "convergent margin",
+    "relation": "disjointWith",
+    "tail": "divergent boundary"
+  },
+  {
+    "head": "convergent margin",
+    "relation": "disjointWith",
+    "tail": "divergent plate boundary"
+  },
+  {
+    "head": "convergent margin",
+    "relation": "disjointWith",
+    "tail": "plate convergence"
+  },
+  {
+    "head": "convergent margin",
+    "relation": "disjointWith",
+    "tail": "plate divergence"
+  },
+  {
+    "head": "convergent margin",
+    "relation": "disjointWith",
+    "tail": "transform boundary"
+  },
+  {
+    "head": "convergent margin",
+    "relation": "disjointWith",
+    "tail": "transform plate boundary"
+  },
+  {
+    "head": "convergent margin",
+    "relation": "equivalentClass",
+    "tail": "convergent boundary"
+  },
+  {
+    "head": "divergent boundary",
+    "relation": "disjointWith",
+    "tail": "convergent boundary"
+  },
+  {
+    "head": "divergent boundary",
+    "relation": "disjointWith",
+    "tail": "convergent margin"
+  },
+  {
+    "head": "divergent boundary",
+    "relation": "disjointWith",
+    "tail": "plate convergence"
+  },
+  {
+    "head": "divergent boundary",
+    "relation": "disjointWith",
+    "tail": "plate divergence"
+  },
+  {
+    "head": "divergent boundary",
+    "relation": "disjointWith",
+    "tail": "transform boundary"
+  },
+  {
+    "head": "divergent boundary",
+    "relation": "disjointWith",
+    "tail": "transform plate boundary"
+  },
+  {
+    "head": "divergent boundary",
+    "relation": "equivalentClass",
+    "tail": "divergent plate boundary"
+  },
+  {
+    "head": "divergent plate boundary",
+    "relation": "disjointWith",
+    "tail": "convergent boundary"
+  },
+  {
+    "head": "divergent plate boundary",
+    "relation": "disjointWith",
+    "tail": "convergent margin"
+  },
+  {
+    "head": "divergent plate boundary",
+    "relation": "disjointWith",
+    "tail": "plate convergence"
+  },
+  {
+    "head": "divergent plate boundary",
+    "relation": "disjointWith",
+    "tail": "plate divergence"
+  },
+  {
+    "head": "divergent plate boundary",
+    "relation": "disjointWith",
+    "tail": "transform boundary"
+  },
+  {
+    "head": "divergent plate boundary",
+    "relation": "disjointWith",
+    "tail": "transform plate boundary"
+  },
+  {
+    "head": "divergent plate boundary",
+    "relation": "equivalentClass",
+    "tail": "divergent boundary"
+  },
+  {
+    "head": "plate convergence",
+    "relation": "disjointWith",
+    "tail": "convergent boundary"
+  },
+  {
+    "head": "plate convergence",
+    "relation": "disjointWith",
+    "tail": "convergent margin"
+  },
+  {
+    "head": "plate convergence",
+    "relation": "disjointWith",
+    "tail": "divergent boundary"
+  },
+  {
+    "head": "plate convergence",
+    "relation": "disjointWith",
+    "tail": "divergent plate boundary"
+  },
+  {
+    "head": "plate convergence",
+    "relation": "disjointWith",
+    "tail": "plate divergence"
+  },
+  {
+    "head": "plate convergence",
+    "relation": "disjointWith",
+    "tail": "transform boundary"
+  },
+  {
+    "head": "plate convergence",
+    "relation": "disjointWith",
+    "tail": "transform plate boundary"
+  },
+  {
+    "head": "plate divergence",
+    "relation": "disjointWith",
+    "tail": "convergent boundary"
+  },
+  {
+    "head": "plate divergence",
+    "relation": "disjointWith",
+    "tail": "convergent margin"
+  },
+  {
+    "head": "plate divergence",
+    "relation": "disjointWith",
+    "tail": "divergent boundary"
+  },
+  {
+    "head": "plate divergence",
+    "relation": "disjointWith",
+    "tail": "divergent plate boundary"
+  },
+  {
+    "head": "plate divergence",
+    "relation": "disjointWith",
+    "tail": "plate convergence"
+  },
+  {
+    "head": "plate divergence",
+    "relation": "disjointWith",
+    "tail": "transform boundary"
+  },
+  {
+    "head": "plate divergence",
+    "relation": "disjointWith",
+    "tail": "transform plate boundary"
+  },
+  {
+    "head": "transform boundary",
+    "relation": "disjointWith",
+    "tail": "convergent boundary"
+  },
+  {
+    "head": "transform boundary",
+    "relation": "disjointWith",
+    "tail": "convergent margin"
+  },
+  {
+    "head": "transform boundary",
+    "relation": "disjointWith",
+    "tail": "divergent boundary"
+  },
+  {
+    "head": "transform boundary",
+    "relation": "disjointWith",
+    "tail": "divergent plate boundary"
+  },
+  {
+    "head": "transform boundary",
+    "relation": "disjointWith",
+    "tail": "plate convergence"
+  },
+  {
+    "head": "transform boundary",
+    "relation": "disjointWith",
+    "tail": "plate divergence"
+  },
+  {
+    "head": "transform boundary",
+    "relation": "equivalentClass",
+    "tail": "transform plate boundary"
+  },
+  {
+    "head": "transform plate boundary",
+    "relation": "disjointWith",
+    "tail": "convergent boundary"
+  },
+  {
+    "head": "transform plate boundary",
+    "relation": "disjointWith",
+    "tail": "convergent margin"
+  },
+  {
+    "head": "transform plate boundary",
+    "relation": "disjointWith",
+    "tail": "divergent boundary"
+  },
+  {
+    "head": "transform plate boundary",
+    "relation": "disjointWith",
+    "tail": "divergent plate boundary"
+  },
+  {
+    "head": "transform plate boundary",
+    "relation": "disjointWith",
+    "tail": "plate convergence"
+  },
+  {
+    "head": "transform plate boundary",
+    "relation": "disjointWith",
+    "tail": "plate divergence"
+  },
+  {
+    "head": "transform plate boundary",
+    "relation": "equivalentClass",
+    "tail": "transform boundary"
+  },
+  {
+    "head": "core mantle boundary",
+    "relation": "equivalentClass",
+    "tail": "guttenburg discontinuity"
+  },
+  {
+    "head": "guttenburg discontinuity",
+    "relation": "equivalentClass",
+    "tail": "core mantle boundary"
+  },
+  {
+    "head": "curate",
+    "relation": "equivalentClass",
+    "tail": "curation"
+  },
+  {
+    "head": "curation",
+    "relation": "equivalentClass",
+    "tail": "curate"
+  },
+  {
+    "head": "cyclotron frequency",
+    "relation": "equivalentClass",
+    "tail": "gyrofrequency"
+  },
+  {
+    "head": "gyrofrequency",
+    "relation": "equivalentClass",
+    "tail": "cyclotron frequency"
+  },
+  {
+    "head": "decision support system",
+    "relation": "equivalentClass",
+    "tail": "dss"
+  },
+  {
+    "head": "dss",
+    "relation": "equivalentClass",
+    "tail": "decision support system"
+  },
+  {
+    "head": "deep focus earthquake",
+    "relation": "disjointWith",
+    "tail": "shallow focus earthquake"
+  },
+  {
+    "head": "shallow focus earthquake",
+    "relation": "disjointWith",
+    "tail": "deep focus earthquake"
+  },
+  {
+    "head": "directed graph",
+    "relation": "disjointWith",
+    "tail": "undirected graph"
+  },
+  {
+    "head": "discover",
+    "relation": "disjointWith",
+    "tail": "discovery service"
+  },
+  {
+    "head": "discovery service",
+    "relation": "disjointWith",
+    "tail": "discover"
+  },
+  {
+    "head": "division",
+    "relation": "disjointWith",
+    "tail": "quotient"
+  },
+  {
+    "head": "quotient",
+    "relation": "disjointWith",
+    "tail": "division"
+  },
+  {
+    "head": "dry lake",
+    "relation": "equivalentClass",
+    "tail": "playa"
+  },
+  {
+    "head": "playa",
+    "relation": "equivalentClass",
+    "tail": "dry lake"
+  },
+  {
+    "head": "electromagnetic radiation",
+    "relation": "equivalentClass",
+    "tail": "electromagnetic wave"
+  },
+  {
+    "head": "electromagnetic wave",
+    "relation": "equivalentClass",
+    "tail": "electromagnetic radiation"
+  },
+  {
+    "head": "elongate",
+    "relation": "equivalentClass",
+    "tail": "stretch"
+  },
+  {
+    "head": "stretch",
+    "relation": "equivalentClass",
+    "tail": "elongate"
+  },
+  {
+    "head": "emissivity",
+    "relation": "disjointWith",
+    "tail": "emittance"
+  },
+  {
+    "head": "emittance",
+    "relation": "disjointWith",
+    "tail": "emissivity"
+  },
+  {
+    "head": "environmental sustainability index",
+    "relation": "equivalentClass",
+    "tail": "esi"
+  },
+  {
+    "head": "esi",
+    "relation": "equivalentClass",
+    "tail": "environmental sustainability index"
+  },
+  {
+    "head": "felsic",
+    "relation": "disjointWith",
+    "tail": "mafic"
+  },
+  {
+    "head": "mafic",
+    "relation": "disjointWith",
+    "tail": "felsic"
+  },
+  {
+    "head": "geodetic science",
+    "relation": "equivalentClass",
+    "tail": "geodesy"
+  },
+  {
+    "head": "geodetic science",
+    "relation": "equivalentClass",
+    "tail": "geodetics"
+  },
+  {
+    "head": "geodesy",
+    "relation": "equivalentClass",
+    "tail": "geodetic science"
+  },
+  {
+    "head": "geodesy",
+    "relation": "equivalentClass",
+    "tail": "geodetics"
+  },
+  {
+    "head": "geodetics",
+    "relation": "equivalentClass",
+    "tail": "geodetic science"
+  },
+  {
+    "head": "geodetics",
+    "relation": "equivalentClass",
+    "tail": "geodesy"
+  },
+  {
+    "head": "geomagnetic storm",
+    "relation": "equivalentClass",
+    "tail": "magnetic storm"
+  },
+  {
+    "head": "magnetic storm",
+    "relation": "equivalentClass",
+    "tail": "geomagnetic storm"
+  },
+  {
+    "head": "geometrical object 0d",
+    "relation": "equivalentClass",
+    "tail": "point"
+  },
+  {
+    "head": "point",
+    "relation": "equivalentClass",
+    "tail": "geometrical object 0d"
+  },
+  {
+    "head": "geosphere",
+    "relation": "equivalentClass",
+    "tail": "solid earth"
+  },
+  {
+    "head": "solid earth",
+    "relation": "equivalentClass",
+    "tail": "geosphere"
+  },
+  {
+    "head": "glaciation",
+    "relation": "disjointWith",
+    "tail": "glacier retreat"
+  },
+  {
+    "head": "glacier retreat",
+    "relation": "disjointWith",
+    "tail": "glaciation"
+  },
+  {
+    "head": "gpp",
+    "relation": "equivalentClass",
+    "tail": "gross primary productivity"
+  },
+  {
+    "head": "gross primary productivity",
+    "relation": "equivalentClass",
+    "tail": "gpp"
+  },
+  {
+    "head": "gravity",
+    "relation": "equivalentClass",
+    "tail": "gravity force"
+  },
+  {
+    "head": "gravity force",
+    "relation": "equivalentClass",
+    "tail": "gravity"
+  },
+  {
+    "head": "great circle",
+    "relation": "disjointWith",
+    "tail": "small circle"
+  },
+  {
+    "head": "small circle",
+    "relation": "disjointWith",
+    "tail": "great circle"
+  },
+  {
+    "head": "gust",
+    "relation": "equivalentClass",
+    "tail": "wind gust"
+  },
+  {
+    "head": "wind gust",
+    "relation": "equivalentClass",
+    "tail": "gust"
+  },
+  {
+    "head": "gyroradius",
+    "relation": "equivalentClass",
+    "tail": "larmor radius"
+  },
+  {
+    "head": "larmor radius",
+    "relation": "equivalentClass",
+    "tail": "gyroradius"
+  },
+  {
+    "head": "hcfc",
+    "relation": "equivalentClass",
+    "tail": "hydrochlorofluorocarbon"
+  },
+  {
+    "head": "hydrochlorofluorocarbon",
+    "relation": "equivalentClass",
+    "tail": "hcfc"
+  },
+  {
+    "head": "heat flow",
+    "relation": "equivalentClass",
+    "tail": "heat flux"
+  },
+  {
+    "head": "heat flow",
+    "relation": "equivalentClass",
+    "tail": "thermal flux"
+  },
+  {
+    "head": "heat flux",
+    "relation": "equivalentClass",
+    "tail": "heat flow"
+  },
+  {
+    "head": "heat flux",
+    "relation": "equivalentClass",
+    "tail": "thermal flux"
+  },
+  {
+    "head": "thermal flux",
+    "relation": "equivalentClass",
+    "tail": "heat flow"
+  },
+  {
+    "head": "thermal flux",
+    "relation": "equivalentClass",
+    "tail": "heat flux"
+  },
+  {
+    "head": "ice pellet",
+    "relation": "equivalentClass",
+    "tail": "sleet"
+  },
+  {
+    "head": "sleet",
+    "relation": "equivalentClass",
+    "tail": "ice pellet"
+  },
+  {
+    "head": "increase",
+    "relation": "equivalentClass",
+    "tail": "rise"
+  },
+  {
+    "head": "rise",
+    "relation": "equivalentClass",
+    "tail": "increase"
+  },
+  {
+    "head": "index of biological integrity",
+    "relation": "equivalentClass",
+    "tail": "index of biotic integrity"
+  },
+  {
+    "head": "index of biotic integrity",
+    "relation": "equivalentClass",
+    "tail": "index of biological integrity"
+  },
+  {
+    "head": "intertropical convergence zone",
+    "relation": "equivalentClass",
+    "tail": "itcz"
+  },
+  {
+    "head": "itcz",
+    "relation": "equivalentClass",
+    "tail": "intertropical convergence zone"
+  },
+  {
+    "head": "investigate",
+    "relation": "equivalentClass",
+    "tail": "investigation"
+  },
+  {
+    "head": "investigation",
+    "relation": "equivalentClass",
+    "tail": "investigate"
+  },
+  {
+    "head": "laboratory environment",
+    "relation": "disjointWith",
+    "tail": "representative environment"
+  },
+  {
+    "head": "representative environment",
+    "relation": "disjointWith",
+    "tail": "laboratory environment"
+  },
+  {
+    "head": "linear",
+    "relation": "disjointWith",
+    "tail": "nonlinear"
+  },
+  {
+    "head": "nonlinear",
+    "relation": "disjointWith",
+    "tail": "linear"
+  },
+  {
+    "head": "liquid water equivalent",
+    "relation": "equivalentClass",
+    "tail": "lwe"
+  },
+  {
+    "head": "lwe",
+    "relation": "equivalentClass",
+    "tail": "liquid water equivalent"
+  },
+  {
+    "head": "mact",
+    "relation": "equivalentClass",
+    "tail": "maximum achievable control technology"
+  },
+  {
+    "head": "maximum achievable control technology",
+    "relation": "equivalentClass",
+    "tail": "mact"
+  },
+  {
+    "head": "mesosphere",
+    "relation": "equivalentClass",
+    "tail": "middle atmosphere"
+  },
+  {
+    "head": "middle atmosphere",
+    "relation": "equivalentClass",
+    "tail": "mesosphere"
+  },
+  {
+    "head": "metalloid",
+    "relation": "disjointWith",
+    "tail": "nonmetal"
+  },
+  {
+    "head": "nonmetal",
+    "relation": "disjointWith",
+    "tail": "metalloid"
+  },
+  {
+    "head": "methane clathrate",
+    "relation": "equivalentClass",
+    "tail": "methane hydrate"
+  },
+  {
+    "head": "methane hydrate",
+    "relation": "equivalentClass",
+    "tail": "methane clathrate"
+  },
+  {
+    "head": "mix",
+    "relation": "equivalentClass",
+    "tail": "mixing"
+  },
+  {
+    "head": "mixing",
+    "relation": "equivalentClass",
+    "tail": "mix"
+  },
+  {
+    "head": "modulus of elasticity",
+    "relation": "equivalentClass",
+    "tail": "youngs modulus"
+  },
+  {
+    "head": "youngs modulus",
+    "relation": "equivalentClass",
+    "tail": "modulus of elasticity"
+  },
+  {
+    "head": "mountain",
+    "relation": "disjointWith",
+    "tail": "orography"
+  },
+  {
+    "head": "orography",
+    "relation": "disjointWith",
+    "tail": "mountain"
+  },
+  {
+    "head": "mountain fog",
+    "relation": "equivalentClass",
+    "tail": "orographic fog"
+  },
+  {
+    "head": "orographic fog",
+    "relation": "equivalentClass",
+    "tail": "mountain fog"
+  },
+  {
+    "head": "natural resource management index",
+    "relation": "equivalentClass",
+    "tail": "nrmi"
+  },
+  {
+    "head": "nrmi",
+    "relation": "equivalentClass",
+    "tail": "natural resource management index"
+  },
+  {
+    "head": "net primary productivity",
+    "relation": "equivalentClass",
+    "tail": "npp"
+  },
+  {
+    "head": "npp",
+    "relation": "equivalentClass",
+    "tail": "net primary productivity"
+  },
+  {
+    "head": "nmvoc",
+    "relation": "equivalentClass",
+    "tail": "non methane volatile organic compound"
+  },
+  {
+    "head": "non methane volatile organic compound",
+    "relation": "equivalentClass",
+    "tail": "nmvoc"
+  },
+  {
+    "head": "no observed effect level",
+    "relation": "equivalentClass",
+    "tail": "noel"
+  },
+  {
+    "head": "noel",
+    "relation": "equivalentClass",
+    "tail": "no observed effect level"
+  },
+  {
+    "head": "old growth",
+    "relation": "disjointWith",
+    "tail": "second growth"
+  },
+  {
+    "head": "second growth",
+    "relation": "disjointWith",
+    "tail": "old growth"
+  },
+  {
+    "head": "ols",
+    "relation": "equivalentClass",
+    "tail": "ordinary least squares"
+  },
+  {
+    "head": "ordinary least squares",
+    "relation": "equivalentClass",
+    "tail": "ols"
+  },
+  {
+    "head": "p wave",
+    "relation": "equivalentClass",
+    "tail": "primary wave"
+  },
+  {
+    "head": "primary wave",
+    "relation": "equivalentClass",
+    "tail": "p wave"
+  },
+  {
+    "head": "palmer drought severity index",
+    "relation": "equivalentClass",
+    "tail": "pdsi"
+  },
+  {
+    "head": "pdsi",
+    "relation": "equivalentClass",
+    "tail": "palmer drought severity index"
+  },
+  {
+    "head": "pdf",
+    "relation": "equivalentClass",
+    "tail": "probability density function"
+  },
+  {
+    "head": "probability density function",
+    "relation": "equivalentClass",
+    "tail": "pdf"
+  },
+  {
+    "head": "percolate",
+    "relation": "equivalentClass",
+    "tail": "percolation"
+  },
+  {
+    "head": "percolation",
+    "relation": "equivalentClass",
+    "tail": "percolate"
+  },
+  {
+    "head": "photodissociation",
+    "relation": "equivalentClass",
+    "tail": "photolysis"
+  },
+  {
+    "head": "photolysis",
+    "relation": "equivalentClass",
+    "tail": "photodissociation"
+  },
+  {
+    "head": "location",
+    "relation": "equivalentClass",
+    "tail": "position"
+  },
+  {
+    "head": "position",
+    "relation": "equivalentClass",
+    "tail": "location"
+  },
+  {
+    "head": "radiational heating",
+    "relation": "equivalentClass",
+    "tail": "radiative heating"
+  },
+  {
+    "head": "radiative heating",
+    "relation": "equivalentClass",
+    "tail": "radiational heating"
+  },
+  {
+    "head": "radioisotope",
+    "relation": "equivalentClass",
+    "tail": "radionuclide"
+  },
+  {
+    "head": "radionuclide",
+    "relation": "equivalentClass",
+    "tail": "radioisotope"
+  },
+  {
+    "head": "rainout",
+    "relation": "equivalentClass",
+    "tail": "washout"
+  },
+  {
+    "head": "washout",
+    "relation": "equivalentClass",
+    "tail": "rainout"
+  },
+  {
+    "head": "resonance",
+    "relation": "equivalentClass",
+    "tail": "resonant"
+  },
+  {
+    "head": "resonant",
+    "relation": "equivalentClass",
+    "tail": "resonance"
+  },
+  {
+    "head": "rock cycle",
+    "relation": "equivalentClass",
+    "tail": "rock cycle process"
+  },
+  {
+    "head": "rock cycle process",
+    "relation": "equivalentClass",
+    "tail": "rock cycle"
+  },
+  {
+    "head": "scalar",
+    "relation": "disjointWith",
+    "tail": "vector"
+  },
+  {
+    "head": "vector",
+    "relation": "disjointWith",
+    "tail": "scalar"
+  },
+  {
+    "head": "sea floor",
+    "relation": "equivalentClass",
+    "tail": "seabed"
+  },
+  {
+    "head": "seabed",
+    "relation": "equivalentClass",
+    "tail": "sea floor"
+  },
+  {
+    "head": "seq",
+    "relation": "equivalentClass",
+    "tail": "sequence"
+  },
+  {
+    "head": "sequence",
+    "relation": "equivalentClass",
+    "tail": "seq"
+  },
+  {
+    "head": "shore platform",
+    "relation": "equivalentClass",
+    "tail": "wave cut platform"
+  },
+  {
+    "head": "wave cut platform",
+    "relation": "equivalentClass",
+    "tail": "shore platform"
+  },
+  {
+    "head": "smi",
+    "relation": "equivalentClass",
+    "tail": "surface moisture index"
+  },
+  {
+    "head": "surface moisture index",
+    "relation": "equivalentClass",
+    "tail": "smi"
+  },
+  {
+    "head": "sum",
+    "relation": "equivalentClass",
+    "tail": "summation"
+  },
+  {
+    "head": "summation",
+    "relation": "equivalentClass",
+    "tail": "sum"
+  },
+  {
+    "head": "time average",
+    "relation": "equivalentClass",
+    "tail": "time mean"
+  },
+  {
+    "head": "time mean",
+    "relation": "equivalentClass",
+    "tail": "time average"
+  },
+  {
+    "head": "unit risk factor",
+    "relation": "equivalentClass",
+    "tail": "urf"
+  },
+  {
+    "head": "urf",
+    "relation": "equivalentClass",
+    "tail": "unit risk factor"
+  },
+  {
+    "head": "verification",
+    "relation": "equivalentClass",
+    "tail": "verify"
+  },
+  {
+    "head": "verify",
+    "relation": "equivalentClass",
+    "tail": "verification"
+  },
+  {
+    "head": "voc",
+    "relation": "equivalentClass",
+    "tail": "volatile organic compound"
+  },
+  {
+    "head": "volatile organic compound",
+    "relation": "equivalentClass",
+    "tail": "voc"
+  },
+  {
+    "head": "volcanism",
+    "relation": "equivalentClass",
+    "tail": "vulcanism"
+  },
+  {
+    "head": "vulcanism",
+    "relation": "equivalentClass",
+    "tail": "volcanism"
+  }
+]

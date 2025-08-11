@@ -1,0 +1,1042 @@
+[
+  {
+    "head": "aerobic",
+    "relation": "disjointWith",
+    "tail": "anaerobic"
+  },
+  {
+    "head": "aggregated",
+    "relation": "disjointWith",
+    "tail": "distributed"
+  },
+  {
+    "head": "amictic lake",
+    "relation": "disjointWith",
+    "tail": "holomictic lake"
+  },
+  {
+    "head": "amictic lake",
+    "relation": "disjointWith",
+    "tail": "meromictic lake"
+  },
+  {
+    "head": "anaerobic",
+    "relation": "disjointWith",
+    "tail": "aerobic"
+  },
+  {
+    "head": "articular system",
+    "relation": "seeAlso",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "articular system",
+    "relation": "seeAlso",
+    "tail": "skeletal system"
+  },
+  {
+    "head": "biome",
+    "relation": "seeAlso",
+    "tail": "ecoregion"
+  },
+  {
+    "head": "biome",
+    "relation": "seeAlso",
+    "tail": "ecozone"
+  },
+  {
+    "head": "biome",
+    "relation": "seeAlso",
+    "tail": "marine ecosystem"
+  },
+  {
+    "head": "bone element",
+    "relation": "seeAlso",
+    "tail": "bone tissue"
+  },
+  {
+    "head": "bone tissue",
+    "relation": "disjointWith",
+    "tail": "muscle tissue"
+  },
+  {
+    "head": "bone tissue",
+    "relation": "disjointWith",
+    "tail": "neural tissue"
+  },
+  {
+    "head": "bone tissue",
+    "relation": "seeAlso",
+    "tail": "bone element"
+  },
+  {
+    "head": "caldera",
+    "relation": "seeAlso",
+    "tail": "volcanic crater"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "circulatory system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "clay",
+    "relation": "seeAlso",
+    "tail": "mudstone"
+  },
+  {
+    "head": "closed",
+    "relation": "disjointWith",
+    "tail": "open"
+  },
+  {
+    "head": "collective plant organ structure",
+    "relation": "seeAlso",
+    "tail": "plant organ"
+  },
+  {
+    "head": "continental shelf",
+    "relation": "disconnected_from",
+    "tail": "oceanic island"
+  },
+  {
+    "head": "continuant",
+    "relation": "disjointWith",
+    "tail": "occurrent"
+  },
+  {
+    "head": "cowpea (pulse) food product",
+    "relation": "disjointWith",
+    "tail": "cowpea vegetable food product"
+  },
+  {
+    "head": "cowpea vegetable food product",
+    "relation": "disjointWith",
+    "tail": "cowpea (pulse) food product"
+  },
+  {
+    "head": "crevasse",
+    "relation": "seeAlso",
+    "tail": "crevice"
+  },
+  {
+    "head": "crevice",
+    "relation": "seeAlso",
+    "tail": "crevasse"
+  },
+  {
+    "head": "dead cave",
+    "relation": "disjointWith",
+    "tail": "live cave"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "digestive system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "dimictic lake",
+    "relation": "disjointWith",
+    "tail": "monomictic lake"
+  },
+  {
+    "head": "dimictic lake",
+    "relation": "disjointWith",
+    "tail": "polymictic lake"
+  },
+  {
+    "head": "dimictic lake",
+    "relation": "seeAlso",
+    "tail": "holomictic lake"
+  },
+  {
+    "head": "disposition",
+    "relation": "disjointWith",
+    "tail": "process"
+  },
+  {
+    "head": "disposition",
+    "relation": "disjointWith",
+    "tail": "quality"
+  },
+  {
+    "head": "disposition",
+    "relation": "disjointWith",
+    "tail": "role"
+  },
+  {
+    "head": "distributed",
+    "relation": "disjointWith",
+    "tail": "aggregated"
+  },
+  {
+    "head": "ecoregion",
+    "relation": "seeAlso",
+    "tail": "biome"
+  },
+  {
+    "head": "ecoregion",
+    "relation": "seeAlso",
+    "tail": "ecozone"
+  },
+  {
+    "head": "ecozone",
+    "relation": "seeAlso",
+    "tail": "biome"
+  },
+  {
+    "head": "ecozone",
+    "relation": "seeAlso",
+    "tail": "ecoregion"
+  },
+  {
+    "head": "edible",
+    "relation": "disjointWith",
+    "tail": "inedible"
+  },
+  {
+    "head": "elastic",
+    "relation": "disjointWith",
+    "tail": "inelastic"
+  },
+  {
+    "head": "entire sense organ system",
+    "relation": "seeAlso",
+    "tail": "nervous system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "excretory system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "formal settlement",
+    "relation": "disjointWith",
+    "tail": "informal settlement"
+  },
+  {
+    "head": "generically dependent continuant",
+    "relation": "disjointWith",
+    "tail": "independent continuant"
+  },
+  {
+    "head": "generically dependent continuant",
+    "relation": "disjointWith",
+    "tail": "specifically dependent continuant"
+  },
+  {
+    "head": "glacier",
+    "relation": "seeAlso",
+    "tail": "snow"
+  },
+  {
+    "head": "glacier",
+    "relation": "seeAlso",
+    "tail": "water ice"
+  },
+  {
+    "head": "holomictic lake",
+    "relation": "disjointWith",
+    "tail": "amictic lake"
+  },
+  {
+    "head": "holomictic lake",
+    "relation": "disjointWith",
+    "tail": "meromictic lake"
+  },
+  {
+    "head": "holomictic lake",
+    "relation": "seeAlso",
+    "tail": "dimictic lake"
+  },
+  {
+    "head": "holomictic lake",
+    "relation": "seeAlso",
+    "tail": "monomictic lake"
+  },
+  {
+    "head": "holomictic lake",
+    "relation": "seeAlso",
+    "tail": "polymictic lake"
+  },
+  {
+    "head": "hydrophilicity",
+    "relation": "disjointWith",
+    "tail": "hydrophobicity"
+  },
+  {
+    "head": "hydrophobicity",
+    "relation": "disjointWith",
+    "tail": "hydrophilicity"
+  },
+  {
+    "head": "illegal settlement",
+    "relation": "disjointWith",
+    "tail": "legal settlement"
+  },
+  {
+    "head": "immaterial entity",
+    "relation": "disjointWith",
+    "tail": "material entity"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "immune system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "impermeable",
+    "relation": "disjointWith",
+    "tail": "permeable"
+  },
+  {
+    "head": "independent continuant",
+    "relation": "disjointWith",
+    "tail": "generically dependent continuant"
+  },
+  {
+    "head": "independent continuant",
+    "relation": "disjointWith",
+    "tail": "specifically dependent continuant"
+  },
+  {
+    "head": "inedible",
+    "relation": "disjointWith",
+    "tail": "edible"
+  },
+  {
+    "head": "inelastic",
+    "relation": "disjointWith",
+    "tail": "elastic"
+  },
+  {
+    "head": "informal settlement",
+    "relation": "disjointWith",
+    "tail": "formal settlement"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "integumental system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "landlocked sea",
+    "relation": "seeAlso",
+    "tail": "ocean"
+  },
+  {
+    "head": "legal settlement",
+    "relation": "disjointWith",
+    "tail": "illegal settlement"
+  },
+  {
+    "head": "lime mudstone",
+    "relation": "seeAlso",
+    "tail": "mudstone"
+  },
+  {
+    "head": "live cave",
+    "relation": "disjointWith",
+    "tail": "dead cave"
+  },
+  {
+    "head": "marine biome",
+    "relation": "seeAlso",
+    "tail": "marine ecosystem"
+  },
+  {
+    "head": "marine biome",
+    "relation": "seeAlso",
+    "tail": "neritic pelagic zone biome"
+  },
+  {
+    "head": "marine biome",
+    "relation": "seeAlso",
+    "tail": "oceanic pelagic zone biome"
+  },
+  {
+    "head": "marine ecosystem",
+    "relation": "seeAlso",
+    "tail": "biome"
+  },
+  {
+    "head": "marine ecosystem",
+    "relation": "seeAlso",
+    "tail": "marine biome"
+  },
+  {
+    "head": "marine water body",
+    "relation": "seeAlso",
+    "tail": "ocean"
+  },
+  {
+    "head": "material entity",
+    "relation": "disjointWith",
+    "tail": "immaterial entity"
+  },
+  {
+    "head": "meromictic lake",
+    "relation": "disjointWith",
+    "tail": "amictic lake"
+  },
+  {
+    "head": "meromictic lake",
+    "relation": "disjointWith",
+    "tail": "holomictic lake"
+  },
+  {
+    "head": "mineral material",
+    "relation": "seeAlso",
+    "tail": "rock"
+  },
+  {
+    "head": "monomictic lake",
+    "relation": "disjointWith",
+    "tail": "dimictic lake"
+  },
+  {
+    "head": "monomictic lake",
+    "relation": "disjointWith",
+    "tail": "polymictic lake"
+  },
+  {
+    "head": "monomictic lake",
+    "relation": "seeAlso",
+    "tail": "holomictic lake"
+  },
+  {
+    "head": "mudstone",
+    "relation": "seeAlso",
+    "tail": "clay"
+  },
+  {
+    "head": "mudstone",
+    "relation": "seeAlso",
+    "tail": "lime mudstone"
+  },
+  {
+    "head": "mudstone",
+    "relation": "seeAlso",
+    "tail": "silt"
+  },
+  {
+    "head": "muscle organ",
+    "relation": "seeAlso",
+    "tail": "muscle tissue"
+  },
+  {
+    "head": "muscle tissue",
+    "relation": "disjointWith",
+    "tail": "bone tissue"
+  },
+  {
+    "head": "muscle tissue",
+    "relation": "disjointWith",
+    "tail": "neural tissue"
+  },
+  {
+    "head": "muscle tissue",
+    "relation": "seeAlso",
+    "tail": "muscle organ"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "seeAlso",
+    "tail": "articular system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "seeAlso",
+    "tail": "skeletal system"
+  },
+  {
+    "head": "musculoskeletal system",
+    "relation": "seeAlso",
+    "tail": "skeleton"
+  },
+  {
+    "head": "neritic pelagic zone biome",
+    "relation": "seeAlso",
+    "tail": "marine biome"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "nervous system",
+    "relation": "seeAlso",
+    "tail": "entire sense organ system"
+  },
+  {
+    "head": "neural tissue",
+    "relation": "disjointWith",
+    "tail": "bone tissue"
+  },
+  {
+    "head": "neural tissue",
+    "relation": "disjointWith",
+    "tail": "muscle tissue"
+  },
+  {
+    "head": "non-porous",
+    "relation": "disjointWith",
+    "tail": "porous"
+  },
+  {
+    "head": "nonsynovial joint",
+    "relation": "disjointWith",
+    "tail": "synovial joint"
+  },
+  {
+    "head": "nonsynovial joint",
+    "relation": "seeAlso",
+    "tail": "skeletal joint"
+  },
+  {
+    "head": "occurrent",
+    "relation": "disjointWith",
+    "tail": "continuant"
+  },
+  {
+    "head": "ocean",
+    "relation": "seeAlso",
+    "tail": "landlocked sea"
+  },
+  {
+    "head": "ocean",
+    "relation": "seeAlso",
+    "tail": "marine water body"
+  },
+  {
+    "head": "oceanic island",
+    "relation": "disconnected_from",
+    "tail": "continental shelf"
+  },
+  {
+    "head": "oceanic pelagic zone biome",
+    "relation": "seeAlso",
+    "tail": "marine biome"
+  },
+  {
+    "head": "open",
+    "relation": "disjointWith",
+    "tail": "closed"
+  },
+  {
+    "head": "particle of sand",
+    "relation": "seeAlso",
+    "tail": "sand"
+  },
+  {
+    "head": "permeable",
+    "relation": "disjointWith",
+    "tail": "impermeable"
+  },
+  {
+    "head": "plant organ",
+    "relation": "seeAlso",
+    "tail": "collective plant organ structure"
+  },
+  {
+    "head": "plant organ",
+    "relation": "seeAlso",
+    "tail": "portion of plant tissue"
+  },
+  {
+    "head": "polymictic lake",
+    "relation": "disjointWith",
+    "tail": "dimictic lake"
+  },
+  {
+    "head": "polymictic lake",
+    "relation": "disjointWith",
+    "tail": "monomictic lake"
+  },
+  {
+    "head": "polymictic lake",
+    "relation": "seeAlso",
+    "tail": "holomictic lake"
+  },
+  {
+    "head": "porous",
+    "relation": "disjointWith",
+    "tail": "non-porous"
+  },
+  {
+    "head": "portion of plant tissue",
+    "relation": "seeAlso",
+    "tail": "plant organ"
+  },
+  {
+    "head": "process",
+    "relation": "disjointWith",
+    "tail": "disposition"
+  },
+  {
+    "head": "process",
+    "relation": "disjointWith",
+    "tail": "quality"
+  },
+  {
+    "head": "process",
+    "relation": "disjointWith",
+    "tail": "role"
+  },
+  {
+    "head": "quality",
+    "relation": "disjointWith",
+    "tail": "disposition"
+  },
+  {
+    "head": "quality",
+    "relation": "disjointWith",
+    "tail": "process"
+  },
+  {
+    "head": "quality",
+    "relation": "disjointWith",
+    "tail": "role"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "reproductive system",
+    "relation": "disjointWith",
+    "tail": "respiratory system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "circulatory system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "digestive system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "excretory system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "immune system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "integumental system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "nervous system"
+  },
+  {
+    "head": "respiratory system",
+    "relation": "disjointWith",
+    "tail": "reproductive system"
+  },
+  {
+    "head": "rock",
+    "relation": "seeAlso",
+    "tail": "mineral material"
+  },
+  {
+    "head": "role",
+    "relation": "disjointWith",
+    "tail": "disposition"
+  },
+  {
+    "head": "role",
+    "relation": "disjointWith",
+    "tail": "process"
+  },
+  {
+    "head": "role",
+    "relation": "disjointWith",
+    "tail": "quality"
+  },
+  {
+    "head": "root system",
+    "relation": "disjointWith",
+    "tail": "shoot system"
+  },
+  {
+    "head": "sand",
+    "relation": "seeAlso",
+    "tail": "particle of sand"
+  },
+  {
+    "head": "shoot system",
+    "relation": "disjointWith",
+    "tail": "root system"
+  },
+  {
+    "head": "silt",
+    "relation": "seeAlso",
+    "tail": "mudstone"
+  },
+  {
+    "head": "skeletal joint",
+    "relation": "seeAlso",
+    "tail": "nonsynovial joint"
+  },
+  {
+    "head": "skeletal joint",
+    "relation": "seeAlso",
+    "tail": "synovial joint"
+  },
+  {
+    "head": "skeletal system",
+    "relation": "equivalentClass",
+    "tail": "skeleton"
+  },
+  {
+    "head": "skeletal system",
+    "relation": "seeAlso",
+    "tail": "articular system"
+  },
+  {
+    "head": "skeletal system",
+    "relation": "seeAlso",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "skeleton",
+    "relation": "equivalentClass",
+    "tail": "skeletal system"
+  },
+  {
+    "head": "skeleton",
+    "relation": "seeAlso",
+    "tail": "musculoskeletal system"
+  },
+  {
+    "head": "snow",
+    "relation": "seeAlso",
+    "tail": "glacier"
+  },
+  {
+    "head": "specifically dependent continuant",
+    "relation": "disjointWith",
+    "tail": "generically dependent continuant"
+  },
+  {
+    "head": "specifically dependent continuant",
+    "relation": "disjointWith",
+    "tail": "independent continuant"
+  },
+  {
+    "head": "synovial joint",
+    "relation": "disjointWith",
+    "tail": "nonsynovial joint"
+  },
+  {
+    "head": "synovial joint",
+    "relation": "seeAlso",
+    "tail": "skeletal joint"
+  },
+  {
+    "head": "volcanic crater",
+    "relation": "seeAlso",
+    "tail": "caldera"
+  },
+  {
+    "head": "water ice",
+    "relation": "seeAlso",
+    "tail": "glacier"
+  }
+]

@@ -1,0 +1,137 @@
+acellular anatomical structure
+adipose tissue
+aerobic
+aggregated
+amictic lake
+anaerobic
+anterior segment of eyeball
+anterior uvea
+articular system
+biome
+blood vessel
+bone element
+bone tissue
+caldera
+circulatory system
+clay
+closed
+collective plant organ structure
+continental shelf
+continuant
+continuant fiat boundary
+cowpea (pulse) food product
+cowpea vegetable food product
+crevasse
+crevice
+dead cave
+dense connective tissue
+digestive system
+dimictic lake
+disposition
+distributed
+ecoregion
+ecozone
+edible
+elastic
+entire sense organ system
+excretory system
+fluid astronomical body part
+formal settlement
+generically dependent continuant
+glacier
+hematopoietic system
+holomictic lake
+hydroform
+hydrophilicity
+hydrophobicity
+illegal settlement
+immaterial anatomical entity
+immaterial entity
+immune system
+impermeable
+independent continuant
+inedible
+inelastic
+informal settlement
+integumental system
+landlocked sea
+legal settlement
+lime mudstone
+live cave
+loose connective tissue
+lymphatic vessel
+marine biome
+marine ecosystem
+marine neritic zone
+marine water body
+marine water mass
+material anatomical entity
+material entity
+meromictic lake
+mineral material
+monomictic lake
+mudstone
+multi organ part structure
+multicellular anatomical structure
+muscle organ
+muscle structure
+muscle tissue
+musculoskeletal system
+neritic pelagic zone biome
+nervous system
+neural tissue
+non-porous
+nonsynovial joint
+nuclear power reactor
+obsolete glacial feature
+obsolete marine benthic feature
+obsolete marine pelagic feature
+occurrent
+ocean
+oceanic island
+oceanic pelagic zone biome
+oceanic zone
+one-dimensional continuant fiat boundary
+open
+optic choroid
+organ
+particle of sand
+pectoral girdle region
+pectoral girdle skeleton
+permeable
+physical object quality
+plant cell
+plant organ
+polymictic lake
+porous
+portion of plant tissue
+posterior segment of eyeball
+process
+process boundary
+process quality
+quality
+realizable entity
+reproductive system
+research nuclear reactor
+respiratory system
+rock
+role
+root system
+sand
+shoot system
+silt
+site
+skeletal joint
+skeletal system
+skeletal tissue
+skeleton
+snow
+solid astronomical body part
+spatial region
+spatiotemporal region
+specifically dependent continuant
+synovial joint
+temporal region
+two-dimensional continuant fiat boundary
+volcanic crater
+water ice

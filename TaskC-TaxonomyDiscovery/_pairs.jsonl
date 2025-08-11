@@ -1,0 +1,850 @@
+{"parent": "shoot system", "child": "axillary shoot system"}
+{"parent": "shoot system", "child": "primary shoot system"}
+{"parent": "shoot system", "child": "reproductive shoot system"}
+{"parent": "shoot system", "child": "vegetative shoot system"}
+{"parent": "shoot system", "child": "shoot-borne shoot system"}
+{"parent": "axillary bud", "child": "axillary flower bud"}
+{"parent": "flower bud", "child": "axillary flower bud"}
+{"parent": "axillary bud", "child": "axillary inflorescence bud"}
+{"parent": "inflorescence bud", "child": "axillary inflorescence bud"}
+{"parent": "axillary bud", "child": "axillary reproductive bud"}
+{"parent": "reproductive bud", "child": "axillary reproductive bud"}
+{"parent": "axillary bud", "child": "axillary strobilus bud"}
+{"parent": "strobilus bud", "child": "axillary strobilus bud"}
+{"parent": "axillary bud", "child": "axillary vegetative bud"}
+{"parent": "vegetative bud", "child": "axillary vegetative bud"}
+{"parent": "terminal bud", "child": "terminal flower bud"}
+{"parent": "flower bud", "child": "terminal flower bud"}
+{"parent": "terminal bud", "child": "terminal inflorescence bud"}
+{"parent": "inflorescence bud", "child": "terminal inflorescence bud"}
+{"parent": "terminal bud", "child": "terminal reproductive bud"}
+{"parent": "reproductive bud", "child": "terminal reproductive bud"}
+{"parent": "terminal bud", "child": "terminal strobilus bud"}
+{"parent": "strobilus bud", "child": "terminal strobilus bud"}
+{"parent": "terminal bud", "child": "terminal vegetative bud"}
+{"parent": "vegetative bud", "child": "terminal vegetative bud"}
+{"parent": "axillary vegetative bud", "child": "aerial tuber axillary vegetative bud"}
+{"parent": "axillary vegetative bud", "child": "shoot axis tuber axillary vegetative bud"}
+{"parent": "axillary vegetative bud", "child": "subterranean tuber axillary vegetative bud"}
+{"parent": "inflorescence", "child": "anthela inflorescence"}
+{"parent": "inflorescence", "child": "bostryx inflorescence"}
+{"parent": "inflorescence", "child": "capitulum inflorescence"}
+{"parent": "inflorescence", "child": "catkin inflorescence"}
+{"parent": "inflorescence", "child": "cincinnus inflorescence"}
+{"parent": "inflorescence", "child": "corymb inflorescence"}
+{"parent": "inflorescence", "child": "cyme inflorescence"}
+{"parent": "inflorescence", "child": "determinate thyrse inflorescence"}
+{"parent": "inflorescence", "child": "drepanium inflorescence"}
+{"parent": "inflorescence", "child": "ear inflorescence"}
+{"parent": "inflorescence", "child": "indeterminate thyrse inflorescence"}
+{"parent": "inflorescence", "child": "panicle inflorescence"}
+{"parent": "inflorescence", "child": "pistillate inflorescence"}
+{"parent": "inflorescence", "child": "raceme inflorescence"}
+{"parent": "inflorescence", "child": "rhipidium inflorescence"}
+{"parent": "inflorescence", "child": "spadix inflorescence"}
+{"parent": "inflorescence", "child": "spike inflorescence"}
+{"parent": "inflorescence", "child": "staminate inflorescence"}
+{"parent": "inflorescence", "child": "tassel inflorescence"}
+{"parent": "inflorescence", "child": "umbel inflorescence"}
+{"parent": "inflorescence", "child": "second order inflorescence"}
+{"parent": "inflorescence", "child": "flower fascicle"}
+{"parent": "inflorescence", "child": "compound capitulum inflorescence"}
+{"parent": "capitulum inflorescence", "child": "compound capitulum inflorescence"}
+{"parent": "inflorescence", "child": "compound cincinnus inflorescence"}
+{"parent": "cincinnus inflorescence", "child": "compound cincinnus inflorescence"}
+{"parent": "inflorescence", "child": "compound drepanium inflorescence"}
+{"parent": "drepanium inflorescence", "child": "compound drepanium inflorescence"}
+{"parent": "inflorescence", "child": "compound raceme inflorescence"}
+{"parent": "raceme inflorescence", "child": "compound raceme inflorescence"}
+{"parent": "inflorescence", "child": "compound spike inflorescence"}
+{"parent": "spike inflorescence", "child": "compound spike inflorescence"}
+{"parent": "inflorescence", "child": "compound umbel inflorescence"}
+{"parent": "umbel inflorescence", "child": "compound umbel inflorescence"}
+{"parent": "flower", "child": "disk flower"}
+{"parent": "flower", "child": "pistillate flower"}
+{"parent": "flower", "child": "ray flower"}
+{"parent": "flower", "child": "staminate flower"}
+{"parent": "flower", "child": "ear floret"}
+{"parent": "ear inflorescence", "child": "ear floret"}
+{"parent": "flower", "child": "spikelet floret"}
+{"parent": "spikelet", "child": "spikelet floret"}
+{"parent": "flower", "child": "tassel floret"}
+{"parent": "tassel inflorescence", "child": "tassel floret"}
+{"parent": "spikelet", "child": "ear sessile spikelet"}
+{"parent": "ear spikelet", "child": "ear sessile spikelet"}
+{"parent": "spikelet", "child": "ear spikelet"}
+{"parent": "spikelet", "child": "tassel pedicellate spikelet"}
+{"parent": "spikelet", "child": "tassel spikelet"}
+{"parent": "strobilus", "child": "megasporangiate strobilus"}
+{"parent": "strobilus", "child": "microsporangiate strobilus"}
+{"parent": "infructescence", "child": "ear infructescence"}
+{"parent": "infructescence", "child": "second order infructescence"}
+{"parent": "gametophore", "child": "gametophore bud"}
+{"parent": "inflorescence", "child": "inflorescence bract"}
+{"parent": "inflorescence bract", "child": "inflorescence bract primordium"}
+{"parent": "inflorescence", "child": "inflorescence branch crown"}
+{"parent": "flower fascicle", "child": "flower"}
+{"parent": "flower", "child": "lower floret of pedicellate spikelet of ear"}
+{"parent": "ear spikelet", "child": "lower floret of pedicellate spikelet of ear"}
+{"parent": "flower", "child": "lower floret of pedicellate spikelet of tassel"}
+{"parent": "tassel pedicellate spikelet", "child": "lower floret of pedicellate spikelet of tassel"}
+{"parent": "flower", "child": "lower floret of sessile spikelet of ear"}
+{"parent": "ear sessile spikelet", "child": "lower floret of sessile spikelet of ear"}
+{"parent": "flower", "child": "lower floret of sessile spikelet of tassel"}
+{"parent": "tassel spikelet", "child": "lower floret of sessile spikelet of tassel"}
+{"parent": "flower", "child": "upper floret of pedicellate spikelet of ear"}
+{"parent": "ear spikelet", "child": "upper floret of pedicellate spikelet of ear"}
+{"parent": "flower", "child": "upper floret of pedicellate spikelet of tassel"}
+{"parent": "tassel pedicellate spikelet", "child": "upper floret of pedicellate spikelet of tassel"}
+{"parent": "flower", "child": "upper floret of sessile spikelet of ear"}
+{"parent": "ear sessile spikelet", "child": "upper floret of sessile spikelet of ear"}
+{"parent": "flower", "child": "upper floret of sessile spikelet of tassel"}
+{"parent": "tassel spikelet", "child": "upper floret of sessile spikelet of tassel"}
+{"parent": "tassel inflorescence", "child": "tassel inflorescence branch"}
+{"parent": "whole plant development stage", "child": "life of whole plant stage"}
+{"parent": "whole plant development stage", "child": "gametophore reproductive whole plant development stage"}
+{"parent": "whole plant development stage", "child": "gametophore vegetative whole plant development stage"}
+{"parent": "whole plant development stage", "child": "thallus reproductive whole plant development stage"}
+{"parent": "whole plant development stage", "child": "thallus vegetative whole plant development stage"}
+{"parent": "whole plant development stage", "child": "protonema whole plant development stage"}
+{"parent": "whole plant development stage", "child": "whole plant flowering stage"}
+{"parent": "whole plant development stage", "child": "whole plant fruit development stage"}
+{"parent": "whole plant development stage", "child": "whole plant inflorescence detectable stage"}
+{"parent": "whole plant development stage", "child": "seedling development stage"}
+{"parent": "whole plant development stage", "child": "gametophyte development stage"}
+{"parent": "whole plant development stage", "child": "sporophyte development stage"}
+{"parent": "whole plant development stage", "child": "plant structure development stage"}
+{"parent": "plant structure development stage", "child": "multi-tissue plant structure development stage"}
+{"parent": "plant structure development stage", "child": "plant organ development stage"}
+{"parent": "plant structure development stage", "child": "plant tissue development stage"}
+{"parent": "plant structure development stage", "child": "collective plant organ structure development stage"}
+{"parent": "plant organ development stage", "child": "phyllome development stage"}
+{"parent": "plant organ development stage", "child": "root development stage"}
+{"parent": "plant organ development stage", "child": "shoot system development stage"}
+{"parent": "plant organ development stage", "child": "inflorescence development stage"}
+{"parent": "plant organ development stage", "child": "flower development stage"}
+{"parent": "plant organ development stage", "child": "fruit development stage"}
+{"parent": "plant organ development stage", "child": "ovule development stage"}
+{"parent": "plant tissue development stage", "child": "establishment of tissue systems stage"}
+{"parent": "plant tissue development stage", "child": "vascular tissue development stage"}
+{"parent": "vascular tissue development stage", "child": "xylem development stage"}
+{"parent": "vascular tissue development stage", "child": "phloem development stage"}
+{"parent": "xylem development stage", "child": "secondary xylem development stage"}
+{"parent": "secondary xylem development stage", "child": "cell division stage of secondary xylem"}
+{"parent": "secondary xylem development stage", "child": "cell expansion stage of secondary xylem"}
+{"parent": "secondary xylem development stage", "child": "cell differentiation stage of secondary xylem"}
+{"parent": "secondary xylem development stage", "child": "secondary cell wall formation stage of secondary xylem"}
+{"parent": "secondary xylem development stage", "child": "cell death stage of secondary xylem"}
+{"parent": "secondary xylem development stage", "child": "tracheary element death stage of secondary xylem"}
+{"parent": "secondary xylem development stage", "child": "secondary xylem parenchyma cell death stage of secondary xylem"}
+{"parent": "phyllome development stage", "child": "collective phyllome structure development stage"}
+{"parent": "phyllome development stage", "child": "leaf development stage"}
+{"parent": "leaf development stage", "child": "vascular leaf development stage"}
+{"parent": "leaf development stage", "child": "non-vascular leaf development stage"}
+{"parent": "leaf development stage", "child": "leaf production stage"}
+{"parent": "leaf development stage", "child": "leaf trichome development stage"}
+{"parent": "leaf development stage", "child": "rapid elongation of leaf sheath stage"}
+{"parent": "leaf development stage", "child": "rapid elongation of vascular leaf lamina stage"}
+{"parent": "leaf production stage", "child": "LP.01 one leaf visible stage"}
+{"parent": "leaf production stage", "child": "LP.02 two leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.03 three leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.04 four leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.05 five leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.06 six leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.07 seven leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.08 eight leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.09 nine leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.10 ten leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.11 eleven leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.12 twelve leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.13 thirteen leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.14 fourteen leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.15 fifteen leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.16 sixteen leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.17 seventeen leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.18 eighteen leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.19 nineteen leaves visible stage"}
+{"parent": "leaf production stage", "child": "LP.20 twenty or more leaves whorls visible stage"}
+{"parent": "vascular leaf development stage", "child": "vascular leaf initiation stage"}
+{"parent": "vascular leaf development stage", "child": "vascular leaf primordium formation stage"}
+{"parent": "vascular leaf development stage", "child": "vascular leaf differentiation stage"}
+{"parent": "vascular leaf development stage", "child": "vascular leaf expansion stage"}
+{"parent": "vascular leaf development stage", "child": "vascular leaf post-expansion stage"}
+{"parent": "vascular leaf development stage", "child": "vascular leaf senescent stage"}
+{"parent": "root development stage", "child": "1 root primordium formation stage"}
+{"parent": "root development stage", "child": "4 root elongation stage"}
+{"parent": "root development stage", "child": "crown root primordium formation stage"}
+{"parent": "root development stage", "child": "lateral root emergence stage"}
+{"parent": "root development stage", "child": "root epidermal differentiation stage"}
+{"parent": "inflorescence development stage", "child": "IL.00 inflorescence just visible stage"}
+{"parent": "inflorescence development stage", "child": "IL.01 1/4 inflorescence length reached stage"}
+{"parent": "inflorescence development stage", "child": "IL.02 1/2 inflorescence length reached stage"}
+{"parent": "inflorescence development stage", "child": "IL.03 full inflorescence length reached stage"}
+{"parent": "inflorescence development stage", "child": "inflorescence bifurcation stage"}
+{"parent": "inflorescence development stage", "child": "inflorescence emergence stage"}
+{"parent": "inflorescence emergence stage", "child": "IE.01 1/4 of inflorescence emerged from flag leaf sheath stage"}
+{"parent": "inflorescence emergence stage", "child": "IE.03 3/4 of inflorescence emerged from flag leaf sheath stage"}
+{"parent": "flower development stage", "child": "floral organ formation stage"}
+{"parent": "flower development stage", "child": "calyx development stage"}
+{"parent": "flower development stage", "child": "corolla development stage"}
+{"parent": "flower development stage", "child": "androecium development stage"}
+{"parent": "flower development stage", "child": "gynoecium development stage"}
+{"parent": "flower development stage", "child": "booting stage"}
+{"parent": "flower development stage", "child": "lemma development stage"}
+{"parent": "flower development stage", "child": "lodicule development stage"}
+{"parent": "flower development stage", "child": "palea development stage"}
+{"parent": "flower development stage", "child": "FL.00 first flower(s) open stage"}
+{"parent": "flower development stage", "child": "FL.01 1/4 of flowers open stage"}
+{"parent": "flower development stage", "child": "FL.02 1/2 of flowers open stage"}
+{"parent": "flower development stage", "child": "FL.03 3/4 of flowers open stage"}
+{"parent": "flower development stage", "child": "FL.04 end of flowering stage"}
+{"parent": "flower development stage", "child": "lemma"}
+{"parent": "flower development stage", "child": "lodicule"}
+{"parent": "flower development stage", "child": "palea"}
+{"parent": "floral organ formation stage", "child": "floral organ primordium development stage"}
+{"parent": "floral organ formation stage", "child": "floral organ differentiation stage"}
+{"parent": "floral organ formation stage", "child": "floral organ meristem development stage"}
+{"parent": "floral organ formation stage", "child": "hood-shaped primordium stage"}
+{"parent": "calyx development stage", "child": "sepal primordium visible stage"}
+{"parent": "androecium development stage", "child": "anther development stage"}
+{"parent": "androecium development stage", "child": "pollen development stage"}
+{"parent": "anther development stage", "child": "A archesporial cells visible stage"}
+{"parent": "anther development stage", "child": "A microsporogenous mass stage"}
+{"parent": "anther development stage", "child": "C four anther lobes formed stage"}
+{"parent": "anther development stage", "child": "E anther wall tapetum degeneration initiated stage"}
+{"parent": "anther development stage", "child": "F bilocular anther stage"}
+{"parent": "pollen development stage", "child": "microgametophyte development stage"}
+{"parent": "pollen development stage", "child": "B enlarged microsporocyte stage"}
+{"parent": "pollen development stage", "child": "D pollen mother cell meiosis stage"}
+{"parent": "pollen development stage", "child": "C callose wall formation in pollen mother cells stage"}
+{"parent": "pollen development stage", "child": "E tetrad stage"}
+{"parent": "pollen development stage", "child": "F microspore release stage"}
+{"parent": "pollen development stage", "child": "G early unicellular microspore stage"}
+{"parent": "pollen development stage", "child": "H late unicellular microspore stage"}
+{"parent": "pollen development stage", "child": "I first mitotic division stage"}
+{"parent": "pollen development stage", "child": "J bicellular pollen stage"}
+{"parent": "pollen development stage", "child": "K second mitotic division stage"}
+{"parent": "pollen development stage", "child": "L mature pollen stage"}
+{"parent": "pollen development stage", "child": "M germinated pollen stage"}
+{"parent": "microsporocyte", "child": "B enlarged microsporocyte stage"}
+{"parent": "L mature pollen stage", "child": "pollen"}
+{"parent": "gynoecium development stage", "child": "ovule development stage"}
+{"parent": "gynoecium development stage", "child": "megagametophyte development stage"}
+{"parent": "ovule development stage", "child": "A megaspore mother cell enlarges stage"}
+{"parent": "ovule development stage", "child": "B meiosis of megaspore mother cell stage"}
+{"parent": "ovule development stage", "child": "C tetrad of megaspores stage"}
+{"parent": "ovule development stage", "child": "D megaspore degeneration stage"}
+{"parent": "ovule development stage", "child": "E two nucleate megagametophyte stage"}
+{"parent": "ovule development stage", "child": "F four nucleate megagametophyte stage"}
+{"parent": "ovule development stage", "child": "G eight nucleate megagametophyte stage"}
+{"parent": "ovule development stage", "child": "chalazal and micropylar domain establishment stage"}
+{"parent": "ovule development stage", "child": "ovule differentiation and expansion stage"}
+{"parent": "megagametophyte development stage", "child": "megagametophyte"}
+{"parent": "booting stage", "child": "BO.01 early boot stage"}
+{"parent": "booting stage", "child": "BO.05 flag leaf sheath opened stage"}
+{"parent": "lemma development stage", "child": "lemma primordia visible stage"}
+{"parent": "lemma development stage", "child": "lemma differentiation and expansion stage"}
+{"parent": "lemma development stage", "child": "fully expanded lemma stage"}
+{"parent": "lodicule development stage", "child": "lodicule primordia visible stage"}
+{"parent": "lodicule development stage", "child": "lodicule differentiation and expansion stage"}
+{"parent": "lodicule development stage", "child": "fully expanded lodicule stage"}
+{"parent": "palea development stage", "child": "palea primordia visible stage"}
+{"parent": "palea development stage", "child": "palea differentiation and expansion stage"}
+{"parent": "palea development stage", "child": "fully expanded palea stage"}
+{"parent": "corolla development stage", "child": "petal differentiation and expansion stage"}
+{"parent": "fruit development stage", "child": "fruit formation stage"}
+{"parent": "fruit development stage", "child": "fruit ripening stage"}
+{"parent": "whole plant fruit development stage", "child": "fruit development stage"}
+{"parent": "fruit formation stage", "child": "fruit initiation stage"}
+{"parent": "fruit formation stage", "child": "fruit size up to 10% stage"}
+{"parent": "fruit formation stage", "child": "fruit size 10 to 30% stage"}
+{"parent": "fruit formation stage", "child": "fruit size 30 to 50% stage"}
+{"parent": "fruit formation stage", "child": "fruit size 50 to 70% stage"}
+{"parent": "fruit formation stage", "child": "fruit size 70% to final size stage"}
+{"parent": "whole plant fruit formation stage", "child": "whole plant fruit formation stage up to 10%"}
+{"parent": "whole plant fruit formation stage", "child": "whole plant fruit formation stage 10 to 30%"}
+{"parent": "whole plant fruit formation stage", "child": "whole plant fruit formation stage 30 to 50%"}
+{"parent": "whole plant fruit formation stage", "child": "whole plant fruit formation stage 50 to 70%"}
+{"parent": "whole plant fruit formation stage", "child": "whole plant fruit formation stage 70% to final size"}
+{"parent": "fruit ripening stage", "child": "beginning of whole plant fruit ripening stage"}
+{"parent": "fruit ripening stage", "child": "early whole plant fruit ripening stage"}
+{"parent": "fruit ripening stage", "child": "mid whole plant fruit ripening stage"}
+{"parent": "fruit ripening stage", "child": "late whole plant fruit ripening stage"}
+{"parent": "fruit ripening stage", "child": "whole plant fruit ripening complete stage"}
+{"parent": "fruit ripening stage", "child": "whole plant fruit ripening stage"}
+{"parent": "seed development stage", "child": "fertilized ovule stage"}
+{"parent": "seed development stage", "child": "developing seed stage"}
+{"parent": "seed development stage", "child": "seed maturation stage"}
+{"parent": "seed development stage", "child": "dry seed stage"}
+{"parent": "seed development stage", "child": "seed dormant stage"}
+{"parent": "seed development stage", "child": "endosperm development stage"}
+{"parent": "seed development stage", "child": "plant embryo development stage"}
+{"parent": "seed development stage", "child": "seed trichome development stage"}
+{"parent": "seed development stage", "child": "seed chalaza"}
+{"parent": "seed development stage", "child": "seed funicle"}
+{"parent": "seed development stage", "child": "seed obturator"}
+{"parent": "endosperm development stage", "child": "primary endosperm cell stage"}
+{"parent": "endosperm development stage", "child": "formation of aleurone and starchy layers stage"}
+{"parent": "endosperm development stage", "child": "functional specialization of the endosperm stage"}
+{"parent": "formation of aleurone and starchy layers stage", "child": "modified aleurone"}
+{"parent": "plant embryo development stage", "child": "plant zygote stage"}
+{"parent": "plant embryo development stage", "child": "plant proembryo stage"}
+{"parent": "plant embryo development stage", "child": "plant embryo globular stage"}
+{"parent": "plant embryo development stage", "child": "plant embryo bilateral stage"}
+{"parent": "plant embryo development stage", "child": "plant embryo cotyledonary stage"}
+{"parent": "plant embryo development stage", "child": "plant embryo coleoptilar stage"}
+{"parent": "plant embryo development stage", "child": "plant embryo true leaf formation stage"}
+{"parent": "plant embryo development stage", "child": "mature plant embryo stage"}
+{"parent": "plant embryo development stage", "child": "plant embryo dormant stage"}
+{"parent": "seed germination stage", "child": "seed imbibition stage"}
+{"parent": "seed germination stage", "child": "coleoptile emergence stage"}
+{"parent": "seed germination stage", "child": "hypocotyl emergence stage"}
+{"parent": "seed germination stage", "child": "epicotyl emergence stage"}
+{"parent": "seed germination stage", "child": "cotyledon emergence stage"}
+{"parent": "seed germination stage", "child": "root emergence stage"}
+{"parent": "seed germination stage", "child": "seedling shoot emergence stage"}
+{"parent": "seedling development stage", "child": "rosette growth stage"}
+{"parent": "seedling development stage", "child": "bud development stage"}
+{"parent": "rosette growth stage", "child": "early rosette growth stage"}
+{"parent": "rosette growth stage", "child": "mid rosette growth stage"}
+{"parent": "rosette growth stage", "child": "late rosette growth stage"}
+{"parent": "rosette growth stage", "child": "rosette growth complete stage"}
+{"parent": "bud development stage", "child": "bud burst stage"}
+{"parent": "bud development stage", "child": "bud dormancy stage"}
+{"parent": "bud development stage", "child": "bud swell stage"}
+{"parent": "shoot system development stage", "child": "1 main shoot growth stage"}
+{"parent": "shoot system development stage", "child": "reproductive shoot system development stage"}
+{"parent": "shoot system development stage", "child": "stem elongation stage"}
+{"parent": "1 main shoot growth stage", "child": "2 formation of axillary shoot stage"}
+{"parent": "1 main shoot growth stage", "child": "3 branch formation stage"}
+{"parent": "1 main shoot growth stage", "child": "4 growth directionality stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.01 main shoot and axillary shoots visible at one node stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.02 main shoot and axillary shoots visible at two nodes stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.03 main shoot and axillary shoots visible at three nodes stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.04 main shoot and axillary shoots visible at four nodes stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.05 main shoot and axillary shoots visible at five nodes stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.06 main shoot and axillary shoots visible at six nodes stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.07 main shoot and axillary shoots visible at seven nodes stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.08 main shoot and axillary shoots visible at eight nodes stage"}
+{"parent": "2 formation of axillary shoot stage", "child": "2.09 main shoot and axillary shoots visible at nine or more nodes stage"}
+{"parent": "stem elongation stage", "child": "SE.00 stem elongation begins stage"}
+{"parent": "stem elongation stage", "child": "SE.08 eight nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.13 thirteen nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.16 sixteen or more nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.99 maximum stem length reached stage"}
+{"parent": "trichome development stage", "child": "leaf trichome development stage"}
+{"parent": "trichome development stage", "child": "seed trichome development stage"}
+{"parent": "seed trichome development stage", "child": "seed trichome initiation stage"}
+{"parent": "seed trichome development stage", "child": "seed trichome elongation stage"}
+{"parent": "seed trichome development stage", "child": "seed trichome secondary wall biosynthesis stage"}
+{"parent": "seed trichome development stage", "child": "seed trichome maturation stage"}
+{"parent": "gametophyte development stage", "child": "gametophyte dormant stage"}
+{"parent": "gametophyte development stage", "child": "gametophyte vegetative stage"}
+{"parent": "gametophyte development stage", "child": "gametophyte reproductive stage"}
+{"parent": "gametophyte development stage", "child": "gametophyte senescent stage"}
+{"parent": "sporophyte development stage", "child": "sporophyte dormant stage"}
+{"parent": "sporophyte development stage", "child": "sporophyte vegetative stage"}
+{"parent": "sporophyte development stage", "child": "sporophyte reproductive stage"}
+{"parent": "sporophyte development stage", "child": "sporophyte senescent stage"}
+{"parent": "sporophyte development stage", "child": "sporophyte foot"}
+{"parent": "obturator", "child": "seed obturator"}
+"Answer"
+{"parent": "vascular bundle", "child": "pericarp vascular bundle"}
+{"parent": "vascular bundle", "child": "petiole vascular bundle"}
+{"parent": "vascular bundle", "child": "phyllome lamina vein"}
+{"parent": "phyllome lamina vein", "child": "leaf lamina vein"}
+{"parent": "leaf lamina vein", "child": "leaf lamina intramarginal vein"}
+{"parent": "leaf lamina vein", "child": "leaf midvein"}
+{"parent": "leaf lamina vein", "child": "primary leaf vein"}
+{"parent": "leaf lamina vein", "child": "quaternary leaf vein"}
+{"parent": "plant axis", "child": "shoot axis"}
+{"parent": "plant axis", "child": "inflorescence axis"}
+{"parent": "plant axis", "child": "infructescence axis"}
+{"parent": "plant axis", "child": "gametophore axis"}
+{"parent": "plant axis", "child": "plant embryo axis"}
+{"parent": "plant axis", "child": "pseudopodium"}
+{"parent": "shoot axis", "child": "adventitious shoot axis"}
+{"parent": "shoot axis", "child": "stem"}
+{"parent": "shoot axis", "child": "shoot axis tuber"}
+{"parent": "shoot axis", "child": "accessory paraclade"}
+{"parent": "shoot axis", "child": "cauline paraclade"}
+{"parent": "shoot axis", "child": "rosette paraclade"}
+{"parent": "stem", "child": "gametophore stem"}
+{"parent": "stem", "child": "cladode"}
+{"parent": "stem", "child": "gynophore"}
+{"parent": "stem", "child": "stem apex tendril"}
+{"parent": "tuber", "child": "shoot axis tuber"}
+{"parent": "tuber", "child": "tuberous root tuber"}
+{"parent": "shoot axis tuber", "child": "subterranean shoot axis tuber"}
+{"parent": "inflorescence axis", "child": "first order inflorescence axis"}
+{"parent": "inflorescence axis", "child": "higher order inflorescence axis"}
+{"parent": "inflorescence axis", "child": "inflorescence axis node"}
+{"parent": "inflorescence axis", "child": "tassel inflorescence branch"}
+{"parent": "higher order inflorescence axis", "child": "second order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "third order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "fourth order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "fifth order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "sixth order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "seventh order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "eighth order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "ninth order inflorescence axis"}
+{"parent": "higher order inflorescence axis", "child": "tenth order inflorescence axis"}
+{"parent": "first order inflorescence axis", "child": "first order ear inflorescence axis"}
+{"parent": "first order inflorescence axis", "child": "first order tassel inflorescence axis"}
+{"parent": "infructescence axis", "child": "first order infructescence axis"}
+{"parent": "infructescence axis", "child": "higher order infructescence axis"}
+{"parent": "infructescence axis", "child": "ear infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "second order infructescence"}
+{"parent": "higher order infructescence axis", "child": "seventh order infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "eighth order infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "tenth order infructescence axis"}
+{"parent": "pedicel", "child": "flower pedicel"}
+{"parent": "pedicel", "child": "spikelet pedicel"}
+{"parent": "flower pedicel", "child": "inflorescence flower pedicel"}
+{"parent": "spikelet pedicel", "child": "pedicel of ear spikelet"}
+{"parent": "spikelet pedicel", "child": "pedicel of tassel spikelet"}
+{"parent": "spikelet rachilla", "child": "ear spikelet rachilla"}
+{"parent": "spikelet rachilla", "child": "tassel spikelet rachilla"}
+{"parent": "ear spikelet rachilla", "child": "rachilla of pedicellate spikelet of ear"}
+{"parent": "tassel spikelet rachilla", "child": "rachilla of pedicellate spikelet of tassel"}
+{"parent": "tassel spikelet rachilla", "child": "rachilla of sessile spikelet of tassel"}
+{"parent": "hydathode", "child": "hydathode pore"}
+{"parent": "intercellular space", "child": "leaf mesophyll intercellular space"}
+{"parent": "intercellular space", "child": "palisade mesophyll intercellular space"}
+{"parent": "intercellular space", "child": "spongy mesophyll intercellular space"}
+{"parent": "leaf mesophyll intercellular space", "child": "palisade mesophyll intercellular space"}
+{"parent": "leaf mesophyll intercellular space", "child": "spongy mesophyll intercellular space"}
+{"parent": "phyllome sinus", "child": "leaf sinus"}
+{"parent": "phyllome stomatal pore", "child": "leaf stomatal pore"}
+{"parent": "phyllome substomatal cavity", "child": "leaf substomatal cavity"}
+{"parent": "plant anatomical space", "child": "anther pore"}
+{"parent": "plant anatomical space", "child": "hydathode pore"}
+{"parent": "plant anatomical space", "child": "intercellular space"}
+{"parent": "plant anatomical space", "child": "leaf mesophyll intercellular space"}
+{"parent": "plant anatomical space", "child": "leaf sinus"}
+{"parent": "plant anatomical space", "child": "leaf stomatal pore"}
+{"parent": "plant anatomical space", "child": "leaf substomatal cavity"}
+{"parent": "plant anatomical space", "child": "palisade mesophyll intercellular space"}
+{"parent": "plant anatomical space", "child": "phyllome sinus"}
+{"parent": "plant anatomical space", "child": "phyllome stomatal pore"}
+{"parent": "plant anatomical space", "child": "phyllome substomatal cavity"}
+{"parent": "plant anatomical space", "child": "plant ovule micropyle"}
+{"parent": "plant anatomical space", "child": "seed micropyle"}
+{"parent": "plant anatomical space", "child": "spongy mesophyll intercellular space"}
+{"parent": "plant anatomical space", "child": "spore capsule mouth"}
+{"parent": "plant anatomical space", "child": "stomatal pore"}
+{"parent": "plant anatomical space", "child": "substomatal cavity"}
+{"parent": "plant ovule micropyle", "child": "seed micropyle"}
+{"parent": "stomatal pore", "child": "leaf stomatal pore"}
+{"parent": "stomatal pore", "child": "phyllome stomatal pore"}
+{"parent": "substomatal cavity", "child": "leaf substomatal cavity"}
+{"parent": "substomatal cavity", "child": "phyllome substomatal cavity"}
+{"parent": "pericycle cell", "child": "phloem pole pericycle cell"}
+{"parent": "pericycle cell", "child": "xylem pole pericycle cell"}
+{"parent": "stem elongation stage", "child": "SE.01 one node or internode visible stage"}
+{"parent": "stem elongation stage", "child": "SE.02 two nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.03 three nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.04 four nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.05 five nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.06 six nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.07 seven nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.09 nine nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.10 ten nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.11 eleven nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.12 twelve nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.14 fourteen nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.15 fifteen nodes or internodes visible stage"}
+{"parent": "stem elongation stage", "child": "SE.97 flag leaf visible stage"}
+{"parent": "embryo sac cell", "child": "antipodal cell"}
+{"parent": "embryo sac cell", "child": "embryo sac central cell"}
+{"parent": "embryo sac cell", "child": "synergid"}
+{"parent": "embryo sac central cell", "child": "primary endosperm cell"}
+{"parent": "higher order infructescence axis", "child": "fifth order infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "fourth order infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "ninth order infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "second order infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "sixth order infructescence axis"}
+{"parent": "higher order infructescence axis", "child": "third order infructescence axis"}
+{"parent": "vascular system", "child": "root vascular system"}
+{"parent": "vascular system", "child": "shoot system vascular system"}
+{"parent": "vascular system", "child": "plant embryo vascular system"}
+{"parent": "vascular system", "child": "portion of vascular tissue"}
+{"parent": "vascular system", "child": "primary vascular tissue"}
+{"parent": "vascular system", "child": "secondary vascular tissue"}
+{"parent": "vascular system", "child": "xylem"}
+{"parent": "portion of vascular tissue", "child": "vascular bundle"}
+{"parent": "primary vascular tissue", "child": "primary xylem"}
+{"parent": "secondary vascular tissue", "child": "secondary xylem"}
+{"parent": "secondary vascular tissue", "child": "axial system"}
+{"parent": "secondary vascular tissue", "child": "ray system"}
+{"parent": "xylem", "child": "primary xylem"}
+{"parent": "xylem", "child": "secondary xylem"}
+{"parent": "xylem", "child": "protoxylem"}
+{"parent": "xylem", "child": "metaxylem"}
+{"parent": "xylem", "child": "xylem vessel"}
+{"parent": "primary xylem", "child": "protoxylem"}
+{"parent": "primary xylem", "child": "metaxylem"}
+{"parent": "primary xylem", "child": "primary xylem vessel"}
+{"parent": "secondary xylem", "child": "secondary xylem vessel"}
+{"parent": "secondary xylem", "child": "early wood"}
+{"parent": "secondary xylem", "child": "late wood"}
+{"parent": "secondary xylem", "child": "heartwood"}
+{"parent": "secondary xylem", "child": "sapwood"}
+{"parent": "secondary xylem", "child": "reaction wood"}
+{"parent": "secondary xylem", "child": "axial system"}
+{"parent": "secondary xylem", "child": "ray system"}
+{"parent": "protoxylem", "child": "monarch protoxylem"}
+{"parent": "protoxylem", "child": "diarch protoxylem"}
+{"parent": "protoxylem", "child": "triarch protoxylem"}
+{"parent": "protoxylem", "child": "tetrarch protoxylem"}
+{"parent": "protoxylem", "child": "pentarch protoxylem"}
+{"parent": "protoxylem", "child": "polyarch protoxylem"}
+{"parent": "protoxylem", "child": "endarch protoxylem"}
+{"parent": "protoxylem", "child": "exarch protoxylem"}
+{"parent": "protoxylem", "child": "mesarch protoxylem"}
+{"parent": "protoxylem", "child": "centarch protoxylem"}
+{"parent": "xylem vessel", "child": "primary xylem vessel"}
+{"parent": "xylem vessel", "child": "secondary xylem vessel"}
+{"parent": "growth ring", "child": "early wood"}
+{"parent": "growth ring", "child": "late wood"}
+{"parent": "growth ring", "child": "growth ring boundary"}
+{"parent": "reaction wood", "child": "compression wood"}
+{"parent": "reaction wood", "child": "tension wood"}
+{"parent": "vascular cambium", "child": "included vascular cambium"}
+{"parent": "shoot system vascular system", "child": "shoot axis vascular system"}
+{"parent": "shoot system vascular system", "child": "inflorescence vascular system"}
+{"parent": "shoot system vascular system", "child": "phyllome vascular system"}
+{"parent": "shoot system vascular system", "child": "flower vascular system"}
+{"parent": "shoot system vascular system", "child": "shoot system exarch protoxylem"}
+{"parent": "inflorescence vascular system", "child": "flower vascular system"}
+{"parent": "flower vascular system", "child": "pedicel vascular system"}
+{"parent": "flower vascular system", "child": "sepal vascular system"}
+{"parent": "flower vascular system", "child": "petal vascular system"}
+{"parent": "flower vascular system", "child": "tepal vascular system"}
+{"parent": "flower vascular system", "child": "stamen vascular system"}
+{"parent": "flower vascular system", "child": "carpel vascular system"}
+{"parent": "flower vascular system", "child": "fruit vascular system"}
+{"parent": "phyllome vascular system", "child": "leaf lamina vascular system"}
+{"parent": "phyllome vascular system", "child": "petiole vascular system"}
+{"parent": "stamen vascular system", "child": "anther vascular system"}
+{"parent": "stamen vascular system", "child": "filament vascular system"}
+{"parent": "carpel vascular system", "child": "stigma vascular system"}
+{"parent": "plant embryo vascular system", "child": "cotyledon vascular system"}
+{"parent": "plant embryo vascular system", "child": "hypocotyl vascular system"}
+{"parent": "plant embryo vascular system", "child": "scutellum vascular system"}
+{"parent": "exarch protoxylem", "child": "root system exarch protoxylem"}
+{"parent": "exarch protoxylem", "child": "shoot system exarch protoxylem"}
+{"parent": "root vascular system", "child": "root system exarch protoxylem"}
+{"parent": "phloem", "child": "primary phloem"}
+{"parent": "phloem", "child": "secondary phloem"}
+{"parent": "phloem", "child": "internal phloem"}
+{"parent": "phloem", "child": "sieve tube"}
+{"parent": "primary phloem", "child": "protophloem"}
+{"parent": "primary phloem", "child": "metaphloem"}
+{"parent": "formation of ligule primordium", "child": "formation of ligule primordium stage"}
+{"parent": "formation of vascular leaflet primordia", "child": "formation of vascular leaflet primordia stage"}
+{"parent": "vascular leaf expansion", "child": "vascular leaf expansion stage"}
+{"parent": "stalk", "child": "antheridiophore"}
+{"parent": "stalk", "child": "antheridium stalk"}
+{"parent": "stalk", "child": "archegoniophore"}
+{"parent": "stalk", "child": "archegonium stalk"}
+{"parent": "stalk", "child": "funicle"}
+{"parent": "stalk", "child": "petiole"}
+{"parent": "stalk", "child": "petiolule"}
+{"parent": "stalk", "child": "seta"}
+{"parent": "sclerenchyma cell", "child": "sclerid cell"}
+{"parent": "axil", "child": "bract axil"}
+{"parent": "axil", "child": "branch axil"}
+{"parent": "axil", "child": "leaf axil"}
+{"parent": "canal", "child": "petiole canal"}
+{"parent": "canal", "child": "archegonium neck canal"}
+{"parent": "canal", "child": "resin canal"}
+{"parent": "petiole canal", "child": "abaxial petiole canal"}
+{"parent": "petiole canal", "child": "adaxial petiole canal"}
+{"parent": "stomatal complex", "child": "phyllome stomatal complex"}
+{"parent": "phyllome stomatal complex", "child": "bract stomatal complex"}
+{"parent": "phyllome stomatal complex", "child": "carpel stomatal complex"}
+{"parent": "phyllome stomatal complex", "child": "petal stomatal complex"}
+{"parent": "phyllome stomatal complex", "child": "sepal stomatal complex"}
+{"parent": "phyllome stomatal complex", "child": "stamen stomatal complex"}
+{"parent": "phyllome stomatal complex", "child": "tepal stomatal complex"}
+{"parent": "stomatal complex", "child": "bract stomatal complex"}
+{"parent": "stomatal complex", "child": "carpel stomatal complex"}
+{"parent": "stomatal complex", "child": "petal stomatal complex"}
+{"parent": "stomatal complex", "child": "sepal stomatal complex"}
+{"parent": "stomatal complex", "child": "stamen stomatal complex"}
+{"parent": "stomatal complex", "child": "tepal stomatal complex"}
+{"parent": "meristematic apical cell", "child": "chloronema meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "embryo apical cell"}
+{"parent": "meristematic apical cell", "child": "gametophore axis meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "gametophore meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "gametophyte meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "leaf meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "non-vascular leaf meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "protonema meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "rhizoid meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "root meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "seta meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "shoot axis meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "shoot meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "sporophyte meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "thallus meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "vascular leaf meristematic apical cell"}
+{"parent": "meristematic apical cell", "child": "vascular shoot axis meristematic apical cell"}
+{"parent": "gametophyte meristematic apical cell", "child": "gametophore meristematic apical cell"}
+{"parent": "gametophyte meristematic apical cell", "child": "protonema meristematic apical cell"}
+{"parent": "gametophyte meristematic apical cell", "child": "rhizoid meristematic apical cell"}
+{"parent": "gametophyte meristematic apical cell", "child": "thallus meristematic apical cell"}
+{"parent": "gametophyte meristematic apical cell", "child": "gametophore axis meristematic apical cell"}
+{"parent": "gametophyte meristematic apical cell", "child": "chloronema meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "embryo apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "seta meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "root meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "leaf meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "shoot meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "non-vascular leaf meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "vascular leaf meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "shoot axis meristematic apical cell"}
+{"parent": "sporophyte meristematic apical cell", "child": "vascular shoot axis meristematic apical cell"}
+{"parent": "gametophore meristematic apical cell", "child": "gametophore axis meristematic apical cell"}
+{"parent": "protonema meristematic apical cell", "child": "chloronema meristematic apical cell"}
+{"parent": "leaf meristematic apical cell", "child": "non-vascular leaf meristematic apical cell"}
+{"parent": "leaf meristematic apical cell", "child": "vascular leaf meristematic apical cell"}
+{"parent": "shoot meristematic apical cell", "child": "shoot axis meristematic apical cell"}
+{"parent": "shoot meristematic apical cell", "child": "vascular shoot axis meristematic apical cell"}
+{"parent": "shoot axis meristematic apical cell", "child": "vascular shoot axis meristematic apical cell"}
+{"parent": "primordium", "child": "phyllome primordium"}
+{"parent": "primordium", "child": "root primordium"}
+{"parent": "phyllome primordium", "child": "bract primordium"}
+{"parent": "phyllome primordium", "child": "cotyledon primordium"}
+{"parent": "phyllome primordium", "child": "floral organ primordium"}
+{"parent": "phyllome primordium", "child": "leaflet primordium"}
+{"parent": "phyllome primordium", "child": "vascular leaf primordium"}
+{"parent": "root primordium", "child": "basal root primordium"}
+{"parent": "root primordium", "child": "shoot-borne root primordium"}
+{"parent": "bract primordium", "child": "flower bract primordium"}
+{"parent": "vascular leaf primordium", "child": "vascular leaf primordium abaxial side"}
+{"parent": "vascular leaf primordium", "child": "vascular leaf primordium adaxial side"}
+{"parent": "floral organ primordium", "child": "androecium primordium"}
+{"parent": "floral organ primordium", "child": "gynoecium primordium"}
+{"parent": "floral organ primordium", "child": "lodicule primordium"}
+{"parent": "floral organ primordium", "child": "petal primordium"}
+{"parent": "floral organ primordium", "child": "sepal primordium"}
+{"parent": "androecium primordium", "child": "stamen primordium"}
+{"parent": "stamen primordium", "child": "anther primordium"}
+{"parent": "gynoecium primordium", "child": "carpel primordium"}
+{"parent": "gynoecium primordium", "child": "ovule primordium"}
+{"parent": "initial cell", "child": "archegonium initial cell"}
+{"parent": "initial cell", "child": "columella root cap initial cell"}
+{"parent": "initial cell", "child": "cortex-endodermis initial cell"}
+{"parent": "initial cell", "child": "epidermal rhizoid initial cell"}
+{"parent": "initial cell", "child": "lateral root cap epidermal initial cell"}
+{"parent": "initial cell", "child": "non-vascular leaf initial cell"}
+{"parent": "initial cell", "child": "plant epidermal initial cell"}
+{"parent": "initial cell", "child": "protonema side branch initial cell"}
+{"parent": "initial cell", "child": "protonema sub-apical initial cell"}
+{"parent": "initial cell", "child": "protonemal side branch rhizoid initial cell"}
+{"parent": "initial cell", "child": "root initial cell"}
+{"parent": "initial cell", "child": "stomatal initial cell"}
+{"parent": "plant epidermal initial cell", "child": "epidermal rhizoid initial cell"}
+{"parent": "plant epidermal initial cell", "child": "lateral root cap epidermal initial cell"}
+{"parent": "plant epidermal initial cell", "child": "stomatal initial cell"}
+{"parent": "root initial cell", "child": "columella root cap initial cell"}
+{"parent": "root initial cell", "child": "cortex-endodermis initial cell"}
+{"parent": "root initial cell", "child": "lateral root cap epidermal initial cell"}
+{"parent": "protonema side branch initial cell", "child": "protonemal side branch rhizoid initial cell"}
+{"parent": "collective phyllome structure development stage", "child": "calyx development stage"}
+{"parent": "collective phyllome structure development stage", "child": "corolla development stage"}
+{"parent": "calyx development stage", "child": "sepal differentiation and expansion stage"}
+{"parent": "calyx development stage", "child": "fully expanded sepal stage"}
+{"parent": "calyx development stage", "child": "sepals enclosing flower bud stage"}
+{"parent": "calyx development stage", "child": "sepals enclosing meristem stage"}
+{"parent": "corolla development stage", "child": "petal primordium visible stage"}
+{"parent": "corolla development stage", "child": "fully expanded petal stage"}
+{"parent": "androecium development stage", "child": "stamen primordium visible stage"}
+{"parent": "androecium development stage", "child": "anther development stage"}
+{"parent": "anther development stage", "child": "B formation of primary parietal and sporogenous cells stage"}
+{"parent": "anther development stage", "child": "D locules established stage"}
+{"parent": "anther development stage", "child": "G anther dehiscence stage"}
+{"parent": "anther development stage", "child": "H anther senescence stage"}
+{"parent": "collective phyllome structure development stage", "child": "sepal differentiation and expansion stage"}
+{"parent": "collective phyllome structure development stage", "child": "fully expanded sepal stage"}
+{"parent": "collective phyllome structure development stage", "child": "sepals enclosing flower bud stage"}
+{"parent": "collective phyllome structure development stage", "child": "sepals enclosing meristem stage"}
+{"parent": "collective phyllome structure development stage", "child": "petal primordium visible stage"}
+{"parent": "collective phyllome structure development stage", "child": "fully expanded petal stage"}
+{"parent": "androecium development stage", "child": "B formation of primary parietal and sporogenous cells stage"}
+{"parent": "androecium development stage", "child": "D locules established stage"}
+{"parent": "androecium development stage", "child": "G anther dehiscence stage"}
+{"parent": "androecium development stage", "child": "H anther senescence stage"}
+{"parent": "endodermis", "child": "embryo endodermis"}
+{"parent": "endodermis", "child": "hypocotyl endodermis"}
+{"parent": "endodermis", "child": "leaf endodermis"}
+{"parent": "endodermis", "child": "root endodermis"}
+{"parent": "endodermis", "child": "shoot axis endodermis"}
+{"parent": "leaf apex", "child": "leaf apex tendril"}
+{"parent": "shoot axis apex", "child": "branch apex"}
+{"parent": "shoot axis apex", "child": "reproductive shoot apex"}
+{"parent": "shoot axis apex", "child": "vegetative shoot apex"}
+{"parent": "phyllome trichome", "child": "bract trichome"}
+{"parent": "phyllome trichome", "child": "carpel trichome"}
+{"parent": "phyllome trichome", "child": "leaf trichome"}
+{"parent": "phyllome trichome", "child": "petal trichome"}
+{"parent": "phyllome trichome", "child": "sepal trichome"}
+{"parent": "phyllome trichome", "child": "stamen trichome"}
+{"parent": "phyllome trichome", "child": "tepal trichome"}
+{"parent": "leaf trichome", "child": "leaf abaxial trichome"}
+{"parent": "leaf trichome", "child": "leaf adaxial trichome"}
+{"parent": "shoot axis node", "child": "stem node"}
+{"parent": "shoot axis node", "child": "cotyledonary node"}
+{"parent": "shoot axis node", "child": "inflorescence axis node"}
+{"parent": "shoot axis node", "child": "scutellar node"}
+{"parent": "cotyledonary node", "child": "cotyledonary node rhizoid"}
+{"parent": "stem node", "child": "branch node"}
+{"parent": "shoot axis node", "child": "branch node"}
+{"parent": "shoot axis node", "child": "cotyledonary node rhizoid"}
+{"parent": "scale leaf", "child": "bud scale leaf"}
+{"parent": "prickle", "child": "leaf prickle"}
+{"parent": "prickle", "child": "root prickle"}
+{"parent": "prickle", "child": "shoot axis prickle"}
+{"parent": "lateral root", "child": "lateral root spine"}
+{"parent": "lateral root", "child": "non-pericyclic lateral root"}
+{"parent": "lateral root", "child": "pericyclic lateral root"}
+{"parent": "cambial initial cell", "child": "phloem mother cell"}
+{"parent": "cambial initial cell", "child": "ray initial cell"}
+{"parent": "plant fiber cell", "child": "xylem fiber cell"}
+{"parent": "plant fiber cell", "child": "phloem fiber cell"}
+{"parent": "plant fiber cell", "child": "gelatinous fiber cell"}
+{"parent": "plant fiber cell", "child": "septate fiber cell"}
+{"parent": "xylem fiber cell", "child": "fiber tracheid"}
+{"parent": "plant fiber cell", "child": "fiber tracheid"}
+{"parent": "xylem fiber cell", "child": "libriform fiber cell"}
+{"parent": "plant fiber cell", "child": "libriform fiber cell"}
+{"parent": "fiber tracheid", "child": "septate fiber tracheid"}
+{"parent": "septate fiber cell", "child": "septate fiber tracheid"}
+{"parent": "xylem fiber cell", "child": "septate fiber tracheid"}
+{"parent": "plant fiber cell", "child": "septate fiber tracheid"}
+{"parent": "libriform fiber cell", "child": "septate libriform fiber cell"}
+{"parent": "septate fiber cell", "child": "septate libriform fiber cell"}
+{"parent": "xylem fiber cell", "child": "septate libriform fiber cell"}
+{"parent": "plant fiber cell", "child": "septate libriform fiber cell"}
+{"parent": "phloem fiber cell", "child": "septate phloem fiber cell"}
+{"parent": "septate fiber cell", "child": "septate phloem fiber cell"}
+{"parent": "plant fiber cell", "child": "septate phloem fiber cell"}
+{"parent": "inflorescence emergence stage", "child": "IE.00 inflorescence tip just visible above flag leaf sheath stage"}
+{"parent": "inflorescence emergence stage", "child": "IE.02 1/2 of inflorescence emerged from flag leaf sheath stage"}
+{"parent": "inflorescence emergence stage", "child": "IE.04 inflorescence fully emerged from flag leaf sheath stage"}
+{"parent": "root development stage", "child": "1 root primordium formation stage"}
+{"parent": "root development stage", "child": "2 root meristem formation stage"}
+{"parent": "root development stage", "child": "3 establishment of tissue systems stage"}
+{"parent": "root development stage", "child": "4 root elongation stage"}
+{"parent": "root development stage", "child": "5 root hair formation stage"}
+{"parent": "root development stage", "child": "coleorhiza emergence stage"}
+{"parent": "root development stage", "child": "radicle emergence stage"}
+{"parent": "root development stage", "child": "root cap formation stage"}
+{"parent": "root development stage", "child": "root cortex differentiation stage"}
+{"parent": "root development stage", "child": "root vascular cylinder differentiation stage"}
+{"parent": "root development stage", "child": "primary root primordium formation stage"}
+{"parent": "root development stage", "child": "lateral root primordium formation stage"}
+{"parent": "1 root primordium formation stage", "child": "primary root primordium formation stage"}
+{"parent": "1 root primordium formation stage", "child": "lateral root primordium formation stage"}
+{"parent": "procambium", "child": "root procambium"}
+{"parent": "procambium", "child": "shoot procambium"}
+{"parent": "shoot procambium", "child": "branch procambium"}
+{"parent": "shoot procambium", "child": "leaf procambium"}
+{"parent": "shoot procambium", "child": "shoot axis procambium"}
+{"parent": "shoot axis procambium", "child": "stem procambium"}
+{"parent": "megasporangium", "child": "nucellus"}
+{"parent": "integument epidermis", "child": "inner integument epidermis"}
+{"parent": "integument epidermis", "child": "outer integument epidermis"}
+{"parent": "tuber axillary shoot", "child": "aerial tuber axillary shoot"}
+{"parent": "tuber axillary shoot", "child": "subterranean tuber axillary shoot"}
+{"parent": "root emergence stage", "child": "crown root emergence stage"}
+{"parent": "ground meristem", "child": "root system ground meristem"}
+{"parent": "ground meristem", "child": "shoot system ground meristem"}
+{"parent": "root", "child": "basal root"}
+{"parent": "root", "child": "shoot-borne internode root"}
+{"parent": "upper glume", "child": "upper glume of ear spikelet"}
+{"parent": "upper glume", "child": "upper glume of tassel spikelet"}
+{"parent": "upper glume of ear spikelet", "child": "upper glume of pedicellate spikelet of ear"}
+{"parent": "upper glume of ear spikelet", "child": "upper glume of sessile spikelet of ear"}
+{"parent": "upper glume of tassel spikelet", "child": "upper glume of pedicellate spikelet of tassel"}
+{"parent": "upper glume of tassel spikelet", "child": "upper glume of sessile spikelet of tassel"}
+{"parent": "upper glume", "child": "upper glume of pedicellate spikelet of ear"}
+{"parent": "upper glume", "child": "upper glume of sessile spikelet of ear"}
+{"parent": "upper glume", "child": "upper glume of pedicellate spikelet of tassel"}
+{"parent": "upper glume", "child": "upper glume of sessile spikelet of tassel"}
+{"parent": "vascular leaf initiation stage", "child": "vascular leaf anlagen formation stage"}
+{"parent": "vascular leaf initiation stage", "child": "vascular leaf primordium formation stage"}
+{"parent": "vascular leaf primordium formation stage", "child": "vascular leaf primordium polarity determination stage"}
+{"parent": "locule", "child": "anther locule"}
+{"parent": "locule", "child": "fruit locule"}
+{"parent": "locule", "child": "plant ovary locule"}
+{"parent": "locule", "child": "sporangium locule"}
+{"parent": "sporangium locule", "child": "anther locule"}
+{"parent": "plant ovary locule", "child": "fruit locule"}
+{"parent": "lateral root primordium", "child": "non-pericyclic lateral root primordium"}
+{"parent": "lateral root primordium", "child": "pericyclic lateral root primordium"}
+{"parent": "sieve tube element", "child": "primary phloem sieve tube element"}
+{"parent": "sieve tube element", "child": "secondary phloem sieve tube element"}
+{"parent": "reproductive shoot system development stage", "child": "flower development stage"}
+{"parent": "reproductive shoot system development stage", "child": "flowering stage"}
+{"parent": "reproductive shoot system development stage", "child": "flower meristem transition stage"}
+{"parent": "flower development stage", "child": "flowering stage"}
+{"parent": "flower development stage", "child": "flower meristem transition stage"}
+{"parent": "laticifer cell", "child": "articulated laticifer cell"}
+{"parent": "plant spore", "child": "megaspore"}
+{"parent": "plant spore", "child": "microspore"}
+{"parent": "megaspore", "child": "degenerate megaspore"}
+{"parent": "megaspore", "child": "functional megaspore"}
+{"parent": "fruit pedicel", "child": "infructescence fruit pedicel"}
+{"parent": "storage parenchyma", "child": "tuber storage parenchyma"}
+{"parent": "storage parenchyma", "child": "seed storage parenchyma"}
+{"parent": "tuber storage parenchyma", "child": "aerial tuber storage parenchyma"}
+{"parent": "tuber storage parenchyma", "child": "subterranean tuber storage parenchyma"}
+{"parent": "seed storage parenchyma", "child": "endosperm parenchyma"}
+{"parent": "embryo root", "child": "radicle"}
+{"parent": "radicle", "child": "seedling radicle"}
+{"parent": "branch", "child": "branch tendril"}
+{"parent": "branch", "child": "gametophore branch"}
+{"parent": "branch", "child": "stolon"}
+{"parent": "leaf stomatal complex", "child": "leaf abaxial stomatal complex"}
+{"parent": "leaf stomatal complex", "child": "leaf adaxial stomatal complex"}
+{"parent": "leaf rachis", "child": "leaf rachis tendril"}
+{"parent": "microsporophyll", "child": "stamen"}
+{"parent": "stamen", "child": "staminode"}
+{"parent": "microsporophyll", "child": "staminode"}
+{"parent": "lateral leaf vein", "child": "secondary leaf vein"}
+{"parent": "booting stage", "child": "BO.00 booting begins stage"}
+{"parent": "booting stage", "child": "BO.02 mid boot stage"}
+{"parent": "booting stage", "child": "BO.03 late boot stage"}
+{"parent": "booting stage", "child": "BO.04 flag leaf sheath opening stage"}
+{"parent": "hypocotyl-root junction", "child": "embryo hypocotyl-root junction"}
+{"parent": "hypocotyl-root junction", "child": "seedling hypocotyl-root junction"}
+{"parent": "glandular trichome", "child": "lupulin gland"}
+{"parent": "shoot-borne root", "child": "crown root"}
+{"parent": "shoot-borne root", "child": "prop root"}
+{"parent": "shoot-borne root", "child": "shoot-borne nodal root"}
+{"parent": "shoot-borne root", "child": "shoot-borne root spine"}
+{"parent": "passage cell", "child": "endodermal passage cell"}
+{"parent": "passage cell", "child": "exodermal passage cell"}
+{"parent": "spermatogenous cell", "child": "generative cell"}
+{"parent": "axillary bud meristem", "child": "shoot axis tuber axillary bud meristem"}
+{"parent": "axillary bud meristem", "child": "subterranean tuber axillary bud meristem"}
+{"parent": "inflorescence development stage", "child": "inflorescence initiation stage"}
+{"parent": "plant cuticle", "child": "plant cuticle ridge"}
+{"parent": "gynoecium development stage", "child": "gynoecium differentiation and expansion stage"}
+{"parent": "gynoecium development stage", "child": "carpel primordium visible stage"}
+{"parent": "gynoecium development stage", "child": "closure of carpel(s) stage"}
+{"parent": "gynoecium development stage", "child": "ovule development stage"}
+{"parent": "ovule development stage", "child": "ovule primordium visible stage"}
+{"parent": "gynoecium differentiation and expansion stage", "child": "stigma cell differentiation stage"}
+{"parent": "gynoecium", "child": "gynoecium ridge"}
+{"parent": "gynoecium development stage", "child": "stigma cell differentiation stage"}
+{"parent": "gynoecium development stage", "child": "ovule primordium visible stage"}
+{"parent": "intercalary meristem", "child": "leaf intercalary meristem"}
+{"parent": "intercalary meristem", "child": "stem intercalary meristem"}
+{"parent": "ovule differentiation and expansion stage", "child": "integument initiation stage"}
+{"parent": "peduncle", "child": "ear peduncle"}
+{"parent": "collective leaf structure", "child": "rosette"}
+{"parent": "anther wall endothecium", "child": "microsporangium endothecium"}

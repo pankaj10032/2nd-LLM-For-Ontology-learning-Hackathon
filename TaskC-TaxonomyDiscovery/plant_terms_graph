@@ -1,0 +1,16 @@
+// Parent to Child Terms Graph
+digraph {
+	rankdir=LR size="8,5"
+	"leaf lamina vein" -> "primary leaf vein"
+	"whole plant" -> thallus
+	"plant organ" -> coleorhiza
+	"native plant cell" -> brachycyte
+	inflorescence -> "compound drepanium inflorescence"
+	lamina -> "petiole lamina"
+	"native plant cell" -> "primary parietal cell"
+	"leaf epidermis" -> "cotyledon epidermis"
+	"gametophyte development stage" -> "megagametophyte development stage"
+	arilloid -> caruncle
+	"guard cell" -> "phyllome guard cell"
+	"axillary hair terminal cell" -> "???"
+}

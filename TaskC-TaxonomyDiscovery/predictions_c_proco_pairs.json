@@ -1,0 +1,3718 @@
+[
+  {
+    "parent": "point group symmetry",
+    "child": "dihexagonal-dipyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "dihexagonal-pyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "diploidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "ditetragonal-dipyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "ditetragonal-pyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "ditrigonal-dipyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "ditrigonal-pyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "ditrigonal-scalenohedral"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "domatic"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "gyroidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "hexagonal-dipyrimidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "hexagonal-pyrimidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "hexagonal-trapezohedral"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "hexoctahedral"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "hextetrahedral"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "pedial"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "pinacoidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "prismatic"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "rhombic-dipyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "rhombic-disphenoidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "rhombic-pyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "rhombohedral"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "sphenoidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "tetartoidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "tetragonal-dipyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "tetragonal-disphenoidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "tetragonal-pyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "tetragonal-scalenohedral"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "tetragonal-trapezohedral"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "trigonal-dipyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "trigonal-pyramidal"
+  },
+  {
+    "parent": "point group symmetry",
+    "child": "trigonal-trapezohedral"
+  },
+  {
+    "parent": "entity",
+    "child": "continuant"
+  },
+  {
+    "parent": "entity",
+    "child": "occurrent"
+  },
+  {
+    "parent": "entity",
+    "child": "realizable entity"
+  },
+  {
+    "parent": "continuant",
+    "child": "generically dependent continuant"
+  },
+  {
+    "parent": "continuant",
+    "child": "independent continuant"
+  },
+  {
+    "parent": "independent continuant",
+    "child": "fiat object part"
+  },
+  {
+    "parent": "independent continuant",
+    "child": "material entity"
+  },
+  {
+    "parent": "fiat object part",
+    "child": "process boundary"
+  },
+  {
+    "parent": "material entity",
+    "child": "chemical entity"
+  },
+  {
+    "parent": "material entity",
+    "child": "device"
+  },
+  {
+    "parent": "material entity",
+    "child": "object aggregate"
+  },
+  {
+    "parent": "material entity",
+    "child": "portion of material"
+  },
+  {
+    "parent": "material entity",
+    "child": "subatomic particle"
+  },
+  {
+    "parent": "material entity",
+    "child": "thermodynamic phase"
+  },
+  {
+    "parent": "thermodynamic phase",
+    "child": "crystalline solid thermodynamic phase"
+  },
+  {
+    "parent": "crystalline solid",
+    "child": "crystalline solid thermodynamic phase"
+  },
+  {
+    "parent": "portion of material",
+    "child": "anhydrous phase"
+  },
+  {
+    "parent": "portion of material",
+    "child": "co-crystal"
+  },
+  {
+    "parent": "portion of material",
+    "child": "crystalline solid"
+  },
+  {
+    "parent": "portion of material",
+    "child": "eutectic"
+  },
+  {
+    "parent": "portion of material",
+    "child": "gas molecular entity"
+  },
+  {
+    "parent": "portion of material",
+    "child": "intermediate material for synthesis"
+  },
+  {
+    "parent": "portion of material",
+    "child": "processed material"
+  },
+  {
+    "parent": "portion of material",
+    "child": "product stream"
+  },
+  {
+    "parent": "portion of material",
+    "child": "solid dispersion"
+  },
+  {
+    "parent": "portion of material",
+    "child": "solid solution"
+  },
+  {
+    "parent": "portion of material",
+    "child": "solvate"
+  },
+  {
+    "parent": "portion of material",
+    "child": "starting material for synthesis"
+  },
+  {
+    "parent": "portion of material",
+    "child": "waste stream"
+  },
+  {
+    "parent": "starting material for synthesis",
+    "child": "GMP starting material"
+  },
+  {
+    "parent": "subatomic particle",
+    "child": "composite particle"
+  },
+  {
+    "parent": "subatomic particle",
+    "child": "fundamental particle"
+  },
+  {
+    "parent": "composite particle",
+    "child": "hadron"
+  },
+  {
+    "parent": "hadron",
+    "child": "baryon"
+  },
+  {
+    "parent": "baryon",
+    "child": "nucleon"
+  },
+  {
+    "parent": "atom",
+    "child": "atomic nucleus"
+  },
+  {
+    "parent": "atomic nucleus",
+    "child": "nucleon"
+  },
+  {
+    "parent": "nucleon",
+    "child": "nuclear particle"
+  },
+  {
+    "parent": "fundamental particle",
+    "child": "electron"
+  },
+  {
+    "parent": "fundamental particle",
+    "child": "fermion"
+  },
+  {
+    "parent": "fundamental particle",
+    "child": "lepton"
+  },
+  {
+    "parent": "fermion",
+    "child": "baryon"
+  },
+  {
+    "parent": "fermion",
+    "child": "lepton"
+  },
+  {
+    "parent": "lepton",
+    "child": "electron"
+  },
+  {
+    "parent": "occurrent",
+    "child": "process"
+  },
+  {
+    "parent": "occurrent",
+    "child": "state"
+  },
+  {
+    "parent": "process",
+    "child": "calculation"
+  },
+  {
+    "parent": "process",
+    "child": "chemical process development"
+  },
+  {
+    "parent": "process",
+    "child": "documenting"
+  },
+  {
+    "parent": "process",
+    "child": "experiment"
+  },
+  {
+    "parent": "process",
+    "child": "investigation"
+  },
+  {
+    "parent": "process",
+    "child": "material processing"
+  },
+  {
+    "parent": "process",
+    "child": "planning"
+  },
+  {
+    "parent": "process",
+    "child": "process monitoring"
+  },
+  {
+    "parent": "process",
+    "child": "process validation"
+  },
+  {
+    "parent": "process",
+    "child": "route validation"
+  },
+  {
+    "parent": "process",
+    "child": "synthetic chemical process"
+  },
+  {
+    "parent": "process",
+    "child": "unit operation in chemical processing"
+  },
+  {
+    "parent": "material processing",
+    "child": "concentrating"
+  },
+  {
+    "parent": "material processing",
+    "child": "grinding"
+  },
+  {
+    "parent": "material processing",
+    "child": "homogenisation"
+  },
+  {
+    "parent": "material processing",
+    "child": "material component separation"
+  },
+  {
+    "parent": "material processing",
+    "child": "purification"
+  },
+  {
+    "parent": "material processing",
+    "child": "sample deposition"
+  },
+  {
+    "parent": "material processing",
+    "child": "sample drying"
+  },
+  {
+    "parent": "material processing",
+    "child": "sample heating"
+  },
+  {
+    "parent": "material processing",
+    "child": "sample quenching"
+  },
+  {
+    "parent": "material processing",
+    "child": "sample solidification"
+  },
+  {
+    "parent": "concentrating",
+    "child": "evaporation"
+  },
+  {
+    "parent": "purification",
+    "child": "crystallisation"
+  },
+  {
+    "parent": "purification",
+    "child": "distillation"
+  },
+  {
+    "parent": "purification",
+    "child": "recrystallisation"
+  },
+  {
+    "parent": "crystallisation",
+    "child": "ageing"
+  },
+  {
+    "parent": "crystallisation",
+    "child": "cocrystallisation"
+  },
+  {
+    "parent": "crystallisation",
+    "child": "crystallization"
+  },
+  {
+    "parent": "crystallisation",
+    "child": "fractional crystallisation"
+  },
+  {
+    "parent": "crystallisation",
+    "child": "Ostwald ripening"
+  },
+  {
+    "parent": "distillation",
+    "child": "azeotropic distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "batch distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "continuous distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "extractive distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "fractional distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "freeze distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "reactive distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "simple distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "steam distillation"
+  },
+  {
+    "parent": "distillation",
+    "child": "vacuum distillation"
+  },
+  {
+    "parent": "vacuum distillation",
+    "child": "air-sensitive vacuum distillation"
+  },
+  {
+    "parent": "evaporation",
+    "child": "centrifugal evaporation"
+  },
+  {
+    "parent": "evaporation",
+    "child": "rotary evaporation"
+  },
+  {
+    "parent": "evaporation",
+    "child": "solvent evaporation"
+  },
+  {
+    "parent": "filtration",
+    "child": "micro-filtration"
+  },
+  {
+    "parent": "filtration",
+    "child": "nano-filtration"
+  },
+  {
+    "parent": "filtration",
+    "child": "suction filtration"
+  },
+  {
+    "parent": "filtration",
+    "child": "ultra-filtration"
+  },
+  {
+    "parent": "filtering",
+    "child": "filtration"
+  },
+  {
+    "parent": "fractionation",
+    "child": "foam fractionation"
+  },
+  {
+    "parent": "fractionation",
+    "child": "fractional crystallisation"
+  },
+  {
+    "parent": "fractionation",
+    "child": "fractional distillation"
+  },
+  {
+    "parent": "fractionation",
+    "child": "fractional sublimation"
+  },
+  {
+    "parent": "grinding",
+    "child": "ball milling"
+  },
+  {
+    "parent": "grinding",
+    "child": "liquid-assisted grinding"
+  },
+  {
+    "parent": "grinding",
+    "child": "wet grinding"
+  },
+  {
+    "parent": "ball milling",
+    "child": "high-energy ball milling"
+  },
+  {
+    "parent": "high-energy ball milling",
+    "child": "high-speed ball milling"
+  },
+  {
+    "parent": "precipitation",
+    "child": "affinity precipitation"
+  },
+  {
+    "parent": "precipitation",
+    "child": "co-precipitation"
+  },
+  {
+    "parent": "precipitation",
+    "child": "postprecipitation"
+  },
+  {
+    "parent": "precipitation",
+    "child": "precipitation with compressed antisolvent"
+  },
+  {
+    "parent": "precipitation",
+    "child": "protein precipitation"
+  },
+  {
+    "parent": "precipitation",
+    "child": "reprecipitation"
+  },
+  {
+    "parent": "sample drying",
+    "child": "blow drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "dielectric drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "direct drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "drum drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "freeze drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "oven drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "spray drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "supercritical drying"
+  },
+  {
+    "parent": "sample drying",
+    "child": "vacuum drying"
+  },
+  {
+    "parent": "sample sublimation",
+    "child": "fractional sublimation"
+  },
+  {
+    "parent": "sample sublimation",
+    "child": "high-vacuum sublimation"
+  },
+  {
+    "parent": "sample sublimation",
+    "child": "seeded sublimation"
+  },
+  {
+    "parent": "sample sublimation",
+    "child": "vacuum sublimation"
+  },
+  {
+    "parent": "separation method",
+    "child": "crystallisation"
+  },
+  {
+    "parent": "separation method",
+    "child": "deionisation method"
+  },
+  {
+    "parent": "separation method",
+    "child": "distillation"
+  },
+  {
+    "parent": "separation method",
+    "child": "extraction"
+  },
+  {
+    "parent": "separation method",
+    "child": "filtration"
+  },
+  {
+    "parent": "separation method",
+    "child": "fractionation"
+  },
+  {
+    "parent": "separation method",
+    "child": "precipitation"
+  },
+  {
+    "parent": "separation method",
+    "child": "reverse osmosis"
+  },
+  {
+    "parent": "separation method",
+    "child": "sample sublimation"
+  },
+  {
+    "parent": "extraction",
+    "child": "cloud-point extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "coextraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "dispersive solid phase extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "dual-phase extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "ethanol extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "gas–liquid extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "liquid–liquid extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "membrane extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "pressurised-fluid extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "sequentional extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "shake-flask extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "solid–liquid extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "solvent extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "substoichiometric extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "supercritical fluid extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "vapour-phase extraction"
+  },
+  {
+    "parent": "solid–liquid extraction",
+    "child": "liquid-solid extraction"
+  },
+  {
+    "parent": "membrane extraction",
+    "child": "membrane extraction with a sorbent interface"
+  },
+  {
+    "parent": "membrane extraction",
+    "child": "polymeric membrane extraction"
+  },
+  {
+    "parent": "membrane extraction",
+    "child": "supported liquid membrane extraction"
+  },
+  {
+    "parent": "planning",
+    "child": "planned process"
+  },
+  {
+    "parent": "planned process",
+    "child": "process chemistry workflow plan"
+  },
+  {
+    "parent": "planned process",
+    "child": "study design"
+  },
+  {
+    "parent": "study design",
+    "child": "experimental design"
+  },
+  {
+    "parent": "experiment",
+    "child": "assay"
+  },
+  {
+    "parent": "experiment",
+    "child": "multi-parallel experimentation"
+  },
+  {
+    "parent": "experiment",
+    "child": "study design execution"
+  },
+  {
+    "parent": "experimental design",
+    "child": "Box–Behnken design"
+  },
+  {
+    "parent": "experimental design",
+    "child": "Central Composite Design"
+  },
+  {
+    "parent": "experimental design",
+    "child": "factorial design"
+  },
+  {
+    "parent": "experimental design",
+    "child": "one-factor-at-a-time experimental design"
+  },
+  {
+    "parent": "experimental design",
+    "child": "polymorph and solvate screening design"
+  },
+  {
+    "parent": "experimental design",
+    "child": "reaction screening design"
+  },
+  {
+    "parent": "experimental design",
+    "child": "screening design"
+  },
+  {
+    "parent": "experimental design",
+    "child": "solubility screening design"
+  },
+  {
+    "parent": "factorial design",
+    "child": "Box–Behnken design"
+  },
+  {
+    "parent": "factorial design",
+    "child": "Central Composite Design"
+  },
+  {
+    "parent": "screening design",
+    "child": "Plackett–Burman design"
+  },
+  {
+    "parent": "screening design",
+    "child": "polymorph and solvate screening design"
+  },
+  {
+    "parent": "screening design",
+    "child": "reaction screening design"
+  },
+  {
+    "parent": "screening design",
+    "child": "solubility screening design"
+  },
+  {
+    "parent": "investigation",
+    "child": "impurity fate and purge determination"
+  },
+  {
+    "parent": "investigation",
+    "child": "mechanistic and kinetic determination"
+  },
+  {
+    "parent": "investigation",
+    "child": "review of prior art"
+  },
+  {
+    "parent": "investigation",
+    "child": "risk assessment"
+  },
+  {
+    "parent": "process monitoring",
+    "child": "end reaction monitoring"
+  },
+  {
+    "parent": "synthetic chemical process",
+    "child": "GLP synthetic process"
+  },
+  {
+    "parent": "synthetic chemical process",
+    "child": "GMP synthetic process"
+  },
+  {
+    "parent": "unit operation in chemical processing",
+    "child": "charging material"
+  },
+  {
+    "parent": "unit operation in chemical processing",
+    "child": "filtering"
+  },
+  {
+    "parent": "unit operation in chemical processing",
+    "child": "material component separation"
+  },
+  {
+    "parent": "unit operation in chemical processing",
+    "child": "mixing"
+  },
+  {
+    "parent": "unit operation in chemical processing",
+    "child": "stirring"
+  },
+  {
+    "parent": "stirring",
+    "child": "magnetic stirring"
+  },
+  {
+    "parent": "material component separation",
+    "child": "separation method"
+  },
+  {
+    "parent": "calculation",
+    "child": "chemometrics"
+  },
+  {
+    "parent": "calculation",
+    "child": "data transformation"
+  },
+  {
+    "parent": "calculation",
+    "child": "drawing a conclusion based on data"
+  },
+  {
+    "parent": "calculation",
+    "child": "factorial analysis"
+  },
+  {
+    "parent": "data transformation",
+    "child": "curve fitting data transformation"
+  },
+  {
+    "parent": "drawing a conclusion based on data",
+    "child": "conclusion based on data"
+  },
+  {
+    "parent": "crystal growth method",
+    "child": "Bridgeman technique"
+  },
+  {
+    "parent": "crystal growth method",
+    "child": "chemical vapour transport"
+  },
+  {
+    "parent": "chemical vapour transport",
+    "child": "surface-assisted chemical vapour transport"
+  },
+  {
+    "parent": "synthesis method",
+    "child": "Acheson method"
+  },
+  {
+    "parent": "synthesis method",
+    "child": "ionothermal synthesis"
+  },
+  {
+    "parent": "synthesis method",
+    "child": "solvothermal synthesis"
+  },
+  {
+    "parent": "supercritical fluid method",
+    "child": "gas antisolvent technique"
+  },
+  {
+    "parent": "supercritical fluid method",
+    "child": "supercritical antisolvent technique"
+  },
+  {
+    "parent": "supercritical fluid method",
+    "child": "supercritical fluid extraction"
+  },
+  {
+    "parent": "polymerase chain reaction",
+    "child": "PCR product"
+  },
+  {
+    "parent": "realizable entity",
+    "child": "disposition"
+  },
+  {
+    "parent": "realizable entity",
+    "child": "function"
+  },
+  {
+    "parent": "function",
+    "child": "molecular_function"
+  },
+  {
+    "parent": "function",
+    "child": "synthesizing function"
+  },
+  {
+    "parent": "molecular_function",
+    "child": "catalytic activity"
+  },
+  {
+    "parent": "molecular_function",
+    "child": "membrane transport modulator"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "DNA polymerase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "effective catalytic rate"
+  },
+  {
+    "parent": "generically dependent continuant",
+    "child": "specifically dependent continuant"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "information content entity"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "molecular quality"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "process profile"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "reaction property"
+  },
+  {
+    "parent": "process profile",
+    "child": "concentration profile"
+  },
+  {
+    "parent": "process profile",
+    "child": "material flow profile in synthesis process"
+  },
+  {
+    "parent": "process profile",
+    "child": "quality process profile"
+  },
+  {
+    "parent": "process profile",
+    "child": "reaction process profile"
+  },
+  {
+    "parent": "process profile",
+    "child": "reaction rate profile"
+  },
+  {
+    "parent": "process profile",
+    "child": "stir rate profile"
+  },
+  {
+    "parent": "process profile",
+    "child": "temperature profile in synthesis process"
+  },
+  {
+    "parent": "reaction property",
+    "child": "kinetic reaction property"
+  },
+  {
+    "parent": "reaction property",
+    "child": "redox reaction property"
+  },
+  {
+    "parent": "reaction property",
+    "child": "thermodynamic reaction property"
+  },
+  {
+    "parent": "kinetic reaction property",
+    "child": "kinetic constant"
+  },
+  {
+    "parent": "kinetic reaction property",
+    "child": "kinetic order"
+  },
+  {
+    "parent": "kinetic reaction property",
+    "child": "reaction rate"
+  },
+  {
+    "parent": "kinetic constant",
+    "child": "exponential time constant"
+  },
+  {
+    "parent": "kinetic constant",
+    "child": "rate constant"
+  },
+  {
+    "parent": "rate constant",
+    "child": "pre-exponential factor"
+  },
+  {
+    "parent": "temporal measure",
+    "child": "half-life"
+  },
+  {
+    "parent": "half-life",
+    "child": "half-life of an exponential decay"
+  },
+  {
+    "parent": "kinetic order",
+    "child": "overall reaction order"
+  },
+  {
+    "parent": "kinetic order",
+    "child": "partial rate order"
+  },
+  {
+    "parent": "redox reaction property",
+    "child": "redox potential change"
+  },
+  {
+    "parent": "thermodynamic reaction property",
+    "child": "Gibbs free energy change"
+  },
+  {
+    "parent": "thermodynamic reaction property",
+    "child": "Gibbs free energy of activation"
+  },
+  {
+    "parent": "information content entity",
+    "child": "data item"
+  },
+  {
+    "parent": "information content entity",
+    "child": "directive information entity"
+  },
+  {
+    "parent": "information content entity",
+    "child": "plan specification"
+  },
+  {
+    "parent": "data item",
+    "child": "calculated datum"
+  },
+  {
+    "parent": "data item",
+    "child": "data about an ontology part"
+  },
+  {
+    "parent": "data item",
+    "child": "data set"
+  },
+  {
+    "parent": "data item",
+    "child": "document"
+  },
+  {
+    "parent": "data item",
+    "child": "identifier"
+  },
+  {
+    "parent": "data item",
+    "child": "measurement datum"
+  },
+  {
+    "parent": "data item",
+    "child": "process chemistry datum"
+  },
+  {
+    "parent": "data item",
+    "child": "symbol"
+  },
+  {
+    "parent": "data item",
+    "child": "textual entity"
+  },
+  {
+    "parent": "data set",
+    "child": "data set of predicted values according to fitted curve"
+  },
+  {
+    "parent": "document",
+    "child": "batch manufacturing record"
+  },
+  {
+    "parent": "document",
+    "child": "bill of materials"
+  },
+  {
+    "parent": "document",
+    "child": "certificate of analysis"
+  },
+  {
+    "parent": "document",
+    "child": "chemical drawing"
+  },
+  {
+    "parent": "document",
+    "child": "common technical document"
+  },
+  {
+    "parent": "document",
+    "child": "document part"
+  },
+  {
+    "parent": "document",
+    "child": "ICH Guideline"
+  },
+  {
+    "parent": "document",
+    "child": "laboratory notebook"
+  },
+  {
+    "parent": "document",
+    "child": "master formula record"
+  },
+  {
+    "parent": "document",
+    "child": "product filing documentation"
+  },
+  {
+    "parent": "document",
+    "child": "synthesis flow chart"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.1.1 Nomenclature"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.1.2 Structure"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.1.3 General Properties"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.2.1 Manufacturers"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.2.2 Description of Manufacturing Process and Process Controls"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.2.3 Control of Materials"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.2.4 Controls of Critical Steps and Intermediates"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.3.1 Elucidation of Structure and other Characteristics"
+  },
+  {
+    "parent": "common technical document",
+    "child": "CTA Section 3.2.S.3.2 Impurities"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.1.1 Nomenclature"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.1.2 Structure"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.1.3 General Properties"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.2.1 Manufacturers"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.2.2 Description of Manufacturing Process and Process Controls"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.2.3 Control of Materials"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.2.4 Controls of Critical Steps and Intermediates"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.3.1 Elucidation of Structure and other Characteristics"
+  },
+  {
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.3.2 Impurities"
+  },
+  {
+    "parent": "product filing documentation",
+    "child": "process chemistry filing"
+  },
+  {
+    "parent": "ICH Guideline",
+    "child": "ICH M7 Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals To Limit Potential Carcinogenic Risk"
+  },
+  {
+    "parent": "ICH Guideline",
+    "child": "ICH Q11 Guidance for Development and Manufacture of Drug Substances"
+  },
+  {
+    "parent": "ICH Guideline",
+    "child": "ICH Q3A Impurities in New Drug Substances"
+  },
+  {
+    "parent": "ICH Guideline",
+    "child": "ICH Q3C Residual Solvents"
+  },
+  {
+    "parent": "ICH Guideline",
+    "child": "ICH Q3D Guidance for Elemental Impurities"
+  },
+  {
+    "parent": "ICH Guideline",
+    "child": "ICH Q6A Specifications: Test Procedures and Acceptance Criteria for Chemical Substances"
+  },
+  {
+    "parent": "ICH Guideline",
+    "child": "Q7 Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients"
+  },
+  {
+    "parent": "identifier",
+    "child": "centrally registered identifier"
+  },
+  {
+    "parent": "identifier",
+    "child": "chemical abstracts number"
+  },
+  {
+    "parent": "identifier",
+    "child": "laboratory notebook experiment identifier"
+  },
+  {
+    "parent": "centrally registered identifier registry",
+    "child": "centrally registered identifier"
+  },
+  {
+    "parent": "centrally registered identifier",
+    "child": "centrally registered identifier symbol"
+  },
+  {
+    "parent": "symbol",
+    "child": "centrally registered identifier symbol"
+  },
+  {
+    "parent": "measurement datum",
+    "child": "appearance datum"
+  },
+  {
+    "parent": "measurement datum",
+    "child": "pressure measurement"
+  },
+  {
+    "parent": "measurement datum",
+    "child": "rate measurement datum"
+  },
+  {
+    "parent": "measurement datum",
+    "child": "scalar measurement datum"
+  },
+  {
+    "parent": "measurement datum",
+    "child": "temperature measurement"
+  },
+  {
+    "parent": "scalar measurement datum",
+    "child": "solution pH datum"
+  },
+  {
+    "parent": "scalar measurement datum",
+    "child": "specific rotation datum"
+  },
+  {
+    "parent": "textual entity",
+    "child": "algorithm"
+  },
+  {
+    "parent": "textual entity",
+    "child": "datum label"
+  },
+  {
+    "parent": "textual entity",
+    "child": "equation"
+  },
+  {
+    "parent": "textual entity",
+    "child": "written name"
+  },
+  {
+    "parent": "algorithm",
+    "child": "in-silico modeling"
+  },
+  {
+    "parent": "in-silico modeling",
+    "child": "DEREK Mutagen Prediction"
+  },
+  {
+    "parent": "in-silico modeling",
+    "child": "MCASE Mutagen Prediction"
+  },
+  {
+    "parent": "in-silico modeling",
+    "child": "crystal structure predictions"
+  },
+  {
+    "parent": "datum label",
+    "child": "measurement unit label"
+  },
+  {
+    "parent": "equation",
+    "child": "Arhennius equation"
+  },
+  {
+    "parent": "equation",
+    "child": "rate equation"
+  },
+  {
+    "parent": "rate equation",
+    "child": "graphical rate equation"
+  },
+  {
+    "parent": "written name",
+    "child": "chemical abstracts name"
+  },
+  {
+    "parent": "written name",
+    "child": "international nonproprietary name"
+  },
+  {
+    "parent": "written name",
+    "child": "preferred IUPAC name"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "action specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "CQA specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "critical process parameter specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "curation status specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "objective specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "obsolescence reason specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "process profile specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "protocol"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "quality specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "route specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "synthetic step specification"
+  },
+  {
+    "parent": "directive information entity",
+    "child": "value specification"
+  },
+  {
+    "parent": "objective specification",
+    "child": "assay objective"
+  },
+  {
+    "parent": "objective specification",
+    "child": "curve fitting objective"
+  },
+  {
+    "parent": "objective specification",
+    "child": "data transformation objective"
+  },
+  {
+    "parent": "objective specification",
+    "child": "material transformation objective"
+  },
+  {
+    "parent": "objective specification",
+    "child": "purification objective"
+  },
+  {
+    "parent": "plan specification",
+    "child": "study design"
+  },
+  {
+    "parent": "device",
+    "child": "beaker"
+  },
+  {
+    "parent": "device",
+    "child": "Bunsen burner"
+  },
+  {
+    "parent": "device",
+    "child": "chromatography column"
+  },
+  {
+    "parent": "device",
+    "child": "crucible"
+  },
+  {
+    "parent": "device",
+    "child": "environmental control device"
+  },
+  {
+    "parent": "device",
+    "child": "evaporation device"
+  },
+  {
+    "parent": "device",
+    "child": "heating mantle"
+  },
+  {
+    "parent": "device",
+    "child": "transferring device"
+  },
+  {
+    "parent": "chromatography column",
+    "child": "fractionating column"
+  },
+  {
+    "parent": "fractionating column",
+    "child": "Snyder column"
+  },
+  {
+    "parent": "fractionating column",
+    "child": "Vigreux column"
+  },
+  {
+    "parent": "fractionating column",
+    "child": "Widmer column"
+  },
+  {
+    "parent": "evaporation device",
+    "child": "rotary evaporation"
+  },
+  {
+    "parent": "transferring device",
+    "child": "pipette"
+  },
+  {
+    "parent": "transferring device",
+    "child": "syringe pump"
+  },
+  {
+    "parent": "chemical entity",
+    "child": "atom"
+  },
+  {
+    "parent": "chemical entity",
+    "child": "chemical impurity"
+  },
+  {
+    "parent": "chemical entity",
+    "child": "chemical product"
+  },
+  {
+    "parent": "chemical entity",
+    "child": "group"
+  },
+  {
+    "parent": "chemical entity",
+    "child": "ion"
+  },
+  {
+    "parent": "chemical entity",
+    "child": "molecular entity"
+  },
+  {
+    "parent": "atom",
+    "child": "hydrogen atom"
+  },
+  {
+    "parent": "atom",
+    "child": "main group element atom"
+  },
+  {
+    "parent": "main group element atom",
+    "child": "p-block element atom"
+  },
+  {
+    "parent": "main group element atom",
+    "child": "s-block element atom"
+  },
+  {
+    "parent": "p-block element atom",
+    "child": "carbon group element atom"
+  },
+  {
+    "parent": "p-block element atom",
+    "child": "chalcogen"
+  },
+  {
+    "parent": "p-block element atom",
+    "child": "nonmetal atom"
+  },
+  {
+    "parent": "p-block element atom",
+    "child": "pnictogen"
+  },
+  {
+    "parent": "carbon group element atom",
+    "child": "carbon atom"
+  },
+  {
+    "parent": "chalcogen",
+    "child": "oxygen atom"
+  },
+  {
+    "parent": "nonmetal atom",
+    "child": "nitrogen atom"
+  },
+  {
+    "parent": "nonmetal atom",
+    "child": "oxygen atom"
+  },
+  {
+    "parent": "pnictogen",
+    "child": "nitrogen atom"
+  },
+  {
+    "parent": "chemical impurity",
+    "child": "persistent organic pollutant"
+  },
+  {
+    "parent": "chemical product",
+    "child": "commercial chemical product"
+  },
+  {
+    "parent": "chemical product",
+    "child": "drug"
+  },
+  {
+    "parent": "chemical product",
+    "child": "Maillard reaction product"
+  },
+  {
+    "parent": "chemical product",
+    "child": "PCR product"
+  },
+  {
+    "parent": "chemical product",
+    "child": "thermal degradation product"
+  },
+  {
+    "parent": "group",
+    "child": "inorganic group"
+  },
+  {
+    "parent": "group",
+    "child": "organic group"
+  },
+  {
+    "parent": "organic group",
+    "child": "acyl group"
+  },
+  {
+    "parent": "organic group",
+    "child": "carboxy group"
+  },
+  {
+    "parent": "organic group",
+    "child": "cyano group"
+  },
+  {
+    "parent": "organic group",
+    "child": "hydroxy group"
+  },
+  {
+    "parent": "organic group",
+    "child": "organic divalent group"
+  },
+  {
+    "parent": "organic group",
+    "child": "organic univalent group"
+  },
+  {
+    "parent": "organic group",
+    "child": "organyl group"
+  },
+  {
+    "parent": "organic group",
+    "child": "oxo group"
+  },
+  {
+    "parent": "organic group",
+    "child": "pseudohalo group"
+  },
+  {
+    "parent": "ion",
+    "child": "anion"
+  },
+  {
+    "parent": "ion",
+    "child": "cation"
+  },
+  {
+    "parent": "ion",
+    "child": "polyatomic ion"
+  },
+  {
+    "parent": "anion",
+    "child": "divalent inorganic anion"
+  },
+  {
+    "parent": "anion",
+    "child": "inorganic anion"
+  },
+  {
+    "parent": "anion",
+    "child": "monoanion"
+  },
+  {
+    "parent": "anion",
+    "child": "organic anion"
+  },
+  {
+    "parent": "anion",
+    "child": "oxoanion"
+  },
+  {
+    "parent": "anion",
+    "child": "polyatomic anion"
+  },
+  {
+    "parent": "anion",
+    "child": "pseudohalide anion"
+  },
+  {
+    "parent": "inorganic anion",
+    "child": "cyanide"
+  },
+  {
+    "parent": "inorganic anion",
+    "child": "divalent inorganic anion"
+  },
+  {
+    "parent": "inorganic anion",
+    "child": "hydroxides"
+  },
+  {
+    "parent": "inorganic anion",
+    "child": "monovalent inorganic anion"
+  },
+  {
+    "parent": "inorganic anion",
+    "child": "oxide"
+  },
+  {
+    "parent": "cyanides",
+    "child": "cyanide"
+  },
+  {
+    "parent": "divalent inorganic anion",
+    "child": "hydridonitrate(2-)"
+  },
+  {
+    "parent": "monovalent inorganic anion",
+    "child": "azanide"
+  },
+  {
+    "parent": "monoanion",
+    "child": "monovalent inorganic anion"
+  },
+  {
+    "parent": "monoanion",
+    "child": "polyatomic monoanion"
+  },
+  {
+    "parent": "organic anion",
+    "child": "carboxylic acid anion"
+  },
+  {
+    "parent": "carboxylic acid anion",
+    "child": "monocarboxylic acid anion"
+  },
+  {
+    "parent": "monocarboxylic acid anion",
+    "child": "amino-acid anion"
+  },
+  {
+    "parent": "monocarboxylic acid anion",
+    "child": "fatty acid anion"
+  },
+  {
+    "parent": "monocarboxylic acid anion",
+    "child": "formate"
+  },
+  {
+    "parent": "polyatomic anion",
+    "child": "polyatomic monoanion"
+  },
+  {
+    "parent": "cation",
+    "child": "inorganic cation"
+  },
+  {
+    "parent": "cation",
+    "child": "onium cation"
+  },
+  {
+    "parent": "inorganic cation",
+    "child": "monovalent inorganic cation"
+  },
+  {
+    "parent": "monovalent inorganic cation",
+    "child": "ammonium"
+  },
+  {
+    "parent": "onium compound",
+    "child": "onium cation"
+  },
+  {
+    "parent": "polyatomic ion",
+    "child": "onium cation"
+  },
+  {
+    "parent": "polyatomic ion",
+    "child": "polyatomic anion"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "carbon group molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "chalcogen molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "heteroatomic molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "hydrogen molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "inorganic molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "main group molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "molecular complex"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "molecule"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "organic molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "p-block molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "pnictogen molecular entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "polyatomic entity"
+  },
+  {
+    "parent": "molecular entity",
+    "child": "s-block molecular entity"
+  },
+  {
+    "parent": "molecular complex",
+    "child": "DNA polymerase complex"
+  },
+  {
+    "parent": "molecular complex",
+    "child": "alpha-1-microglobulin-Ig alpha complex chromophores"
+  },
+  {
+    "parent": "molecular complex",
+    "child": "protein-containing complex"
+  },
+  {
+    "parent": "protein-containing complex",
+    "child": "DNA polymerase complex"
+  },
+  {
+    "parent": "molecule",
+    "child": "macromolecule"
+  },
+  {
+    "parent": "molecule",
+    "child": "organic molecule"
+  },
+  {
+    "parent": "macromolecule",
+    "child": "nucleic acid"
+  },
+  {
+    "parent": "macromolecule",
+    "child": "polymer"
+  },
+  {
+    "parent": "macromolecule",
+    "child": "protein"
+  },
+  {
+    "parent": "nucleic acid",
+    "child": "deoxyribonucleic acid"
+  },
+  {
+    "parent": "nucleic acid",
+    "child": "ribonucleic acid"
+  },
+  {
+    "parent": "deoxyribonucleic acid",
+    "child": "double-stranded DNA"
+  },
+  {
+    "parent": "protein",
+    "child": "enzyme"
+  },
+  {
+    "parent": "protein",
+    "child": "peptide"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "heteroorganic entity"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "organic fundamental parent"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "organic hydride"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "organic ion"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "organic molecule"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "organochalcogen compound"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "organonitrogen compound"
+  },
+  {
+    "parent": "organic molecular entity",
+    "child": "organooxygen compound"
+  },
+  {
+    "parent": "organic fundamental parent",
+    "child": "heterocyclic organic fundamental parent"
+  },
+  {
+    "parent": "heterocyclic organic fundamental parent",
+    "child": "saturated organic heterocyclic parent"
+  },
+  {
+    "parent": "saturated organic heterocyclic parent",
+    "child": "saturated organic heteromonocyclic parent"
+  },
+  {
+    "parent": "organic ion",
+    "child": "organic anion"
+  },
+  {
+    "parent": "organooxygen compound",
+    "child": "alcohol"
+  },
+  {
+    "parent": "organooxygen compound",
+    "child": "ether"
+  },
+  {
+    "parent": "organooxygen compound",
+    "child": "ketone"
+  },
+  {
+    "parent": "organooxygen compound",
+    "child": "organic acid"
+  },
+  {
+    "parent": "organooxygen compound",
+    "child": "organic hydroxy compound"
+  },
+  {
+    "parent": "organooxygen compound",
+    "child": "organic oxo compound"
+  },
+  {
+    "parent": "organic acid",
+    "child": "carboxylic acid"
+  },
+  {
+    "parent": "organic hydroxy compound",
+    "child": "alcohol"
+  },
+  {
+    "parent": "organic oxo compound",
+    "child": "amide"
+  },
+  {
+    "parent": "organic oxo compound",
+    "child": "carboxylic acid"
+  },
+  {
+    "parent": "organic oxo compound",
+    "child": "ketone"
+  },
+  {
+    "parent": "alcohol",
+    "child": "aliphatic alcohol"
+  },
+  {
+    "parent": "alcohol",
+    "child": "fatty alcohol"
+  },
+  {
+    "parent": "alcohol",
+    "child": "methanol"
+  },
+  {
+    "parent": "alcohol",
+    "child": "propan-2-ol"
+  },
+  {
+    "parent": "aliphatic alcohol",
+    "child": "alkyl alcohol"
+  },
+  {
+    "parent": "alkyl alcohol",
+    "child": "primary alcohol"
+  },
+  {
+    "parent": "alkyl alcohol",
+    "child": "secondary alcohol"
+  },
+  {
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "parent": "secondary alcohol",
+    "child": "propan-2-ol"
+  },
+  {
+    "parent": "fatty alcohol",
+    "child": "secondary fatty alcohol"
+  },
+  {
+    "parent": "ether",
+    "child": "cyclic ether"
+  },
+  {
+    "parent": "cyclic ether",
+    "child": "dioxane"
+  },
+  {
+    "parent": "cyclic ether",
+    "child": "oxolane"
+  },
+  {
+    "parent": "dioxanes",
+    "child": "dioxane"
+  },
+  {
+    "parent": "dioxane",
+    "child": "1,4-dioxane"
+  },
+  {
+    "parent": "oxolanes",
+    "child": "oxolane"
+  },
+  {
+    "parent": "ketone",
+    "child": "dialkyl ketone"
+  },
+  {
+    "parent": "ketone",
+    "child": "ketone body"
+  },
+  {
+    "parent": "ketone",
+    "child": "methyl ketone"
+  },
+  {
+    "parent": "ketone",
+    "child": "propanones"
+  },
+  {
+    "parent": "dialkyl ketone",
+    "child": "butanone"
+  },
+  {
+    "parent": "butanone",
+    "child": "butan-2-one"
+  },
+  {
+    "parent": "methyl ketone",
+    "child": "acetone"
+  },
+  {
+    "parent": "propanones",
+    "child": "acetone"
+  },
+  {
+    "parent": "carboxylic acid",
+    "child": "amino acid"
+  },
+  {
+    "parent": "carboxylic acid",
+    "child": "monocarboxylic acid"
+  },
+  {
+    "parent": "monocarboxylic acid",
+    "child": "fatty acid"
+  },
+  {
+    "parent": "monocarboxylic acid",
+    "child": "formic acid"
+  },
+  {
+    "parent": "lipid",
+    "child": "fatty acid derivative"
+  },
+  {
+    "parent": "fatty acid derivative",
+    "child": "fatty acid"
+  },
+  {
+    "parent": "organonitrogen compound",
+    "child": "amide"
+  },
+  {
+    "parent": "organonitrogen compound",
+    "child": "carbamate"
+  },
+  {
+    "parent": "organonitrogen compound",
+    "child": "nitrile"
+  },
+  {
+    "parent": "organonitrogen compound",
+    "child": "organic amino compound"
+  },
+  {
+    "parent": "amide",
+    "child": "carboxamide"
+  },
+  {
+    "parent": "carboxamide",
+    "child": "monocarboxylic acid amide"
+  },
+  {
+    "parent": "carboxamide",
+    "child": "primary amide"
+  },
+  {
+    "parent": "monocarboxylic acid amide",
+    "child": "formamide"
+  },
+  {
+    "parent": "formamides",
+    "child": "formamide"
+  },
+  {
+    "parent": "nitrile",
+    "child": "aliphatic nitrile"
+  },
+  {
+    "parent": "aliphatic nitrile",
+    "child": "acetonitrile"
+  },
+  {
+    "parent": "cyclic compound",
+    "child": "carbocyclic compound"
+  },
+  {
+    "parent": "cyclic compound",
+    "child": "heterocyclic compound"
+  },
+  {
+    "parent": "cyclic compound",
+    "child": "monocyclic compound"
+  },
+  {
+    "parent": "organic cyclic compound",
+    "child": "organic heterocyclic compound"
+  },
+  {
+    "parent": "organic heterocyclic compound",
+    "child": "organic heteromonocyclic compound"
+  },
+  {
+    "parent": "organic heteromonocyclic compound",
+    "child": "oxacycle"
+  },
+  {
+    "parent": "carbocyclic compound",
+    "child": "homocyclic compound"
+  },
+  {
+    "parent": "heterocyclic compound",
+    "child": "heteromonocyclic compound"
+  },
+  {
+    "parent": "heterocyclic compound",
+    "child": "oxacycle"
+  },
+  {
+    "parent": "oxacycle",
+    "child": "cyclic ether"
+  },
+  {
+    "parent": "hydrocarbon",
+    "child": "alkylbenzene"
+  },
+  {
+    "parent": "hydrocarbon",
+    "child": "arene"
+  },
+  {
+    "parent": "hydrocarbon",
+    "child": "cyclic hydrocarbon"
+  },
+  {
+    "parent": "aromatic compound",
+    "child": "arene"
+  },
+  {
+    "parent": "aromatic compound",
+    "child": "aromatic annulene"
+  },
+  {
+    "parent": "aromatic compound",
+    "child": "organic aromatic compound"
+  },
+  {
+    "parent": "organic aromatic compound",
+    "child": "arene"
+  },
+  {
+    "parent": "organic aromatic compound",
+    "child": "benzenoid aromatic compound"
+  },
+  {
+    "parent": "arene",
+    "child": "alkylbenzene"
+  },
+  {
+    "parent": "arene",
+    "child": "benzene"
+  },
+  {
+    "parent": "arene",
+    "child": "benzenes"
+  },
+  {
+    "parent": "arene",
+    "child": "monocyclic arene"
+  },
+  {
+    "parent": "benzenoid aromatic compound",
+    "child": "benzene"
+  },
+  {
+    "parent": "benzenes",
+    "child": "benzene"
+  },
+  {
+    "parent": "alkylbenzene",
+    "child": "toluene"
+  },
+  {
+    "parent": "toluenes",
+    "child": "toluene"
+  },
+  {
+    "parent": "cyclic hydrocarbon",
+    "child": "annulene"
+  },
+  {
+    "parent": "cyclic hydrocarbon",
+    "child": "monocyclic hydrocarbon"
+  },
+  {
+    "parent": "annulene",
+    "child": "aromatic annulene"
+  },
+  {
+    "parent": "monocyclic hydrocarbon",
+    "child": "monocyclic arene"
+  },
+  {
+    "parent": "monocyclic arene",
+    "child": "benzene"
+  },
+  {
+    "parent": "oxoacid",
+    "child": "carbamic acid"
+  },
+  {
+    "parent": "oxoacid",
+    "child": "carbon oxoacid"
+  },
+  {
+    "parent": "oxoacid",
+    "child": "carboxylic acid"
+  },
+  {
+    "parent": "oxoacid",
+    "child": "imidic acid"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "carbon oxoacid"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "formamide"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "formate"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "formic acid"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "hydrogen isocyanide"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "methanol"
+  },
+  {
+    "parent": "one-carbon compound",
+    "child": "methoxide"
+  },
+  {
+    "parent": "oxoacid derivative",
+    "child": "carbamate"
+  },
+  {
+    "parent": "oxoacid derivative",
+    "child": "carboxamide"
+  },
+  {
+    "parent": "oxoacid derivative",
+    "child": "oxoanion"
+  },
+  {
+    "parent": "imidic acid",
+    "child": "carboximidic acid"
+  },
+  {
+    "parent": "carboximidic acid",
+    "child": "formimidic acid"
+  },
+  {
+    "parent": "inorganic molecular entity",
+    "child": "inorganic hydride"
+  },
+  {
+    "parent": "inorganic molecular entity",
+    "child": "inorganic ion"
+  },
+  {
+    "parent": "hydrides",
+    "child": "inorganic hydride"
+  },
+  {
+    "parent": "hydrides",
+    "child": "mononuclear parent hydride"
+  },
+  {
+    "parent": "hydrides",
+    "child": "organic hydride"
+  },
+  {
+    "parent": "inorganic hydride",
+    "child": "nitrogen hydride"
+  },
+  {
+    "parent": "inorganic hydride",
+    "child": "pnictogen hydride"
+  },
+  {
+    "parent": "pnictogen hydride",
+    "child": "nitrogen hydride"
+  },
+  {
+    "parent": "nitrogen hydride",
+    "child": "azane"
+  },
+  {
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "parent": "hydracid",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "parent": "hydracid",
+    "child": "hydrogen isocyanide"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "1,4-dioxane"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "acetone"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "acetonitrile"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "benzene"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "butan-2-one"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "propan-2-ol"
+  },
+  {
+    "parent": "volatile organic compound",
+    "child": "toluene"
+  },
+  {
+    "parent": "unit cell",
+    "child": "cubic unit cell"
+  },
+  {
+    "parent": "unit cell",
+    "child": "orthorhombic unit cell"
+  },
+  {
+    "parent": "unit cell",
+    "child": "tetragonal unit cell"
+  },
+  {
+    "parent": "unit cell",
+    "child": "triclinic unit cell"
+  },
+  {
+    "parent": "unit cell",
+    "child": "trigonal unit cell"
+  },
+  {
+    "parent": "purge factor",
+    "child": "assessed ionisability purge factor"
+  },
+  {
+    "parent": "purge factor",
+    "child": "assessed reactivity purge factor"
+  },
+  {
+    "parent": "purge factor",
+    "child": "assessed solubility purge factor"
+  },
+  {
+    "parent": "purge factor",
+    "child": "assessed volatility purge factor"
+  },
+  {
+    "parent": "purge factor",
+    "child": "overall assessed purge factor"
+  },
+  {
+    "parent": "PCR product",
+    "child": "amplified DNA"
+  },
+  {
+    "parent": "role",
+    "child": "chemical role"
+  },
+  {
+    "parent": "role",
+    "child": "biological role"
+  },
+  {
+    "parent": "role",
+    "child": "application"
+  },
+  {
+    "parent": "role",
+    "child": "evaluant role"
+  },
+  {
+    "parent": "role",
+    "child": "aetiopathogenetic role"
+  },
+  {
+    "parent": "chemical role",
+    "child": "reagent role"
+  },
+  {
+    "parent": "chemical role",
+    "child": "photochemical role"
+  },
+  {
+    "parent": "chemical role",
+    "child": "antisolvent role"
+  },
+  {
+    "parent": "chemical role",
+    "child": "mother liquor role"
+  },
+  {
+    "parent": "chemical role",
+    "child": "precipitate role"
+  },
+  {
+    "parent": "chemical role",
+    "child": "seed role"
+  },
+  {
+    "parent": "chemical role",
+    "child": "reaction intermediate"
+  },
+  {
+    "parent": "biological role",
+    "child": "biochemical role"
+  },
+  {
+    "parent": "biological role",
+    "child": "biophysical role"
+  },
+  {
+    "parent": "biological role",
+    "child": "pharmacological role"
+  },
+  {
+    "parent": "biological role",
+    "child": "physiological role"
+  },
+  {
+    "parent": "biochemical role",
+    "child": "photobiochemical role"
+  },
+  {
+    "parent": "biochemical role",
+    "child": "nucleic acid template role"
+  },
+  {
+    "parent": "evaluant role",
+    "child": "reference substance role"
+  },
+  {
+    "parent": "application",
+    "child": "fuel"
+  },
+  {
+    "parent": "application",
+    "child": "fuel additive"
+  },
+  {
+    "parent": "application",
+    "child": "refrigerant"
+  },
+  {
+    "parent": "application",
+    "child": "ultraviolet filter"
+  },
+  {
+    "parent": "application",
+    "child": "pharmaceutical"
+  },
+  {
+    "parent": "application",
+    "child": "film-forming compound"
+  },
+  {
+    "parent": "acid",
+    "child": "Bronsted acid"
+  },
+  {
+    "parent": "acid",
+    "child": "Lewis acid"
+  },
+  {
+    "parent": "acid",
+    "child": "inorganic acid"
+  },
+  {
+    "parent": "base",
+    "child": "Bronsted base"
+  },
+  {
+    "parent": "base",
+    "child": "Lewis base"
+  },
+  {
+    "parent": "inhibitor",
+    "child": "enzyme inhibitor"
+  },
+  {
+    "parent": "inhibitor",
+    "child": "electron-transport chain inhibitor"
+  },
+  {
+    "parent": "inhibitor",
+    "child": "pathway inhibitor"
+  },
+  {
+    "parent": "inhibitor",
+    "child": "corrosion inhibitor"
+  },
+  {
+    "parent": "electron-transport chain inhibitor",
+    "child": "respiratory-chain inhibitor"
+  },
+  {
+    "parent": "respiratory-chain inhibitor",
+    "child": "mitochondrial respiratory-chain inhibitor"
+  },
+  {
+    "parent": "enzyme inhibitor",
+    "child": "EC 1.* (oxidoreductase) inhibitor"
+  },
+  {
+    "parent": "EC 1.* (oxidoreductase) inhibitor",
+    "child": "EC 1.9.* (oxidoreductase acting on donor heme group) inhibitor"
+  },
+  {
+    "parent": "EC 1.9.* (oxidoreductase acting on donor heme group) inhibitor",
+    "child": "EC 1.9.3.* (oxidoreductase acting on donor heme group, oxygen as acceptor) inhibitor"
+  },
+  {
+    "parent": "EC 1.9.3.* (oxidoreductase acting on donor heme group, oxygen as acceptor) inhibitor",
+    "child": "EC 1.9.3.1 (cytochrome c oxidase) inhibitor"
+  },
+  {
+    "parent": "enzyme inhibitor",
+    "child": "EC 3.* (hydrolase) inhibitor"
+  },
+  {
+    "parent": "EC 3.* (hydrolase) inhibitor",
+    "child": "EC 3.5.* (hydrolases acting on non-peptide C-N bonds) inhibitor"
+  },
+  {
+    "parent": "EC 3.5.* (hydrolases acting on non-peptide C-N bonds) inhibitor",
+    "child": "EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor"
+  },
+  {
+    "parent": "solvent",
+    "child": "polar solvent"
+  },
+  {
+    "parent": "solvent",
+    "child": "non-polar solvent"
+  },
+  {
+    "parent": "solvent",
+    "child": "protic solvent"
+  },
+  {
+    "parent": "solvent",
+    "child": "aprotic solvent"
+  },
+  {
+    "parent": "polar solvent",
+    "child": "protic solvent"
+  },
+  {
+    "parent": "polar solvent",
+    "child": "polar aprotic solvent"
+  },
+  {
+    "parent": "aprotic solvent",
+    "child": "polar aprotic solvent"
+  },
+  {
+    "parent": "protic solvent",
+    "child": "amphiprotic solvent"
+  },
+  {
+    "parent": "protic solvent",
+    "child": "protophilic solvent"
+  },
+  {
+    "parent": "reagent",
+    "child": "oxidising agent"
+  },
+  {
+    "parent": "reagent",
+    "child": "reducing agent"
+  },
+  {
+    "parent": "reagent",
+    "child": "electrophilic reagent"
+  },
+  {
+    "parent": "reagent",
+    "child": "nucleophilic reagent"
+  },
+  {
+    "parent": "reagent",
+    "child": "deaminating agent"
+  },
+  {
+    "parent": "reducing agent",
+    "child": "antioxidant"
+  },
+  {
+    "parent": "donor",
+    "child": "electron donor"
+  },
+  {
+    "parent": "donor",
+    "child": "acyl donor"
+  },
+  {
+    "parent": "donor",
+    "child": "nitric oxide donor"
+  },
+  {
+    "parent": "electron donor",
+    "child": "hydrogen donor"
+  },
+  {
+    "parent": "acceptor",
+    "child": "electron acceptor"
+  },
+  {
+    "parent": "electron acceptor",
+    "child": "hydrogen acceptor"
+  },
+  {
+    "parent": "ligand",
+    "child": "chelator"
+  },
+  {
+    "parent": "ligand",
+    "child": "ionophore"
+  },
+  {
+    "parent": "chelator",
+    "child": "iron chelator"
+  },
+  {
+    "parent": "chelator",
+    "child": "copper chelator"
+  },
+  {
+    "parent": "chelator",
+    "child": "sequestrant"
+  },
+  {
+    "parent": "iron chelator",
+    "child": "iron(2+) chelator"
+  },
+  {
+    "parent": "iron chelator",
+    "child": "iron(3+) chelator"
+  },
+  {
+    "parent": "iron chelator",
+    "child": "siderophore"
+  },
+  {
+    "parent": "siderophore",
+    "child": "phytosiderophore"
+  },
+  {
+    "parent": "siderophore",
+    "child": "sideramine"
+  },
+  {
+    "parent": "ionophore",
+    "child": "iron ionophore"
+  },
+  {
+    "parent": "surfactant",
+    "child": "detergent"
+  },
+  {
+    "parent": "surfactant",
+    "child": "emulsifier"
+  },
+  {
+    "parent": "surfactant",
+    "child": "nonionic surfactant"
+  },
+  {
+    "parent": "surfactant",
+    "child": "bolaamphiphile"
+  },
+  {
+    "parent": "emulsifier",
+    "child": "food emulsifier"
+  },
+  {
+    "parent": "food component",
+    "child": "food additive"
+  },
+  {
+    "parent": "food component",
+    "child": "nutrient"
+  },
+  {
+    "parent": "food component",
+    "child": "environmental food contaminant"
+  },
+  {
+    "parent": "food additive",
+    "child": "food emulsifier"
+  },
+  {
+    "parent": "food additive",
+    "child": "food antioxidant"
+  },
+  {
+    "parent": "food additive",
+    "child": "food preservative"
+  },
+  {
+    "parent": "food additive",
+    "child": "sequestrant"
+  },
+  {
+    "parent": "antioxidant",
+    "child": "food antioxidant"
+  },
+  {
+    "parent": "environmental contaminant",
+    "child": "environmental food contaminant"
+  },
+  {
+    "parent": "environmental contaminant",
+    "child": "greenhouse gas"
+  },
+  {
+    "parent": "pharmaceutical",
+    "child": "drug"
+  },
+  {
+    "parent": "poison",
+    "child": "neurotoxin"
+  },
+  {
+    "parent": "poison",
+    "child": "hepatotoxic agent"
+  },
+  {
+    "parent": "impurity",
+    "child": "mutagenic impurity"
+  },
+  {
+    "parent": "impurity",
+    "child": "residual solvent impurity"
+  },
+  {
+    "parent": "buffer",
+    "child": "Good's buffer substance"
+  },
+  {
+    "parent": "protective agent",
+    "child": "neuroprotective agent"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "quality"
+  },
+  {
+    "parent": "quality",
+    "child": "bulk substance quality"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "bulk substance quality"
+  },
+  {
+    "parent": "quality",
+    "child": "molecular quality"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "molecular quality"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell quality"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell quality"
+  },
+  {
+    "parent": "quality",
+    "child": "symmetry"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "symmetry"
+  },
+  {
+    "parent": "quality",
+    "child": "length"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "length"
+  },
+  {
+    "parent": "quality",
+    "child": "mass"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "mass"
+  },
+  {
+    "parent": "quality",
+    "child": "solubility"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "solubility"
+  },
+  {
+    "parent": "quality",
+    "child": "AFQ_0000168"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "AFQ_0000168"
+  },
+  {
+    "parent": "quality",
+    "child": "concentration of"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "concentration of"
+  },
+  {
+    "parent": "quality",
+    "child": "flow rate"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "flow rate"
+  },
+  {
+    "parent": "quality",
+    "child": "critical quality attribute"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "critical quality attribute"
+  },
+  {
+    "parent": "bulk substance quality",
+    "child": "crystalline state"
+  },
+  {
+    "parent": "quality",
+    "child": "crystalline state"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "crystalline state"
+  },
+  {
+    "parent": "bulk substance quality",
+    "child": "morphology"
+  },
+  {
+    "parent": "quality",
+    "child": "morphology"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "morphology"
+  },
+  {
+    "parent": "morphology",
+    "child": "habit"
+  },
+  {
+    "parent": "bulk substance quality",
+    "child": "habit"
+  },
+  {
+    "parent": "quality",
+    "child": "habit"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "habit"
+  },
+  {
+    "parent": "bulk substance quality",
+    "child": "X-Ray diffractivity"
+  },
+  {
+    "parent": "quality",
+    "child": "X-Ray diffractivity"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "X-Ray diffractivity"
+  },
+  {
+    "parent": "bulk substance quality",
+    "child": "AFQ_0000279"
+  },
+  {
+    "parent": "quality",
+    "child": "AFQ_0000279"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "AFQ_0000279"
+  },
+  {
+    "parent": "molecular quality",
+    "child": "chemical structure"
+  },
+  {
+    "parent": "quality",
+    "child": "chemical structure"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "chemical structure"
+  },
+  {
+    "parent": "molecular quality",
+    "child": "molecular formula"
+  },
+  {
+    "parent": "quality",
+    "child": "molecular formula"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "molecular formula"
+  },
+  {
+    "parent": "symmetry",
+    "child": "point symmetry"
+  },
+  {
+    "parent": "quality",
+    "child": "point symmetry"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "point symmetry"
+  },
+  {
+    "parent": "symmetry",
+    "child": "space group"
+  },
+  {
+    "parent": "quality",
+    "child": "space group"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "space group"
+  },
+  {
+    "parent": "symmetry",
+    "child": "AFQ_0000250"
+  },
+  {
+    "parent": "quality",
+    "child": "AFQ_0000250"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "AFQ_0000250"
+  },
+  {
+    "parent": "point symmetry",
+    "child": "centrosymmetric point symmetry"
+  },
+  {
+    "parent": "symmetry",
+    "child": "centrosymmetric point symmetry"
+  },
+  {
+    "parent": "quality",
+    "child": "centrosymmetric point symmetry"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "centrosymmetric point symmetry"
+  },
+  {
+    "parent": "point symmetry",
+    "child": "non-centrosymmetric point symmetry"
+  },
+  {
+    "parent": "symmetry",
+    "child": "non-centrosymmetric point symmetry"
+  },
+  {
+    "parent": "quality",
+    "child": "non-centrosymmetric point symmetry"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "non-centrosymmetric point symmetry"
+  },
+  {
+    "parent": "non-centrosymmetric point symmetry",
+    "child": "enantiomorphic point symmetry"
+  },
+  {
+    "parent": "point symmetry",
+    "child": "enantiomorphic point symmetry"
+  },
+  {
+    "parent": "symmetry",
+    "child": "enantiomorphic point symmetry"
+  },
+  {
+    "parent": "quality",
+    "child": "enantiomorphic point symmetry"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "enantiomorphic point symmetry"
+  },
+  {
+    "parent": "non-centrosymmetric point symmetry",
+    "child": "polar point symmetry"
+  },
+  {
+    "parent": "point symmetry",
+    "child": "polar point symmetry"
+  },
+  {
+    "parent": "symmetry",
+    "child": "polar point symmetry"
+  },
+  {
+    "parent": "quality",
+    "child": "polar point symmetry"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "polar point symmetry"
+  },
+  {
+    "parent": "non-centrosymmetric point symmetry",
+    "child": "non-centrosymmetric achiral symmetry"
+  },
+  {
+    "parent": "point symmetry",
+    "child": "non-centrosymmetric achiral symmetry"
+  },
+  {
+    "parent": "symmetry",
+    "child": "non-centrosymmetric achiral symmetry"
+  },
+  {
+    "parent": "quality",
+    "child": "non-centrosymmetric achiral symmetry"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "non-centrosymmetric achiral symmetry"
+  },
+  {
+    "parent": "unit cell",
+    "child": "hexagonal unit cell"
+  },
+  {
+    "parent": "unit cell",
+    "child": "monoclinic unit cell"
+  },
+  {
+    "parent": "unit cell",
+    "child": "AFQ_0000256"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell Z value"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell Z value"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell Z value"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "AFQ_0000111"
+  },
+  {
+    "parent": "quality",
+    "child": "AFQ_0000111"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "AFQ_0000111"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell Z' value"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell Z' value"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell Z' value"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell crystal density"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell crystal density"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell crystal density"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "AFQ_0000115"
+  },
+  {
+    "parent": "quality",
+    "child": "AFQ_0000115"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "AFQ_0000115"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell volume"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell volume"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell volume"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell a-axis length"
+  },
+  {
+    "parent": "length",
+    "child": "unit cell a-axis length"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell a-axis length"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell a-axis length"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell b-axis length"
+  },
+  {
+    "parent": "length",
+    "child": "unit cell b-axis length"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell b-axis length"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell b-axis length"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell c-axis length"
+  },
+  {
+    "parent": "length",
+    "child": "unit cell c-axis length"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell c-axis length"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell c-axis length"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell alpha internal angle"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell alpha internal angle"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell alpha internal angle"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell beta internal angle"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell beta internal angle"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell beta internal angle"
+  },
+  {
+    "parent": "unit cell quality",
+    "child": "unit cell gamma internal angle"
+  },
+  {
+    "parent": "quality",
+    "child": "unit cell gamma internal angle"
+  },
+  {
+    "parent": "specifically dependent continuant",
+    "child": "unit cell gamma internal angle"
+  },
+  {
+    "parent": "metabolite",
+    "child": "eukaryotic metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "prokaryotic metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "animal metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "fungal metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "bacterial metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "mammalian metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "Saccharomyces cerevisiae metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "human metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "mouse metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "Escherichia coli metabolite"
+  },
+  {
+    "parent": "metabolite",
+    "child": "Mycoplasma genitalium metabolite"
+  },
+  {
+    "parent": "eukaryotic metabolite",
+    "child": "animal metabolite"
+  },
+  {
+    "parent": "eukaryotic metabolite",
+    "child": "fungal metabolite"
+  },
+  {
+    "parent": "eukaryotic metabolite",
+    "child": "mammalian metabolite"
+  },
+  {
+    "parent": "eukaryotic metabolite",
+    "child": "Saccharomyces cerevisiae metabolite"
+  },
+  {
+    "parent": "eukaryotic metabolite",
+    "child": "human metabolite"
+  },
+  {
+    "parent": "eukaryotic metabolite",
+    "child": "mouse metabolite"
+  },
+  {
+    "parent": "prokaryotic metabolite",
+    "child": "bacterial metabolite"
+  },
+  {
+    "parent": "prokaryotic metabolite",
+    "child": "Escherichia coli metabolite"
+  },
+  {
+    "parent": "prokaryotic metabolite",
+    "child": "Mycoplasma genitalium metabolite"
+  },
+  {
+    "parent": "animal metabolite",
+    "child": "mammalian metabolite"
+  },
+  {
+    "parent": "animal metabolite",
+    "child": "human metabolite"
+  },
+  {
+    "parent": "animal metabolite",
+    "child": "mouse metabolite"
+  },
+  {
+    "parent": "fungal metabolite",
+    "child": "Saccharomyces cerevisiae metabolite"
+  },
+  {
+    "parent": "bacterial metabolite",
+    "child": "Escherichia coli metabolite"
+  },
+  {
+    "parent": "bacterial metabolite",
+    "child": "Mycoplasma genitalium metabolite"
+  },
+  {
+    "parent": "mammalian metabolite",
+    "child": "human metabolite"
+  },
+  {
+    "parent": "mammalian metabolite",
+    "child": "mouse metabolite"
+  },
+  {
+    "parent": "route specification",
+    "child": "GMP specification of synthetic process"
+  },
+  {
+    "parent": "centrifugation",
+    "child": "preparative centrifugation"
+  },
+  {
+    "parent": "centrifugation",
+    "child": "sequential centrifugation"
+  },
+  {
+    "parent": "centrifugation",
+    "child": "differential centrifugation"
+  },
+  {
+    "parent": "centrifugation",
+    "child": "low-speed centrifugation"
+  },
+  {
+    "parent": "preparative centrifugation",
+    "child": "differential centrifugation"
+  },
+  {
+    "parent": "sequential centrifugation",
+    "child": "differential centrifugation"
+  },
+  {
+    "parent": "differential centrifugation",
+    "child": "low-speed centrifugation"
+  },
+  {
+    "parent": "enzymatic amplification",
+    "child": "polymerase chain reaction"
+  },
+  {
+    "parent": "condensor",
+    "child": "Allihn condenser"
+  },
+  {
+    "parent": "condensor",
+    "child": "Davies condenser"
+  },
+  {
+    "parent": "condensor",
+    "child": "Dimroth condenser"
+  },
+  {
+    "parent": "condensor",
+    "child": "Frederichs condensor"
+  },
+  {
+    "parent": "condensor",
+    "child": "Graham condensor"
+  },
+  {
+    "parent": "condensor",
+    "child": "Liebig condenser"
+  },
+  {
+    "parent": "condensor",
+    "child": "coil condenser"
+  },
+  {
+    "parent": "condensor",
+    "child": "cold finger"
+  },
+  {
+    "parent": "coil condenser",
+    "child": "Graham condensor"
+  },
+  {
+    "parent": "coil condenser",
+    "child": "Dimroth condenser"
+  },
+  {
+    "parent": "flask",
+    "child": "Erlenmeyer flask"
+  },
+  {
+    "parent": "flask",
+    "child": "round bottom flask"
+  },
+  {
+    "parent": "flask",
+    "child": "volumetric flask"
+  },
+  {
+    "parent": "product approval milestone",
+    "child": "drug product approval milestone"
+  },
+  {
+    "parent": "product filing milestone",
+    "child": "drug product filing milestone"
+  },
+  {
+    "parent": "integral kinetic measurement",
+    "child": "method of flooding"
+  },
+  {
+    "parent": "chromatography",
+    "child": "adsorption chromatography"
+  },
+  {
+    "parent": "chromatography",
+    "child": "affinity chromatography"
+  },
+  {
+    "parent": "chromatography",
+    "child": "column chromatography"
+  },
+  {
+    "parent": "chromatography",
+    "child": "displacement chromatography"
+  },
+  {
+    "parent": "column chromatography",
+    "child": "adsorption chromatography"
+  },
+  {
+    "parent": "column chromatography",
+    "child": "affinity chromatography"
+  },
+  {
+    "parent": "column chromatography",
+    "child": "displacement chromatography"
+  },
+  {
+    "parent": "animal metabolite",
+    "child": "mammalian metabolite"
+  },
+  {
+    "parent": "supercritical drying",
+    "child": "supercritical carbon dioxide drying"
+  },
+  {
+    "parent": "route related process",
+    "child": "route development optimization"
+  },
+  {
+    "parent": "route related process",
+    "child": "route scouting"
+  },
+  {
+    "parent": "route related process",
+    "child": "route selection"
+  },
+  {
+    "parent": "antimicrobial agent",
+    "child": "antibacterial agent"
+  },
+  {
+    "parent": "synthesis reaction time",
+    "child": "induction period"
+  },
+  {
+    "parent": "residual solvent impurity",
+    "child": "ICH Q6A Class 1 Solvent"
+  },
+  {
+    "parent": "residual solvent impurity",
+    "child": "ICH Q6A Class 2 Solvent"
+  },
+  {
+    "parent": "residual solvent impurity",
+    "child": "ICH Q6A Class 3 Solvent"
+  },
+  {
+    "parent": "vacuum distillation",
+    "child": "molecular distillation"
+  },
+  {
+    "parent": "organic divalent group",
+    "child": "carbonyl group"
+  },
+  {
+    "parent": "organodiyl group",
+    "child": "carbonyl group"
+  },
+  {
+    "parent": "acyl group",
+    "child": "carbamoyl group"
+  },
+  {
+    "parent": "acyl group",
+    "child": "carboacyl group"
+  },
+  {
+    "parent": "carboacyl group",
+    "child": "univalent carboacyl group"
+  },
+  {
+    "parent": "acyl group",
+    "child": "univalent carboacyl group"
+  },
+  {
+    "parent": "cholinergic drug",
+    "child": "cholinergic antagonist"
+  },
+  {
+    "parent": "neurotransmitter agent",
+    "child": "cholinergic drug"
+  },
+  {
+    "parent": "pharmacological role",
+    "child": "neurotransmitter agent"
+  },
+  {
+    "parent": "neurotransmitter agent",
+    "child": "cholinergic antagonist"
+  },
+  {
+    "parent": "pharmacological role",
+    "child": "cholinergic drug"
+  },
+  {
+    "parent": "pharmacological role",
+    "child": "cholinergic antagonist"
+  },
+  {
+    "parent": "EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor",
+    "child": "EC 3.5.1.4 (amidase) inhibitor"
+  },
+  {
+    "parent": "AFRL_0000363",
+    "child": "AFRL_0000244"
+  },
+  {
+    "parent": "crystal growth method",
+    "child": "Czochralski process"
+  },
+  {
+    "parent": "crystal growth method",
+    "child": "Lely method"
+  },
+  {
+    "parent": "crystal growth method",
+    "child": "Verneuil process"
+  },
+  {
+    "parent": "value specification",
+    "child": "scalar value specification"
+  },
+  {
+    "parent": "solvate",
+    "child": "hydrate"
+  },
+  {
+    "parent": "catalyst",
+    "child": "phase-transfer catalyst"
+  }
+]

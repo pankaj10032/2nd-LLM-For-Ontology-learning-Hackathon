@@ -1,0 +1,3662 @@
+[
+  {
+    "parent": "element",
+    "child": "Actinium"
+  },
+  {
+    "parent": "element",
+    "child": "Arsenic"
+  },
+  {
+    "parent": "element",
+    "child": "Barium"
+  },
+  {
+    "parent": "element",
+    "child": "Beryllium"
+  },
+  {
+    "parent": "element",
+    "child": "Boron"
+  },
+  {
+    "parent": "element",
+    "child": "Bromine"
+  },
+  {
+    "parent": "element",
+    "child": "Cadmium"
+  },
+  {
+    "parent": "element",
+    "child": "Caesium"
+  },
+  {
+    "parent": "element",
+    "child": "Calcium"
+  },
+  {
+    "parent": "element",
+    "child": "Californium"
+  },
+  {
+    "parent": "element",
+    "child": "Cerium"
+  },
+  {
+    "parent": "element",
+    "child": "Curium"
+  },
+  {
+    "parent": "element",
+    "child": "Darmstadtium"
+  },
+  {
+    "parent": "element",
+    "child": "Dysprosium"
+  },
+  {
+    "parent": "element",
+    "child": "Einsteinium"
+  },
+  {
+    "parent": "element",
+    "child": "Erbium"
+  },
+  {
+    "parent": "element",
+    "child": "Europium"
+  },
+  {
+    "parent": "element",
+    "child": "Fluorine"
+  },
+  {
+    "parent": "element",
+    "child": "Gadolinium"
+  },
+  {
+    "parent": "element",
+    "child": "Germanium"
+  },
+  {
+    "parent": "element",
+    "child": "Gold"
+  },
+  {
+    "parent": "element",
+    "child": "Hafnium"
+  },
+  {
+    "parent": "element",
+    "child": "Holmium"
+  },
+  {
+    "parent": "element",
+    "child": "Hydrogen"
+  },
+  {
+    "parent": "element",
+    "child": "Iron"
+  },
+  {
+    "parent": "element",
+    "child": "Krypton"
+  },
+  {
+    "parent": "element",
+    "child": "Lanthanum"
+  },
+  {
+    "parent": "element",
+    "child": "Lawrencium"
+  },
+  {
+    "parent": "element",
+    "child": "Lead"
+  },
+  {
+    "parent": "element",
+    "child": "Lithium"
+  },
+  {
+    "parent": "element",
+    "child": "Lutetium"
+  },
+  {
+    "parent": "element",
+    "child": "Magnesium"
+  },
+  {
+    "parent": "element",
+    "child": "Meitnerium"
+  },
+  {
+    "parent": "element",
+    "child": "Mercury"
+  },
+  {
+    "parent": "element",
+    "child": "Molybdenum"
+  },
+  {
+    "parent": "element",
+    "child": "Osmium"
+  },
+  {
+    "parent": "element",
+    "child": "Oxygen"
+  },
+  {
+    "parent": "element",
+    "child": "Palladium"
+  },
+  {
+    "parent": "element",
+    "child": "Phosphorus"
+  },
+  {
+    "parent": "element",
+    "child": "Plutonium"
+  },
+  {
+    "parent": "element",
+    "child": "Praseodymium"
+  },
+  {
+    "parent": "element",
+    "child": "Promethium"
+  },
+  {
+    "parent": "element",
+    "child": "Radium"
+  },
+  {
+    "parent": "element",
+    "child": "Radon"
+  },
+  {
+    "parent": "element",
+    "child": "Rubidium"
+  },
+  {
+    "parent": "element",
+    "child": "Ruthenium"
+  },
+  {
+    "parent": "element",
+    "child": "Rutherfordium"
+  },
+  {
+    "parent": "element",
+    "child": "Scandium"
+  },
+  {
+    "parent": "element",
+    "child": "Seaborgium"
+  },
+  {
+    "parent": "element",
+    "child": "Selenium"
+  },
+  {
+    "parent": "element",
+    "child": "Silver"
+  },
+  {
+    "parent": "element",
+    "child": "Sodium"
+  },
+  {
+    "parent": "element",
+    "child": "Strontium"
+  },
+  {
+    "parent": "element",
+    "child": "Sulfur"
+  },
+  {
+    "parent": "element",
+    "child": "Tellurium"
+  },
+  {
+    "parent": "element",
+    "child": "Terbium"
+  },
+  {
+    "parent": "element",
+    "child": "Tin"
+  },
+  {
+    "parent": "element",
+    "child": "Titanium"
+  },
+  {
+    "parent": "element",
+    "child": "Tungsten"
+  },
+  {
+    "parent": "element",
+    "child": "Ununbium"
+  },
+  {
+    "parent": "element",
+    "child": "Ununhexium"
+  },
+  {
+    "parent": "element",
+    "child": "Ununnilium"
+  },
+  {
+    "parent": "element",
+    "child": "Ununoctium"
+  },
+  {
+    "parent": "element",
+    "child": "Ununquadium"
+  },
+  {
+    "parent": "element",
+    "child": "Ununseptium"
+  },
+  {
+    "parent": "element",
+    "child": "Ununtrium"
+  },
+  {
+    "parent": "element",
+    "child": "Uranium"
+  },
+  {
+    "parent": "element",
+    "child": "Vanadium"
+  },
+  {
+    "parent": "element",
+    "child": "Xenon"
+  },
+  {
+    "parent": "element",
+    "child": "Yttrium"
+  },
+  {
+    "parent": "element",
+    "child": "Zinc"
+  },
+  {
+    "parent": "element",
+    "child": "Zirconium"
+  },
+  {
+    "parent": "continuant",
+    "child": "dependent_continuant"
+  },
+  {
+    "parent": "continuant",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "independent_continuant",
+    "child": "object"
+  },
+  {
+    "parent": "independent_continuant",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "dependent_continuant",
+    "child": "quality"
+  },
+  {
+    "parent": "dependent_continuant",
+    "child": "realizable_entity"
+  },
+  {
+    "parent": "dependent_continuant",
+    "child": "information"
+  },
+  {
+    "parent": "object",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "object",
+    "child": "thermodynamic system"
+  },
+  {
+    "parent": "object",
+    "child": "fiat_object_part"
+  },
+  {
+    "parent": "thermodynamic system",
+    "child": "open thermodynamic system"
+  },
+  {
+    "parent": "thermodynamic system",
+    "child": "closed thermodynamic system"
+  },
+  {
+    "parent": "thermodynamic system",
+    "child": "isolated thermodynamic system"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "site"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "object_boundary"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "zero_dimensional_region"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "two_dimensional_region"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "three_dimensional_region"
+  },
+  {
+    "parent": "site",
+    "child": "molecular center"
+  },
+  {
+    "parent": "site",
+    "child": "radical center"
+  },
+  {
+    "parent": "molecular center",
+    "child": "chiral center"
+  },
+  {
+    "parent": "quality",
+    "child": "measured property"
+  },
+  {
+    "parent": "quality",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "quality",
+    "child": "material quality"
+  },
+  {
+    "parent": "quality",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "quality",
+    "child": "atom property"
+  },
+  {
+    "parent": "quality",
+    "child": "count"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "disposition"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "function"
+  },
+  {
+    "parent": "disposition",
+    "child": "acidity"
+  },
+  {
+    "parent": "disposition",
+    "child": "hydrophobicity"
+  },
+  {
+    "parent": "function",
+    "child": "Cofactor"
+  },
+  {
+    "parent": "function",
+    "child": "chemical agent"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "Reagent"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "Product"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "catalyst"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "solvent"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "source"
+  },
+  {
+    "parent": "Reagent",
+    "child": "Reactant"
+  },
+  {
+    "parent": "Reactant",
+    "child": "substrate"
+  },
+  {
+    "parent": "Product",
+    "child": "precipitate"
+  },
+  {
+    "parent": "solvent",
+    "child": "polar solvent"
+  },
+  {
+    "parent": "solvent",
+    "child": "nonpolar solvent"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "pure substance"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "mixture"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "molecule"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "radical"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "acid"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "Base"
+  },
+  {
+    "parent": "pure substance",
+    "child": "compound"
+  },
+  {
+    "parent": "pure substance",
+    "child": "atom"
+  },
+  {
+    "parent": "pure substance",
+    "child": "allotrope"
+  },
+  {
+    "parent": "mixture",
+    "child": "homogeneous mixture"
+  },
+  {
+    "parent": "mixture",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "mixture",
+    "child": "Alloy"
+  },
+  {
+    "parent": "mixture",
+    "child": "racemic mixture"
+  },
+  {
+    "parent": "homogeneous mixture",
+    "child": "Solution"
+  },
+  {
+    "parent": "compound",
+    "child": "organic compound"
+  },
+  {
+    "parent": "compound",
+    "child": "ionic compound"
+  },
+  {
+    "parent": "compound",
+    "child": "binary compound"
+  },
+  {
+    "parent": "compound",
+    "child": "complex"
+  },
+  {
+    "parent": "molecule",
+    "child": "isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "structural isomer"
+  },
+  {
+    "parent": "complex",
+    "child": "metal complex"
+  },
+  {
+    "parent": "complex",
+    "child": "topological complex"
+  },
+  {
+    "parent": "acid",
+    "child": "carboxylic acid"
+  },
+  {
+    "parent": "Base",
+    "child": "amine"
+  },
+  {
+    "parent": "organic compound",
+    "child": "amine"
+  },
+  {
+    "parent": "organic compound",
+    "child": "amide"
+  },
+  {
+    "parent": "organic compound",
+    "child": "ester"
+  },
+  {
+    "parent": "organic compound",
+    "child": "carboxylic acid"
+  },
+  {
+    "parent": "amine",
+    "child": "secondary amine"
+  },
+  {
+    "parent": "fiat_object_part",
+    "child": "organic group"
+  },
+  {
+    "parent": "organic group",
+    "child": "acyl group"
+  },
+  {
+    "parent": "organic group",
+    "child": "carbonyl group"
+  },
+  {
+    "parent": "organic group",
+    "child": "organic nitrogen group"
+  },
+  {
+    "parent": "organic group",
+    "child": "organic sulfur group"
+  },
+  {
+    "parent": "organic group",
+    "child": "organic phosphate group"
+  },
+  {
+    "parent": "organic group",
+    "child": "ring"
+  },
+  {
+    "parent": "organic group",
+    "child": "aryl"
+  },
+  {
+    "parent": "organic group",
+    "child": "ether group"
+  },
+  {
+    "parent": "organic group",
+    "child": "hydroxyl group"
+  },
+  {
+    "parent": "organic group",
+    "child": "methyl group"
+  },
+  {
+    "parent": "acyl group",
+    "child": "acyl halide group"
+  },
+  {
+    "parent": "acyl halide group",
+    "child": "acyl fluoride group"
+  },
+  {
+    "parent": "carbonyl group",
+    "child": "aldehyde group"
+  },
+  {
+    "parent": "carbonyl group",
+    "child": "ketone group"
+  },
+  {
+    "parent": "carbonyl group",
+    "child": "carboxylic acid group"
+  },
+  {
+    "parent": "carbonyl group",
+    "child": "ester group"
+  },
+  {
+    "parent": "carbonyl group",
+    "child": "amide group"
+  },
+  {
+    "parent": "organic nitrogen group",
+    "child": "amine group"
+  },
+  {
+    "parent": "organic nitrogen group",
+    "child": "amide group"
+  },
+  {
+    "parent": "organic nitrogen group",
+    "child": "imine group"
+  },
+  {
+    "parent": "amine group",
+    "child": "primary amine group"
+  },
+  {
+    "parent": "amine group",
+    "child": "secondary amine group"
+  },
+  {
+    "parent": "amine group",
+    "child": "tertiary amine group"
+  },
+  {
+    "parent": "organic sulfur group",
+    "child": "thiol group"
+  },
+  {
+    "parent": "organic sulfur group",
+    "child": "sulfoxide group"
+  },
+  {
+    "parent": "organic sulfur group",
+    "child": "sulfonic acid group"
+  },
+  {
+    "parent": "organic sulfur group",
+    "child": "general sulfinic acid group"
+  },
+  {
+    "parent": "sulfonic acid group",
+    "child": "sulfonic acid derivative group"
+  },
+  {
+    "parent": "sulfonic acid derivative group",
+    "child": "sulfonyl halide group"
+  },
+  {
+    "parent": "ring",
+    "child": "aromatic ring"
+  },
+  {
+    "parent": "ring",
+    "child": "non aromatic ring"
+  },
+  {
+    "parent": "ring",
+    "child": "hetero cyclic ring"
+  },
+  {
+    "parent": "ring",
+    "child": "homo cyclic ring"
+  },
+  {
+    "parent": "information",
+    "child": "identifier"
+  },
+  {
+    "parent": "identifier",
+    "child": "Chemical Formula"
+  },
+  {
+    "parent": "identifier",
+    "child": "canonical smiles"
+  },
+  {
+    "parent": "identifier",
+    "child": "isomeric smiles"
+  },
+  {
+    "parent": "Chemical Formula",
+    "child": "Molecular Formula"
+  },
+  {
+    "parent": "Chemical Formula",
+    "child": "Empirical Formula"
+  },
+  {
+    "parent": "Chemical Class",
+    "child": "Chemical Family"
+  },
+  {
+    "parent": "Chemical Class",
+    "child": "acid"
+  },
+  {
+    "parent": "Chemical Class",
+    "child": "Base"
+  },
+  {
+    "parent": "Chemical Family",
+    "child": "carbon group"
+  },
+  {
+    "parent": "atom",
+    "child": "Actinium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Aluminium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Americium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Antimony Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Argon Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Arsenic Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Astatine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Barium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Berkelium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Beryllium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Bismuth Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Bohrium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Boron Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Bromine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Cadmium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Caesium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Calcium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Californium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Carbon Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Cerium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Chlorine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Chromium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Cobalt Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Copper Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Curium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Dubnium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Dysprosium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Einsteinium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Erbium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Europium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Fermium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Fluorine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Francium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Gadolinium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Gallium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Germanium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Gold Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Hafnium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Hassium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Helium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Holmium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Hydrogen Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Indium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Iodine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Iridium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Iron Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Krypton Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Lanthanum Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Lawrencium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Lead Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Lithium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Lutetium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Magnesium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Manganese Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Meitnerium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Mendelevium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Mercury Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Molybdenum Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Osmium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Oxygen Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Palladium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Phosphorus Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Platinum Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Plutonium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Polonium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Potassium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Praseodymium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Promethium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Protactinium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Radium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Radon Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Rhenium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Rhodium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Rubidium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ruthenium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Rutherfordium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Samarium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Scandium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Seaborgium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Selenium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Silicon Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Silver Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Sodium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Strontium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Sulfur Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Tantalum Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Technetium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Tellurium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Terbium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Thallium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Thorium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Thulium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Tin Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Titanium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Tungsten Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununbium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununhexium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununnilium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununoctium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununpentium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununquadium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununseptium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ununtrium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Unununium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Uranium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Vanadium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Xenon Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Ytterbium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Yttrium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Zinc Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Zirconium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "HalogenAtom"
+  },
+  {
+    "parent": "atom",
+    "child": "HeteroAtom"
+  },
+  {
+    "parent": "HalogenAtom",
+    "child": "Astatine Atom"
+  },
+  {
+    "parent": "HalogenAtom",
+    "child": "Bromine Atom"
+  },
+  {
+    "parent": "HalogenAtom",
+    "child": "Chlorine Atom"
+  },
+  {
+    "parent": "HalogenAtom",
+    "child": "Fluorine Atom"
+  },
+  {
+    "parent": "HalogenAtom",
+    "child": "Iodine Atom"
+  },
+  {
+    "parent": "HeteroAtom",
+    "child": "Oxygen Atom"
+  },
+  {
+    "parent": "HeteroAtom",
+    "child": "Phosphorus Atom"
+  },
+  {
+    "parent": "HeteroAtom",
+    "child": "Sulfur Atom"
+  },
+  {
+    "parent": "HeteroAtom",
+    "child": "Selenium Atom"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "aromaticity"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "cyclicity"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "molecular geometry"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "point group"
+  },
+  {
+    "parent": "aromaticity",
+    "child": "aromatic"
+  },
+  {
+    "parent": "aromaticity",
+    "child": "non aromatic"
+  },
+  {
+    "parent": "cyclicity",
+    "child": "cyclic"
+  },
+  {
+    "parent": "cyclicity",
+    "child": "acyclic"
+  },
+  {
+    "parent": "cyclicity",
+    "child": "homocyclic"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "linear molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "octahedral molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "square planar molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "square pyramidal molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "tetrahedral molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "trigonal bipyramidal molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "trigonal planar molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "trigonal pyramidal molecular geometry"
+  },
+  {
+    "parent": "atom property",
+    "child": "atomic number"
+  },
+  {
+    "parent": "atom property",
+    "child": "electronegativity"
+  },
+  {
+    "parent": "atom property",
+    "child": "formal charge"
+  },
+  {
+    "parent": "atom property",
+    "child": "hybridization"
+  },
+  {
+    "parent": "atom property",
+    "child": "implicit valence"
+  },
+  {
+    "parent": "electronegativity",
+    "child": "pauling electronegativity"
+  },
+  {
+    "parent": "electronegativity",
+    "child": "mulliken electronegativity"
+  },
+  {
+    "parent": "formal charge",
+    "child": "total formal charge"
+  },
+  {
+    "parent": "count",
+    "child": "component count"
+  },
+  {
+    "parent": "count",
+    "child": "hydrogen bond acceptor count"
+  },
+  {
+    "parent": "count",
+    "child": "hydrogen bond donor count"
+  },
+  {
+    "parent": "count",
+    "child": "isotopic atom count"
+  },
+  {
+    "parent": "count",
+    "child": "non hydrogen atom count"
+  },
+  {
+    "parent": "count",
+    "child": "rotatable bond count"
+  },
+  {
+    "parent": "count",
+    "child": "tautomer count"
+  },
+  {
+    "parent": "count",
+    "child": "defined stereo atom count"
+  },
+  {
+    "parent": "count",
+    "child": "undefined stereo atom count"
+  },
+  {
+    "parent": "count",
+    "child": "defined stereo bond count"
+  },
+  {
+    "parent": "count",
+    "child": "undefined stereo bond count"
+  },
+  {
+    "parent": "component count",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "measured property",
+    "child": "extensive property"
+  },
+  {
+    "parent": "measured property",
+    "child": "intensive property"
+  },
+  {
+    "parent": "measured property",
+    "child": "concentration"
+  },
+  {
+    "parent": "measured property",
+    "child": "angle"
+  },
+  {
+    "parent": "measured property",
+    "child": "area"
+  },
+  {
+    "parent": "measured property",
+    "child": "length"
+  },
+  {
+    "parent": "measured property",
+    "child": "temperature"
+  },
+  {
+    "parent": "measured property",
+    "child": "time"
+  },
+  {
+    "parent": "measured property",
+    "child": "pressure"
+  },
+  {
+    "parent": "measured property",
+    "child": "force"
+  },
+  {
+    "parent": "measured property",
+    "child": "velocity"
+  },
+  {
+    "parent": "measured property",
+    "child": "acceleration"
+  },
+  {
+    "parent": "measured property",
+    "child": "power"
+  },
+  {
+    "parent": "measured property",
+    "child": "conduction"
+  },
+  {
+    "parent": "measured property",
+    "child": "electric charge"
+  },
+  {
+    "parent": "measured property",
+    "child": "electric current"
+  },
+  {
+    "parent": "measured property",
+    "child": "potential difference"
+  },
+  {
+    "parent": "measured property",
+    "child": "electric resistance"
+  },
+  {
+    "parent": "measured property",
+    "child": "Stress"
+  },
+  {
+    "parent": "measured property",
+    "child": "frequency"
+  },
+  {
+    "parent": "measured property",
+    "child": "wavenumber"
+  },
+  {
+    "parent": "extensive property",
+    "child": "mass"
+  },
+  {
+    "parent": "extensive property",
+    "child": "volume"
+  },
+  {
+    "parent": "extensive property",
+    "child": "energy"
+  },
+  {
+    "parent": "extensive property",
+    "child": "entropy"
+  },
+  {
+    "parent": "extensive property",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "intensive property",
+    "child": "density"
+  },
+  {
+    "parent": "intensive property",
+    "child": "temperature"
+  },
+  {
+    "parent": "intensive property",
+    "child": "pressure"
+  },
+  {
+    "parent": "intensive property",
+    "child": "viscosity"
+  },
+  {
+    "parent": "intensive property",
+    "child": "molar energy"
+  },
+  {
+    "parent": "intensive property",
+    "child": "molar entropy"
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific energy"
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific entropy"
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific heat"
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific volume"
+  },
+  {
+    "parent": "intensive property",
+    "child": "surface tension"
+  },
+  {
+    "parent": "concentration",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "concentration",
+    "child": "molality"
+  },
+  {
+    "parent": "concentration",
+    "child": "catalytic concentration"
+  },
+  {
+    "parent": "density",
+    "child": "area density"
+  },
+  {
+    "parent": "density",
+    "child": "linear density"
+  },
+  {
+    "parent": "density",
+    "child": "mass density"
+  },
+  {
+    "parent": "density",
+    "child": "energy density"
+  },
+  {
+    "parent": "density",
+    "child": "electric charge density"
+  },
+  {
+    "parent": "density",
+    "child": "electric current density"
+  },
+  {
+    "parent": "density",
+    "child": "electric flux density"
+  },
+  {
+    "parent": "density",
+    "child": "magnetic flux density"
+  },
+  {
+    "parent": "mass",
+    "child": "molar mass"
+  },
+  {
+    "parent": "mass",
+    "child": "molecular mass"
+  },
+  {
+    "parent": "energy",
+    "child": "Gibbs free energy"
+  },
+  {
+    "parent": "energy",
+    "child": "Helmholtz free energy"
+  },
+  {
+    "parent": "energy",
+    "child": "enthalpy"
+  },
+  {
+    "parent": "energy",
+    "child": "internal energy"
+  },
+  {
+    "parent": "energy",
+    "child": "specific energy"
+  },
+  {
+    "parent": "energy",
+    "child": "molar energy"
+  },
+  {
+    "parent": "entropy",
+    "child": "molar entropy"
+  },
+  {
+    "parent": "entropy",
+    "child": "specific entropy"
+  },
+  {
+    "parent": "temperature",
+    "child": "Melting Point"
+  },
+  {
+    "parent": "angle",
+    "child": "plane angle"
+  },
+  {
+    "parent": "angle",
+    "child": "solid angle"
+  },
+  {
+    "parent": "area",
+    "child": "polar surface area"
+  },
+  {
+    "parent": "length",
+    "child": "grain size"
+  },
+  {
+    "parent": "force",
+    "child": "moment of force"
+  },
+  {
+    "parent": "velocity",
+    "child": "angular velocity"
+  },
+  {
+    "parent": "acceleration",
+    "child": "angular acceleration"
+  },
+  {
+    "parent": "conduction",
+    "child": "electric conduction"
+  },
+  {
+    "parent": "conduction",
+    "child": "thermal conduction"
+  },
+  {
+    "parent": "electric charge",
+    "child": "positive charge"
+  },
+  {
+    "parent": "electric charge",
+    "child": "negative charge"
+  },
+  {
+    "parent": "radiation",
+    "child": "electromagnetic radation"
+  },
+  {
+    "parent": "Stress",
+    "child": "ultimate tensile strength"
+  },
+  {
+    "parent": "Stress",
+    "child": "flexural strength"
+  },
+  {
+    "parent": "material quality",
+    "child": "Hardness"
+  },
+  {
+    "parent": "material quality",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "material quality",
+    "child": "elastic modulus"
+  },
+  {
+    "parent": "material quality",
+    "child": "Thermal Expansion"
+  },
+  {
+    "parent": "material quality",
+    "child": "fracture toughness"
+  },
+  {
+    "parent": "material quality",
+    "child": "permeability"
+  },
+  {
+    "parent": "material quality",
+    "child": "permittivity"
+  },
+  {
+    "parent": "material quality",
+    "child": "Structure Type"
+  },
+  {
+    "parent": "material quality",
+    "child": "crystal system"
+  },
+  {
+    "parent": "material quality",
+    "child": "space group property"
+  },
+  {
+    "parent": "material quality",
+    "child": "band gap"
+  },
+  {
+    "parent": "material quality",
+    "child": "weibull modulus"
+  },
+  {
+    "parent": "Lattice Parameter",
+    "child": "Lattice Parameter A"
+  },
+  {
+    "parent": "Lattice Parameter",
+    "child": "Lattice Parameter B"
+  },
+  {
+    "parent": "Lattice Parameter",
+    "child": "Lattice Parameter C"
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "youngs modulus"
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "shear modulus"
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "bulk modulus"
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "flexural modulus"
+  },
+  {
+    "parent": "space group property",
+    "child": "space group number"
+  },
+  {
+    "parent": "Temperature Range",
+    "child": "Temperature Range Lower Bound"
+  },
+  {
+    "parent": "Temperature Range",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "unit",
+    "child": "shifted unit"
+  },
+  {
+    "parent": "unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "unit",
+    "child": "unit raised to power"
+  },
+  {
+    "parent": "unit",
+    "child": "currency unit"
+  },
+  {
+    "parent": "unit",
+    "child": "absorbed dose unit"
+  },
+  {
+    "parent": "unit",
+    "child": "acceleration unit"
+  },
+  {
+    "parent": "unit",
+    "child": "amount of substance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "angle unit"
+  },
+  {
+    "parent": "unit",
+    "child": "area unit"
+  },
+  {
+    "parent": "unit",
+    "child": "band gap unit"
+  },
+  {
+    "parent": "unit",
+    "child": "capacitance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "catalytic activity unit"
+  },
+  {
+    "parent": "unit",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "unit",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric charge unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric current unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric field strength unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric resistance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "energy unit"
+  },
+  {
+    "parent": "unit",
+    "child": "entropy unit"
+  },
+  {
+    "parent": "unit",
+    "child": "force unit"
+  },
+  {
+    "parent": "unit",
+    "child": "frequency unit"
+  },
+  {
+    "parent": "unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "inductance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "information unit"
+  },
+  {
+    "parent": "unit",
+    "child": "irradiance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "length unit"
+  },
+  {
+    "parent": "unit",
+    "child": "luminance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "luminous flux unit"
+  },
+  {
+    "parent": "unit",
+    "child": "luminous intensity unit"
+  },
+  {
+    "parent": "unit",
+    "child": "magnetic flux unit"
+  },
+  {
+    "parent": "unit",
+    "child": "mass unit"
+  },
+  {
+    "parent": "unit",
+    "child": "permeability unit"
+  },
+  {
+    "parent": "unit",
+    "child": "permittivity unit"
+  },
+  {
+    "parent": "unit",
+    "child": "pH unit"
+  },
+  {
+    "parent": "unit",
+    "child": "potential difference unit"
+  },
+  {
+    "parent": "unit",
+    "child": "power unit"
+  },
+  {
+    "parent": "unit",
+    "child": "pressure unit"
+  },
+  {
+    "parent": "unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "unit",
+    "child": "surface tension unit"
+  },
+  {
+    "parent": "unit",
+    "child": "temperature unit"
+  },
+  {
+    "parent": "unit",
+    "child": "time unit"
+  },
+  {
+    "parent": "unit",
+    "child": "velocity unit"
+  },
+  {
+    "parent": "unit",
+    "child": "volume unit"
+  },
+  {
+    "parent": "unit",
+    "child": "wavenumber unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "atto scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "centi scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "deci scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "deka scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "exa scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "femto scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "giga scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "hecto scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "kilo scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "mega scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "milli scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "nano scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "peta scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "pico scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "tera scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "yocto scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "yotta scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "zepto scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "concentration unit",
+    "child": "amount of substance concentration unit"
+  },
+  {
+    "parent": "concentration unit",
+    "child": "catalytic concentration unit"
+  },
+  {
+    "parent": "concentration unit",
+    "child": "molality unit"
+  },
+  {
+    "parent": "concentration unit",
+    "child": "parts per notation"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "absorbed dose unit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "dose equivalent unit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "exposure unit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "radiance unit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "radiant intensity unit"
+  },
+  {
+    "parent": "absorbed dose unit",
+    "child": "absorbed dose rate unit"
+  },
+  {
+    "parent": "energy unit",
+    "child": "enthalpy unit"
+  },
+  {
+    "parent": "energy unit",
+    "child": "molar energy unit"
+  },
+  {
+    "parent": "energy unit",
+    "child": "specific energy unit"
+  },
+  {
+    "parent": "entropy unit",
+    "child": "molar entropy unit"
+  },
+  {
+    "parent": "entropy unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "mass unit",
+    "child": "molar mass unit"
+  },
+  {
+    "parent": "mass unit",
+    "child": "molecular mass unit"
+  },
+  {
+    "parent": "angle unit",
+    "child": "plane angle unit"
+  },
+  {
+    "parent": "angle unit",
+    "child": "solid angle unit"
+  },
+  {
+    "parent": "acceleration unit",
+    "child": "angular acceleration unit"
+  },
+  {
+    "parent": "velocity unit",
+    "child": "angular velocity unit"
+  },
+  {
+    "parent": "force unit",
+    "child": "moment of force unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "area density unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "linear density unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "electric charge density unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "electric current density unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "electric flux density unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "energy density unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "density unit",
+    "child": "volume density unit"
+  },
+  {
+    "parent": "conduction unit",
+    "child": "electric conduction unit"
+  },
+  {
+    "parent": "conduction unit",
+    "child": "thermal conduction unit"
+  },
+  {
+    "parent": "volume unit",
+    "child": "specific volume unit"
+  },
+  {
+    "parent": "polarity",
+    "child": "non polar"
+  },
+  {
+    "parent": "polarity",
+    "child": "polar"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "process"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "process_aggregate"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "fiat_process_part"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "intermolecular interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "covalent bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "ionic bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "stereo bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "aromatic bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "disulfide bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "double bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "polar bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "single bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "triple bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "stereo hash bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "stereo wedge bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "hydrophobic interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "van der Waal's interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "electrostatic interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "cation pi interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "dipole-dipole interaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "hydrogen bond"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "acid-base reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "addition reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "decomposition reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "displacement reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "inorganic reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "isomerization"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "organic reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "redox reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "synthesis reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "molecular complex disassociation"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "molecular complex formation"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "molecular complex assembly"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "ChemicalDegradationPathway"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "ChemicalSynthesisPathway"
+  },
+  {
+    "parent": "process",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "process",
+    "child": "bond"
+  },
+  {
+    "parent": "process",
+    "child": "intermolecular interaction"
+  },
+  {
+    "parent": "process",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "process",
+    "child": "covalent bond"
+  },
+  {
+    "parent": "process",
+    "child": "ionic bond"
+  },
+  {
+    "parent": "process",
+    "child": "stereo bond"
+  },
+  {
+    "parent": "process",
+    "child": "aromatic bond"
+  },
+  {
+    "parent": "process",
+    "child": "disulfide bond"
+  },
+  {
+    "parent": "process",
+    "child": "double bond"
+  },
+  {
+    "parent": "process",
+    "child": "polar bond"
+  },
+  {
+    "parent": "process",
+    "child": "single bond"
+  },
+  {
+    "parent": "process",
+    "child": "triple bond"
+  },
+  {
+    "parent": "process",
+    "child": "stereo hash bond"
+  },
+  {
+    "parent": "process",
+    "child": "stereo wedge bond"
+  },
+  {
+    "parent": "process",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "process",
+    "child": "hydrophobic interaction"
+  },
+  {
+    "parent": "process",
+    "child": "van der Waal's interaction"
+  },
+  {
+    "parent": "process",
+    "child": "electrostatic interaction"
+  },
+  {
+    "parent": "process",
+    "child": "cation pi interaction"
+  },
+  {
+    "parent": "process",
+    "child": "dipole-dipole interaction"
+  },
+  {
+    "parent": "process",
+    "child": "hydrogen bond"
+  },
+  {
+    "parent": "process",
+    "child": "acid-base reaction"
+  },
+  {
+    "parent": "process",
+    "child": "addition reaction"
+  },
+  {
+    "parent": "process",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "process",
+    "child": "decomposition reaction"
+  },
+  {
+    "parent": "process",
+    "child": "displacement reaction"
+  },
+  {
+    "parent": "process",
+    "child": "inorganic reaction"
+  },
+  {
+    "parent": "process",
+    "child": "isomerization"
+  },
+  {
+    "parent": "process",
+    "child": "organic reaction"
+  },
+  {
+    "parent": "process",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "process",
+    "child": "redox reaction"
+  },
+  {
+    "parent": "process",
+    "child": "synthesis reaction"
+  },
+  {
+    "parent": "process",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "process",
+    "child": "molecular complex disassociation"
+  },
+  {
+    "parent": "process",
+    "child": "molecular complex formation"
+  },
+  {
+    "parent": "process",
+    "child": "molecular complex assembly"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "intermolecular interaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "covalent bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "ionic bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "stereo bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "aromatic bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "disulfide bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "double bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "polar bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "single bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "triple bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "stereo hash bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "stereo wedge bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "hydrophobic interaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "van der Waal's interaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "electrostatic interaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "cation pi interaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "dipole-dipole interaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "hydrogen bond"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "acid-base reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "addition reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "decomposition reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "displacement reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "inorganic reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "isomerization"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "organic reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "redox reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "synthesis reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "molecular complex disassociation"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "molecular complex formation"
+  },
+  {
+    "parent": "chemical interaction",
+    "child": "molecular complex assembly"
+  },
+  {
+    "parent": "bond",
+    "child": "covalent bond"
+  },
+  {
+    "parent": "bond",
+    "child": "ionic bond"
+  },
+  {
+    "parent": "bond",
+    "child": "stereo bond"
+  },
+  {
+    "parent": "bond",
+    "child": "aromatic bond"
+  },
+  {
+    "parent": "bond",
+    "child": "disulfide bond"
+  },
+  {
+    "parent": "bond",
+    "child": "double bond"
+  },
+  {
+    "parent": "bond",
+    "child": "polar bond"
+  },
+  {
+    "parent": "bond",
+    "child": "single bond"
+  },
+  {
+    "parent": "bond",
+    "child": "triple bond"
+  },
+  {
+    "parent": "bond",
+    "child": "stereo hash bond"
+  },
+  {
+    "parent": "bond",
+    "child": "stereo wedge bond"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "aromatic bond"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "disulfide bond"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "double bond"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "polar bond"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "single bond"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "triple bond"
+  },
+  {
+    "parent": "stereo bond",
+    "child": "stereo hash bond"
+  },
+  {
+    "parent": "stereo bond",
+    "child": "stereo wedge bond"
+  },
+  {
+    "parent": "intermolecular interaction",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "intermolecular interaction",
+    "child": "hydrophobic interaction"
+  },
+  {
+    "parent": "intermolecular interaction",
+    "child": "van der Waal's interaction"
+  },
+  {
+    "parent": "intermolecular interaction",
+    "child": "electrostatic interaction"
+  },
+  {
+    "parent": "intermolecular interaction",
+    "child": "cation pi interaction"
+  },
+  {
+    "parent": "intermolecular interaction",
+    "child": "dipole-dipole interaction"
+  },
+  {
+    "parent": "intermolecular interaction",
+    "child": "hydrogen bond"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "electrostatic interaction"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "cation pi interaction"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "dipole-dipole interaction"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "hydrogen bond"
+  },
+  {
+    "parent": "electrostatic interaction",
+    "child": "cation pi interaction"
+  },
+  {
+    "parent": "electrostatic interaction",
+    "child": "dipole-dipole interaction"
+  },
+  {
+    "parent": "electrostatic interaction",
+    "child": "hydrogen bond"
+  },
+  {
+    "parent": "dipole-dipole interaction",
+    "child": "hydrogen bond"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "acid-base reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "addition reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "decomposition reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "displacement reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "inorganic reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "isomerization"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "organic reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "redox reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "synthesis reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "molecular complex disassociation"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "molecular complex formation"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "molecular complex assembly"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "decomposition reaction",
+    "child": "molecular complex disassociation"
+  },
+  {
+    "parent": "synthesis reaction",
+    "child": "molecular complex formation"
+  },
+  {
+    "parent": "synthesis reaction",
+    "child": "molecular complex assembly"
+  },
+  {
+    "parent": "molecular complex formation",
+    "child": "molecular complex assembly"
+  },
+  {
+    "parent": "process_aggregate",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "process_aggregate",
+    "child": "ChemicalDegradationPathway"
+  },
+  {
+    "parent": "process_aggregate",
+    "child": "ChemicalSynthesisPathway"
+  },
+  {
+    "parent": "chemical reaction pathway",
+    "child": "ChemicalDegradationPathway"
+  },
+  {
+    "parent": "chemical reaction pathway",
+    "child": "ChemicalSynthesisPathway"
+  },
+  {
+    "parent": "power",
+    "child": "unit raised to power"
+  },
+  {
+    "parent": "unit raised to power",
+    "child": "unit raised to power of negative one"
+  },
+  {
+    "parent": "unit raised to power",
+    "child": "unit raised to power of negative three"
+  },
+  {
+    "parent": "unit raised to power",
+    "child": "unit raised to power of negative two"
+  },
+  {
+    "parent": "unit raised to power",
+    "child": "unit raised to power of one"
+  },
+  {
+    "parent": "unit raised to power",
+    "child": "unit raised to power of three"
+  },
+  {
+    "parent": "unit raised to power",
+    "child": "unit raised to power of two"
+  },
+  {
+    "parent": "element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "s-block element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "p-block element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "d-block element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "f-block element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "g-block element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "group element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "period element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "series element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "non metal"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "metalloid"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "poor metal"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "transition metal"
+  },
+  {
+    "parent": "group element",
+    "child": "group 1 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 2 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 3 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 4 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 5 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 6 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 7 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 8 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 9 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 10 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 11 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 12 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 13 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 14 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 15 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 16 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 17 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 18 element"
+  },
+  {
+    "parent": "period element",
+    "child": "period 1 element"
+  },
+  {
+    "parent": "period element",
+    "child": "period 2 element"
+  },
+  {
+    "parent": "period element",
+    "child": "period 3 element"
+  },
+  {
+    "parent": "period element",
+    "child": "period 4 element"
+  },
+  {
+    "parent": "period element",
+    "child": "period 5 element"
+  },
+  {
+    "parent": "period element",
+    "child": "period 6 element"
+  },
+  {
+    "parent": "period element",
+    "child": "period 7 element"
+  },
+  {
+    "parent": "s-block element",
+    "child": "group 1 element"
+  },
+  {
+    "parent": "s-block element",
+    "child": "group 2 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 3 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 4 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 5 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 6 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 7 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 8 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 9 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 10 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 11 element"
+  },
+  {
+    "parent": "d-block element",
+    "child": "group 12 element"
+  },
+  {
+    "parent": "p-block element",
+    "child": "group 13 element"
+  },
+  {
+    "parent": "p-block element",
+    "child": "group 14 element"
+  },
+  {
+    "parent": "p-block element",
+    "child": "group 15 element"
+  },
+  {
+    "parent": "p-block element",
+    "child": "group 16 element"
+  },
+  {
+    "parent": "p-block element",
+    "child": "group 17 element"
+  },
+  {
+    "parent": "p-block element",
+    "child": "group 18 element"
+  },
+  {
+    "parent": "group 1 element",
+    "child": "alkali metal"
+  },
+  {
+    "parent": "group 2 element",
+    "child": "alkaline earth metal"
+  },
+  {
+    "parent": "group 13 element",
+    "child": "boron group element"
+  },
+  {
+    "parent": "group 14 element",
+    "child": "carbon group element"
+  },
+  {
+    "parent": "group 15 element",
+    "child": "nitrogen group element"
+  },
+  {
+    "parent": "group 16 element",
+    "child": "chalcogen"
+  },
+  {
+    "parent": "group 17 element",
+    "child": "halogen"
+  },
+  {
+    "parent": "group 18 element",
+    "child": "noble gas"
+  },
+  {
+    "parent": "d-block element",
+    "child": "transition metal"
+  },
+  {
+    "parent": "series element",
+    "child": "lanthanide"
+  },
+  {
+    "parent": "f-block element",
+    "child": "lanthanide"
+  },
+  {
+    "parent": "period 6 element",
+    "child": "lanthanide"
+  },
+  {
+    "parent": "p-block element",
+    "child": "poor metal"
+  },
+  {
+    "parent": "p-block element",
+    "child": "metalloid"
+  },
+  {
+    "parent": "non metal",
+    "child": "halogen"
+  },
+  {
+    "parent": "non metal",
+    "child": "noble gas"
+  },
+  {
+    "parent": "Carbon",
+    "child": "carbon allotrope"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "carbon nanofoam"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "chaoite"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "fullerene"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "lonsdaleite"
+  },
+  {
+    "parent": "amorphous carbon",
+    "child": "glassy carbon"
+  },
+  {
+    "parent": "Carbon",
+    "child": "aggregated carbon nanorods"
+  },
+  {
+    "parent": "organic compound",
+    "child": "acyl compound"
+  },
+  {
+    "parent": "organic compound",
+    "child": "aldehyde"
+  },
+  {
+    "parent": "organic compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "parent": "organic compound",
+    "child": "imine"
+  },
+  {
+    "parent": "organic compound",
+    "child": "ketone"
+  },
+  {
+    "parent": "organic compound",
+    "child": "organic sulfur compound"
+  },
+  {
+    "parent": "carbonyl compound",
+    "child": "acyl compound"
+  },
+  {
+    "parent": "carbonyl compound",
+    "child": "aldehyde"
+  },
+  {
+    "parent": "carbonyl compound",
+    "child": "ketone"
+  },
+  {
+    "parent": "amine",
+    "child": "primary amine"
+  },
+  {
+    "parent": "amine",
+    "child": "tertiary amine"
+  },
+  {
+    "parent": "entity",
+    "child": "occurrent"
+  },
+  {
+    "parent": "entity",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "connected_spatiotemporal_region"
+  },
+  {
+    "parent": "entity",
+    "child": "connected_spatiotemporal_region"
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "spatiotemporal_instant"
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "spatiotemporal_interval"
+  },
+  {
+    "parent": "connected_spatiotemporal_region",
+    "child": "spatiotemporal_instant"
+  },
+  {
+    "parent": "connected_spatiotemporal_region",
+    "child": "spatiotemporal_interval"
+  },
+  {
+    "parent": "entity",
+    "child": "spatiotemporal_instant"
+  },
+  {
+    "parent": "entity",
+    "child": "spatiotemporal_interval"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "uncommon chemical phase"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "gas phase"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "solid phase"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "plasma phase"
+  },
+  {
+    "parent": "solid phase",
+    "child": "crystalline phase"
+  },
+  {
+    "parent": "solid phase",
+    "child": "super solid phase"
+  },
+  {
+    "parent": "liquid phase",
+    "child": "liquid crystal phase"
+  },
+  {
+    "parent": "liquid phase",
+    "child": "super fluid phase"
+  },
+  {
+    "parent": "plasma phase",
+    "child": "quark gluon plasma phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "ferromagnetic phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "paramagnetic phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "strange matter phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "liquid crystal phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "super fluid phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "super solid phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "quark gluon plasma phase"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "electrophilic addition reaction"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "nucleophilic addition reaction"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "polar addition reaction"
+  },
+  {
+    "parent": "polar addition reaction",
+    "child": "electrophilic addition reaction"
+  },
+  {
+    "parent": "polar addition reaction",
+    "child": "nucleophilic addition reaction"
+  },
+  {
+    "parent": "diastereomer",
+    "child": "conformer"
+  },
+  {
+    "parent": "conformer",
+    "child": "rotamer"
+  },
+  {
+    "parent": "diastereomer",
+    "child": "rotamer"
+  },
+  {
+    "parent": "extensive property",
+    "child": "heat capacity"
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "eclipsed conformation"
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "staggered conformation"
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "periplanar conformation"
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "clinal conformation"
+  },
+  {
+    "parent": "staggered conformation",
+    "child": "gauche conformation"
+  },
+  {
+    "parent": "staggered conformation",
+    "child": "anti conformation"
+  },
+  {
+    "parent": "periplanar conformation",
+    "child": "syn conformation"
+  },
+  {
+    "parent": "periplanar conformation",
+    "child": "anti conformation"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "gauche conformation"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "anticlinal conformation"
+  },
+  {
+    "parent": "eclipsed conformation",
+    "child": "syn conformation"
+  },
+  {
+    "parent": "material category",
+    "child": "ceramics"
+  },
+  {
+    "parent": "material category",
+    "child": "composites"
+  },
+  {
+    "parent": "material category",
+    "child": "metals"
+  },
+  {
+    "parent": "material category",
+    "child": "polymers"
+  },
+  {
+    "parent": "material category",
+    "child": "nanomaterials"
+  },
+  {
+    "parent": "polymers",
+    "child": "elastomers"
+  },
+  {
+    "parent": "ceramics",
+    "child": "glasses"
+  },
+  {
+    "parent": "ceramics",
+    "child": "refactory"
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "Enantiomer"
+  },
+  {
+    "parent": "acyl halide group",
+    "child": "AcylBromideGroup"
+  },
+  {
+    "parent": "acyl halide group",
+    "child": "acyl chloride group"
+  },
+  {
+    "parent": "acyl halide group",
+    "child": "acyl iodide group"
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl bromide"
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl chloride"
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl iodide"
+  },
+  {
+    "parent": "displacement reaction",
+    "child": "single displacement reaction"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "temporal_interval"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "temporal_instant"
+  },
+  {
+    "parent": "name",
+    "child": "CAS name"
+  },
+  {
+    "parent": "name",
+    "child": "systematic name"
+  },
+  {
+    "parent": "name",
+    "child": "traditional name"
+  },
+  {
+    "parent": "isomer",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "D or L isomer"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "R or S isomer"
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "D isomer"
+  },
+  {
+    "parent": "R or S isomer",
+    "child": "R isomer"
+  },
+  {
+    "parent": "R or S isomer",
+    "child": "S isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "D or L isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "R or S isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "D isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "R isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "S isomer"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "D isomer"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "R isomer"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "S isomer"
+  },
+  {
+    "parent": "Hardness",
+    "child": "Hardness Range"
+  },
+  {
+    "parent": "Hardness",
+    "child": "Hardness Range Lower Bound"
+  },
+  {
+    "parent": "Hardness",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "Hardness Range Lower Bound"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "Ion",
+    "child": "anion"
+  },
+  {
+    "parent": "Ion",
+    "child": "cation"
+  },
+  {
+    "parent": "material",
+    "child": "Ceramic Material"
+  },
+  {
+    "parent": "cis/trans isomer",
+    "child": "cis isomer"
+  },
+  {
+    "parent": "cis/trans isomer",
+    "child": "trans isomer"
+  },
+  {
+    "parent": "non polar addition reaction",
+    "child": "free radical addition"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "oxidizing agent"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "reducing agent"
+  }
+]

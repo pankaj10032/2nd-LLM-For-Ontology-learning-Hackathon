@@ -1,0 +1,266 @@
+semi colon
+part of speech
+intransitive interrogative frame
+ditransitive frame_ to
+question mark
+adjective scale frame
+negative particle
+nominal complement frame
+interrogative frame
+subjectless frame
+complement
+diminutive noun
+noun phrase
+adjective phrase
+prepositional adverb
+definite article
+weak personal pronoun
+possessive infinitive clause
+indefinite pronoun
+participle adjective
+gerund clause
+reflexive transitive pp frame
+intransitive pp declarative frame
+adverbial pronoun
+particle
+arbitrary control
+AbbreviatedForm
+demonstrative determiner
+conjunction
+determiner
+coordinating conjunction
+coordination particle
+present participle adjective
+preposition frame
+noun predicate frame
+ditransitive frame
+light verb
+DativePostPositiveArg
+interrogative pronoun
+conditional particle
+Affix
+existential pronoun
+SyntacticFrame
+LexicalEntry
+generic numeral
+numeral fraction
+relation noun
+suspension points
+Word
+intransitive nominal complement frame
+subject
+intransitive infinitive rs frame
+infinitive frame
+interrogative multiplicative numeral
+morphological stem
+adjective-na
+possessive adjective
+zero morph
+colon
+preposition
+impersonal pronoun
+article
+affirmative particle
+transitive declarative frame
+relative particle
+fused pronoun auxiliary
+future particle
+object control
+indefinite cardinal numeral
+possessive determiner
+reflexive determiner
+transitive pp frame
+interjection
+prepositional object
+exclamative point
+object complement
+possessive pronoun
+indefinite multiplicative numeral
+pp frame
+common noun
+intransitive interrogative infinitive frame
+copulative arg
+post positive arg
+adjective dative post positive frame
+prepositional adjunct
+point
+intransitive declarative frame
+dative transitive frame
+interrogative particle
+indirect object
+relative determiner
+adverbial complement
+adjective impersonal frame
+prepositional frame
+reflexive possessive pronoun
+copulative subject
+gerund sc frame
+verb frame
+letter
+subordinating conjunction
+predicative adverb
+transitive frame
+clausal arg
+intransitive frame
+adpositional object
+intransitive pp frame
+bullet
+qualifier adjective
+partitive article
+declarative clause
+genitive ditransitive frame
+past participle adjective
+genitive transitive frame
+reflexive personal pronoun
+interrogative clause
+numeral
+morphological root
+intransitive adjectival complement frame
+interrogative infinitive clause
+reciprocal frame
+impersonal transitive frame
+reflexive transitive frame
+proper noun
+reflexive reciprocal frame
+suffix
+reflexive frame
+sentential frame
+MultiWordExpression
+adjunct
+adverbial complement frame
+subject control
+collective pronoun
+reflexive dative transitive frame
+adjective superlative frame
+sentential clause
+subjectless intransitive pp frame
+noun
+comparative particle
+control
+plain verb
+exclamative determiner
+raising subject
+adposition
+unclassified particle
+subjectless intransitive frame
+transitive adjectival complement frame
+comparative adjunct
+impersonal frame
+transitive infinitive oc frame
+prepositional phrase frame
+close parenthesis
+auxiliary
+RaisableArgument
+interrogative cardinal numeral
+postposition
+subjectless transitive frame
+transitive infinitive ac frame
+ditransitive double accusative frame
+indefinite ordinal numeral
+preposition phrase
+attributive arg
+infinitive clause
+intransitive sentential frame
+adjective comparative frame
+intransitive infinitive ac frame
+reflexive ditransitive frame
+transitive interrogative infinitive frame
+interrogative determiner
+noun frame
+symbol
+adjective pp frame
+indefinite determiner
+reciprocal pronoun
+transitive sentential frame
+strong personal pronoun
+declarative frame
+adjective accusative post positive frame
+term type
+demonstrative pronoun
+possessive particle
+slash
+superlative adjunct
+interrogative ordinal numeral
+gerund ac frame
+generalization word
+adjective
+prepositional gerund clause
+predicative nominative
+verb
+subjunctive clause
+transitive infinitive sc frame
+impersonal intransitive pp frame
+GenitivePostPositiveArg
+AccusativePostPositiveArg
+interrogative infinitive frame
+circumposition
+noun possessive frame
+irreflexive personal pronoun
+infinitive particle
+predicative adjective
+predicative adjunct
+transitive adverbial complement frame
+cardinal numeral
+ditransitive frame_ for
+superlative particle
+adjective predicate frame
+possessive relative pronoun
+distinctive particle
+fused preposition pronoun
+indefinite article
+multiplicative numeral
+deficient verb
+presentative pronoun
+prefix
+interrogative relative pronoun
+exclamative pronoun
+main verb
+intransitive adverbial complement frame
+compound preposition
+personal pronoun
+affixed personal pronoun
+intransitive infinitive sc frame
+fused preposition
+impersonal intransitive frame
+prepositional interrogative clause
+ordinal adjective
+punctuation
+emphatic pronoun
+possessive adjunct
+adjective attributive frame
+adjectival complement frame
+transitive interrogative frame
+genitive object
+conditional pronoun
+adjective predicative frame
+adjective genitive post positive frame
+inverted comma
+modal
+object
+direct object
+comma
+gerund oc frame
+adjective-i
+verb phrase
+fused preposition determiner
+open parenthesis
+transitive nominal complement frame
+pronoun
+subjectless transitive pp frame
+infix
+copula
+reflexive object
+adverb
+prepositional interrogative frame
+noun pp frame
+general adverb
+adjective post positive frame
+negative pronoun
+gerund frame
+transfix
+SyntacticArgument
+simulfix
+relative pronoun
+allusive pronoun
+pronominal adverb
+adjective frame

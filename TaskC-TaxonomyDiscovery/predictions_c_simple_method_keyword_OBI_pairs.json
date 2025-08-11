@@ -1,0 +1,2610 @@
+[
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+    "child": "DNASE 1 structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+    "child": "RNA ADA I RNA structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+    "child": "RNASE CL3 structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+    "child": "RNASE T1 structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+    "child": "RNASE T2 structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+    "child": "RNASE U2 structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+    "child": "RNASE V1 structure mapping assay"
+  },
+  {
+    "parent": "parallel analysis of RNA structure assay",
+    "child": "RNA ADA I RNA structure mapping assay"
+  },
+  {
+    "parent": "parallel analysis of RNA structure assay",
+    "child": "RNASE CL3 structure mapping assay"
+  },
+  {
+    "parent": "parallel analysis of RNA structure assay",
+    "child": "RNASE T1 structure mapping assay"
+  },
+  {
+    "parent": "parallel analysis of RNA structure assay",
+    "child": "RNASE T2 structure mapping assay"
+  },
+  {
+    "parent": "parallel analysis of RNA structure assay",
+    "child": "RNASE U2 structure mapping assay"
+  },
+  {
+    "parent": "parallel analysis of RNA structure assay",
+    "child": "RNASE V1 structure mapping assay"
+  },
+  {
+    "parent": "histologic grade for ovarian tumor",
+    "child": "histologic grade for ovarian tumor according to the World Health Organization"
+  },
+  {
+    "parent": "brain",
+    "child": "cerebellum"
+  },
+  {
+    "parent": "brain",
+    "child": "brain specimen"
+  },
+  {
+    "parent": "cerebellum",
+    "child": "cerebellum specimen"
+  },
+  {
+    "parent": "brain specimen",
+    "child": "cerebellum specimen"
+  },
+  {
+    "parent": "opsonization",
+    "child": "B cell epitope specific opsonization"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "AVANCE II spectrometer"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "Bruker AC series NMR instrument"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "Bruker AMX series NMR instrument"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "Bruker LC-NMR platform"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "Bruker SPE-NMR platform"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "Bruker NMR magnet"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "Bruker NMR probe"
+  },
+  {
+    "parent": "Bruker NMR instrument",
+    "child": "Bruker autosampler"
+  },
+  {
+    "parent": "Bruker NMR magnet",
+    "child": "Bruker UltraShield NMR magnet"
+  },
+  {
+    "parent": "Bruker NMR magnet",
+    "child": "Bruker UltraShield Plus NMR magnet"
+  },
+  {
+    "parent": "Bruker NMR probe",
+    "child": "Bruker micro imaging probe"
+  },
+  {
+    "parent": "Bruker autosampler",
+    "child": "Bruker NMR Case sample changer"
+  },
+  {
+    "parent": "Bruker LC-NMR platform",
+    "child": "Bruker Capillary LC-NMR platform"
+  },
+  {
+    "parent": "Bruker LC-NMR platform",
+    "child": "Bruker LC-NMR/MS platform"
+  },
+  {
+    "parent": "personal protective device",
+    "child": "personal protective clothing item"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "footwear cover"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "laboratory coat"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "medical cap"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "medical gown"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "personal protective glove"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "protective apron"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "protective coverall"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "protective sleeve"
+  },
+  {
+    "parent": "personal protective clothing item",
+    "child": "scrubs"
+  },
+  {
+    "parent": "footwear cover",
+    "child": "disposable footwear cover"
+  },
+  {
+    "parent": "footwear cover",
+    "child": "reusable footwear cover"
+  },
+  {
+    "parent": "medical gown",
+    "child": "surgical gown"
+  },
+  {
+    "parent": "personal protective glove",
+    "child": "medical glove"
+  },
+  {
+    "parent": "functional assessment of individual",
+    "child": "nervous system functionality assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "bulbar assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "muscle atrophy assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "muscle weakness assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "deep tendon reflex assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "limb coordination assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "dysmetria assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "gait assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "upright stability assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "position sense assessment"
+  },
+  {
+    "parent": "nervous system functionality assessment",
+    "child": "vibratory sense assessment"
+  },
+  {
+    "parent": "bulbar assessment",
+    "child": "speech test assessment"
+  },
+  {
+    "parent": "bulbar assessment",
+    "child": "forced cough assessment"
+  },
+  {
+    "parent": "speech test assessment",
+    "child": "spontaneous speech assessment"
+  },
+  {
+    "parent": "muscle atrophy assessment",
+    "child": "facial atrophy assessment"
+  },
+  {
+    "parent": "deep tendon reflex assessment",
+    "child": "deep tendon reflex assessment of the ankle joint"
+  },
+  {
+    "parent": "deep tendon reflex assessment",
+    "child": "deep tendon reflex assessment of the brachioradialis"
+  },
+  {
+    "parent": "deep tendon reflex assessment",
+    "child": "deep tendon reflex assessment of the knee joint"
+  },
+  {
+    "parent": "deep tendon reflex assessment",
+    "child": "deep tendon reflex assessment of the tendon of biceps brachii"
+  },
+  {
+    "parent": "limb coordination assessment",
+    "child": "upper limb coordination assessment"
+  },
+  {
+    "parent": "limb coordination assessment",
+    "child": "lower limb coordination assessment"
+  },
+  {
+    "parent": "upper limb coordination assessment",
+    "child": "finger taps assessment"
+  },
+  {
+    "parent": "upper limb coordination assessment",
+    "child": "finger to finger assessment"
+  },
+  {
+    "parent": "upper limb coordination assessment",
+    "child": "nose to finger assessment"
+  },
+  {
+    "parent": "upper limb coordination assessment",
+    "child": "rapid alternating hands assessment"
+  },
+  {
+    "parent": "lower limb coordination assessment",
+    "child": "heel along shin assessment"
+  },
+  {
+    "parent": "lower limb coordination assessment",
+    "child": "heel to shin assessment"
+  },
+  {
+    "parent": "gait assessment",
+    "child": "tandem walk assessment"
+  },
+  {
+    "parent": "upright stability assessment",
+    "child": "limits of stability assessment"
+  },
+  {
+    "parent": "upright stability assessment",
+    "child": "sitting posture assessment"
+  },
+  {
+    "parent": "upright stability assessment",
+    "child": "stance feet apart assessment"
+  },
+  {
+    "parent": "stance feet apart assessment",
+    "child": "stance feet apart assessment, with eyes closed"
+  },
+  {
+    "parent": "upright stability assessment",
+    "child": "stance feet together assessment"
+  },
+  {
+    "parent": "stance feet together assessment",
+    "child": "stance feet together assessment, with eyes closed"
+  },
+  {
+    "parent": "upright stability assessment",
+    "child": "stance on one foot assessment"
+  },
+  {
+    "parent": "upright stability assessment",
+    "child": "tandem stance assessment"
+  },
+  {
+    "parent": "lowess transformation",
+    "child": "lowess global transformation"
+  },
+  {
+    "parent": "lowess transformation",
+    "child": "lowess group transformation"
+  },
+  {
+    "parent": "JEOL NMR probe",
+    "child": "JEOL CapNMR probe"
+  },
+  {
+    "parent": "alpha-beta T cell",
+    "child": "CD4-positive, alpha-beta T cell"
+  },
+  {
+    "parent": "alpha-beta T cell",
+    "child": "CD8-positive, alpha-beta T cell"
+  },
+  {
+    "parent": "CD8-positive, alpha-beta T cell",
+    "child": "CD8-positive, alpha-beta cytotoxic T cell"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "MHC class I protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "MHC class II protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "mouse MHC protein complex with H2-p haplotype"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "human MHC class I protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "mouse MHC class I protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "cattle MHC class I protein complex"
+  },
+  {
+    "parent": "MHC class II protein complex",
+    "child": "cattle MHC class II protein complex"
+  },
+  {
+    "parent": "MHC class II protein complex",
+    "child": "mouse MHC class II protein complex"
+  },
+  {
+    "parent": "MHC class II protein complex",
+    "child": "rat MHC class II protein complex with RT1-A haplotype"
+  },
+  {
+    "parent": "MHC class II protein complex",
+    "child": "HLA protein complex with DQ3 serotype"
+  },
+  {
+    "parent": "human MHC class I protein complex",
+    "child": "HLA protein complex with A2 serotype"
+  },
+  {
+    "parent": "human MHC class I protein complex",
+    "child": "HLA protein complex with A24 serotype"
+  },
+  {
+    "parent": "human MHC class I protein complex",
+    "child": "HLA protein complex with A28 serotype"
+  },
+  {
+    "parent": "human MHC class I protein complex",
+    "child": "HLA protein complex with A29 serotype"
+  },
+  {
+    "parent": "human MHC class I protein complex",
+    "child": "HLA-C protein complex"
+  },
+  {
+    "parent": "mouse MHC class I protein complex",
+    "child": "H2-Dq protein complex"
+  },
+  {
+    "parent": "mouse MHC class I protein complex",
+    "child": "H2-Kb protein complex"
+  },
+  {
+    "parent": "mouse MHC class I protein complex",
+    "child": "H2-Kd protein complex"
+  },
+  {
+    "parent": "mouse MHC class I protein complex",
+    "child": "H2-Kq protein complex"
+  },
+  {
+    "parent": "mouse MHC class I protein complex",
+    "child": "H2-Ks protein complex"
+  },
+  {
+    "parent": "mouse MHC class I protein complex",
+    "child": "mouse MHC class I protein complex with H2-b haplotype"
+  },
+  {
+    "parent": "mouse MHC class II protein complex",
+    "child": "H2-IA protein complex"
+  },
+  {
+    "parent": "mouse MHC class II protein complex",
+    "child": "H2-IAd protein complex"
+  },
+  {
+    "parent": "mouse MHC class II protein complex",
+    "child": "H2-IAg7 protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "human MHC class I protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "mouse MHC class I protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "cattle MHC class I protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "cattle MHC class II protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "mouse MHC class II protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "rat MHC class II protein complex with RT1-A haplotype"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "HLA protein complex with DQ3 serotype"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "HLA protein complex with A2 serotype"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "HLA protein complex with A24 serotype"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "HLA protein complex with A28 serotype"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "HLA protein complex with A29 serotype"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "HLA-C protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-Dq protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-Kb protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-Kd protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-Kq protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-Ks protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "mouse MHC class I protein complex with H2-b haplotype"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-IA protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-IAd protein complex"
+  },
+  {
+    "parent": "MHC protein complex",
+    "child": "H2-IAg7 protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "HLA protein complex with A2 serotype"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "HLA protein complex with A24 serotype"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "HLA protein complex with A28 serotype"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "HLA protein complex with A29 serotype"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "HLA-C protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "H2-Dq protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "H2-Kb protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "H2-Kd protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "H2-Kq protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "H2-Ks protein complex"
+  },
+  {
+    "parent": "MHC class I protein complex",
+    "child": "mouse MHC class I protein complex with H2-b haplotype"
+  },
+  {
+    "parent": "MHC class II protein complex",
+    "child": "H2-IA protein complex"
+  },
+  {
+    "parent": "MHC class II protein complex",
+    "child": "H2-IAd protein complex"
+  },
+  {
+    "parent": "MHC class II protein complex",
+    "child": "H2-IAg7 protein complex"
+  },
+  {
+    "parent": "biological feature identification objective",
+    "child": "cellular feature identification objective"
+  },
+  {
+    "parent": "biological feature identification objective",
+    "child": "molecular feature identification objective"
+  },
+  {
+    "parent": "biological feature identification objective",
+    "child": "organism feature identification objective"
+  },
+  {
+    "parent": "cellular feature identification objective",
+    "child": "cellular structure feature identification objective"
+  },
+  {
+    "parent": "molecular feature identification objective",
+    "child": "DNA replication identification objective"
+  },
+  {
+    "parent": "molecular feature identification objective",
+    "child": "molecular function identification objective"
+  },
+  {
+    "parent": "organism feature identification objective",
+    "child": "organism species detection objective"
+  },
+  {
+    "parent": "organism species detection objective",
+    "child": "detection of pathogenic organisms objective"
+  },
+  {
+    "parent": "assay kit",
+    "child": "Advantage Chikungunya IgM Card kit"
+  },
+  {
+    "parent": "assay kit",
+    "child": "Panbio Dengue Early ELISA kit"
+  },
+  {
+    "parent": "assay kit",
+    "child": "Panbio Dengue IgM capture ELISA kit"
+  },
+  {
+    "parent": "assay kit",
+    "child": "SD Bioline Chikungunya IgM RDT kit"
+  },
+  {
+    "parent": "assay kit",
+    "child": "SD Bioline Chikungunya IgM capture ELISA kit"
+  },
+  {
+    "parent": "assay kit",
+    "child": "Scrub Typhus Detect IgM ELISA kit"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "ankle joint functionality"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "brachioradialis functionality"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "knee joint functionality"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "limb coordination efficacy"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "lower limb coordination efficacy"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "peripheral nervous system function"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "tendon of biceps brachii functionality"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "upper limb coordination efficacy"
+  },
+  {
+    "parent": "biological attribute",
+    "child": "whole organism stability"
+  },
+  {
+    "parent": "whole organism stability",
+    "child": "limb coordination efficacy"
+  },
+  {
+    "parent": "limb coordination efficacy",
+    "child": "lower limb coordination efficacy"
+  },
+  {
+    "parent": "limb coordination efficacy",
+    "child": "upper limb coordination efficacy"
+  },
+  {
+    "parent": "lower limb coordination efficacy",
+    "child": "ankle joint functionality"
+  },
+  {
+    "parent": "lower limb coordination efficacy",
+    "child": "knee joint functionality"
+  },
+  {
+    "parent": "upper limb coordination efficacy",
+    "child": "brachioradialis functionality"
+  },
+  {
+    "parent": "upper limb coordination efficacy",
+    "child": "tendon of biceps brachii functionality"
+  },
+  {
+    "parent": "peripheral nervous system function",
+    "child": "limb coordination efficacy"
+  },
+  {
+    "parent": "peripheral nervous system function",
+    "child": "ankle joint functionality"
+  },
+  {
+    "parent": "peripheral nervous system function",
+    "child": "brachioradialis functionality"
+  },
+  {
+    "parent": "peripheral nervous system function",
+    "child": "knee joint functionality"
+  },
+  {
+    "parent": "peripheral nervous system function",
+    "child": "tendon of biceps brachii functionality"
+  },
+  {
+    "parent": "morphology",
+    "child": "size"
+  },
+  {
+    "parent": "morphology",
+    "child": "structure"
+  },
+  {
+    "parent": "structure",
+    "child": "composition"
+  },
+  {
+    "parent": "damage",
+    "child": "damaged"
+  },
+  {
+    "parent": "resting arthropod trap",
+    "child": "artificial pit shelter"
+  },
+  {
+    "parent": "resting arthropod trap",
+    "child": "resting bucket"
+  },
+  {
+    "parent": "resting arthropod trap",
+    "child": "resting clay pot trap"
+  },
+  {
+    "parent": "resting bucket",
+    "child": "sticky resting bucket"
+  },
+  {
+    "parent": "gas chromatography equipment",
+    "child": "gas chromatography oven"
+  },
+  {
+    "parent": "gas generator",
+    "child": "hydrogen generator"
+  },
+  {
+    "parent": "gas generator",
+    "child": "nitrogen generator"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "CMCT structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "DEPC structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "DMS structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "ENU structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "Fe-BABE RNA structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "Lead structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "MPE-Fe(II) structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "OH-radical structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "Rhodium DNA structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "Ruthenium structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "Terbium RNA structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "inline probing RNA structure mapping assay"
+  },
+  {
+    "parent": "single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing",
+    "child": "kethoxal structure mapping assay"
+  },
+  {
+    "parent": "process",
+    "child": "biological_process"
+  },
+  {
+    "parent": "process",
+    "child": "pathologic process"
+  },
+  {
+    "parent": "process",
+    "child": "environmental proximity to infectious agent"
+  },
+  {
+    "parent": "process",
+    "child": "planning"
+  },
+  {
+    "parent": "process",
+    "child": "scratching"
+  },
+  {
+    "parent": "process",
+    "child": "unplanned occurrence effecting an investigation"
+  },
+  {
+    "parent": "molecular_function",
+    "child": "binding"
+  },
+  {
+    "parent": "molecular_function",
+    "child": "catalytic activity"
+  },
+  {
+    "parent": "molecular_function",
+    "child": "monoatomic ion channel activity"
+  },
+  {
+    "parent": "biological_process",
+    "child": "cellular process"
+  },
+  {
+    "parent": "biological_process",
+    "child": "response to stimulus"
+  },
+  {
+    "parent": "biological_process",
+    "child": "blood coagulation"
+  },
+  {
+    "parent": "biological_process",
+    "child": "fertilization"
+  },
+  {
+    "parent": "biological_process",
+    "child": "hemopoiesis"
+  },
+  {
+    "parent": "biological_process",
+    "child": "granzyme A production"
+  },
+  {
+    "parent": "biological_process",
+    "child": "perforin production"
+  },
+  {
+    "parent": "cellular process",
+    "child": "action potential"
+  },
+  {
+    "parent": "cellular process",
+    "child": "actin polymerization-dependent cell motility"
+  },
+  {
+    "parent": "cellular process",
+    "child": "cell cycle"
+  },
+  {
+    "parent": "cellular process",
+    "child": "cell killing"
+  },
+  {
+    "parent": "cellular process",
+    "child": "cell population proliferation"
+  },
+  {
+    "parent": "cellular process",
+    "child": "chromosome organization"
+  },
+  {
+    "parent": "cellular process",
+    "child": "cytotoxic T cell degranulation"
+  },
+  {
+    "parent": "cellular process",
+    "child": "macromolecule localization"
+  },
+  {
+    "parent": "cellular process",
+    "child": "phagocytosis"
+  },
+  {
+    "parent": "cell killing",
+    "child": "antibody-dependent cellular cytotoxicity"
+  },
+  {
+    "parent": "cell killing",
+    "child": "complement-dependent cytotoxicity"
+  },
+  {
+    "parent": "complement-dependent cytotoxicity",
+    "child": "B cell epitope specific complement-dependent cytotoxicity"
+  },
+  {
+    "parent": "cytotoxic T cell degranulation",
+    "child": "granzyme A release during T cell degranulation"
+  },
+  {
+    "parent": "cytotoxic T cell degranulation",
+    "child": "perforin release during T cell degranulation"
+  },
+  {
+    "parent": "response to stimulus",
+    "child": "DNA damage response"
+  },
+  {
+    "parent": "response to stimulus",
+    "child": "immune response"
+  },
+  {
+    "parent": "immune response",
+    "child": "adaptive immune response"
+  },
+  {
+    "parent": "immune response",
+    "child": "hypersensitivity"
+  },
+  {
+    "parent": "immune response",
+    "child": "tolerance induction"
+  },
+  {
+    "parent": "adaptive immune response",
+    "child": "antigen processing and presentation"
+  },
+  {
+    "parent": "adaptive immune response",
+    "child": "B cell tolerance induction"
+  },
+  {
+    "parent": "adaptive immune response",
+    "child": "epitope binding by adaptive immune receptor"
+  },
+  {
+    "parent": "adaptive immune response",
+    "child": "helper T cell enhancement of adaptive immune response"
+  },
+  {
+    "parent": "adaptive immune response",
+    "child": "immunoglobulin mediated immune response"
+  },
+  {
+    "parent": "tolerance induction",
+    "child": "B cell tolerance induction"
+  },
+  {
+    "parent": "hypersensitivity",
+    "child": "allergic reaction"
+  },
+  {
+    "parent": "hypersensitivity",
+    "child": "B cell epitope specific hypersensitivity"
+  },
+  {
+    "parent": "immunoglobulin mediated immune response",
+    "child": "immune complex formation"
+  },
+  {
+    "parent": "immunoglobulin mediated immune response",
+    "child": "immunoglobulin mediated histamine release"
+  },
+  {
+    "parent": "immunoglobulin mediated immune response",
+    "child": "immunoglobulin-mediated neutralization"
+  },
+  {
+    "parent": "immune complex formation",
+    "child": "B cell epitope specific immune complex formation"
+  },
+  {
+    "parent": "immunoglobulin-mediated neutralization",
+    "child": "B cell epitope specific immunoglobulin-mediated neutralization"
+  },
+  {
+    "parent": "helper T cell enhancement of adaptive immune response",
+    "child": "helper T cell enhancement of B cell mediated immune response"
+  },
+  {
+    "parent": "helper T cell enhancement of B cell mediated immune response",
+    "child": "epitope specific T cell enhancement of B cell mediated immune response"
+  },
+  {
+    "parent": "granzyme A production",
+    "child": "epitope specific granzyme A production by T cells"
+  },
+  {
+    "parent": "perforin production",
+    "child": "epitope specific perforin production by T cells"
+  },
+  {
+    "parent": "pathologic process",
+    "child": "disease stage"
+  },
+  {
+    "parent": "pathologic process",
+    "child": "infection process"
+  },
+  {
+    "parent": "environmental proximity to infectious agent",
+    "child": "contact to pathogen carrying biological vector"
+  },
+  {
+    "parent": "environmental proximity to infectious agent",
+    "child": "living in endemic area"
+  },
+  {
+    "parent": "environmental proximity to infectious agent",
+    "child": "living with infected household contact"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "5'-nucleotidase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "acyl-CoA oxidase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "alkaline phosphatase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "amylase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "beta-N-acetylglucosaminidase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "DNA polymerase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "glutathione transferase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "hydrolase activity, acting on ester bonds"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "isocitrate dehydrogenase [NAD(P)+] activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "L-alanine:2-oxoglutarate aminotransferase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "L-aspartate:2-oxoglutarate aminotransferase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "L-iditol 2-dehydrogenase (NAD+) activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "lactate dehydrogenase activity"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "RNA nuclease activity"
+  },
+  {
+    "parent": "hydrolase activity, acting on ester bonds",
+    "child": "carboxylic ester hydrolase activity"
+  },
+  {
+    "parent": "carboxylic ester hydrolase activity",
+    "child": "acetylcholinesterase activity"
+  },
+  {
+    "parent": "carboxylic ester hydrolase activity",
+    "child": "cholinesterase activity"
+  },
+  {
+    "parent": "binding",
+    "child": "antigen binding"
+  },
+  {
+    "parent": "binding",
+    "child": "MHC protein complex binding to ligand"
+  },
+  {
+    "parent": "binding",
+    "child": "protein domain specific binding"
+  },
+  {
+    "parent": "binding",
+    "child": "sequence-specific DNA binding"
+  },
+  {
+    "parent": "antigen binding",
+    "child": "epitope binding by adaptive immune receptor"
+  },
+  {
+    "parent": "epitope binding by adaptive immune receptor",
+    "child": "immunoglobulin binding to epitope"
+  },
+  {
+    "parent": "MHC protein complex binding to ligand",
+    "child": "MHC:epitope complex binding to TCR"
+  },
+  {
+    "parent": "sequence-specific DNA binding",
+    "child": "core promoter sequence-specific DNA binding"
+  },
+  {
+    "parent": "neutrophil",
+    "child": "immature neutrophil"
+  },
+  {
+    "parent": "immature neutrophil",
+    "child": "band form neutrophil"
+  },
+  {
+    "parent": "neutrophil",
+    "child": "band form neutrophil"
+  },
+  {
+    "parent": "clonal cDNA library",
+    "child": "recombinant vector"
+  },
+  {
+    "parent": "phage display library",
+    "child": "recombinant vector"
+  },
+  {
+    "parent": "interleukin-27 production",
+    "child": "epitope specific interleukin-27 production by T cells"
+  },
+  {
+    "parent": "data set",
+    "child": "computed image data set"
+  },
+  {
+    "parent": "data set",
+    "child": "image data set"
+  },
+  {
+    "parent": "data set",
+    "child": "clustered data set"
+  },
+  {
+    "parent": "data set",
+    "child": "normalized data set"
+  },
+  {
+    "parent": "data set",
+    "child": "background corrected data set"
+  },
+  {
+    "parent": "image data set",
+    "child": "magnetic resonance image data set"
+  },
+  {
+    "parent": "image data set",
+    "child": "brain region atlas image data set"
+  },
+  {
+    "parent": "image data set",
+    "child": "image segmentation map"
+  },
+  {
+    "parent": "image data set",
+    "child": "raw image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "T1 weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "T2 weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "T2* weighted GRE magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "diffusion weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "perfusion weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "proton density magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "functional magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "raw magnetic resonance image data set"
+  },
+  {
+    "parent": "magnetic resonance image data set",
+    "child": "reconstructed magnetic resonance image data set"
+  },
+  {
+    "parent": "T1 weighted magnetic resonance image data set",
+    "child": "T1 weighted GRE magnetic resonance image data set"
+  },
+  {
+    "parent": "T1 weighted magnetic resonance image data set",
+    "child": "T1 weighted SE magnetic resonance image data set"
+  },
+  {
+    "parent": "T1 weighted magnetic resonance image data set",
+    "child": "high resolution T1 weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "T1 weighted magnetic resonance image data set",
+    "child": "post-Gd T1 weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "T2 weighted magnetic resonance image data set",
+    "child": "T2 weighted FLAIR magnetic resonance image data set"
+  },
+  {
+    "parent": "T2 weighted magnetic resonance image data set",
+    "child": "T2 weighted FSE  magnetic resonance image data set"
+  },
+  {
+    "parent": "T2 weighted magnetic resonance image data set",
+    "child": "T2 weighted SE magnetic resonance image data set"
+  },
+  {
+    "parent": "T2 weighted magnetic resonance image data set",
+    "child": "T2 weighted STIR magnetic resonance image data set"
+  },
+  {
+    "parent": "high resolution T1 weighted magnetic resonance image data set",
+    "child": "baseline high resolution T1 weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "high resolution T1 weighted magnetic resonance image data set",
+    "child": "follow-up high resolution T1 weighted magnetic resonance image data set"
+  },
+  {
+    "parent": "functional magnetic resonance image data set",
+    "child": "resting state functional magnetic resonance image data set"
+  },
+  {
+    "parent": "functional magnetic resonance image data set",
+    "child": "task-based functional magnetic resonance image data set"
+  },
+  {
+    "parent": "brain region atlas image data set",
+    "child": "deterministic brain region atlas image data set"
+  },
+  {
+    "parent": "brain region atlas image data set",
+    "child": "probabilistic brain region atlas image dataset"
+  },
+  {
+    "parent": "clustered data set",
+    "child": "topologically preserved clustered data set"
+  },
+  {
+    "parent": "lesion mask",
+    "child": "T1 lesion mask"
+  },
+  {
+    "parent": "lesion mask",
+    "child": "T2 FLAIR lesion mask"
+  },
+  {
+    "parent": "image creation device",
+    "child": "image cytometer"
+  },
+  {
+    "parent": "image creation device",
+    "child": "infrared image acquisition device"
+  },
+  {
+    "parent": "image creation device",
+    "child": "small-animal image acquisition device"
+  },
+  {
+    "parent": "Saccharomyces cerevisiae mating type",
+    "child": "a mating type (yeast)"
+  },
+  {
+    "parent": "region",
+    "child": "regulatory_region"
+  },
+  {
+    "parent": "regulatory_region",
+    "child": "TF_binding_site"
+  },
+  {
+    "parent": "region",
+    "child": "TF_binding_site"
+  },
+  {
+    "parent": "primary structure of RNA molecule",
+    "child": "miRNA"
+  },
+  {
+    "parent": "primary structure of DNA macromolecule",
+    "child": "regulatory_region"
+  },
+  {
+    "parent": "primary structure of DNA macromolecule",
+    "child": "TF_binding_site"
+  },
+  {
+    "parent": "exposure to environmental and workplace carcinogens history",
+    "child": "exposure to asbestos history"
+  },
+  {
+    "parent": "exposure to environmental and workplace carcinogens history",
+    "child": "exposure to diesel exhaust history"
+  },
+  {
+    "parent": "exposure to environmental and workplace carcinogens history",
+    "child": "exposure to silica history"
+  },
+  {
+    "parent": "acclimatization",
+    "child": "exposure of material to environment"
+  },
+  {
+    "parent": "exposure of material to environment",
+    "child": "waiting"
+  },
+  {
+    "parent": "acclimatization",
+    "child": "waiting"
+  },
+  {
+    "parent": "bodily fluid",
+    "child": "bile"
+  },
+  {
+    "parent": "bodily fluid",
+    "child": "blood"
+  },
+  {
+    "parent": "bodily fluid",
+    "child": "cerebrospinal fluid"
+  },
+  {
+    "parent": "bodily fluid",
+    "child": "cervical mucus"
+  },
+  {
+    "parent": "bodily fluid",
+    "child": "milk"
+  },
+  {
+    "parent": "bodily fluid",
+    "child": "pericardial fluid"
+  },
+  {
+    "parent": "bodily fluid",
+    "child": "synovial fluid"
+  },
+  {
+    "parent": "blood",
+    "child": "capillary blood"
+  },
+  {
+    "parent": "blood",
+    "child": "placental blood"
+  },
+  {
+    "parent": "blood",
+    "child": "venous blood"
+  },
+  {
+    "parent": "Bacteria",
+    "child": "Orientia tsutsugamushi"
+  },
+  {
+    "parent": "Bacteria",
+    "child": "Treponema pallidum"
+  },
+  {
+    "parent": "Eukaryota",
+    "child": "Arabidopsis thaliana"
+  },
+  {
+    "parent": "Eukaryota",
+    "child": "Dictyostelium discoideum"
+  },
+  {
+    "parent": "Eukaryota",
+    "child": "Plasmodium"
+  },
+  {
+    "parent": "Eukaryota",
+    "child": "Plasmodium gametocyte"
+  },
+  {
+    "parent": "genetically modified organism",
+    "child": "transgenic organism"
+  },
+  {
+    "parent": "infectious agent",
+    "child": "Bacteria"
+  },
+  {
+    "parent": "infectious agent",
+    "child": "Orientia tsutsugamushi"
+  },
+  {
+    "parent": "infectious agent",
+    "child": "Plasmodium"
+  },
+  {
+    "parent": "infectious agent",
+    "child": "Plasmodium gametocyte"
+  },
+  {
+    "parent": "infectious agent",
+    "child": "Treponema pallidum"
+  },
+  {
+    "parent": "organism",
+    "child": "Arabidopsis thaliana"
+  },
+  {
+    "parent": "organism",
+    "child": "Bacteria"
+  },
+  {
+    "parent": "organism",
+    "child": "Dictyostelium discoideum"
+  },
+  {
+    "parent": "organism",
+    "child": "Eukaryota"
+  },
+  {
+    "parent": "organism",
+    "child": "Orientia tsutsugamushi"
+  },
+  {
+    "parent": "organism",
+    "child": "Plasmodium"
+  },
+  {
+    "parent": "organism",
+    "child": "Plasmodium gametocyte"
+  },
+  {
+    "parent": "organism",
+    "child": "Treponema pallidum"
+  },
+  {
+    "parent": "organism",
+    "child": "blood meal source organism"
+  },
+  {
+    "parent": "organism",
+    "child": "chimera"
+  },
+  {
+    "parent": "organism",
+    "child": "genetically modified organism"
+  },
+  {
+    "parent": "organism",
+    "child": "host of immune response"
+  },
+  {
+    "parent": "organism",
+    "child": "transgenic organism"
+  },
+  {
+    "parent": "Plasmodium",
+    "child": "Plasmodium gametocyte"
+  },
+  {
+    "parent": "temporal region",
+    "child": "one-dimensional temporal region"
+  },
+  {
+    "parent": "Opisthokonta",
+    "child": "Ascomycota"
+  },
+  {
+    "parent": "Ascomycota",
+    "child": "saccharomyceta"
+  },
+  {
+    "parent": "saccharomyceta",
+    "child": "Saccharomyces cerevisiae"
+  },
+  {
+    "parent": "Ascomycota",
+    "child": "Schizosaccharomyces pombe"
+  },
+  {
+    "parent": "random mutagenesis",
+    "child": "chemical mutagenesis"
+  },
+  {
+    "parent": "random mutagenesis",
+    "child": "irradiation mutagenesis"
+  },
+  {
+    "parent": "random mutagenesis",
+    "child": "transposon-induced mutagenesis"
+  },
+  {
+    "parent": "fixed tissue specimen",
+    "child": "fixed tissue slide specimen"
+  },
+  {
+    "parent": "fixed tissue slide specimen",
+    "child": "H&E-stained fixed tissue slide specimen"
+  },
+  {
+    "parent": "fixed tissue slide specimen",
+    "child": "IHC-stained fixed tissue slide specimen"
+  },
+  {
+    "parent": "fixed tissue specimen",
+    "child": "H&E-stained fixed tissue slide specimen"
+  },
+  {
+    "parent": "fixed tissue specimen",
+    "child": "IHC-stained fixed tissue slide specimen"
+  },
+  {
+    "parent": "hormonal birth control use history",
+    "child": "hormonal birth control current use history"
+  },
+  {
+    "parent": "hormonal birth control use history",
+    "child": "hormonal birth control former use history"
+  },
+  {
+    "parent": "reason for lack of data item",
+    "child": "cannot be assessed determination"
+  },
+  {
+    "parent": "position",
+    "child": "anterior to"
+  },
+  {
+    "parent": "position",
+    "child": "dorsal to"
+  },
+  {
+    "parent": "position",
+    "child": "lateral to"
+  },
+  {
+    "parent": "position",
+    "child": "right side of"
+  },
+  {
+    "parent": "cellular quality",
+    "child": "ploidy"
+  },
+  {
+    "parent": "ploidy",
+    "child": "euploid"
+  },
+  {
+    "parent": "euploid",
+    "child": "diploid"
+  },
+  {
+    "parent": "protocol",
+    "child": "animal care protocol"
+  },
+  {
+    "parent": "protocol",
+    "child": "magnetic resonance pulse sequence protocol"
+  },
+  {
+    "parent": "protocol",
+    "child": "specimen collection protocol"
+  },
+  {
+    "parent": "disease course",
+    "child": "occurrence of allergy"
+  },
+  {
+    "parent": "disease course",
+    "child": "occurrence of infectious disease"
+  },
+  {
+    "parent": "organismal quality",
+    "child": "behavioral quality"
+  },
+  {
+    "parent": "organismal quality",
+    "child": "viability"
+  },
+  {
+    "parent": "organismal quality",
+    "child": "biological sex"
+  },
+  {
+    "parent": "organismal quality",
+    "child": "fasted"
+  },
+  {
+    "parent": "behavioral quality",
+    "child": "handedness"
+  },
+  {
+    "parent": "viability",
+    "child": "alive"
+  },
+  {
+    "parent": "biological sex",
+    "child": "phenotypic sex"
+  },
+  {
+    "parent": "biological sex",
+    "child": "female"
+  },
+  {
+    "parent": "biological sex",
+    "child": "male"
+  },
+  {
+    "parent": "biological sex",
+    "child": "hermaphrodite"
+  },
+  {
+    "parent": "phenotypic sex",
+    "child": "female"
+  },
+  {
+    "parent": "phenotypic sex",
+    "child": "male"
+  },
+  {
+    "parent": "phenotypic sex",
+    "child": "hermaphrodite"
+  },
+  {
+    "parent": "handedness",
+    "child": "ambidextrous handedness"
+  },
+  {
+    "parent": "handedness",
+    "child": "left handedness"
+  },
+  {
+    "parent": "handedness",
+    "child": "right handedness"
+  },
+  {
+    "parent": "handedness",
+    "child": "obsolete_left handedness"
+  },
+  {
+    "parent": "symbol",
+    "child": "centrally registered identifier symbol"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "GenBank ID"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "PubMed ID"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "SRS identifier"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "digital object identifier"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "grant identifier"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "individual organism identifier"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "investigation identifier"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "participant identifier"
+  },
+  {
+    "parent": "centrally registered identifier symbol",
+    "child": "specimen identifier"
+  },
+  {
+    "parent": "specimen identifier",
+    "child": "specimen identifier assigned by sequencing facility"
+  },
+  {
+    "parent": "specimen identifier",
+    "child": "specimen identifier assigned by specimen repository"
+  },
+  {
+    "parent": "antibody purification of H2-Dd protein complex and/or H2-Kd protein complex",
+    "child": "antibody purification of H2-Dd protein complex"
+  },
+  {
+    "parent": "antibody purification of H2-Dd protein complex and/or H2-Kd protein complex",
+    "child": "antibody purification of H2-Kd protein complex"
+  },
+  {
+    "parent": "algorithm",
+    "child": "alignment counting algorithm"
+  },
+  {
+    "parent": "algorithm",
+    "child": "base calling algorithm"
+  },
+  {
+    "parent": "algorithm",
+    "child": "probabilistic algorithm"
+  },
+  {
+    "parent": "algorithm",
+    "child": "reference genome-transcriptome alignment algorithm"
+  },
+  {
+    "parent": "algorithm",
+    "child": "sequence assembly algorithm"
+  },
+  {
+    "parent": "algorithm",
+    "child": "verse algorithm"
+  },
+  {
+    "parent": "reference genome-transcriptome alignment algorithm",
+    "child": "star algorithm"
+  },
+  {
+    "parent": "clinical data item",
+    "child": "chronic allograft damage index score"
+  },
+  {
+    "parent": "clinical data item",
+    "child": "multidimensional fatigue inventory score"
+  },
+  {
+    "parent": "clinical data item",
+    "child": "physician's global assessment of disease activity"
+  },
+  {
+    "parent": "clinical data item",
+    "child": "sequential organ failure assessment score"
+  },
+  {
+    "parent": "cellular_component",
+    "child": "chromosome"
+  },
+  {
+    "parent": "cellular_component",
+    "child": "membrane-bounded organelle"
+  },
+  {
+    "parent": "cellular_component",
+    "child": "mitochondrion"
+  },
+  {
+    "parent": "membrane-bounded organelle",
+    "child": "mitochondrion"
+  },
+  {
+    "parent": "mating type",
+    "child": "yeast mating type"
+  },
+  {
+    "parent": "Viruses",
+    "child": "Orthoherpesviridae"
+  },
+  {
+    "parent": "Orthoherpesviridae",
+    "child": "Cytomegalovirus"
+  },
+  {
+    "parent": "Orthoherpesviridae",
+    "child": "human gammaherpesvirus 4"
+  },
+  {
+    "parent": "nasopharyngeal or oropharyngeal swab microbiology datum",
+    "child": "bacteria in nasopharyngeal or oropharyngeal swab datum"
+  },
+  {
+    "parent": "nasopharyngeal or oropharyngeal swab microbiology datum",
+    "child": "eukaryota in nasopharyngeal or oropharyngeal swab datum"
+  },
+  {
+    "parent": "nasopharyngeal or oropharyngeal swab microbiology datum",
+    "child": "virus in nasopharyngeal or oropharyngeal swab datum"
+  },
+  {
+    "parent": "antibody purification of mouse MHC class I protein complex",
+    "child": "antibody purification of H2-Db protein complex"
+  },
+  {
+    "parent": "antibody purification of mouse MHC class I protein complex",
+    "child": "antibody purification of H2-Ld protein complex, H2-Db protein complex, and/or H2-Dq protein complex"
+  },
+  {
+    "parent": "antibody purification of mouse MHC class I protein complex",
+    "child": "antibody purification of mouse MHC class I protein complex with H2-b haplotype and/or mouse MHC protein complex with H2-p haplotype"
+  },
+  {
+    "parent": "antibody purification of H2-Ld protein complex, H2-Db protein complex, and/or H2-Dq protein complex",
+    "child": "antibody purification of H2-Db protein complex"
+  },
+  {
+    "parent": "antibody purification of mouse MHC class I protein complex with H2-b haplotype and/or mouse MHC protein complex with H2-p haplotype",
+    "child": "antibody purification of H2-Db protein complex"
+  },
+  {
+    "parent": "Riboviria",
+    "child": "Revtraviricetes"
+  },
+  {
+    "parent": "Riboviria",
+    "child": "Kitrinoviricota"
+  },
+  {
+    "parent": "Revtraviricetes",
+    "child": "Lentivirus"
+  },
+  {
+    "parent": "Lentivirus",
+    "child": "Human immunodeficiency virus 1"
+  },
+  {
+    "parent": "Lentivirus",
+    "child": "Human immunodeficiency virus 2"
+  },
+  {
+    "parent": "Human immunodeficiency virus 1",
+    "child": "HIV-1 group O"
+  },
+  {
+    "parent": "Kitrinoviricota",
+    "child": "Chikungunya virus"
+  },
+  {
+    "parent": "assay measuring epitope specific",
+    "child": "assay measuring epitope specific Ig-mediated histamine release"
+  },
+  {
+    "parent": "assay measuring epitope specific",
+    "child": "assay measuring epitope specific activation of additional immune response in vitro"
+  },
+  {
+    "parent": "assay measuring epitope specific",
+    "child": "assay measuring epitope specific complement-dependent cytotoxicity"
+  },
+  {
+    "parent": "assay measuring epitope specific",
+    "child": "assay measuring epitope specific immune complex formation"
+  },
+  {
+    "parent": "material transformation objective",
+    "child": "genetic transformation objective"
+  },
+  {
+    "parent": "patch clamp assay",
+    "child": "cell-attached patch clamp assay"
+  },
+  {
+    "parent": "patch clamp assay",
+    "child": "inside-out patch clamp assay"
+  },
+  {
+    "parent": "patch clamp assay",
+    "child": "outside-out patch clamp assay"
+  },
+  {
+    "parent": "patch clamp assay",
+    "child": "whole-cell patch clamp assay"
+  },
+  {
+    "parent": "filled capsule",
+    "child": "capsule shell"
+  },
+  {
+    "parent": "pill",
+    "child": "filled capsule"
+  },
+  {
+    "parent": "autosampler",
+    "child": "Bruker autosampler"
+  },
+  {
+    "parent": "autosampler",
+    "child": "Bruker B-ACS system"
+  },
+  {
+    "parent": "autosampler",
+    "child": "Bruker SampleJet system"
+  },
+  {
+    "parent": "Bruker autosampler",
+    "child": "Bruker B-ACS system"
+  },
+  {
+    "parent": "Bruker autosampler",
+    "child": "Bruker SampleJet system"
+  },
+  {
+    "parent": "oral administration",
+    "child": "oral ingestion of pill"
+  },
+  {
+    "parent": "knockdown arthropod specimen collection process",
+    "child": "knockdown arthropod specimen collection by pyrethrum spray"
+  },
+  {
+    "parent": "optical microscope",
+    "child": "stereo microscope"
+  },
+  {
+    "parent": "graph",
+    "child": "dendrogram"
+  },
+  {
+    "parent": "graph",
+    "child": "dot plot"
+  },
+  {
+    "parent": "graph",
+    "child": "heatmap"
+  },
+  {
+    "parent": "graph",
+    "child": "histogram"
+  },
+  {
+    "parent": "graph",
+    "child": "line graph"
+  },
+  {
+    "parent": "graph",
+    "child": "scatter plot"
+  },
+  {
+    "parent": "line graph",
+    "child": "survival curve"
+  },
+  {
+    "parent": "line graph",
+    "child": "dose response curve"
+  },
+  {
+    "parent": "scatter plot",
+    "child": "dose response curve"
+  },
+  {
+    "parent": "specific enzymatic cleavage",
+    "child": "DNA restriction enzyme digestion"
+  },
+  {
+    "parent": "JEOL NMR instrument",
+    "child": "JEOL ECA NMR spectrometer"
+  },
+  {
+    "parent": "human MHC class II protein complex",
+    "child": "HLA-DP protein complex"
+  },
+  {
+    "parent": "human MHC class II protein complex",
+    "child": "HLA-DR protein complex"
+  },
+  {
+    "parent": "growth environment",
+    "child": "atmosphere"
+  },
+  {
+    "parent": "bacterial mating type",
+    "child": "F mating type"
+  },
+  {
+    "parent": "vitreous humor",
+    "child": "vitreous humor specimen"
+  },
+  {
+    "parent": "eye specimen",
+    "child": "vitreous humor"
+  },
+  {
+    "parent": "eye specimen",
+    "child": "vitreous humor specimen"
+  },
+  {
+    "parent": "DNA extract",
+    "child": "high molecular weight DNA extract"
+  },
+  {
+    "parent": "transgenic mutagenesis",
+    "child": "enhancer-trap mutagenesis"
+  },
+  {
+    "parent": "transgenic mutagenesis",
+    "child": "gene-trap mutagenesis"
+  },
+  {
+    "parent": "insecticide resistance time response assay",
+    "child": "insecticide resistance time response by WHO paper kit assay"
+  },
+  {
+    "parent": "insecticide resistance time response assay",
+    "child": "insecticide resistance time response by bottle assay"
+  },
+  {
+    "parent": "mathematical feature",
+    "child": "exponential base"
+  },
+  {
+    "parent": "mathematical feature",
+    "child": "log base"
+  },
+  {
+    "parent": "mathematical feature",
+    "child": "number of variables"
+  },
+  {
+    "parent": "mathematical feature",
+    "child": "polynomial degree"
+  },
+  {
+    "parent": "extraction",
+    "child": "nucleic acid extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "submatrix extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "RNA extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "cytoplasmic RNA extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "nuclear RNA extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "organellar RNA extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "polyA RNA extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "viral RNA extraction"
+  },
+  {
+    "parent": "extraction",
+    "child": "row submatrix extraction"
+  },
+  {
+    "parent": "nucleic acid extraction",
+    "child": "RNA extraction"
+  },
+  {
+    "parent": "nucleic acid extraction",
+    "child": "cytoplasmic RNA extraction"
+  },
+  {
+    "parent": "nucleic acid extraction",
+    "child": "nuclear RNA extraction"
+  },
+  {
+    "parent": "nucleic acid extraction",
+    "child": "organellar RNA extraction"
+  },
+  {
+    "parent": "nucleic acid extraction",
+    "child": "polyA RNA extraction"
+  },
+  {
+    "parent": "nucleic acid extraction",
+    "child": "viral RNA extraction"
+  },
+  {
+    "parent": "RNA extraction",
+    "child": "cytoplasmic RNA extraction"
+  },
+  {
+    "parent": "RNA extraction",
+    "child": "nuclear RNA extraction"
+  },
+  {
+    "parent": "RNA extraction",
+    "child": "organellar RNA extraction"
+  },
+  {
+    "parent": "RNA extraction",
+    "child": "polyA RNA extraction"
+  },
+  {
+    "parent": "RNA extraction",
+    "child": "viral RNA extraction"
+  },
+  {
+    "parent": "submatrix extraction",
+    "child": "row submatrix extraction"
+  },
+  {
+    "parent": "ontology module subsetted by OWL profile",
+    "child": "EL++ ontology module"
+  },
+  {
+    "parent": "transcription profiling by array assay",
+    "child": "transcription profiling by tiling array assay"
+  },
+  {
+    "parent": "liquid handler",
+    "child": "liquid extraction robot"
+  },
+  {
+    "parent": "Schizosaccharomyces pombe mating type",
+    "child": "h minus"
+  },
+  {
+    "parent": "Schizosaccharomyces pombe mating type",
+    "child": "h plus"
+  },
+  {
+    "parent": "statistical model validation",
+    "child": "K-fold cross validation method"
+  },
+  {
+    "parent": "statistical model validation",
+    "child": "boostrapping"
+  },
+  {
+    "parent": "K-fold cross validation method",
+    "child": "leave one out cross validation method"
+  },
+  {
+    "parent": "statistical model validation",
+    "child": "leave one out cross validation method"
+  },
+  {
+    "parent": "Centers for Disease Control and Prevention light trap",
+    "child": "odor baited CDC light trap"
+  },
+  {
+    "parent": "entity",
+    "child": "occurrent"
+  },
+  {
+    "parent": "entity",
+    "child": "spatiotemporal region"
+  },
+  {
+    "parent": "spatiotemporal region",
+    "child": "process boundary"
+  },
+  {
+    "parent": "liquid chromatography instrument",
+    "child": "high performance liquid chromatography instrument"
+  },
+  {
+    "parent": "endonuclease mediated mutagenesis",
+    "child": "TALEN mediated mutagenesis"
+  },
+  {
+    "parent": "endonuclease mediated mutagenesis",
+    "child": "cas mediated mutagenesis"
+  },
+  {
+    "parent": "network graph quality calculation",
+    "child": "global modularity calculation"
+  },
+  {
+    "parent": "flow rate",
+    "child": "fluid flow rate"
+  },
+  {
+    "parent": "quality of interaction of a substance with electromagnetic radiation",
+    "child": "fluorescence"
+  },
+  {
+    "parent": "quality of interaction of a substance with electromagnetic radiation",
+    "child": "optical quality"
+  },
+  {
+    "parent": "organism substance",
+    "child": "amniotic fluid"
+  },
+  {
+    "parent": "organism substance",
+    "child": "respiratory system fluid/secretion"
+  },
+  {
+    "parent": "organism substance",
+    "child": "saliva"
+  },
+  {
+    "parent": "organism substance",
+    "child": "sputum"
+  },
+  {
+    "parent": "organism substance",
+    "child": "urine"
+  },
+  {
+    "parent": "respiratory system fluid/secretion",
+    "child": "sputum"
+  },
+  {
+    "parent": "secondary structure of sequence macromolecule",
+    "child": "secondary structure of RNA molecule"
+  },
+  {
+    "parent": "high resolution probe",
+    "child": "Bruker high resolution probe"
+  },
+  {
+    "parent": "high resolution probe",
+    "child": "flow high resolution probe"
+  },
+  {
+    "parent": "high resolution probe",
+    "child": "high resolution magic angle spin probe"
+  },
+  {
+    "parent": "probe",
+    "child": "tecmag EAGLE probe"
+  },
+  {
+    "parent": "probe",
+    "child": "high resolution probe"
+  },
+  {
+    "parent": "Varian NMR instrument",
+    "child": "Varian GEMINI spectrometer"
+  },
+  {
+    "parent": "Varian NMR instrument",
+    "child": "Varian MERCURY spectrometer"
+  },
+  {
+    "parent": "Varian NMR instrument",
+    "child": "Varian UNITY spectrometer"
+  },
+  {
+    "parent": "Varian NMR instrument",
+    "child": "Varian VXR spectrometer"
+  },
+  {
+    "parent": "Varian UNITY spectrometer",
+    "child": "Varian UNITY INOVA spectrometer"
+  },
+  {
+    "parent": "Flaviviridae",
+    "child": "Dengue virus"
+  },
+  {
+    "parent": "Flaviviridae",
+    "child": "Hepacivirus hominis"
+  },
+  {
+    "parent": "material separation objective",
+    "child": "separation into different composition objective"
+  },
+  {
+    "parent": "concentration of",
+    "child": "osmolality"
+  },
+  {
+    "parent": "molecular quality",
+    "child": "concentration of"
+  },
+  {
+    "parent": "molecular quality",
+    "child": "osmolality"
+  },
+  {
+    "parent": "replicate analysis",
+    "child": "dye swap merge"
+  },
+  {
+    "parent": "imaging assay",
+    "child": "computed tomography imaging assay"
+  },
+  {
+    "parent": "imaging assay",
+    "child": "magnetic resonance imaging assay"
+  },
+  {
+    "parent": "imaging assay",
+    "child": "positron emission tomography imaging assay"
+  },
+  {
+    "parent": "sequence feature identification objective",
+    "child": "protein and DNA interaction identification objective"
+  },
+  {
+    "parent": "sequence feature identification objective",
+    "child": "protein and RNA interaction identification objective"
+  },
+  {
+    "parent": "human specimen set",
+    "child": "specimens collected in one encounter"
+  },
+  {
+    "parent": "rapid amplification of cDNA ends",
+    "child": "3' rapid amplification of cDNA ends"
+  },
+  {
+    "parent": "rapid amplification of cDNA ends",
+    "child": "5' rapid amplification of cDNA ends"
+  },
+  {
+    "parent": "5' rapid amplification of cDNA ends",
+    "child": "5' RNA ligase mediated rapid amplification of cDNA ends"
+  },
+  {
+    "parent": "repeated measure design",
+    "child": "cross over design"
+  },
+  {
+    "parent": "repeated measure design",
+    "child": "n-to-1 design"
+  },
+  {
+    "parent": "sequence_assembly",
+    "child": "supercontig"
+  },
+  {
+    "parent": "light trap",
+    "child": "light trap for indoor use"
+  },
+  {
+    "parent": "light trap",
+    "child": "light trap for outdoor use"
+  },
+  {
+    "parent": "immunization",
+    "child": "Immunization in vivo"
+  },
+  {
+    "parent": "Immunization in vivo",
+    "child": "Individual epitope immunization in vivo"
+  },
+  {
+    "parent": "T cell tolerance induction",
+    "child": "epitope specific T cell tolerance induction"
+  },
+  {
+    "parent": "T cell tolerance induction",
+    "child": "epitope specific tolerance induction by T cells"
+  },
+  {
+    "parent": "Mammalia",
+    "child": "Euarchontoglires"
+  },
+  {
+    "parent": "Euarchontoglires",
+    "child": "Rodentia"
+  },
+  {
+    "parent": "face mask",
+    "child": "medical mask"
+  },
+  {
+    "parent": "face mask",
+    "child": "non-medical mask"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "frequency unit"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "length unit"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "mass unit"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "pressure unit"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "substance unit"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "time unit"
+  },
+  {
+    "parent": "measurement unit label",
+    "child": "volume unit"
+  },
+  {
+    "parent": "Bruker NMR magnet",
+    "child": "Bruker Ultrastabilized NMR magnet"
+  },
+  {
+    "parent": "Bruker Ultrastabilized NMR magnet",
+    "child": "Bruker US 2 NMR magnet"
+  },
+  {
+    "parent": "Bruker NMR magnet",
+    "child": "Bruker US 2 NMR magnet"
+  },
+  {
+    "parent": "Homo sapiens",
+    "child": "specimen collector"
+  },
+  {
+    "parent": "machine learning",
+    "child": "supervised machine learning"
+  },
+  {
+    "parent": "machine learning",
+    "child": "unsupervised machine learning"
+  },
+  {
+    "parent": "epithelial cell",
+    "child": "hepatocyte"
+  },
+  {
+    "parent": "epithelial cell",
+    "child": "mesothelial cell"
+  },
+  {
+    "parent": "sequence trimming",
+    "child": "adapter-sequence trimming"
+  },
+  {
+    "parent": "performance status value specification",
+    "child": "Eastern Cooperative Oncology Group score value specification"
+  },
+  {
+    "parent": "performance status value specification",
+    "child": "Karnofsky score vaue specification"
+  },
+  {
+    "parent": "import ontology module",
+    "child": "external import ontology module"
+  },
+  {
+    "parent": "type IV hypersensitivity",
+    "child": "epitope specific type IV hypersensitivity by T cells"
+  },
+  {
+    "parent": "data format specification",
+    "child": "BCL format"
+  },
+  {
+    "parent": "DNA adenine methyltransferase identification assay",
+    "child": "DamID-seq"
+  },
+  {
+    "parent": "hydrogen/deuterium exchange footprinting assay",
+    "child": "hydrogen/deuterium exchange footprinting assay measuring binding of a B cell epitope:antibody complex"
+  },
+  {
+    "parent": "nasopharynx specimen",
+    "child": "nasopharyngeal aspirate specimen"
+  },
+  {
+    "parent": "nasopharynx specimen",
+    "child": "nasopharyngeal swab specimen"
+  },
+  {
+    "parent": "multiplexed fluorescent antibody imaging assay",
+    "child": "Cell DIVE multiplexed imaging assay"
+  },
+  {
+    "parent": "multiplexed fluorescent antibody imaging assay",
+    "child": "co-detection by indexing assay"
+  },
+  {
+    "parent": "methodology testing objective",
+    "child": "protocol testing objective"
+  },
+  {
+    "parent": "directed mutagenesis",
+    "child": "targeted mutagenesis"
+  },
+  {
+    "parent": "B cell receptor repertoire sequencing assay",
+    "child": "single cell B cell receptor repertoire sequencing assay"
+  },
+  {
+    "parent": "histamine secretion mediated by immunoglobulin",
+    "child": "B cell epitope specific histamine secretion mediated by immunoglobulin"
+  },
+  {
+    "parent": "peptide",
+    "child": "synthetic peptide"
+  },
+  {
+    "parent": "Bruker NMR probe",
+    "child": "Bruker 1mm MicroProbe"
+  },
+  {
+    "parent": "Bruker NMR probe",
+    "child": "Bruker CryoProbe"
+  },
+  {
+    "parent": "Bruker NMR probe",
+    "child": "Bruker solid magic angle spinning probe"
+  },
+  {
+    "parent": "collection of specimens",
+    "child": "specimens collected longitudinally"
+  },
+  {
+    "parent": "granzyme B production",
+    "child": "epitope specific granzyme B production by T cells"
+  },
+  {
+    "parent": "material information bearer",
+    "child": "random access memory"
+  },
+  {
+    "parent": "Murinae",
+    "child": "Mus musculus"
+  },
+  {
+    "parent": "Murinae",
+    "child": "Rattus norvegicus"
+  },
+  {
+    "parent": "figure",
+    "child": "image"
+  },
+  {
+    "parent": "feces",
+    "child": "meconium"
+  },
+  {
+    "parent": "electrophoresis system",
+    "child": "capillary electrophoresis instrument"
+  }
+]

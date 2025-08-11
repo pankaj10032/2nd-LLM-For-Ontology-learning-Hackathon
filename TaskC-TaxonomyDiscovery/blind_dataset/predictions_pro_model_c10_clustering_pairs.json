@@ -1,0 +1,1246 @@
+[
+  {
+    "child": "AbbreviatedForm",
+    "parent": "Word"
+  },
+  {
+    "child": "AccusativePostPositiveArg",
+    "parent": "post positive arg"
+  },
+  {
+    "child": "AccusativePostPositiveArg",
+    "parent": "adjective accusative post positive frame"
+  },
+  {
+    "child": "Affix",
+    "parent": "zero morph"
+  },
+  {
+    "child": "Affix",
+    "parent": "Word"
+  },
+  {
+    "child": "DativePostPositiveArg",
+    "parent": "post positive arg"
+  },
+  {
+    "child": "DativePostPositiveArg",
+    "parent": "adjective dative post positive frame"
+  },
+  {
+    "child": "GenitivePostPositiveArg",
+    "parent": "post positive arg"
+  },
+  {
+    "child": "GenitivePostPositiveArg",
+    "parent": "adjective genitive post positive frame"
+  },
+  {
+    "child": "LexicalEntry",
+    "parent": "MultiWordExpression"
+  },
+  {
+    "child": "LexicalEntry",
+    "parent": "Word"
+  },
+  {
+    "child": "MultiWordExpression",
+    "parent": "fused preposition determiner"
+  },
+  {
+    "child": "MultiWordExpression",
+    "parent": "fused preposition pronoun"
+  },
+  {
+    "child": "MultiWordExpression",
+    "parent": "fused pronoun auxiliary"
+  },
+  {
+    "child": "RaisableArgument",
+    "parent": "raising subject"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "RaisableArgument"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "adjunct"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "clausal arg"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "complement"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "copulative arg"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "object"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "post positive arg"
+  },
+  {
+    "child": "SyntacticArgument",
+    "parent": "subject"
+  },
+  {
+    "child": "SyntacticFrame",
+    "parent": "adjective frame"
+  },
+  {
+    "child": "SyntacticFrame",
+    "parent": "adverbial complement frame"
+  },
+  {
+    "child": "SyntacticFrame",
+    "parent": "noun frame"
+  },
+  {
+    "child": "SyntacticFrame",
+    "parent": "pp frame"
+  },
+  {
+    "child": "SyntacticFrame",
+    "parent": "preposition frame"
+  },
+  {
+    "child": "SyntacticFrame",
+    "parent": "preposition phrase frame"
+  },
+  {
+    "child": "SyntacticFrame",
+    "parent": "verb frame"
+  },
+  {
+    "child": "Word",
+    "parent": "AbbreviatedForm"
+  },
+  {
+    "child": "Word",
+    "parent": "adjective"
+  },
+  {
+    "child": "Word",
+    "parent": "adposition"
+  },
+  {
+    "child": "Word",
+    "parent": "adverb"
+  },
+  {
+    "child": "Word",
+    "parent": "conjunction"
+  },
+  {
+    "child": "Word",
+    "parent": "determiner"
+  },
+  {
+    "child": "Word",
+    "parent": "interjection"
+  },
+  {
+    "child": "Word",
+    "parent": "noun"
+  },
+  {
+    "child": "Word",
+    "parent": "particle"
+  },
+  {
+    "child": "Word",
+    "parent": "pronoun"
+  },
+  {
+    "child": "Word",
+    "parent": "verb"
+  },
+  {
+    "child": "Word",
+    "parent": "adjective phrase"
+  },
+  {
+    "child": "Word",
+    "parent": "noun phrase"
+  },
+  {
+    "child": "Word",
+    "parent": "preposition phrase"
+  },
+  {
+    "child": "Word",
+    "parent": "verb phrase"
+  },
+  {
+    "child": "adjective",
+    "parent": "adjective-i"
+  },
+  {
+    "child": "adjective",
+    "parent": "adjective-na"
+  },
+  {
+    "child": "adjective",
+    "parent": "ordinal adjective"
+  },
+  {
+    "child": "adjective",
+    "parent": "participle adjective"
+  },
+  {
+    "child": "adjective",
+    "parent": "possessive adjective"
+  },
+  {
+    "child": "adjective",
+    "parent": "predicative adjective"
+  },
+  {
+    "child": "adjective",
+    "parent": "qualifier adjective"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective attributive frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective comparative frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective impersonal frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective post positive frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective pp frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective predicate frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective predicative frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective scale frame"
+  },
+  {
+    "child": "adjective frame",
+    "parent": "adjective superlative frame"
+  },
+  {
+    "child": "adjective post positive frame",
+    "parent": "adjective accusative post positive frame"
+  },
+  {
+    "child": "adjective post positive frame",
+    "parent": "adjective dative post positive frame"
+  },
+  {
+    "child": "adjective post positive frame",
+    "parent": "adjective genitive post positive frame"
+  },
+  {
+    "child": "adjunct",
+    "parent": "comparative adjunct"
+  },
+  {
+    "child": "adjunct",
+    "parent": "possessive adjunct"
+  },
+  {
+    "child": "adjunct",
+    "parent": "predicative adjunct"
+  },
+  {
+    "child": "adjunct",
+    "parent": "prepositional adjunct"
+  },
+  {
+    "child": "adjunct",
+    "parent": "superlative adjunct"
+  },
+  {
+    "child": "adposition",
+    "parent": "circumposition"
+  },
+  {
+    "child": "adposition",
+    "parent": "postposition"
+  },
+  {
+    "child": "adposition",
+    "parent": "preposition"
+  },
+  {
+    "child": "adverb",
+    "parent": "adverbial pronoun"
+  },
+  {
+    "child": "adverb",
+    "parent": "general adverb"
+  },
+  {
+    "child": "adverb",
+    "parent": "predicative adverb"
+  },
+  {
+    "child": "adverb",
+    "parent": "prepositional adverb"
+  },
+  {
+    "child": "adverb",
+    "parent": "pronominal adverb"
+  },
+  {
+    "child": "auxiliary",
+    "parent": "fused pronoun auxiliary"
+  },
+  {
+    "child": "auxiliary",
+    "parent": "modal"
+  },
+  {
+    "child": "cardinal numeral",
+    "parent": "indefinite cardinal numeral"
+  },
+  {
+    "child": "cardinal numeral",
+    "parent": "interrogative cardinal numeral"
+  },
+  {
+    "child": "complement",
+    "parent": "adverbial complement"
+  },
+  {
+    "child": "complement",
+    "parent": "object complement"
+  },
+  {
+    "child": "conjunction",
+    "parent": "coordinating conjunction"
+  },
+  {
+    "child": "conjunction",
+    "parent": "subordinating conjunction"
+  },
+  {
+    "child": "control",
+    "parent": "arbitrary control"
+  },
+  {
+    "child": "control",
+    "parent": "object control"
+  },
+  {
+    "child": "control",
+    "parent": "subject control"
+  },
+  {
+    "child": "copulative arg",
+    "parent": "copulative subject"
+  },
+  {
+    "child": "declarative frame",
+    "parent": "intransitive declarative frame"
+  },
+  {
+    "child": "declarative frame",
+    "parent": "intransitive pp declarative frame"
+  },
+  {
+    "child": "declarative frame",
+    "parent": "transitive declarative frame"
+  },
+  {
+    "child": "determiner",
+    "parent": "article"
+  },
+  {
+    "child": "determiner",
+    "parent": "demonstrative determiner"
+  },
+  {
+    "child": "determiner",
+    "parent": "exclamative determiner"
+  },
+  {
+    "child": "determiner",
+    "parent": "fused preposition determiner"
+  },
+  {
+    "child": "determiner",
+    "parent": "indefinite determiner"
+  },
+  {
+    "child": "determiner",
+    "parent": "interrogative determiner"
+  },
+  {
+    "child": "determiner",
+    "parent": "possessive determiner"
+  },
+  {
+    "child": "determiner",
+    "parent": "reflexive determiner"
+  },
+  {
+    "child": "determiner",
+    "parent": "relative determiner"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "ditransitive double accusative frame"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "ditransitive frame_ for"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "ditransitive frame_ to"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "genitive ditransitive frame"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "reflexive ditransitive frame"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "direct object"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "indirect object"
+  },
+  {
+    "child": "ditransitive frame",
+    "parent": "subject"
+  },
+  {
+    "child": "gerund frame",
+    "parent": "gerund ac frame"
+  },
+  {
+    "child": "gerund frame",
+    "parent": "gerund oc frame"
+  },
+  {
+    "child": "gerund frame",
+    "parent": "gerund sc frame"
+  },
+  {
+    "child": "impersonal frame",
+    "parent": "adjective impersonal frame"
+  },
+  {
+    "child": "impersonal frame",
+    "parent": "impersonal intransitive frame"
+  },
+  {
+    "child": "impersonal frame",
+    "parent": "impersonal transitive frame"
+  },
+  {
+    "child": "impersonal intransitive frame",
+    "parent": "impersonal intransitive pp frame"
+  },
+  {
+    "child": "infinitive clause",
+    "parent": "interrogative infinitive clause"
+  },
+  {
+    "child": "infinitive clause",
+    "parent": "possessive infinitive clause"
+  },
+  {
+    "child": "infinitive frame",
+    "parent": "interrogative infinitive frame"
+  },
+  {
+    "child": "infinitive frame",
+    "parent": "intransitive infinitive ac frame"
+  },
+  {
+    "child": "infinitive frame",
+    "parent": "intransitive infinitive rs frame"
+  },
+  {
+    "child": "infinitive frame",
+    "parent": "intransitive infinitive sc frame"
+  },
+  {
+    "child": "infinitive frame",
+    "parent": "transitive infinitive ac frame"
+  },
+  {
+    "child": "infinitive frame",
+    "parent": "transitive infinitive oc frame"
+  },
+  {
+    "child": "infinitive frame",
+    "parent": "transitive infinitive sc frame"
+  },
+  {
+    "child": "interrogative clause",
+    "parent": "interrogative infinitive clause"
+  },
+  {
+    "child": "interrogative clause",
+    "parent": "prepositional interrogative clause"
+  },
+  {
+    "child": "interrogative frame",
+    "parent": "interrogative infinitive frame"
+  },
+  {
+    "child": "interrogative frame",
+    "parent": "intransitive interrogative frame"
+  },
+  {
+    "child": "interrogative frame",
+    "parent": "prepositional interrogative frame"
+  },
+  {
+    "child": "interrogative frame",
+    "parent": "transitive interrogative frame"
+  },
+  {
+    "child": "interrogative pronoun",
+    "parent": "interrogative relative pronoun"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "impersonal intransitive frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive adjectival complement frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive adverbial complement frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive declarative frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive infinitive ac frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive infinitive rs frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive infinitive sc frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive interrogative frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive nominal complement frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive pp frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "intransitive sentential frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "subjectless intransitive frame"
+  },
+  {
+    "child": "intransitive frame",
+    "parent": "subject"
+  },
+  {
+    "child": "intransitive interrogative frame",
+    "parent": "intransitive interrogative infinitive frame"
+  },
+  {
+    "child": "intransitive pp frame",
+    "parent": "intransitive pp declarative frame"
+  },
+  {
+    "child": "morphological stem",
+    "parent": "Word"
+  },
+  {
+    "child": "multiplicative numeral",
+    "parent": "indefinite multiplicative numeral"
+  },
+  {
+    "child": "multiplicative numeral",
+    "parent": "interrogative multiplicative numeral"
+  },
+  {
+    "child": "noun",
+    "parent": "common noun"
+  },
+  {
+    "child": "noun",
+    "parent": "diminutive noun"
+  },
+  {
+    "child": "noun",
+    "parent": "proper noun"
+  },
+  {
+    "child": "noun",
+    "parent": "relation noun"
+  },
+  {
+    "child": "noun frame",
+    "parent": "noun pp frame"
+  },
+  {
+    "child": "noun frame",
+    "parent": "noun predicate frame"
+  },
+  {
+    "child": "noun frame",
+    "parent": "noun possessive frame"
+  },
+  {
+    "child": "numeral",
+    "parent": "cardinal numeral"
+  },
+  {
+    "child": "numeral",
+    "parent": "generic numeral"
+  },
+  {
+    "child": "numeral",
+    "parent": "multiplicative numeral"
+  },
+  {
+    "child": "numeral",
+    "parent": "numeral fraction"
+  },
+  {
+    "child": "numeral",
+    "parent": "ordinal adjective"
+  },
+  {
+    "child": "object",
+    "parent": "adpositional object"
+  },
+  {
+    "child": "object",
+    "parent": "direct object"
+  },
+  {
+    "child": "object",
+    "parent": "genitive object"
+  },
+  {
+    "child": "object",
+    "parent": "indirect object"
+  },
+  {
+    "child": "object",
+    "parent": "prepositional object"
+  },
+  {
+    "child": "object",
+    "parent": "reflexive object"
+  },
+  {
+    "child": "ordinal adjective",
+    "parent": "indefinite ordinal numeral"
+  },
+  {
+    "child": "ordinal adjective",
+    "parent": "interrogative ordinal numeral"
+  },
+  {
+    "child": "part of speech",
+    "parent": "adjective"
+  },
+  {
+    "child": "part of speech",
+    "parent": "adposition"
+  },
+  {
+    "child": "part of speech",
+    "parent": "adverb"
+  },
+  {
+    "child": "part of speech",
+    "parent": "conjunction"
+  },
+  {
+    "child": "part of speech",
+    "parent": "determiner"
+  },
+  {
+    "child": "part of speech",
+    "parent": "interjection"
+  },
+  {
+    "child": "part of speech",
+    "parent": "noun"
+  },
+  {
+    "child": "part of speech",
+    "parent": "numeral"
+  },
+  {
+    "child": "part of speech",
+    "parent": "particle"
+  },
+  {
+    "child": "part of speech",
+    "parent": "pronoun"
+  },
+  {
+    "child": "part of speech",
+    "parent": "verb"
+  },
+  {
+    "child": "participle adjective",
+    "parent": "past participle adjective"
+  },
+  {
+    "child": "participle adjective",
+    "parent": "present participle adjective"
+  },
+  {
+    "child": "particle",
+    "parent": "affirmative particle"
+  },
+  {
+    "child": "particle",
+    "parent": "comparative particle"
+  },
+  {
+    "child": "particle",
+    "parent": "conditional particle"
+  },
+  {
+    "child": "particle",
+    "parent": "coordination particle"
+  },
+  {
+    "child": "particle",
+    "parent": "distinctive particle"
+  },
+  {
+    "child": "particle",
+    "parent": "future particle"
+  },
+  {
+    "child": "particle",
+    "parent": "infinitive particle"
+  },
+  {
+    "child": "particle",
+    "parent": "interrogative particle"
+  },
+  {
+    "child": "particle",
+    "parent": "negative particle"
+  },
+  {
+    "child": "particle",
+    "parent": "possessive particle"
+  },
+  {
+    "child": "particle",
+    "parent": "relative particle"
+  },
+  {
+    "child": "particle",
+    "parent": "superlative particle"
+  },
+  {
+    "child": "particle",
+    "parent": "unclassified particle"
+  },
+  {
+    "child": "personal pronoun",
+    "parent": "affixed personal pronoun"
+  },
+  {
+    "child": "personal pronoun",
+    "parent": "irreflexive personal pronoun"
+  },
+  {
+    "child": "personal pronoun",
+    "parent": "reflexive personal pronoun"
+  },
+  {
+    "child": "personal pronoun",
+    "parent": "strong personal pronoun"
+  },
+  {
+    "child": "personal pronoun",
+    "parent": "weak personal pronoun"
+  },
+  {
+    "child": "possessive pronoun",
+    "parent": "possessive relative pronoun"
+  },
+  {
+    "child": "possessive pronoun",
+    "parent": "reflexive possessive pronoun"
+  },
+  {
+    "child": "post positive arg",
+    "parent": "AccusativePostPositiveArg"
+  },
+  {
+    "child": "post positive arg",
+    "parent": "DativePostPositiveArg"
+  },
+  {
+    "child": "post positive arg",
+    "parent": "GenitivePostPositiveArg"
+  },
+  {
+    "child": "pp frame",
+    "parent": "adjective pp frame"
+  },
+  {
+    "child": "pp frame",
+    "parent": "impersonal intransitive pp frame"
+  },
+  {
+    "child": "pp frame",
+    "parent": "intransitive pp frame"
+  },
+  {
+    "child": "pp frame",
+    "parent": "reflexive transitive pp frame"
+  },
+  {
+    "child": "pp frame",
+    "parent": "subjectless intransitive pp frame"
+  },
+  {
+    "child": "pp frame",
+    "parent": "subjectless transitive pp frame"
+  },
+  {
+    "child": "pp frame",
+    "parent": "transitive pp frame"
+  },
+  {
+    "child": "preposition",
+    "parent": "compound preposition"
+  },
+  {
+    "child": "preposition",
+    "parent": "fused preposition"
+  },
+  {
+    "child": "pronoun",
+    "parent": "adverbial pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "allusive pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "collective pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "conditional pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "demonstrative pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "emphatic pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "existential pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "exclamative pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "fused preposition pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "fused pronoun auxiliary"
+  },
+  {
+    "child": "pronoun",
+    "parent": "impersonal pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "indefinite pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "interrogative pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "negative pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "personal pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "possessive pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "presentative pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "pronominal adverb"
+  },
+  {
+    "child": "pronoun",
+    "parent": "reciprocal pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "reflexive pronoun"
+  },
+  {
+    "child": "pronoun",
+    "parent": "relative pronoun"
+  },
+  {
+    "child": "reciprocal frame",
+    "parent": "reflexive reciprocal frame"
+  },
+  {
+    "child": "reflexive frame",
+    "parent": "reciprocal frame"
+  },
+  {
+    "child": "reflexive frame",
+    "parent": "reflexive dative transitive frame"
+  },
+  {
+    "child": "reflexive frame",
+    "parent": "reflexive ditransitive frame"
+  },
+  {
+    "child": "reflexive frame",
+    "parent": "reflexive reciprocal frame"
+  },
+  {
+    "child": "reflexive frame",
+    "parent": "reflexive transitive frame"
+  },
+  {
+    "child": "reflexive frame",
+    "parent": "reflexive object"
+  },
+  {
+    "child": "reflexive frame",
+    "parent": "subject"
+  },
+  {
+    "child": "reflexive pronoun",
+    "parent": "reflexive personal pronoun"
+  },
+  {
+    "child": "reflexive pronoun",
+    "parent": "reflexive possessive pronoun"
+  },
+  {
+    "child": "reflexive transitive frame",
+    "parent": "reflexive dative transitive frame"
+  },
+  {
+    "child": "reflexive transitive frame",
+    "parent": "reflexive transitive pp frame"
+  },
+  {
+    "child": "relative pronoun",
+    "parent": "interrogative relative pronoun"
+  },
+  {
+    "child": "relative pronoun",
+    "parent": "possessive relative pronoun"
+  },
+  {
+    "child": "subject",
+    "parent": "copulative subject"
+  },
+  {
+    "child": "subject",
+    "parent": "raising subject"
+  },
+  {
+    "child": "subjectless frame",
+    "parent": "subjectless intransitive frame"
+  },
+  {
+    "child": "subjectless frame",
+    "parent": "subjectless transitive frame"
+  },
+  {
+    "child": "subjectless intransitive frame",
+    "parent": "subjectless intransitive pp frame"
+  },
+  {
+    "child": "subjectless transitive frame",
+    "parent": "subjectless transitive pp frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "ditransitive frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "genitive transitive frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "impersonal transitive frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "reflexive transitive frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "subjectless transitive frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive adjectival complement frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive adverbial complement frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive declarative frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive infinitive ac frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive infinitive oc frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive infinitive sc frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive interrogative frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive nominal complement frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive pp frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "transitive sentential frame"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "direct object"
+  },
+  {
+    "child": "transitive frame",
+    "parent": "subject"
+  },
+  {
+    "child": "transitive interrogative frame",
+    "parent": "transitive interrogative infinitive frame"
+  },
+  {
+    "child": "verb",
+    "parent": "auxiliary"
+  },
+  {
+    "child": "verb",
+    "parent": "copula"
+  },
+  {
+    "child": "verb",
+    "parent": "deficient verb"
+  },
+  {
+    "child": "verb",
+    "parent": "light verb"
+  },
+  {
+    "child": "verb",
+    "parent": "main verb"
+  },
+  {
+    "child": "verb",
+    "parent": "plain verb"
+  },
+  {
+    "child": "verb frame",
+    "parent": "declarative frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "gerund frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "impersonal frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "infinitive frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "interrogative frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "intransitive frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "reciprocal frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "reflexive frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "sentential frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "subjectless frame"
+  },
+  {
+    "child": "verb frame",
+    "parent": "transitive frame"
+  },
+  {
+    "child": "zero morph",
+    "parent": "Affix"
+  },
+  {
+    "child": "zero morph",
+    "parent": "infix"
+  },
+  {
+    "child": "zero morph",
+    "parent": "prefix"
+  },
+  {
+    "child": "zero morph",
+    "parent": "simulfix"
+  },
+  {
+    "child": "zero morph",
+    "parent": "suffix"
+  },
+  {
+    "child": "zero morph",
+    "parent": "transfix"
+  },
+  {
+    "child": "bullet",
+    "parent": "punctuation"
+  },
+  {
+    "child": "close parenthesis",
+    "parent": "punctuation"
+  },
+  {
+    "child": "colon",
+    "parent": "punctuation"
+  },
+  {
+    "child": "comma",
+    "parent": "punctuation"
+  },
+  {
+    "child": "exclamative point",
+    "parent": "punctuation"
+  },
+  {
+    "child": "inverted comma",
+    "parent": "punctuation"
+  },
+  {
+    "child": "letter",
+    "parent": "symbol"
+  },
+  {
+    "child": "open parenthesis",
+    "parent": "punctuation"
+  },
+  {
+    "child": "point",
+    "parent": "punctuation"
+  },
+  {
+    "child": "punctuation",
+    "parent": "symbol"
+  },
+  {
+    "child": "question mark",
+    "parent": "punctuation"
+  },
+  {
+    "child": "semi colon",
+    "parent": "punctuation"
+  },
+  {
+    "child": "slash",
+    "parent": "punctuation"
+  },
+  {
+    "child": "suspension points",
+    "parent": "punctuation"
+  }
+]

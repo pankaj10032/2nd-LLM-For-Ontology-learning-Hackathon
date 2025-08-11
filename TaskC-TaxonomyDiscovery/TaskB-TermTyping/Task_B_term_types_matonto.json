@@ -1,0 +1,265 @@
+[
+  {
+    "id": "TT_5a5763f5",
+    "term": "newton",
+    "types": [
+      "force unit"
+    ]
+  },
+  {
+    "id": "TT_c4f339b8",
+    "term": "newton meter",
+    "types": [
+      "energy unit"
+    ]
+  },
+  {
+    "id": "TT_ce5417fc",
+    "term": "newton per meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_25014bd4",
+    "term": "coulomb per square meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_49ab10c7",
+    "term": "mole per cubic meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_ab5a8ad6",
+    "term": "per ampere",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_ce2b537c",
+    "term": "second power 4",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_dae2a7a6",
+    "term": "per kilogram",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_8a920749",
+    "term": "joule per mole",
+    "types": [
+      "molar energy unit"
+    ]
+  },
+  {
+    "id": "TT_f1361175",
+    "term": "coulomb per kilogram",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_981df168",
+    "term": "ampere per square meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_f15ef7cd",
+    "term": "joule",
+    "types": [
+      "energy unit"
+    ]
+  },
+  {
+    "id": "TT_40a02db8",
+    "term": "meter squared",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_a9f30802",
+    "term": "joule per kilogram per kelvin",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_8182f530",
+    "term": "per steradian",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_ab85a470",
+    "term": "second per mole",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_b8e7ebae",
+    "term": "coulomb per cubic meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_9aec366c",
+    "term": "joule per mole per kelvin",
+    "types": [
+      "entropy unit"
+    ]
+  },
+  {
+    "id": "TT_9e7440e4",
+    "term": "watt per meter per kelvin",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_300a8cf0",
+    "term": "reciprocal second",
+    "types": [
+      "angular velocity unit"
+    ]
+  },
+  {
+    "id": "TT_e8ee7e46",
+    "term": "watt",
+    "types": [
+      "power unit"
+    ]
+  },
+  {
+    "id": "TT_4e46b6d7",
+    "term": "gray per second",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_46dad9e9",
+    "term": "m2·m-2",
+    "types": [
+      "solid angle unit",
+      "plane angle unit"
+    ]
+  },
+  {
+    "id": "TT_08f9b767",
+    "term": "farad",
+    "types": [
+      "permittivity unit"
+    ]
+  },
+  {
+    "id": "TT_4cff4fec",
+    "term": "dalton",
+    "types": [
+      "mass unit"
+    ]
+  },
+  {
+    "id": "TT_f8e74193",
+    "term": "radian",
+    "types": [
+      "solid angle unit"
+    ]
+  },
+  {
+    "id": "TT_a0402f84",
+    "term": "becquerel",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_14fbac11",
+    "term": "byte",
+    "types": [
+      "information unit"
+    ]
+  },
+  {
+    "id": "TT_4c87c381",
+    "term": "unit_kelvin_-1",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_d714834e",
+    "term": "unit_electron_volt",
+    "types": [
+      "energy unit"
+    ]
+  },
+  {
+    "id": "TT_b9a7fd17",
+    "term": "lumen",
+    "types": [
+      "luminous flux unit"
+    ]
+  },
+  {
+    "id": "TT_5ba78869",
+    "term": "hertz",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_177b58ec",
+    "term": "micrometer",
+    "types": [
+      "length unit"
+    ]
+  },
+  {
+    "id": "TT_e707b15a",
+    "term": "unit_gigapascal",
+    "types": [
+      "pressure unit",
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_fac88931",
+    "term": "unit_megapascal",
+    "types": [
+      "pressure unit",
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_e2c90a21",
+    "term": "fahrenheit",
+    "types": [
+      "temperature unit"
+    ]
+  },
+  {
+    "id": "TT_71796178",
+    "term": "tesla",
+    "types": [
+      "magnetic flux density unit",
+      "unit"
+    ]
+  }
+]

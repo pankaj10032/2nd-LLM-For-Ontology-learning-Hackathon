@@ -1,0 +1,2638 @@
+[
+  {
+    "parent": "AnatomicalStructure",
+    "child": "Bone"
+  },
+  {
+    "parent": "AnatomicalStructure",
+    "child": "BrainStructure"
+  },
+  {
+    "parent": "AnatomicalStructure",
+    "child": "Joint"
+  },
+  {
+    "parent": "AnatomicalStructure",
+    "child": "LymphaticVessel"
+  },
+  {
+    "parent": "AnatomicalStructure",
+    "child": "SuperficialAnatomy"
+  },
+  {
+    "parent": "AnatomicalStructure",
+    "child": "Vein"
+  },
+  {
+    "parent": "AnatomicalStructure",
+    "child": "Vessel"
+  },
+  {
+    "parent": "Article",
+    "child": "AdvertiserContentArticle"
+  },
+  {
+    "parent": "Article",
+    "child": "BlogPosting"
+  },
+  {
+    "parent": "Article",
+    "child": "LiveBlogPosting"
+  },
+  {
+    "parent": "Article",
+    "child": "MedicalScholarlyArticle"
+  },
+  {
+    "parent": "Article",
+    "child": "ScholarlyArticle"
+  },
+  {
+    "parent": "Article",
+    "child": "TechArticle"
+  },
+  {
+    "parent": "Audience",
+    "child": "BusinessAudience"
+  },
+  {
+    "parent": "Audience",
+    "child": "EducationalAudience"
+  },
+  {
+    "parent": "Audience",
+    "child": "MedicalAudience"
+  },
+  {
+    "parent": "Audience",
+    "child": "ParentAudience"
+  },
+  {
+    "parent": "Audience",
+    "child": "PeopleAudience"
+  },
+  {
+    "parent": "Certification",
+    "child": "EducationalOccupationalCredential"
+  },
+  {
+    "parent": "Certification",
+    "child": "GovernmentPermit"
+  },
+  {
+    "parent": "Certification",
+    "child": "Permit"
+  },
+  {
+    "parent": "Collection",
+    "child": "OfferCatalog"
+  },
+  {
+    "parent": "CoverArt",
+    "child": "ComicCoverArt"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "3DModel"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "AboutPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "AdvertiserContentArticle"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "AmpStory"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Article"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Audiobook"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "BlogPosting"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Book"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "BookSeries"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Chapter"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "CheckoutPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Claim"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Code"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "CollectionPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ComicCoverArt"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ComicIssue"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ComicStory"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ContactPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Conversation"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Course"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "CoverArt"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "CreativeWorkSeason"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "CreativeWorkSeries"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "DataCatalog"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "DataDownload"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "DigitalDocument"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Drawing"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "FAQPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Game"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "HowToDirection"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "HowToItem"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "HowToSection"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "HowToStep"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "HowToTip"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "HowToTool"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ItemPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "LearningResource"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Legislation"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "LegislationObject"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "LiveBlogPosting"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Manuscript"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Map"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MediaObject"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MediaReviewItem"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MedicalScholarlyArticle"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MedicalWebPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MobileApplication"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MovieSeries"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MusicAlbum"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MusicPlaylist"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MusicRelease"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "MusicVideoObject"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Painting"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Photograph"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Play"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "PodcastSeason"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "PodcastSeries"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Poster"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "PresentationDigitalDocument"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ProfilePage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "PublicationIssue"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "QAPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Quiz"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Quotation"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "RadioSeason"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "RadioSeries"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ScholarlyArticle"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Sculpture"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "SearchResultsPage"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "SheetMusic"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "ShortStory"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "SocialMediaPosting"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "SoftwareApplication"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "Statement"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "TechArticle"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "TextDigitalDocument"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "TVSeason"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "TVSeries"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "VideoGame"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "VideoGameSeries"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "VisualArtwork"
+  },
+  {
+    "parent": "CreativeWork",
+    "child": "WebPage"
+  },
+  {
+    "parent": "CreativeWorkSeason",
+    "child": "PodcastSeason"
+  },
+  {
+    "parent": "CreativeWorkSeason",
+    "child": "RadioSeason"
+  },
+  {
+    "parent": "CreativeWorkSeason",
+    "child": "TVSeason"
+  },
+  {
+    "parent": "CreativeWorkSeries",
+    "child": "BookSeries"
+  },
+  {
+    "parent": "CreativeWorkSeries",
+    "child": "MovieSeries"
+  },
+  {
+    "parent": "CreativeWorkSeries",
+    "child": "PodcastSeries"
+  },
+  {
+    "parent": "CreativeWorkSeries",
+    "child": "RadioSeries"
+  },
+  {
+    "parent": "CreativeWorkSeries",
+    "child": "TVSeries"
+  },
+  {
+    "parent": "CreativeWorkSeries",
+    "child": "VideoGameSeries"
+  },
+  {
+    "parent": "DigitalDocument",
+    "child": "PresentationDigitalDocument"
+  },
+  {
+    "parent": "DigitalDocument",
+    "child": "TextDigitalDocument"
+  },
+  {
+    "parent": "Diet",
+    "child": "RestrictedDiet"
+  },
+  {
+    "parent": "DoseSchedule",
+    "child": "MaximumDoseSchedule"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ActionStatusType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "AdultOrientedEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "BoardingPolicyType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "BookFormatType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "BusinessEntityType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "CarUsageType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "CertificationStatusEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ContactPointOption"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "DayOfWeek"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "DeliveryMethod"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "DigitalDocumentPermissionType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "DigitalPlatformEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "EventAttendanceModeEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "EventStatusType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "GameAvailabilityEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "GamePlayMode"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "GameServerStatus"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "GenderType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "HealthAspectEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "IPTCDigitalSourceEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ItemListOrderType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "LegalForceStatus"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "LegalValueLevel"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MeasurementMethodEnum"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MeasurementTypeEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MediaEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MediaManipulationRatingEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MedicalDevicePurpose"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MedicalEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MedicalEvidenceLevel"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MusicAlbumProductionType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MusicAlbumReleaseType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "MusicReleaseFormatType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "OrderStatus"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "PaymentMethodType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "PaymentStatusType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "PriceComponentTypeEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "PriceTypeEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ProductReturnEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "RefundTypeEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ReservationStatusType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ReturnFeesEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ReturnLabelSourceEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "ReturnMethodEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "RsvpResponseType"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "SizeGroupEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "StatusEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "TierBenefitEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "WearableMeasurementTypeEnumeration"
+  },
+  {
+    "parent": "Enumeration",
+    "child": "WearableSizeGroupEnumeration"
+  },
+  {
+    "parent": "Event",
+    "child": "BusinessEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "ComedyEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "DanceEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "DeliveryEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "EducationEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "ExhibitionEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "Festival"
+  },
+  {
+    "parent": "Event",
+    "child": "FoodEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "Hackathon"
+  },
+  {
+    "parent": "Event",
+    "child": "MusicEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "SaleEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "ScreeningEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "SportsEvent"
+  },
+  {
+    "parent": "Event",
+    "child": "TheaterEvent"
+  },
+  {
+    "parent": "Game",
+    "child": "VideoGame"
+  },
+  {
+    "parent": "GeoShape",
+    "child": "GeoCircle"
+  },
+  {
+    "parent": "GeospatialGeometry",
+    "child": "GeoCircle"
+  },
+  {
+    "parent": "GeospatialGeometry",
+    "child": "GeoShape"
+  },
+  {
+    "parent": "Grant",
+    "child": "MonetaryGrant"
+  },
+  {
+    "parent": "HowToSection",
+    "child": "HowToDirection"
+  },
+  {
+    "parent": "HowToSection",
+    "child": "HowToItem"
+  },
+  {
+    "parent": "HowToSection",
+    "child": "HowToStep"
+  },
+  {
+    "parent": "HowToSection",
+    "child": "HowToTip"
+  },
+  {
+    "parent": "HowToSection",
+    "child": "HowToTool"
+  },
+  {
+    "parent": "Intangible",
+    "child": "APIReference"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Audience"
+  },
+  {
+    "parent": "Intangible",
+    "child": "BedDetails"
+  },
+  {
+    "parent": "Intangible",
+    "child": "BroadcastChannel"
+  },
+  {
+    "parent": "Intangible",
+    "child": "BroadcastService"
+  },
+  {
+    "parent": "Intangible",
+    "child": "BusinessAudience"
+  },
+  {
+    "parent": "Intangible",
+    "child": "BusinessFunction"
+  },
+  {
+    "parent": "Intangible",
+    "child": "CableOrSatelliteService"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Certification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Collection"
+  },
+  {
+    "parent": "Intangible",
+    "child": "ContactPoint"
+  },
+  {
+    "parent": "Intangible",
+    "child": "ConstraintNode"
+  },
+  {
+    "parent": "Intangible",
+    "child": "CourseInstance"
+  },
+  {
+    "parent": "Intangible",
+    "child": "DataFeedItem"
+  },
+  {
+    "parent": "Intangible",
+    "child": "DatedMoneySpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "DefinedRegion"
+  },
+  {
+    "parent": "Intangible",
+    "child": "DeliveryChargeSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "DigitalDocumentPermissionType"
+  },
+  {
+    "parent": "Intangible",
+    "child": "DoseSchedule"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EducationalAudience"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EducationalOccupationalCredential"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EducationalOccupationalProgram"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EmployerAggregateRating"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EndorsementRating"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EnergyConsumptionDetails"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EngineSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "EntryPoint"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Enumeration"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Flight"
+  },
+  {
+    "parent": "Intangible",
+    "child": "FoodService"
+  },
+  {
+    "parent": "Intangible",
+    "child": "GeoCircle"
+  },
+  {
+    "parent": "Intangible",
+    "child": "GeoCoordinates"
+  },
+  {
+    "parent": "Intangible",
+    "child": "GeoShape"
+  },
+  {
+    "parent": "Intangible",
+    "child": "GeospatialGeometry"
+  },
+  {
+    "parent": "Intangible",
+    "child": "GovernmentBenefitsType"
+  },
+  {
+    "parent": "Intangible",
+    "child": "GovernmentPermit"
+  },
+  {
+    "parent": "Intangible",
+    "child": "GovernmentService"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Grant"
+  },
+  {
+    "parent": "Intangible",
+    "child": "HealthInsurancePlan"
+  },
+  {
+    "parent": "Intangible",
+    "child": "HealthPlanFormulary"
+  },
+  {
+    "parent": "Intangible",
+    "child": "HyperTocEntry"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Invoice"
+  },
+  {
+    "parent": "Intangible",
+    "child": "ItemList"
+  },
+  {
+    "parent": "Intangible",
+    "child": "JobPosting"
+  },
+  {
+    "parent": "Intangible",
+    "child": "LegalForceStatus"
+  },
+  {
+    "parent": "Intangible",
+    "child": "LegalValueLevel"
+  },
+  {
+    "parent": "Intangible",
+    "child": "ListItem"
+  },
+  {
+    "parent": "Intangible",
+    "child": "LocationFeatureSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MedicalAudience"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MedicalIntangible"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MediaSubscription"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MemberProgram"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Menu"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MenuItem"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MerchantReturnPolicySeasonalOverride"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MonetaryAmount"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MonetaryAmountDistribution"
+  },
+  {
+    "parent": "Intangible",
+    "child": "MonetaryGrant"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Occupation"
+  },
+  {
+    "parent": "Intangible",
+    "child": "OccupationalExperienceRequirements"
+  },
+  {
+    "parent": "Intangible",
+    "child": "OfferCatalog"
+  },
+  {
+    "parent": "Intangible",
+    "child": "OfferShippingDetails"
+  },
+  {
+    "parent": "Intangible",
+    "child": "OpeningHoursSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "OrderItem"
+  },
+  {
+    "parent": "Intangible",
+    "child": "OwnershipInfo"
+  },
+  {
+    "parent": "Intangible",
+    "child": "ParcelDelivery"
+  },
+  {
+    "parent": "Intangible",
+    "child": "ParentAudience"
+  },
+  {
+    "parent": "Intangible",
+    "child": "PaymentChargeSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Permit"
+  },
+  {
+    "parent": "Intangible",
+    "child": "PeopleAudience"
+  },
+  {
+    "parent": "Intangible",
+    "child": "PostalAddress"
+  },
+  {
+    "parent": "Intangible",
+    "child": "PriceSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Property"
+  },
+  {
+    "parent": "Intangible",
+    "child": "PropertyValue"
+  },
+  {
+    "parent": "Intangible",
+    "child": "QuantitativeValue"
+  },
+  {
+    "parent": "Intangible",
+    "child": "QuantitativeValueDistribution"
+  },
+  {
+    "parent": "Intangible",
+    "child": "RadioBroadcastService"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Rating"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Reservation"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Schedule"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Seat"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Series"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Service"
+  },
+  {
+    "parent": "Intangible",
+    "child": "ShippingDeliveryTime"
+  },
+  {
+    "parent": "Intangible",
+    "child": "SpeakableSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Specialty"
+  },
+  {
+    "parent": "Intangible",
+    "child": "StatisticalVariable"
+  },
+  {
+    "parent": "Intangible",
+    "child": "StructuredValue"
+  },
+  {
+    "parent": "Intangible",
+    "child": "TaxiService"
+  },
+  {
+    "parent": "Intangible",
+    "child": "TelevisionChannel"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Ticket"
+  },
+  {
+    "parent": "Intangible",
+    "child": "TouristTrip"
+  },
+  {
+    "parent": "Intangible",
+    "child": "TrainTrip"
+  },
+  {
+    "parent": "Intangible",
+    "child": "Trip"
+  },
+  {
+    "parent": "Intangible",
+    "child": "TypeAndQuantityNode"
+  },
+  {
+    "parent": "Intangible",
+    "child": "UnitPriceSpecification"
+  },
+  {
+    "parent": "Intangible",
+    "child": "VirtualLocation"
+  },
+  {
+    "parent": "Intangible",
+    "child": "WarrantyScope"
+  },
+  {
+    "parent": "Intangible",
+    "child": "WorkBasedProgram"
+  },
+  {
+    "parent": "ItemList",
+    "child": "ListItem"
+  },
+  {
+    "parent": "LegalValueLevel",
+    "child": "LegalForceStatus"
+  },
+  {
+    "parent": "LifestyleModification",
+    "child": "Diet"
+  },
+  {
+    "parent": "LifestyleModification",
+    "child": "ExercisePlan"
+  },
+  {
+    "parent": "LifestyleModification",
+    "child": "PhysicalActivity"
+  },
+  {
+    "parent": "LifestyleModification",
+    "child": "PhysicalActivityCategory"
+  },
+  {
+    "parent": "LifestyleModification",
+    "child": "RestrictedDiet"
+  },
+  {
+    "parent": "MediaObject",
+    "child": "MusicVideoObject"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "AnatomicalStructure"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "ApprovedIndication"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "Bone"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "BrainStructure"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "Diet"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "DiagnosticProcedure"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "DrugClass"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "DrugCost"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "DrugCostCategory"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "DrugLegalStatus"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "DrugPrescriptionStatus"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "ExercisePlan"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "InfectiousAgentClass"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "Joint"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "LifestyleModification"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "LymphaticVessel"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalCause"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalCode"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalConditionStage"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalDevice"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalDevicePurpose"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalGuideline"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalGuidelineContraindication"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalImagingTechnique"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalIndication"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalIntangible"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalObservationalStudyDesign"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalProcedure"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalRiskEstimator"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalRiskFactor"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalRiskScore"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalScholarlyArticle"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalSpecialty"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalStudy"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalTherapy"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalTrial"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicalTrialDesign"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "MedicineSystem"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "Observation"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "OccupationalTherapy"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "PalliativeProcedure"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "PhysicalActivity"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "PhysicalActivityCategory"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "PhysicalExam"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "PsychologicalTreatment"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "RadiationTherapy"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "RestrictedDiet"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "SurgicalProcedure"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "SuperficialAnatomy"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "TherapeuticProcedure"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "Vein"
+  },
+  {
+    "parent": "MedicalEntity",
+    "child": "Vessel"
+  },
+  {
+    "parent": "MedicalEnumeration",
+    "child": "MedicalDevicePurpose"
+  },
+  {
+    "parent": "MedicalGuideline",
+    "child": "MedicalGuidelineContraindication"
+  },
+  {
+    "parent": "MedicalIndication",
+    "child": "ApprovedIndication"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "ApprovedIndication"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "DrugClass"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "DrugCost"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "DrugCostCategory"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "DrugLegalStatus"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "DrugPrescriptionStatus"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "InfectiousAgentClass"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "MedicalCode"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "MedicalDevicePurpose"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "MedicalIndication"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "MedicalRiskEstimator"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "MedicalRiskFactor"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "MedicalRiskScore"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "MedicineSystem"
+  },
+  {
+    "parent": "MedicalIntangible",
+    "child": "Observation"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "DiagnosticProcedure"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "MedicalImagingTechnique"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "MedicalTherapy"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "OccupationalTherapy"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "PalliativeProcedure"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "PhysicalExam"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "PsychologicalTreatment"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "RadiationTherapy"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "SurgicalProcedure"
+  },
+  {
+    "parent": "MedicalProcedure",
+    "child": "TherapeuticProcedure"
+  },
+  {
+    "parent": "MedicalStudy",
+    "child": "MedicalObservationalStudyDesign"
+  },
+  {
+    "parent": "MedicalStudy",
+    "child": "MedicalTrial"
+  },
+  {
+    "parent": "MedicalStudy",
+    "child": "MedicalTrialDesign"
+  },
+  {
+    "parent": "MedicalTherapy",
+    "child": "OccupationalTherapy"
+  },
+  {
+    "parent": "MedicalTherapy",
+    "child": "PhysicalActivity"
+  },
+  {
+    "parent": "MedicalTherapy",
+    "child": "PsychologicalTreatment"
+  },
+  {
+    "parent": "MedicalTherapy",
+    "child": "RadiationTherapy"
+  },
+  {
+    "parent": "MedicalTrial",
+    "child": "MedicalTrialDesign"
+  },
+  {
+    "parent": "Menu",
+    "child": "MenuItem"
+  },
+  {
+    "parent": "MonetaryAmount",
+    "child": "MonetaryAmountDistribution"
+  },
+  {
+    "parent": "MusicPlaylist",
+    "child": "MusicAlbum"
+  },
+  {
+    "parent": "MusicPlaylist",
+    "child": "MusicRelease"
+  },
+  {
+    "parent": "Permit",
+    "child": "GovernmentPermit"
+  },
+  {
+    "parent": "Person",
+    "child": "Patient"
+  },
+  {
+    "parent": "Person",
+    "child": "Researcher"
+  },
+  {
+    "parent": "PriceSpecification",
+    "child": "CompoundPriceSpecification"
+  },
+  {
+    "parent": "PriceSpecification",
+    "child": "DatedMoneySpecification"
+  },
+  {
+    "parent": "PriceSpecification",
+    "child": "DeliveryChargeSpecification"
+  },
+  {
+    "parent": "PriceSpecification",
+    "child": "PaymentChargeSpecification"
+  },
+  {
+    "parent": "PriceSpecification",
+    "child": "UnitPriceSpecification"
+  },
+  {
+    "parent": "QuantitativeValue",
+    "child": "QuantitativeValueDistribution"
+  },
+  {
+    "parent": "Rating",
+    "child": "AggregateRating"
+  },
+  {
+    "parent": "Rating",
+    "child": "EmployerAggregateRating"
+  },
+  {
+    "parent": "Rating",
+    "child": "EndorsementRating"
+  },
+  {
+    "parent": "Reservation",
+    "child": "BoatReservation"
+  },
+  {
+    "parent": "Reservation",
+    "child": "EventReservation"
+  },
+  {
+    "parent": "Reservation",
+    "child": "FlightReservation"
+  },
+  {
+    "parent": "Reservation",
+    "child": "LodgingReservation"
+  },
+  {
+    "parent": "Reservation",
+    "child": "ReservationPackage"
+  },
+  {
+    "parent": "ScholarlyArticle",
+    "child": "MedicalScholarlyArticle"
+  },
+  {
+    "parent": "Series",
+    "child": "BookSeries"
+  },
+  {
+    "parent": "Series",
+    "child": "CreativeWorkSeason"
+  },
+  {
+    "parent": "Series",
+    "child": "CreativeWorkSeries"
+  },
+  {
+    "parent": "Series",
+    "child": "EventSeries"
+  },
+  {
+    "parent": "Series",
+    "child": "MovieSeries"
+  },
+  {
+    "parent": "Series",
+    "child": "PodcastSeason"
+  },
+  {
+    "parent": "Series",
+    "child": "PodcastSeries"
+  },
+  {
+    "parent": "Series",
+    "child": "RadioSeason"
+  },
+  {
+    "parent": "Series",
+    "child": "RadioSeries"
+  },
+  {
+    "parent": "Series",
+    "child": "TVSeason"
+  },
+  {
+    "parent": "Series",
+    "child": "TVSeries"
+  },
+  {
+    "parent": "Series",
+    "child": "Trip"
+  },
+  {
+    "parent": "Series",
+    "child": "VideoGameSeries"
+  },
+  {
+    "parent": "Service",
+    "child": "BroadcastService"
+  },
+  {
+    "parent": "Service",
+    "child": "CableOrSatelliteService"
+  },
+  {
+    "parent": "Service",
+    "child": "FoodService"
+  },
+  {
+    "parent": "Service",
+    "child": "GovernmentService"
+  },
+  {
+    "parent": "Service",
+    "child": "RadioBroadcastService"
+  },
+  {
+    "parent": "Service",
+    "child": "TaxiService"
+  },
+  {
+    "parent": "Service",
+    "child": "TelevisionChannel"
+  },
+  {
+    "parent": "SoftwareApplication",
+    "child": "MobileApplication"
+  },
+  {
+    "parent": "StructuredValue",
+    "child": "MonetaryAmount"
+  },
+  {
+    "parent": "StructuredValue",
+    "child": "MonetaryAmountDistribution"
+  },
+  {
+    "parent": "StructuredValue",
+    "child": "OpeningHoursSpecification"
+  },
+  {
+    "parent": "StructuredValue",
+    "child": "PropertyValue"
+  },
+  {
+    "parent": "StructuredValue",
+    "child": "QuantitativeValue"
+  },
+  {
+    "parent": "StructuredValue",
+    "child": "QuantitativeValueDistribution"
+  },
+  {
+    "parent": "StructuredValue",
+    "child": "TypeAndQuantityNode"
+  },
+  {
+    "parent": "Trip",
+    "child": "BoatTrip"
+  },
+  {
+    "parent": "Trip",
+    "child": "BusTrip"
+  },
+  {
+    "parent": "Trip",
+    "child": "Flight"
+  },
+  {
+    "parent": "Trip",
+    "child": "TouristTrip"
+  },
+  {
+    "parent": "Trip",
+    "child": "TrainTrip"
+  },
+  {
+    "parent": "VisualArtwork",
+    "child": "ComicCoverArt"
+  },
+  {
+    "parent": "VisualArtwork",
+    "child": "CoverArt"
+  },
+  {
+    "parent": "VisualArtwork",
+    "child": "Drawing"
+  },
+  {
+    "parent": "VisualArtwork",
+    "child": "Painting"
+  },
+  {
+    "parent": "VisualArtwork",
+    "child": "Photograph"
+  },
+  {
+    "parent": "VisualArtwork",
+    "child": "Sculpture"
+  },
+  {
+    "parent": "Vessel",
+    "child": "Vein"
+  },
+  {
+    "parent": "WebPage",
+    "child": "AboutPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "AmpStory"
+  },
+  {
+    "parent": "WebPage",
+    "child": "CheckoutPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "CollectionPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "ContactPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "FAQPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "ItemPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "MedicalWebPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "ProfilePage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "QAPage"
+  },
+  {
+    "parent": "WebPage",
+    "child": "SearchResultsPage"
+  },
+  {
+    "parent": "Accommodation",
+    "child": "Apartment"
+  },
+  {
+    "parent": "Accommodation",
+    "child": "CampingPitch"
+  },
+  {
+    "parent": "Accommodation",
+    "child": "House"
+  },
+  {
+    "parent": "Accommodation",
+    "child": "MeetingRoom"
+  },
+  {
+    "parent": "Accommodation",
+    "child": "Room"
+  },
+  {
+    "parent": "Accommodation",
+    "child": "SingleFamilyResidence"
+  },
+  {
+    "parent": "Accommodation",
+    "child": "Suite"
+  },
+  {
+    "parent": "Apartment",
+    "child": "MeetingRoom"
+  },
+  {
+    "parent": "Apartment",
+    "child": "Room"
+  },
+  {
+    "parent": "Apartment",
+    "child": "Suite"
+  },
+  {
+    "parent": "House",
+    "child": "MeetingRoom"
+  },
+  {
+    "parent": "House",
+    "child": "Room"
+  },
+  {
+    "parent": "House",
+    "child": "SingleFamilyResidence"
+  },
+  {
+    "parent": "House",
+    "child": "Suite"
+  },
+  {
+    "parent": "Room",
+    "child": "MeetingRoom"
+  },
+  {
+    "parent": "Room",
+    "child": "Suite"
+  },
+  {
+    "parent": "Action",
+    "child": "AchieveAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ActivateAction"
+  },
+  {
+    "parent": "Action",
+    "child": "AllocateAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ApplyAction"
+  },
+  {
+    "parent": "Action",
+    "child": "AssignAction"
+  },
+  {
+    "parent": "Action",
+    "child": "AuthorizeAction"
+  },
+  {
+    "parent": "Action",
+    "child": "BookmarkAction"
+  },
+  {
+    "parent": "Action",
+    "child": "CheckAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ConsumeAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ControlAction"
+  },
+  {
+    "parent": "Action",
+    "child": "CookAction"
+  },
+  {
+    "parent": "Action",
+    "child": "CreateAction"
+  },
+  {
+    "parent": "Action",
+    "child": "DeactivateAction"
+  },
+  {
+    "parent": "Action",
+    "child": "DepartAction"
+  },
+  {
+    "parent": "Action",
+    "child": "DiscoverAction"
+  },
+  {
+    "parent": "Action",
+    "child": "DrawAction"
+  },
+  {
+    "parent": "Action",
+    "child": "DrinkAction"
+  },
+  {
+    "parent": "Action",
+    "child": "EatAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ExerciseAction"
+  },
+  {
+    "parent": "Action",
+    "child": "FindAction"
+  },
+  {
+    "parent": "Action",
+    "child": "InstallAction"
+  },
+  {
+    "parent": "Action",
+    "child": "MoveAction"
+  },
+  {
+    "parent": "MoveAction",
+    "child": "TravelAction"
+  },
+  {
+    "parent": "Action",
+    "child": "OrderAction"
+  },
+  {
+    "parent": "Action",
+    "child": "OrganizeAction"
+  },
+  {
+    "parent": "Action",
+    "child": "PaintAction"
+  },
+  {
+    "parent": "Action",
+    "child": "PerformAction"
+  },
+  {
+    "parent": "Action",
+    "child": "PlayAction"
+  },
+  {
+    "parent": "Action",
+    "child": "QuoteAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ReadAction"
+  },
+  {
+    "parent": "Action",
+    "child": "RejectAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ReplaceAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ResumeAction"
+  },
+  {
+    "parent": "Action",
+    "child": "SearchAction"
+  },
+  {
+    "parent": "Action",
+    "child": "SuspendAction"
+  },
+  {
+    "parent": "Action",
+    "child": "TakeAction"
+  },
+  {
+    "parent": "TransferAction",
+    "child": "TakeAction"
+  },
+  {
+    "parent": "Action",
+    "child": "TieAction"
+  },
+  {
+    "parent": "Action",
+    "child": "TrackAction"
+  },
+  {
+    "parent": "Action",
+    "child": "TradeAction"
+  },
+  {
+    "parent": "TradeAction",
+    "child": "BuyAction"
+  },
+  {
+    "parent": "TradeAction",
+    "child": "SellAction"
+  },
+  {
+    "parent": "Action",
+    "child": "TransferAction"
+  },
+  {
+    "parent": "TransferAction",
+    "child": "MoneyTransfer"
+  },
+  {
+    "parent": "TransferAction",
+    "child": "BorrowAction"
+  },
+  {
+    "parent": "TransferAction",
+    "child": "GiveAction"
+  },
+  {
+    "parent": "TransferAction",
+    "child": "ReturnAction"
+  },
+  {
+    "parent": "MoneyTransfer",
+    "child": "PayAction"
+  },
+  {
+    "parent": "MoneyTransfer",
+    "child": "TipAction"
+  },
+  {
+    "parent": "Action",
+    "child": "UpdateAction"
+  },
+  {
+    "parent": "Action",
+    "child": "UseAction"
+  },
+  {
+    "parent": "Action",
+    "child": "ViewAction"
+  },
+  {
+    "parent": "Action",
+    "child": "WatchAction"
+  },
+  {
+    "parent": "Action",
+    "child": "WearAction"
+  },
+  {
+    "parent": "Action",
+    "child": "WinAction"
+  },
+  {
+    "parent": "Action",
+    "child": "WriteAction"
+  },
+  {
+    "parent": "BioChemEntity",
+    "child": "Protein"
+  },
+  {
+    "parent": "DataType",
+    "child": "Boolean"
+  },
+  {
+    "parent": "DataType",
+    "child": "Date"
+  },
+  {
+    "parent": "DataType",
+    "child": "DateTime"
+  },
+  {
+    "parent": "DataType",
+    "child": "Text"
+  },
+  {
+    "parent": "DataType",
+    "child": "Time"
+  },
+  {
+    "parent": "DataType",
+    "child": "URL"
+  },
+  {
+    "parent": "Text",
+    "child": "PronounceableText"
+  },
+  {
+    "parent": "Text",
+    "child": "URL"
+  },
+  {
+    "parent": "DateTime",
+    "child": "Date"
+  },
+  {
+    "parent": "DateTime",
+    "child": "Time"
+  },
+  {
+    "parent": "Product",
+    "child": "DietarySupplement"
+  },
+  {
+    "parent": "Product",
+    "child": "Drug"
+  },
+  {
+    "parent": "Product",
+    "child": "Vehicle"
+  },
+  {
+    "parent": "Product",
+    "child": "ProductModel"
+  },
+  {
+    "parent": "Product",
+    "child": "ProductCollection"
+  },
+  {
+    "parent": "Substance",
+    "child": "DietarySupplement"
+  },
+  {
+    "parent": "Substance",
+    "child": "Drug"
+  },
+  {
+    "parent": "Vehicle",
+    "child": "BusOrCoach"
+  },
+  {
+    "parent": "ProductCollection",
+    "child": "ProductGroup"
+  },
+  {
+    "parent": "ProductCollection",
+    "child": "SomeProducts"
+  },
+  {
+    "parent": "ProductCollection",
+    "child": "Product"
+  },
+  {
+    "parent": "ProductGroup",
+    "child": "Product"
+  },
+  {
+    "parent": "AdministrativeArea",
+    "child": "Country"
+  },
+  {
+    "parent": "AdministrativeArea",
+    "child": "State"
+  },
+  {
+    "parent": "AdministrativeArea",
+    "child": "City"
+  },
+  {
+    "parent": "AdministrativeArea",
+    "child": "SchoolDistrict"
+  },
+  {
+    "parent": "Country",
+    "child": "State"
+  },
+  {
+    "parent": "State",
+    "child": "City"
+  },
+  {
+    "parent": "State",
+    "child": "SchoolDistrict"
+  },
+  {
+    "parent": "FinancialProduct",
+    "child": "InvestmentOrDeposit"
+  },
+  {
+    "parent": "FinancialProduct",
+    "child": "LoanOrCredit"
+  },
+  {
+    "parent": "InvestmentOrDeposit",
+    "child": "DepositAccount"
+  },
+  {
+    "parent": "InvestmentOrDeposit",
+    "child": "BrokerageAccount"
+  },
+  {
+    "parent": "LoanOrCredit",
+    "child": "MortgageLoan"
+  },
+  {
+    "parent": "LoanOrCredit",
+    "child": "CreditCard"
+  },
+  {
+    "parent": "DepositAccount",
+    "child": "BankAccount"
+  },
+  {
+    "parent": "PaymentService",
+    "child": "PaymentMethod"
+  },
+  {
+    "parent": "PaymentService",
+    "child": "CurrencyConversionService"
+  },
+  {
+    "parent": "PaymentMethod",
+    "child": "PaymentCard"
+  },
+  {
+    "parent": "PaymentMethod",
+    "child": "BankAccount"
+  },
+  {
+    "parent": "PaymentMethod",
+    "child": "CreditCard"
+  },
+  {
+    "parent": "PaymentCard",
+    "child": "CreditCard"
+  },
+  {
+    "parent": "WebPageElement",
+    "child": "SiteNavigationElement"
+  },
+  {
+    "parent": "WebPageElement",
+    "child": "WPAdBlock"
+  },
+  {
+    "parent": "WebPageElement",
+    "child": "WPFooter"
+  },
+  {
+    "parent": "WebPageElement",
+    "child": "WPSideBar"
+  },
+  {
+    "parent": "Episode",
+    "child": "RadioEpisode"
+  },
+  {
+    "parent": "Episode",
+    "child": "TVEpisode"
+  },
+  {
+    "parent": "HowTo",
+    "child": "Recipe"
+  },
+  {
+    "parent": "FinancialService",
+    "child": "BankOrCreditUnion"
+  },
+  {
+    "parent": "FinancialService",
+    "child": "InsuranceAgency"
+  },
+  {
+    "parent": "BankOrCreditUnion",
+    "child": "AutomatedTeller"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "CommunicateAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "JoinAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "AskAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "InformAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "ReplyAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "ShareAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "InviteAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "RsvpAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "CheckInAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "CheckOutAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "SubscribeAction"
+  },
+  {
+    "parent": "InteractAction",
+    "child": "MarryAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "AskAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "InformAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "ReplyAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "ShareAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "InviteAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "RsvpAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "CheckInAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "CheckOutAction"
+  },
+  {
+    "parent": "CommunicateAction",
+    "child": "SubscribeAction"
+  },
+  {
+    "parent": "InformAction",
+    "child": "CheckInAction"
+  },
+  {
+    "parent": "InformAction",
+    "child": "CheckOutAction"
+  },
+  {
+    "parent": "InformAction",
+    "child": "SubscribeAction"
+  },
+  {
+    "parent": "JoinAction",
+    "child": "MarryAction"
+  },
+  {
+    "parent": "DataFeed",
+    "child": "CompleteDataFeed"
+  },
+  {
+    "parent": "DataFeed",
+    "child": "Dataset"
+  },
+  {
+    "parent": "WebContent",
+    "child": "HealthTopicContent"
+  },
+  {
+    "parent": "Quantity",
+    "child": "Distance"
+  },
+  {
+    "parent": "Quantity",
+    "child": "Energy"
+  },
+  {
+    "parent": "Quantity",
+    "child": "Mass"
+  },
+  {
+    "parent": "Clip",
+    "child": "MovieClip"
+  },
+  {
+    "parent": "Clip",
+    "child": "RadioClip"
+  },
+  {
+    "parent": "Clip",
+    "child": "TVClip"
+  },
+  {
+    "parent": "Clip",
+    "child": "VideoGameClip"
+  },
+  {
+    "parent": "Review",
+    "child": "ClaimReview"
+  },
+  {
+    "parent": "Review",
+    "child": "EmployerReview"
+  },
+  {
+    "parent": "Review",
+    "child": "UserReview"
+  },
+  {
+    "parent": "MedicalSign",
+    "child": "VitalSign"
+  },
+  {
+    "parent": "Message",
+    "child": "EmailMessage"
+  },
+  {
+    "parent": "GovernmentBuilding",
+    "child": "CityHall"
+  },
+  {
+    "parent": "GovernmentBuilding",
+    "child": "Courthouse"
+  },
+  {
+    "parent": "GovernmentBuilding",
+    "child": "DefenceEstablishment"
+  },
+  {
+    "parent": "GovernmentBuilding",
+    "child": "Embassy"
+  },
+  {
+    "parent": "GovernmentBuilding",
+    "child": "LegislativeBuilding"
+  },
+  {
+    "parent": "SportsOrganization",
+    "child": "SportsTeam"
+  },
+  {
+    "parent": "QualitativeValue",
+    "child": "BedType"
+  },
+  {
+    "parent": "QualitativeValue",
+    "child": "DriveWheelConfigurationValue"
+  },
+  {
+    "parent": "Comment",
+    "child": "CorrectionComment"
+  },
+  {
+    "parent": "Offer",
+    "child": "AggregateOffer"
+  },
+  {
+    "parent": "Offer",
+    "child": "OfferForPurchase"
+  },
+  {
+    "parent": "MedicalTest",
+    "child": "ImagingTest"
+  },
+  {
+    "parent": "RadioChannel",
+    "child": "AMRadioChannel"
+  },
+  {
+    "parent": "RadioChannel",
+    "child": "FMRadioChannel"
+  },
+  {
+    "parent": "VideoObject",
+    "child": "VideoObjectSnapshot"
+  },
+  {
+    "parent": "AddAction",
+    "child": "InsertAction"
+  },
+  {
+    "parent": "InsertAction",
+    "child": "PrependAction"
+  },
+  {
+    "parent": "SizeSystemEnumeration",
+    "child": "WearableSizeSystemEnumeration"
+  },
+  {
+    "parent": "Role",
+    "child": "OrganizationRole"
+  },
+  {
+    "parent": "OrganizationRole",
+    "child": "EmployeeRole"
+  },
+  {
+    "parent": "EnergyEfficiencyEnumeration",
+    "child": "EnergyStarEnergyEfficiencyEnumeration"
+  },
+  {
+    "parent": "PlanAction",
+    "child": "ReserveAction"
+  },
+  {
+    "parent": "PlanAction",
+    "child": "ScheduleAction"
+  },
+  {
+    "parent": "ReactAction",
+    "child": "AssessAction"
+  },
+  {
+    "parent": "ReactAction",
+    "child": "ChooseAction"
+  },
+  {
+    "parent": "ReactAction",
+    "child": "EndorseAction"
+  },
+  {
+    "parent": "ReactAction",
+    "child": "IgnoreAction"
+  },
+  {
+    "parent": "ReactAction",
+    "child": "LikeAction"
+  },
+  {
+    "parent": "ReactAction",
+    "child": "ReviewAction"
+  },
+  {
+    "parent": "ImageObject",
+    "child": "ImageObjectSnapshot"
+  },
+  {
+    "parent": "Church",
+    "child": "CatholicChurch"
+  },
+  {
+    "parent": "DefinedTermSet",
+    "child": "CategoryCodeSet"
+  },
+  {
+    "parent": "Periodical",
+    "child": "ComicSeries"
+  },
+  {
+    "parent": "MedicalSignOrSymptom",
+    "child": "MedicalSymptom"
+  }
+]

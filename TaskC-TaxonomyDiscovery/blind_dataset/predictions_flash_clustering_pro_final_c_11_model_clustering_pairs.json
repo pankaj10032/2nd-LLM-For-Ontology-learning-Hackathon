@@ -1,0 +1,2286 @@
+[
+  {
+    "child": "1040 nm Lockwood magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "Alfvén number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Alfvén number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "absolute bolometric magnitude",
+    "parent": "absolute magnitude"
+  },
+  {
+    "child": "absolute bolometric magnitude",
+    "parent": "bolometric magnitude"
+  },
+  {
+    "child": "absolute magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "absorbed dose rate unit",
+    "parent": "unit"
+  },
+  {
+    "child": "absorbed dose unit",
+    "parent": "unit"
+  },
+  {
+    "child": "acceleration unit",
+    "parent": "unit"
+  },
+  {
+    "child": "action unit",
+    "parent": "unit"
+  },
+  {
+    "child": "activity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "albedo",
+    "parent": "ratio"
+  },
+  {
+    "child": "altitude",
+    "parent": "angle"
+  },
+  {
+    "child": "amount of money unit",
+    "parent": "unit"
+  },
+  {
+    "child": "amount of substance concentration unit",
+    "parent": "unit"
+  },
+  {
+    "child": "amount of substance flow unit",
+    "parent": "unit"
+  },
+  {
+    "child": "amount of substance fraction",
+    "parent": "ratio"
+  },
+  {
+    "child": "amount of substance fraction unit",
+    "parent": "unit"
+  },
+  {
+    "child": "amount of substance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "angle unit",
+    "parent": "unit"
+  },
+  {
+    "child": "angular acceleration unit",
+    "parent": "unit"
+  },
+  {
+    "child": "angular displacement",
+    "parent": "angle"
+  },
+  {
+    "child": "angular momentum unit",
+    "parent": "unit"
+  },
+  {
+    "child": "angular size",
+    "parent": "diameter (angle)"
+  },
+  {
+    "child": "angular speed",
+    "parent": "speed"
+  },
+  {
+    "child": "angular speed unit",
+    "parent": "speed unit"
+  },
+  {
+    "child": "annual aberration",
+    "parent": "angle"
+  },
+  {
+    "child": "apparent diameter",
+    "parent": "diameter (angle)"
+  },
+  {
+    "child": "apparent distance modulus",
+    "parent": "distance modulus"
+  },
+  {
+    "child": "apparent magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "area density rate unit",
+    "parent": "unit"
+  },
+  {
+    "child": "area density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "area fraction",
+    "parent": "ratio"
+  },
+  {
+    "child": "area fraction unit",
+    "parent": "unit"
+  },
+  {
+    "child": "area unit",
+    "parent": "unit"
+  },
+  {
+    "child": "atomic mass",
+    "parent": "mass"
+  },
+  {
+    "child": "average speed",
+    "parent": "speed"
+  },
+  {
+    "child": "azimuth",
+    "parent": "angle"
+  },
+  {
+    "child": "B magnitude",
+    "parent": "Johnson magnitude"
+  },
+  {
+    "child": "B magnitude at maximum brightness",
+    "parent": "B magnitude"
+  },
+  {
+    "child": "B magnitude at maximum brightness",
+    "parent": "magnitude at maximum brightness"
+  },
+  {
+    "child": "B magnitude at minimum brightness",
+    "parent": "B magnitude"
+  },
+  {
+    "child": "B magnitude at minimum brightness",
+    "parent": "magnitude at minimum brightness"
+  },
+  {
+    "child": "binary prefix",
+    "parent": "prefix"
+  },
+  {
+    "child": "body label mass",
+    "parent": "label mass"
+  },
+  {
+    "child": "body mass",
+    "parent": "mass"
+  },
+  {
+    "child": "bolometric correction",
+    "parent": "magnitude"
+  },
+  {
+    "child": "bolometric magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "bond albedo",
+    "parent": "albedo"
+  },
+  {
+    "child": "breadth",
+    "parent": "length"
+  },
+  {
+    "child": "brightness temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "bud stadium day 0",
+    "parent": "bud stadium"
+  },
+  {
+    "child": "bud stadium day 4",
+    "parent": "bud stadium"
+  },
+  {
+    "child": "bud stadium day 7",
+    "parent": "bud stadium"
+  },
+  {
+    "child": "cap mass",
+    "parent": "mass"
+  },
+  {
+    "child": "carbon dioxide equivalent mass",
+    "parent": "mass"
+  },
+  {
+    "child": "carbon dioxide equivalent mass per energy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "carbon dioxide equivalent mass unit",
+    "parent": "mass unit"
+  },
+  {
+    "child": "carton mass",
+    "parent": "mass"
+  },
+  {
+    "child": "catalytic activity concentration unit",
+    "parent": "unit"
+  },
+  {
+    "child": "catalytic activity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "cause end of vase life Botrytis",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life abscised buds",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life abscised flowers",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life abscised leaves",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life blue flowers",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life dry buds",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life dry flowers",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life dry leaves",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life malformed buds",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life malformed flowers",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life nonturgid flowers",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life nonturgid leaves",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life rotten flowers",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life rotten leaves",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life wilted flowers",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life wilted leaves",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "cause end of vase life yellow leaves",
+    "parent": "cause end of vase life"
+  },
+  {
+    "child": "Celsius temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "Celsius temperature scale",
+    "parent": "Temperature_scale"
+  },
+  {
+    "child": "Celsius temperature unit",
+    "parent": "temperature unit"
+  },
+  {
+    "child": "circumference",
+    "parent": "length"
+  },
+  {
+    "child": "co-rotation radius",
+    "parent": "radius"
+  },
+  {
+    "child": "cold gas mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "coliform bacteria count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "coliform bacteria count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "colour temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "column number density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "compound unit",
+    "parent": "unit"
+  },
+  {
+    "child": "compressive stress",
+    "parent": "stress"
+  },
+  {
+    "child": "contact angle",
+    "parent": "angle"
+  },
+  {
+    "child": "Corynebacterium bovis count (specific)",
+    "parent": "Corynebacterium count (specific)"
+  },
+  {
+    "child": "Corynebacterium bovis count (volumetric)",
+    "parent": "Corynebacterium count (volumetric)"
+  },
+  {
+    "child": "Corynebacterium count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Corynebacterium count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "cost",
+    "parent": "amount of money"
+  },
+  {
+    "child": "Cowling number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Cowling number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "Cousins magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "cubic prefixed metre",
+    "parent": "prefixed metre"
+  },
+  {
+    "child": "cubic prefixed metre",
+    "parent": "volume unit"
+  },
+  {
+    "child": "current density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "curvature constant unit",
+    "parent": "unit"
+  },
+  {
+    "child": "deceleration parameter unit",
+    "parent": "unit"
+  },
+  {
+    "child": "declination",
+    "parent": "angle"
+  },
+  {
+    "child": "density parameter for baryonic matter",
+    "parent": "density parameter"
+  },
+  {
+    "child": "density parameter for matter",
+    "parent": "density parameter"
+  },
+  {
+    "child": "density parameter for radiation",
+    "parent": "density parameter"
+  },
+  {
+    "child": "density parameter for vacuum",
+    "parent": "density parameter"
+  },
+  {
+    "child": "density parameter unit",
+    "parent": "unit"
+  },
+  {
+    "child": "depth",
+    "parent": "length"
+  },
+  {
+    "child": "detectivity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "diameter",
+    "parent": "length"
+  },
+  {
+    "child": "diameter (angle)",
+    "parent": "angle"
+  },
+  {
+    "child": "directional dose equivalent",
+    "parent": "dose equivalent"
+  },
+  {
+    "child": "disodium ethylene diamine tetra acetate mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "distance",
+    "parent": "length"
+  },
+  {
+    "child": "distance modulus",
+    "parent": "magnitude"
+  },
+  {
+    "child": "diurnal aberration",
+    "parent": "angle"
+  },
+  {
+    "child": "dose equivalent unit",
+    "parent": "unit"
+  },
+  {
+    "child": "drainage speed",
+    "parent": "speed"
+  },
+  {
+    "child": "dry body mass",
+    "parent": "body mass"
+  },
+  {
+    "child": "dry body mass",
+    "parent": "dry mass"
+  },
+  {
+    "child": "dry mass",
+    "parent": "mass"
+  },
+  {
+    "child": "dry matter mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "duration",
+    "parent": "time"
+  },
+  {
+    "child": "dynamic modulus unit",
+    "parent": "unit"
+  },
+  {
+    "child": "dynamic range unit",
+    "parent": "unit"
+  },
+  {
+    "child": "dynamic viscosity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "ecliptic latitude",
+    "parent": "angle"
+  },
+  {
+    "child": "ecliptic longitude",
+    "parent": "angle"
+  },
+  {
+    "child": "egg mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "electric charge density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electric charge unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electric current unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electric dipole moment unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electric field unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electric flux density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electric potential unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electrical conductance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electrical conductivity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electrical resistance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electrical resistivity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "electromotive force",
+    "parent": "electric potential"
+  },
+  {
+    "child": "electron temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "energy density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "energy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Enterobacteriaceae count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Enterobacteriaceae count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "Enterococcus count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Enterococcus count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "entropy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "epoch",
+    "parent": "time"
+  },
+  {
+    "child": "epoch at maximum brightness",
+    "parent": "epoch"
+  },
+  {
+    "child": "Escherichia coli count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Escherichia coli count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "Euler number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Euler number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "exposure to x and γ rays",
+    "parent": "exposure"
+  },
+  {
+    "child": "exposure to x and γ rays unit",
+    "parent": "exposure unit"
+  },
+  {
+    "child": "exposure unit",
+    "parent": "unit"
+  },
+  {
+    "child": "extinction",
+    "parent": "quantity"
+  },
+  {
+    "child": "extinction at waveband",
+    "parent": "extinction"
+  },
+  {
+    "child": "extinction at wavelength",
+    "parent": "extinction"
+  },
+  {
+    "child": "extinction in B",
+    "parent": "extinction at waveband"
+  },
+  {
+    "child": "extinction in U",
+    "parent": "extinction at waveband"
+  },
+  {
+    "child": "extinction in V",
+    "parent": "extinction at waveband"
+  },
+  {
+    "child": "Fahrenheit temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "Fahrenheit temperature scale",
+    "parent": "Temperature_scale"
+  },
+  {
+    "child": "Fahrenheit temperature unit",
+    "parent": "temperature unit"
+  },
+  {
+    "child": "fat mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "first Cowling number",
+    "parent": "Cowling number"
+  },
+  {
+    "child": "first Cowling number unit",
+    "parent": "Cowling number unit"
+  },
+  {
+    "child": "fixed point",
+    "parent": "scale"
+  },
+  {
+    "child": "fixed zero point",
+    "parent": "interval scale"
+  },
+  {
+    "child": "flowpack mass",
+    "parent": "mass"
+  },
+  {
+    "child": "fluidity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "font size",
+    "parent": "length"
+  },
+  {
+    "child": "font size unit",
+    "parent": "length unit"
+  },
+  {
+    "child": "force unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Fourier number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Fourier number for mass transfer",
+    "parent": "Fourier number"
+  },
+  {
+    "child": "Fourier number for mass transfer unit",
+    "parent": "Fourier number unit"
+  },
+  {
+    "child": "Fourier number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "frequency unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Froude number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Froude number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "g magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "galactic cylindrical polar angle coordinate",
+    "parent": "angle"
+  },
+  {
+    "child": "galactic latitude",
+    "parent": "angle"
+  },
+  {
+    "child": "galactic longitude",
+    "parent": "angle"
+  },
+  {
+    "child": "gas constant unit",
+    "parent": "unit"
+  },
+  {
+    "child": "gelatin mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "geometrical albedo",
+    "parent": "albedo"
+  },
+  {
+    "child": "gram per prefixed litre",
+    "parent": "compound unit"
+  },
+  {
+    "child": "gravitational acceleration",
+    "parent": "acceleration"
+  },
+  {
+    "child": "Grashof number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Grashof number for mass transfer",
+    "parent": "Grashof number"
+  },
+  {
+    "child": "Grashof number for mass transfer unit",
+    "parent": "Grashof number unit"
+  },
+  {
+    "child": "Grashof number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "guar gum mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "half-life",
+    "parent": "time"
+  },
+  {
+    "child": "Hartmann number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Hartmann number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "heat",
+    "parent": "energy"
+  },
+  {
+    "child": "heat capacity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "heat transfer coefficient unit",
+    "parent": "unit"
+  },
+  {
+    "child": "height",
+    "parent": "length"
+  },
+  {
+    "child": "hour angle",
+    "parent": "angle"
+  },
+  {
+    "child": "Hubble constant at present epoch",
+    "parent": "Hubble constant"
+  },
+  {
+    "child": "Hubble constant unit",
+    "parent": "unit"
+  },
+  {
+    "child": "I magnitude",
+    "parent": "Johnson magnitude"
+  },
+  {
+    "child": "illuminance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "inductance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "information capacity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "internal energy",
+    "parent": "energy"
+  },
+  {
+    "child": "interval scale",
+    "parent": "scale"
+  },
+  {
+    "child": "intrinsic colour index",
+    "parent": "colour index"
+  },
+  {
+    "child": "ionization temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "Jeans mass",
+    "parent": "mass"
+  },
+  {
+    "child": "Johnson magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "kinematic viscosity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "kinetic energy",
+    "parent": "energy"
+  },
+  {
+    "child": "Klebsiella count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Klebsiella count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "Knudsen number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Knudsen number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "label mass",
+    "parent": "mass"
+  },
+  {
+    "child": "lactose mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "length fraction",
+    "parent": "ratio"
+  },
+  {
+    "child": "length unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Lewis number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Lewis number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "light time",
+    "parent": "time"
+  },
+  {
+    "child": "limiting magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "linear strain",
+    "parent": "strain"
+  },
+  {
+    "child": "Listeria monocytogenes count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Listeria monocytogenes count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "locust bean gum mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "luminance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "luminous efficacy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "luminous energy",
+    "parent": "energy"
+  },
+  {
+    "child": "luminous energy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "luminous flux unit",
+    "parent": "unit"
+  },
+  {
+    "child": "luminous intensity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Mach number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Mach number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "magnetic field unit",
+    "parent": "unit"
+  },
+  {
+    "child": "magnetic flux density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "magnetic flux unit",
+    "parent": "unit"
+  },
+  {
+    "child": "magnetic Reynolds number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "magnetic Reynolds number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "magnetomotive force unit",
+    "parent": "unit"
+  },
+  {
+    "child": "magnitude at maximum brightness",
+    "parent": "magnitude"
+  },
+  {
+    "child": "magnitude at minimum brightness",
+    "parent": "magnitude"
+  },
+  {
+    "child": "magnitude unit",
+    "parent": "unit"
+  },
+  {
+    "child": "mass flow unit",
+    "parent": "unit"
+  },
+  {
+    "child": "mass fraction",
+    "parent": "ratio"
+  },
+  {
+    "child": "mass fraction unit",
+    "parent": "unit"
+  },
+  {
+    "child": "mass per energy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "mass unit",
+    "parent": "unit"
+  },
+  {
+    "child": "metre per prefixed second (time)",
+    "parent": "speed unit"
+  },
+  {
+    "child": "metre per prefixed second (time) squared",
+    "parent": "acceleration unit"
+  },
+  {
+    "child": "molar energy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "molar entropy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "molar heat capacity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "molar mass",
+    "parent": "mass"
+  },
+  {
+    "child": "molar mass unit",
+    "parent": "unit"
+  },
+  {
+    "child": "molar volume unit",
+    "parent": "unit"
+  },
+  {
+    "child": "molality unit",
+    "parent": "unit"
+  },
+  {
+    "child": "mole per prefixed litre",
+    "parent": "amount of substance concentration unit"
+  },
+  {
+    "child": "mole per prefixed metre",
+    "parent": "amount of substance concentration unit"
+  },
+  {
+    "child": "moment of force unit",
+    "parent": "unit"
+  },
+  {
+    "child": "moment of inertia unit",
+    "parent": "unit"
+  },
+  {
+    "child": "momentum unit",
+    "parent": "unit"
+  },
+  {
+    "child": "moderated starch mass fraction",
+    "parent": "starch mass fraction"
+  },
+  {
+    "child": "mustard powder mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "neck ring mass",
+    "parent": "mass"
+  },
+  {
+    "child": "normal albedo",
+    "parent": "albedo"
+  },
+  {
+    "child": "normal strain",
+    "parent": "strain"
+  },
+  {
+    "child": "normal strain",
+    "parent": "strain tensor"
+  },
+  {
+    "child": "normal stress",
+    "parent": "stress"
+  },
+  {
+    "child": "normal stress",
+    "parent": "stress tensor"
+  },
+  {
+    "child": "Nusselt number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Nusselt number for mass transfer",
+    "parent": "Nusselt number"
+  },
+  {
+    "child": "Nusselt number for mass transfer unit",
+    "parent": "Nusselt number unit"
+  },
+  {
+    "child": "Nusselt number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "number Botrytis 0",
+    "parent": "number Botrytis"
+  },
+  {
+    "child": "number Botrytis 1",
+    "parent": "number Botrytis"
+  },
+  {
+    "child": "number Botrytis 2",
+    "parent": "number Botrytis"
+  },
+  {
+    "child": "number Botrytis 3",
+    "parent": "number Botrytis"
+  },
+  {
+    "child": "number Botrytis 4",
+    "parent": "number Botrytis"
+  },
+  {
+    "child": "number bud stadium 1",
+    "parent": "number bud stadium"
+  },
+  {
+    "child": "number bud stadium 2",
+    "parent": "number bud stadium"
+  },
+  {
+    "child": "number bud stadium 3",
+    "parent": "number bud stadium"
+  },
+  {
+    "child": "number bud stadium 4",
+    "parent": "number bud stadium"
+  },
+  {
+    "child": "number bud stadium 5",
+    "parent": "number bud stadium"
+  },
+  {
+    "child": "number color 1",
+    "parent": "number color"
+  },
+  {
+    "child": "number color 2",
+    "parent": "number color"
+  },
+  {
+    "child": "number color 3",
+    "parent": "number color"
+  },
+  {
+    "child": "number color 4",
+    "parent": "number color"
+  },
+  {
+    "child": "number color 5",
+    "parent": "number color"
+  },
+  {
+    "child": "number external browning 1",
+    "parent": "number external browning"
+  },
+  {
+    "child": "number external browning 2",
+    "parent": "number external browning"
+  },
+  {
+    "child": "number external browning 3",
+    "parent": "number external browning"
+  },
+  {
+    "child": "number external browning 4",
+    "parent": "number external browning"
+  },
+  {
+    "child": "number external browning 5",
+    "parent": "number external browning"
+  },
+  {
+    "child": "number manual firmness 0",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 0.5",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 1",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 1.5",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 2",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 2.5",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 3",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 3.5",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 4",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 4.5",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number manual firmness 5",
+    "parent": "number manual firmness"
+  },
+  {
+    "child": "number pulp browning 1",
+    "parent": "number pulp browning"
+  },
+  {
+    "child": "number pulp browning 2",
+    "parent": "number pulp browning"
+  },
+  {
+    "child": "number pulp browning 3",
+    "parent": "number pulp browning"
+  },
+  {
+    "child": "number pulp browning 4",
+    "parent": "number pulp browning"
+  },
+  {
+    "child": "number pulp browning 5",
+    "parent": "number pulp browning"
+  },
+  {
+    "child": "number unit",
+    "parent": "unit"
+  },
+  {
+    "child": "number vascular browning 1",
+    "parent": "number vascular browning"
+  },
+  {
+    "child": "number vascular browning 2",
+    "parent": "number vascular browning"
+  },
+  {
+    "child": "number vascular browning 3",
+    "parent": "number vascular browning"
+  },
+  {
+    "child": "number vascular browning 4",
+    "parent": "number vascular browning"
+  },
+  {
+    "child": "number vascular browning 5",
+    "parent": "number vascular browning"
+  },
+  {
+    "child": "organ dose equivalent",
+    "parent": "dose equivalent"
+  },
+  {
+    "child": "Péclet number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Péclet number for mass transfer",
+    "parent": "Péclet number"
+  },
+  {
+    "child": "Péclet number for mass transfer unit",
+    "parent": "Péclet number unit"
+  },
+  {
+    "child": "Péclet number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "percentage",
+    "parent": "ratio"
+  },
+  {
+    "child": "percentage unit",
+    "parent": "ratio unit"
+  },
+  {
+    "child": "period",
+    "parent": "time"
+  },
+  {
+    "child": "period of variability",
+    "parent": "period"
+  },
+  {
+    "child": "permeability (earth science) unit",
+    "parent": "unit"
+  },
+  {
+    "child": "permeability of free space unit",
+    "parent": "unit"
+  },
+  {
+    "child": "permeance (electromagnetic) unit",
+    "parent": "unit"
+  },
+  {
+    "child": "permeance (materials science) unit",
+    "parent": "unit"
+  },
+  {
+    "child": "permittivity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "personal dose equivalent",
+    "parent": "dose equivalent"
+  },
+  {
+    "child": "photographic magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "photographic magnitude at maximum brightness",
+    "parent": "magnitude at maximum brightness"
+  },
+  {
+    "child": "photographic magnitude at maximum brightness",
+    "parent": "photographic magnitude"
+  },
+  {
+    "child": "photographic magnitude at minimum brightness",
+    "parent": "magnitude at minimum brightness"
+  },
+  {
+    "child": "photographic magnitude at minimum brightness",
+    "parent": "photographic magnitude"
+  },
+  {
+    "child": "pixel count",
+    "parent": "number"
+  },
+  {
+    "child": "pixel count unit",
+    "parent": "number unit"
+  },
+  {
+    "child": "planetary aberration",
+    "parent": "angle"
+  },
+  {
+    "child": "potential difference",
+    "parent": "electric potential"
+  },
+  {
+    "child": "potential energy",
+    "parent": "energy"
+  },
+  {
+    "child": "power density unit",
+    "parent": "unit"
+  },
+  {
+    "child": "power unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Prandtl number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Prandtl number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "prefixed ampere",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed are",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed becquerel",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed bit",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed calorie (mean)",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed candela",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed coulomb",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed degree Celsius",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed electronvolt",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed farad",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed gram",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed gram per litre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed gram per prefixed litre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed gray",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed henry",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed hertz",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed joule",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed katal",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed kelvin",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed litre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed lumen",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed lux",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed metre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed metre per prefixed second (time)",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed metre per second (time)",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed metre per second (time) squared",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed molar",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed mole",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed mole per litre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed mole per metre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed mole per prefixed litre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed mole per prefixed metre",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed newton",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed ohm",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed pascal",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed poise",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed radian",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed second (time)",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed second (time) squared",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed siemens",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed sievert",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed steradian",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed stokes",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed tesla",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed tonne",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed unified atomic mass unit",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed unit",
+    "parent": "unit"
+  },
+  {
+    "child": "prefixed volt",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed watt",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "prefixed weber",
+    "parent": "prefixed unit"
+  },
+  {
+    "child": "pressure unit",
+    "parent": "unit"
+  },
+  {
+    "child": "protein mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "quality mark flower(s)",
+    "parent": "quality mark"
+  },
+  {
+    "child": "quality mark leafs",
+    "parent": "quality mark"
+  },
+  {
+    "child": "quality mark total",
+    "parent": "quality mark"
+  },
+  {
+    "child": "quantity of dimension one",
+    "parent": "quantity"
+  },
+  {
+    "child": "quantity of dimension one unit",
+    "parent": "unit"
+  },
+  {
+    "child": "quantum efficiency unit",
+    "parent": "unit"
+  },
+  {
+    "child": "R magnitude",
+    "parent": "Johnson magnitude"
+  },
+  {
+    "child": "radiance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "radiant energy",
+    "parent": "energy"
+  },
+  {
+    "child": "radiant intensity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "radius",
+    "parent": "length"
+  },
+  {
+    "child": "radius (angle)",
+    "parent": "angle"
+  },
+  {
+    "child": "Rankine temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "Rankine temperature scale",
+    "parent": "Temperature_scale"
+  },
+  {
+    "child": "Rankine temperature unit",
+    "parent": "temperature unit"
+  },
+  {
+    "child": "ratio",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "ratio scale",
+    "parent": "scale"
+  },
+  {
+    "child": "ratio unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "Rayleigh number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Rayleigh number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "red magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "reddening",
+    "parent": "extinction"
+  },
+  {
+    "child": "reddening (B-V)",
+    "parent": "intrinsic colour index"
+  },
+  {
+    "child": "reddening (B-V)",
+    "parent": "reddening"
+  },
+  {
+    "child": "reddening (U-B)",
+    "parent": "intrinsic colour index"
+  },
+  {
+    "child": "reddening (U-B)",
+    "parent": "reddening"
+  },
+  {
+    "child": "reluctance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "relative humidity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "resonance energy",
+    "parent": "energy"
+  },
+  {
+    "child": "responsivity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Reynolds number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Reynolds number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "right ascension",
+    "parent": "angle"
+  },
+  {
+    "child": "Réaumur temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "Réaumur temperature scale",
+    "parent": "Temperature_scale"
+  },
+  {
+    "child": "Réaumur temperature unit",
+    "parent": "temperature unit"
+  },
+  {
+    "child": "SI prefix",
+    "parent": "prefix"
+  },
+  {
+    "child": "Salmonella count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Salmonella count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "salt mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "scale height",
+    "parent": "length"
+  },
+  {
+    "child": "scale length",
+    "parent": "length"
+  },
+  {
+    "child": "Schmidt number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Schmidt number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "secular aberration",
+    "parent": "angle"
+  },
+  {
+    "child": "Serratia marcescens count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Serratia marcescens count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "shear loss modulus",
+    "parent": "loss modulus"
+  },
+  {
+    "child": "shear rate unit",
+    "parent": "unit"
+  },
+  {
+    "child": "shear storage modulus",
+    "parent": "storage modulus"
+  },
+  {
+    "child": "shear strain",
+    "parent": "strain"
+  },
+  {
+    "child": "shear strain",
+    "parent": "strain tensor"
+  },
+  {
+    "child": "shear stress",
+    "parent": "stress"
+  },
+  {
+    "child": "shear stress",
+    "parent": "stress tensor"
+  },
+  {
+    "child": "singular unit",
+    "parent": "unit"
+  },
+  {
+    "child": "solid angle unit",
+    "parent": "unit"
+  },
+  {
+    "child": "soy bean mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "specific amount of money unit",
+    "parent": "unit"
+  },
+  {
+    "child": "specific catalytic activity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "specific energy imparted",
+    "parent": "specific energy"
+  },
+  {
+    "child": "specific energy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "specific entropy unit",
+    "parent": "unit"
+  },
+  {
+    "child": "specific heat capacity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "specific viable count unit",
+    "parent": "unit"
+  },
+  {
+    "child": "specific volume unit",
+    "parent": "unit"
+  },
+  {
+    "child": "speed unit",
+    "parent": "unit"
+  },
+  {
+    "child": "square prefixed metre",
+    "parent": "area unit"
+  },
+  {
+    "child": "square prefixed metre",
+    "parent": "prefixed metre"
+  },
+  {
+    "child": "Staphylococcus aureus count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Staphylococcus aureus count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "Stanton number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Stanton number for mass transfer",
+    "parent": "Stanton number"
+  },
+  {
+    "child": "Stanton number for mass transfer unit",
+    "parent": "Stanton number unit"
+  },
+  {
+    "child": "Stanton number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "starch VA40 mass fraction",
+    "parent": "starch mass fraction"
+  },
+  {
+    "child": "starch VA85 mass fraction",
+    "parent": "starch mass fraction"
+  },
+  {
+    "child": "starch mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "strain",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "strain unit",
+    "parent": "unit"
+  },
+  {
+    "child": "straw mass",
+    "parent": "mass"
+  },
+  {
+    "child": "Streptococcus agalactiae count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Streptococcus agalactiae count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "Streptococcus dysgalactiae count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Streptococcus dysgalactiae count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "Streptococcus uberis count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "Streptococcus uberis count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "stress unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Strömgren magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "Strouhal number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Strouhal number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "sugar mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "supergalactic latitude",
+    "parent": "angle"
+  },
+  {
+    "child": "supergalactic longitude",
+    "parent": "angle"
+  },
+  {
+    "child": "surface tension unit",
+    "parent": "unit"
+  },
+  {
+    "child": "symbol rate unit",
+    "parent": "unit"
+  },
+  {
+    "child": "temperature rate unit",
+    "parent": "unit"
+  },
+  {
+    "child": "temperature unit",
+    "parent": "unit"
+  },
+  {
+    "child": "Temperature_scale",
+    "parent": "scale"
+  },
+  {
+    "child": "thermal conductivity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "thermal diffusivity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "thermal insulance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "thermal resistance unit",
+    "parent": "unit"
+  },
+  {
+    "child": "thermodynamic temperature",
+    "parent": "temperature"
+  },
+  {
+    "child": "thermodynamic temperature scale",
+    "parent": "Temperature_scale"
+  },
+  {
+    "child": "thermodynamic temperature unit",
+    "parent": "temperature unit"
+  },
+  {
+    "child": "thickness",
+    "parent": "length"
+  },
+  {
+    "child": "Thuan and Gunn magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "time constant",
+    "parent": "time"
+  },
+  {
+    "child": "time unit",
+    "parent": "unit"
+  },
+  {
+    "child": "top mass",
+    "parent": "mass"
+  },
+  {
+    "child": "torque",
+    "parent": "moment of force"
+  },
+  {
+    "child": "torque unit",
+    "parent": "moment of force unit"
+  },
+  {
+    "child": "total number buds",
+    "parent": "number buds"
+  },
+  {
+    "child": "total number flowers",
+    "parent": "number flowers"
+  },
+  {
+    "child": "total number leaves",
+    "parent": "number leaves"
+  },
+  {
+    "child": "true distance modulus",
+    "parent": "distance modulus"
+  },
+  {
+    "child": "tween mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "Tycho broadband magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "U magnitude",
+    "parent": "Johnson magnitude"
+  },
+  {
+    "child": "u magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "V magnitude",
+    "parent": "Johnson magnitude"
+  },
+  {
+    "child": "V magnitude at maximum brightness",
+    "parent": "V magnitude"
+  },
+  {
+    "child": "V magnitude at maximum brightness",
+    "parent": "magnitude at maximum brightness"
+  },
+  {
+    "child": "V magnitude at minimum brightness",
+    "parent": "V magnitude"
+  },
+  {
+    "child": "V magnitude at minimum brightness",
+    "parent": "magnitude at minimum brightness"
+  },
+  {
+    "child": "vase plus water mass",
+    "parent": "mass"
+  },
+  {
+    "child": "vase plus water plus flower mass",
+    "parent": "mass"
+  },
+  {
+    "child": "viable count (specific)",
+    "parent": "viable count"
+  },
+  {
+    "child": "viable count (volumetric)",
+    "parent": "viable count"
+  },
+  {
+    "child": "visual albedo",
+    "parent": "albedo"
+  },
+  {
+    "child": "volume fraction",
+    "parent": "ratio"
+  },
+  {
+    "child": "volume fraction unit",
+    "parent": "unit"
+  },
+  {
+    "child": "volume strain",
+    "parent": "strain"
+  },
+  {
+    "child": "volume unit",
+    "parent": "unit"
+  },
+  {
+    "child": "volumetric heat capacity unit",
+    "parent": "unit"
+  },
+  {
+    "child": "volumetric flow rate unit",
+    "parent": "unit"
+  },
+  {
+    "child": "volumetric viable count unit",
+    "parent": "unit"
+  },
+  {
+    "child": "water mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "wave number unit",
+    "parent": "unit"
+  },
+  {
+    "child": "wavelength",
+    "parent": "length"
+  },
+  {
+    "child": "Weber number",
+    "parent": "quantity of dimension one"
+  },
+  {
+    "child": "Weber number unit",
+    "parent": "quantity of dimension one unit"
+  },
+  {
+    "child": "weight",
+    "parent": "force"
+  },
+  {
+    "child": "wetting angle",
+    "parent": "contact angle"
+  },
+  {
+    "child": "whey protein aggregate mass fraction",
+    "parent": "whey protein mass fraction"
+  },
+  {
+    "child": "whey protein beads mass fraction",
+    "parent": "whey protein mass fraction"
+  },
+  {
+    "child": "whey protein mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "white light magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "white light magnitude at maximum brightness",
+    "parent": "magnitude at maximum brightness"
+  },
+  {
+    "child": "white light magnitude at maximum brightness",
+    "parent": "white light magnitude"
+  },
+  {
+    "child": "white light magnitude at minimum brightness",
+    "parent": "magnitude at minimum brightness"
+  },
+  {
+    "child": "white light magnitude at minimum brightness",
+    "parent": "white light magnitude"
+  },
+  {
+    "child": "width",
+    "parent": "length"
+  },
+  {
+    "child": "work",
+    "parent": "energy"
+  },
+  {
+    "child": "xanthan mass fraction",
+    "parent": "mass fraction"
+  },
+  {
+    "child": "y magnitude",
+    "parent": "magnitude"
+  },
+  {
+    "child": "yeast and fungi count (specific)",
+    "parent": "viable count (specific)"
+  },
+  {
+    "child": "yeast and fungi count (volumetric)",
+    "parent": "viable count (volumetric)"
+  },
+  {
+    "child": "zenith distance",
+    "parent": "angle"
+  },
+  {
+    "child": "β_narrow magnitude",
+    "parent": "Strömgren magnitude"
+  },
+  {
+    "child": "β_wide magnitude",
+    "parent": "Strömgren magnitude"
+  }
+]
